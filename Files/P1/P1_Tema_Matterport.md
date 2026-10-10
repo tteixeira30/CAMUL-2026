@@ -1,4 +1,4 @@
-Primeiros Socorros Psicológicos para Cuidadores de Pessoas com Demência em Situações de Crise
+Cuidar em Crise — Primeiros socorros psicológicos para cuidadores de pessoas com demência
 
 Foco para o MOOC: Acalmar e estabelecer contacto respeitoso com a pessoa com demência, reconhecer e responder às necessidades imediatas de ambos, cuidar do próprio equilíbrio emocional e identificar quando procurar ajuda especializada.
 
