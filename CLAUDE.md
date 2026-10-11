@@ -21,8 +21,8 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 |---|---|---|
 | `S1_Analise_Plataformas.md`, `S1_Plataformas_Grupo1.xlsx` | S1 — análise de plataformas | Histórico |
 | `S1_Abordagens.md` | S1 — escolha Udemy + Google Forms | Histórico; as decisões posteriores prevalecem |
-| `S2_MOOC-choice_planning_Grupo1.docx` | S2 — tema, enquadramento (≈ 2 páginas), público, objetivo, plataforma, Gantt | Atualizado a partir do `P1_Tema_Matterport.md` |
-| `S2_Gantt_Grupo1.xlsx` | S2 — Gantt (folhas «Gantt» e «Responsáveis») | Tem de bater certo com o Gantt do S2 |
+| `S2_MOOC-choice_planning_Grupo1.docx` | S2 — tema, enquadramento, público, objetivo, plataforma, Gantt da equipa | Reentregue após o feedback; atualizado a partir do `P1_Tema_Matterport.md` |
+| `S2_Gantt_Grupo1.xlsx` | S2 — Gantt da equipa (folha «Gantt») | Tem de bater certo com o Gantt do S2 |
 | `P1_Tema_Matterport.md` | Rascunho de trabalho do tema reescrito para crise + estudo do Matterport | **Fonte para atualizar o S2** |
 | `S3_MOOC_Template_Grupo1.xlsx` | S3 — MOOC Template (folhas «Enquadramento» e «Lições») | Versão mais detalhada das 5 lições |
 
@@ -68,15 +68,17 @@ Aula 3: o tema da S2 tem de evoluir para um **contexto de crise/emergência/cat�
 
 ### Lições (5 × ≈ 8 min, sequência temporal)
 
-| Lição | Momento | Responsável | Papel transversal |
-|---|---|---|---|
-| L1 Crise, demência e quem cuida | Compreender | Bruno Lopes | Coordenação, Gantt, documentação, coerência global |
-| L2 Preparar antes | Antes | Tiago Teixeira | Matterport (captura, tags, visita guiada, autorização) |
-| L3 Primeiro contacto: acalmar | Durante | Rodrigo Silva | Udemy (conta, página, integração, revisão) |
-| L4 Necessidades e encaminhamento | Durante (casa ou fora) | Ricardo Ferreira | Identidade visual, legendas, acessibilidade |
-| L5 Depois da crise | Depois | Evandro Carvalho | Pesquisa de MOOCs, testes (SUS, público-alvo) |
+| Lição | Momento | Responsável |
+|---|---|---|
+| L1 Crise, demência e quem cuida | Compreender | Bruno Lopes |
+| L2 Preparar antes | Antes | Tiago Teixeira |
+| L3 Primeiro contacto: acalmar | Durante | Rodrigo Silva |
+| L4 Necessidades e encaminhamento | Durante (casa ou fora) | Ricardo Ferreira |
+| L5 Depois da crise | Depois | Evandro Carvalho |
 
 Padrão de cada lição (S3): Gancho 1 min → Vídeo 3 min → Atividade 2 min → Quiz 1,5 min → Síntese + ponte 0,5 min. Cada lição tem uma componente **para a pessoa** e outra **para o cuidador**.
+
+**Gantt da equipa:** não há papéis individuais. Todas as lições têm o mesmo formato (conteúdo, avaliação, Matterport), por isso cada tarefa avança nas 5 lições ao mesmo tempo. Cada tarefa é «Em conjunto» (o grupo faz junto) ou «Por lição + revisão cruzada» (cada um faz a sua lição com os modelos comuns e outro revê). Os quizzes ficam, por agora, em todas as lições.
 
 ### Matterport
 
@@ -89,11 +91,11 @@ Padrão de cada lição (S3): Gancho 1 min → Vídeo 3 min → Atividade 2 min 
 
 Os mesmos factos aparecem em vários ficheiros. Quando um muda, atualizar todos:
 
-- **Título, lições, responsáveis e papéis:** `P1_Tema_Matterport.md`, S2 (.docx), `S2_Gantt_Grupo1.xlsx` (folha «Responsáveis» e título), S3 (.xlsx).
+- **Título, lições e responsáveis das lições:** `P1_Tema_Matterport.md`, S2 (.docx), `S2_Gantt_Grupo1.xlsx` (título), S3 (.xlsx).
 - **Número de lições e duração:** 5 × ≈ 8 min ≈ 40 min, em todo o lado.
 - **Tarefas e semanas do Gantt:** o Gantt do S2 (.docx) e o `.xlsx` têm de coincidir.
 - Não inventar estatísticas nem fontes; reutilizar as que já estão nos documentos (Alzheimer Portugal, OCDE 2017, ISS out. 2025, ADI 2019/2022, OMS 2011, Lei n.º 100/2019).
-- O S2 tem de ficar em ≈ 2 páginas (sem contar o Gantt).
+- O S2 já não tem limite de 2 páginas (reentrega); o Gantt fica numa página própria.
 
 ## Ferramentas nesta máquina (Windows)
 

@@ -72,4 +72,4 @@ Acessibilidade: legendas em todos os vídeos; o vídeo do percurso serve de alte
 | Sem. 6 (27/10) | Submeter o curso para revisão da Udemy |
 | Cedo | Definir o QEF próprio (incluir "respeitar guidelines da plataforma" com a checklist da Udemy) |
 
-Grupo com 5 elementos → 5 lições, uma por elemento (confirmado na Aula 3). Papéis transversais e lições: ver `S2_MOOC-choice_planning_Grupo1.docx` e `S3_MOOC_Template_Grupo1.xlsx`.
+Grupo com 5 elementos → 5 lições, uma por elemento (confirmado na Aula 3). Lições e Gantt da equipa: ver `S2_MOOC-choice_planning_Grupo1.docx` e `S3_MOOC_Template_Grupo1.xlsx`.
