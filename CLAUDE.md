@@ -25,6 +25,7 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `S2_Gantt_Grupo1.xlsx` | S2 — Gantt da equipa (folha «Gantt») | Tem de bater certo com o Gantt do S2 |
 | `P1_Tema_Matterport.md` | Rascunho de trabalho do tema reescrito para crise + estudo do Matterport | **Fonte para atualizar o S2** |
 | `S3_MOOC_Template_Grupo1.xlsx` | S3 — MOOC Template (folhas «Enquadramento» e «Lições») | Versão mais detalhada das 5 lições |
+| `S4_Plano_L1.md`, `S4_Plano_L1.html` | S4 — plano da L1 (Bruno): evidências, calendário, estrutura do PDF | Nota de trabalho; a entrega é `S4_Evidencias_L1_Grupo1.pdf` |
 
 ### Convenção de nomes em `Files/`
 
