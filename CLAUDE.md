@@ -78,7 +78,9 @@ Aula 3: o tema da S2 tem de evoluir para um **contexto de crise/emergência/cat�
 
 Padrão de cada lição (S3): Gancho 1 min → Vídeo 3 min → Atividade 2 min → Quiz 1,5 min → Síntese + ponte 0,5 min. Cada lição tem uma componente **para a pessoa** e outra **para o cuidador**.
 
-**Gantt da equipa:** não há papéis individuais. Todas as lições têm o mesmo formato (conteúdo, avaliação, Matterport), por isso cada tarefa avança nas 5 lições ao mesmo tempo. Cada tarefa é «Em conjunto» (o grupo faz junto) ou «Por lição + revisão cruzada» (cada um faz a sua lição com os modelos comuns e outro revê). Os quizzes ficam, por agora, em todas as lições.
+**A partir do S4 (13/10/2026) o trabalho é individual:** cada um trata da sua lição. **P2: 24/11/2026.**
+
+**Gantt da equipa (S2, histórico):** não há papéis individuais. Todas as lições têm o mesmo formato (conteúdo, avaliação, Matterport), por isso cada tarefa avança nas 5 lições ao mesmo tempo. Cada tarefa é «Em conjunto» (o grupo faz junto) ou «Por lição + revisão cruzada» (cada um faz a sua lição com os modelos comuns e outro revê). Os quizzes ficam, por agora, em todas as lições.
 
 ### Matterport
 
