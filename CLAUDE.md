@@ -12,7 +12,7 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `Files/P1/P1_Enunciado.pdf` | Enunciado do P1 (requisitos, avaliação, roadmap S1–S8) | Fonte de verdade dos requisitos |
 | `Files/P1/` | Entregas do P1 (MOOC) | Ver tabela abaixo |
 | `Files/Teoricas/` | Trabalho das teóricas: apresentação «A cor azul» (`CorAzul_Guiao_Apresentacao.md`, `CorAzul_Apresentacao_Grupo1.pptx`, `CorAzul_Grupo1.docx/.pdf`, `CorAzul_Documento_Detalhado.docx`) | Independente do P1 |
-| `Aulas/` | Slides das aulas 2026/27 (`CAMUL_2026_2027_Aula{1,2,3}_TP_PL.pdf`), Masterclass «Da Comunidade ao MOOC» (Sara de Sousa, só imagem), aulas antigas (design, usabilidade, SUS, multimédia e aprendizagem, Mayer/Clark) | Só contexto |
+| `Aulas/` | Slides das aulas 2026/27 (`CAMUL_2026_2027_Aula{1,2,3}_TP_PL.pdf`), Masterclass «Da Comunidade ao MOOC» (Sara de Sousa, só imagem), aulas antigas (design, usabilidade, SUS, multimédia e aprendizagem, Mayer/Clark); teórica «Composição visual» (`Aula3_Composição Visual sn (audio).pdf`, Paula Escudeiro); `D-ID-Platform_EN.pdf`; apoios ao P1 `CAMUL_0{1..4}_*_APOIO.pdf` (storyboard e guião · produção de vídeo · Matterport pedagógico · testes e avaliação) | Só contexto |
 | `Exemplos/` | Trabalhos de anos anteriores: QEF (Excel de critérios de qualidade, ex.: critério FI02 «respeitar guidelines da plataforma»), `MOOC Template.xlsx` em branco, planos de marketing | Só contexto/modelos |
 
 ### Ficheiros do P1 (`Files/P1/`)
@@ -89,6 +89,36 @@ Padrão de cada lição (S3): Gancho 1 min → Vídeo 3 min → Atividade 2 min 
 - Restrições: plano grátis = 1 espaço ativo por conta (usar 2 contas ou 1 mês de Starter); espaços «não listados»; consentimento do proprietário, sem dados pessoais, nunca capturar uma pessoa com demência real.
 - Detalhe completo (ideias por lição, fluxo de trabalho, riscos) em `Files/P1/P1_Tema_Matterport.md`.
 
+## Teóricas: composição visual + avatar D-ID (out. 2026)
+
+Teórica «Composição visual» (Paula Escudeiro). Conteúdos: regra dos terços (composição dinâmica, equilíbrio, direção e movimento, espaço negativo) · 8 princípios do design gráfico (equilíbrio, alinhamento, ênfase, proporção, movimento, padrão, contraste, unidade) · posição esquerda/direita · espaço negativo (descanso visual, destaque, organização) e positivo (conteúdo principal, hierarquia, interação) · tipografia (serifada = formal/clássica; sem serifa = moderna/limpa) · contraste texto/fundo e tamanho da letra (legível em telemóvel) · hierarquia visual (tamanho, posição, cor, tipografia) · equilíbrio simétrico e assimétrico · peso visual.
+
+- **Tarefa de grupo:** criar **uma página com 1 cenário** que mostre os requisitos principais da composição visual.
+- **Tarefa individual:** cada um cria um **avatar personalizado no D-ID** que explica **qual foi o seu papel** na tarefa de grupo. O D-ID cria avatares a partir de foto ou de vídeo → **usamos vídeo** (vídeo curto, boa luz e resolução; o resultado depende da qualidade da fonte; atenção ao consentimento de imagem/voz e ao português europeu).
+- Ficheiros com o prefixo `CompVisual` em `Files/Teoricas/`.
+
+**Decisões (página de grupo):** página **HTML** responsiva = **landing page do MOOC «Cuidar em Crise»** (título, promessa, imagem da D. Rosa e da Ana, botão «Começar», 5 cartões de lição). Um só ficheiro com botão «Mostrar regras» que liga/desliga a grelha dos terços e 10 marcadores numerados com legenda. Imagem de banco grátis (Unsplash/Pexels, com crédito).
+
+| # | Regra | Aplicação | Responsável |
+|---|---|---|---|
+| 1 | Regra dos terços | Imagem no terço esquerdo; título e botão no ponto forte do terço direito | Bruno |
+| 2 | Hierarquia visual | Título ≈ 40 px > promessa ≈ 24 px > corpo 18 px > rodapé | Evandro |
+| 3 | Equilíbrio assimétrico / peso visual | Imagem (pesada) equilibrada por texto + espaço vazio | Rodrigo |
+| 4 | Alinhamento | Grelha de 12 colunas, um eixo à esquerda no texto, margens iguais | Ricardo |
+| 5 | Espaço negativo | Margens largas, ≥ 48 px entre secções, uma ideia por bloco | Ricardo |
+| 6 | Contraste | Texto ≥ 4,5:1 (WCAG AA) | Tiago |
+| 7 | Tipografia | 1 família sem serifa (ex.: Atkinson Hyperlegible), 2 pesos, corpo ≥ 18 px, linhas ≤ 70 caracteres | Evandro |
+| 8 | Ênfase (cor) | 1 cor de destaque só no botão e no n.º da lição | Tiago |
+| 9 | Direção e movimento | Pessoas da foto olham para o texto; leitura em Z: imagem → título → botão | Bruno |
+| 10 | Unidade, padrão, proporção | 5 cartões iguais (ícone, título, duração); imagem:texto ≈ 2:1 | Rodrigo |
+
+**Paleta:** fundo areia `#F5F1E8` · texto `#1E2A3A` (12,9:1) · primária azul `#3A6EA5` (branco sobre azul 5,3:1) · ênfase âmbar `#A8600F` (branco sobre âmbar 4,8:1; **nunca** como texto sobre areia: 4,3:1). Justificação: azul e âmbar complementares (contraste para a ênfase sem saturar) · azul = calma/confiança, âmbar = calor/ação · mesma lógica das tags Matterport (azul = pessoa, laranja = cuidador). Botões ≥ 44 px de altura.
+
+**Plano (2 semanas, até ≈ 28/10/2026):**
+1. **Semana 1 (até ≈ 21/10):** cada um define o detalhe das suas 2 regras (o que aplica, valores, texto da legenda da anotação).
+2. **Semana 2:** com essas definições gera-se o esqueleto HTML e a página final → entrega = **só o ficheiro HTML** (sem alojamento).
+3. **Avatar D-ID:** vídeo curto e rápido, **plano grátis**, cada um explica as suas 2 regras.
+
 ## Regras de coerência
 
 Os mesmos factos aparecem em vários ficheiros. Quando um muda, atualizar todos:
@@ -103,5 +133,6 @@ Os mesmos factos aparecem em vários ficheiros. Quando um muda, atualizar todos:
 
 - **Não há** Python, pandoc, LibreOffice nem poppler (`pdftoppm`). O Read de PDFs só funciona se o PDF tiver texto.
 - **Há:** Node 22, `unzip`, `pdftotext` (Git Bash), Word e Excel (COM via PowerShell).
+- `pdftotext` falha com nomes com acentos (ex.: `Aula3_Composição…pdf`) → copiar primeiro para um nome sem acentos.
 - Editar .docx/.xlsx: `unzip` para uma pasta temporária → editar o XML (script Node ou `sed`) → voltar a zipar com `System.IO.Compression` no PowerShell. Os nomes das entradas usam `/`, sem prefixo de pasta, e `[Content_Types].xml` vem primeiro. `Compress-Archive` não serve.
 - Validar abrindo no Word/Excel por COM (`Documents.Open` / `Workbooks.Open`, só leitura); `ExportAsFixedFormat(path, 17)` exporta PDF e `ComputeStatistics(2)` conta as páginas.
