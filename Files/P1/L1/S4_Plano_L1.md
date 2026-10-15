@@ -31,7 +31,7 @@ A partir do S4 o trabalho é individual: este plano cobre só a L1. As peças co
 | Âmbito | Só a L1 |
 | Ferramenta de vídeo | PowerPoint → vídeo (Exportar → Criar um vídeo → Full HD 1080p, com tempos e narrações gravados) |
 | Voz | A minha voz, gravada no PowerPoint (Apresentação de Diapositivos → Gravar) |
-| Quiz | Na Udemy (secção 1); testar em «Pré-visualizar como aluno»; se não aparecer num curso grátis → Google Forms |
+| Quiz | Na Udemy (secção 1); funciona em cursos grátis (testado a 15/10) |
 | Matterport sem casa até 20/10 | Espaço do Matterport Discover parecido com uma casa portuguesa → gravar 20–30 s + tabela das tags da L1 |
 | Entrega | 1 PDF: `S4_Evidencias_L1_Grupo1.pdf` |
 
@@ -130,16 +130,14 @@ Padrão S3: Gancho 1 min → Vídeo 3 min → Atividade 2 min → Quiz 1,5 min �
 | Questão | Quem decide | Impacto na L1 |
 |---|---|---|
 | Que casa capturamos e quando | Grupo | Sem casa → plano B Discover no S4; para o S5 é preciso a casa real |
-| Quizzes visíveis em cursos grátis da Udemy | Eu (teste como aluno) | A ajuda da Udemy só diz que os cursos grátis não têm certificado, Q&A nem mensagens; não fala de quizzes |
-| Modelo visual comum (cores, letra, abertura/fecho) | Grupo | Proponho o meu modelo PowerPoint como base |
-| Voz: cada um a sua ou uma só | Grupo | Eu uso a minha |
+
+**Decidido (15/10):** os quizzes funcionam em cursos grátis da Udemy (testado) · o meu modelo PowerPoint é proposto ao grupo como base comum · cada um grava a sua voz.
 
 ## 8. Riscos
 
 | Risco | Mitigação |
 |---|---|
 | Sem casa capturada a tempo | Discover + tabela de tags (S4); casa até ao S5 |
-| Quiz não aparece no curso grátis | Google Forms com link na aula |
 | Áudio fraco | Teste de 20 s antes de gravar tudo; gravar num quarto com tecidos |
 | Vídeo PowerPoint pesado | Exportar em 1080p, não em 4K |
 | Imagens sem licença | Só ícones do Office, unDraw/Storyset ou feitas por nós |

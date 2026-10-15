@@ -25,7 +25,14 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `S2_Gantt_Grupo1.xlsx` | S2 — Gantt da equipa (folha «Gantt») | Tem de bater certo com o Gantt do S2 |
 | `P1_Tema_Matterport.md` | Rascunho de trabalho do tema reescrito para crise + estudo do Matterport | **Fonte para atualizar o S2** |
 | `S3_MOOC_Template_Grupo1.xlsx` | S3 — MOOC Template (folhas «Enquadramento» e «Lições») | Versão mais detalhada das 5 lições |
-| `S4_Plano_L1.md`, `S4_Plano_L1.html` | S4 — plano da L1 (Bruno): evidências, calendário, estrutura do PDF | Nota de trabalho; a entrega é `S4_Evidencias_L1_Grupo1.pdf` |
+| `P1_Modelo_Licoes.pptx` | Modelo visual comum das 5 lições (guia oculto + 1 diapositivo de cada tipo) | Partilhado com o grupo; geral |
+| `L1/` | Tudo o que é só da L1 (Bruno) | Ver abaixo |
+| `L1/S4_Plano_L1.md` | S4 — plano da L1: evidências, calendário, estrutura do PDF | Nota de trabalho |
+| `L1/S4_Guiao_L1.md`, `L1/S4_Guiao_L1.html` | S4 — guião (narração exata por cena), atividade, quiz com feedback, próximos passos | **Fonte da narração**: as notas do `.pptx` e o guião do `.docx` vêm daqui |
+| `L1/S4_Video_L1.pptx` | S4 — vídeo da L1 (1 diapositivo por cena, narração nas notas) | Faltam as ilustrações e a voz |
+| `L1/S4_Evidencias_L1_Grupo1.docx` | S4 — entrega: primeiras evidências de produção (5 evidências do enunciado) | Exportar para PDF antes de submeter; faltam o link do gancho e a captura da Udemy |
+
+Cada lição tem a sua pasta `Files/P1/L<n>/`; o que é geral fica em `Files/P1/`.
 
 ### Convenção de nomes em `Files/`
 
@@ -97,6 +104,7 @@ Os mesmos factos aparecem em vários ficheiros. Quando um muda, atualizar todos:
 - **Título, lições e responsáveis das lições:** `P1_Tema_Matterport.md`, S2 (.docx), `S2_Gantt_Grupo1.xlsx` (título), S3 (.xlsx).
 - **Número de lições e duração:** 5 × ≈ 8 min ≈ 40 min, em todo o lado.
 - **Tarefas e semanas do Gantt:** o Gantt do S2 (.docx) e o `.xlsx` têm de coincidir.
+- **`.md` e `.html` com o mesmo nome** (ex.: `S4_Guiao_L1`): o `.html` é a versão visual do `.md`; qualquer alteração a um faz-se também no outro.
 - Não inventar estatísticas nem fontes; reutilizar as que já estão nos documentos (Alzheimer Portugal, OCDE 2017, ISS out. 2025, ADI 2019/2022, OMS 2011, Lei n.º 100/2019).
 - O S2 já não tem limite de 2 páginas (reentrega); o Gantt fica numa página própria.
 
