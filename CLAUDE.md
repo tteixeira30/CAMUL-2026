@@ -31,6 +31,12 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `L1/S4_Guiao_L1.md`, `L1/S4_Guiao_L1.html` | S4 — guião (narração exata por cena), atividade, quiz com feedback, próximos passos | **Fonte da narração**: as notas do `.pptx` e o guião do `.docx` vêm daqui |
 | `L1/S4_Video_L1.pptx` | S4 — vídeo da L1 (1 diapositivo por cena, narração nas notas) | Faltam as ilustrações e a voz |
 | `L1/S4_Evidencias_L1_Grupo1.docx` | S4 — entrega: primeiras evidências de produção (5 evidências do enunciado) | Exportar para PDF antes de submeter; faltam o link do gancho e a captura da Udemy |
+| `L2/` | Tudo o que é só da L2 (Tiago); ramo `s4-producao-l2` | Mesma estrutura da L1 |
+| `L2/S4_Plano_L2.md` | S4 — plano da L2: evidências, decisões, calendário, estrutura do PDF | Nota de trabalho |
+| `L2/S4_Guiao_L2.md` | S4 — guião, atividade «Complete o kit», quiz com feedback, tags e roteiro Matterport «Caça ao kit», próximos passos | **Fonte da narração**: as notas do `.pptx` e o guião do `.docx` vêm daqui |
+| `L2/S4_Video_L2.pptx` | S4 — vídeo da L2 (11 diapositivos no modelo comum, narração nas notas) | Faltam os planos de pormenor, as ilustrações e a voz |
+| `L2/Recursos/S4_*_L2.pdf` (+ `.html`, `recursos.css`) | Recursos da aula 2.2: checklist do kit, ficha da pessoa, plano de apoio (1 página A4 cada) | O `.html` é a fonte; o PDF imprime-se com o Edge (`--headless --print-to-pdf --no-pdf-header-footer`) |
+| `L2/S4_Evidencias_L2_Grupo1.docx` | S4 — entrega da L2 (mesmo formato da L1) | Exportar para PDF antes de submeter; faltam o link do gancho, a captura da Udemy, os planos de pormenor e o Matterport |
 
 Cada lição tem a sua pasta `Files/P1/L<n>/`; o que é geral fica em `Files/P1/`.
 
