@@ -11,8 +11,8 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `Files/` | Trabalhos a entregar | **Onde se trabalha** |
 | `Files/P1/P1_Enunciado.pdf` | Enunciado do P1 (requisitos, avaliação, roadmap S1–S8) | Fonte de verdade dos requisitos |
 | `Files/P1/` | Entregas do P1 (MOOC) | Ver tabela abaixo |
-| `Files/Teoricas/` | Trabalho das teóricas: apresentação «A cor azul» (`CorAzul_Guiao_Apresentacao.md`, `CorAzul_Apresentacao_Grupo1.pptx`, `CorAzul_Grupo1.docx/.pdf`, `CorAzul_Documento_Detalhado.docx`) | Independente do P1 |
-| `Aulas/` | Slides das aulas 2026/27 (`CAMUL_2026_2027_Aula{1,2,3}_TP_PL.pdf`), Masterclass «Da Comunidade ao MOOC» (Sara de Sousa, só imagem), aulas antigas (design, usabilidade, SUS, multimédia e aprendizagem, Mayer/Clark) | Só contexto |
+| `Files/Teoricas/` | Trabalho das teóricas: apresentação «A cor azul» (`CorAzul_*`) e composição visual (`ComposicaoVisual_*`, ver secção «Teóricas») | Independente do P1 |
+| `Aulas/` | Slides das aulas 2026/27 (`CAMUL_2026_2027_Aula{1,2,3}_TP_PL.pdf`), Composição visual (`Aula3_Composição Visual sn (audio).pdf`, Paula Escudeiro), Masterclass «Da Comunidade ao MOOC» (Sara de Sousa, só imagem), aulas antigas (design, usabilidade, SUS, multimédia e aprendizagem, Mayer/Clark) | Só contexto |
 | `Exemplos/` | Trabalhos de anos anteriores: QEF (Excel de critérios de qualidade, ex.: critério FI02 «respeitar guidelines da plataforma»), `MOOC Template.xlsx` em branco, planos de marketing | Só contexto/modelos |
 
 ### Ficheiros do P1 (`Files/P1/`)
@@ -96,6 +96,18 @@ Padrão de cada lição (S3): Gancho 1 min → Vídeo 3 min → Atividade 2 min 
 - Tags: **azul = pessoa com demência**, **laranja = cuidador**; título com prefixo da lição (ex.: «L2 · Medicação»).
 - Restrições: plano grátis = 1 espaço ativo por conta (usar 2 contas ou 1 mês de Starter); espaços «não listados»; consentimento do proprietário, sem dados pessoais, nunca capturar uma pessoa com demência real.
 - Detalhe completo (ideias por lição, fluxo de trabalho, riscos) em `Files/P1/P1_Tema_Matterport.md`.
+
+## Teóricas
+
+### Composição visual (entrega 21/10/2026)
+
+- **Grupo:** página inicial do MOOC «Cuidar em Crise» que aplica as regras de composição da aula. O botão «Mostrar regras» acende 10 marcadores numerados com legenda, as linhas dos terços, o percurso em Z, a grelha de 12 colunas e a medida entre blocos.
+- **Individual:** avatar no D-ID, feito a partir de um vídeo de cada um, a explicar o seu papel (≈ 20–30 s). Adiado para a semana de 26/10.
+- **Regras por pessoa:** Bruno 1 regra dos terços, 2 direção e movimento · Evandro 3 hierarquia, 4 tipografia · Rodrigo 5 equilíbrio assimétrico e peso visual, 6 unidade, padrão e proporção · Ricardo 7 alinhamento, 8 espaço negativo · Tiago 9 contraste, 10 ênfase.
+- **Paleta:** areia #F5F1E8 · texto #1E2A3A (12,9:1) · azul #3A6EA5 (4,7:1) · âmbar #A8600F só no botão e nos números das lições (4,8:1 sobre branco; sobre a areia só 4,3:1, por isso os cartões são brancos). Letra: Atkinson Hyperlegible, 2 pesos.
+- **Composição:** foto nas colunas 1–8 (foto:texto ≈ 2:1), texto nas 9–12; título na linha de 1/3 e botão na de 2/3; rosto no ponto forte do terço direito da foto, a olhar para o texto. Só em ecrãs ≥ 1100 px; no telemóvel empilha.
+- **Ficheiros:** `ComposicaoVisual_Pagina_Estatica_Grupo1.html` (documento completo, abre no browser; é a entrega) · `ComposicaoVisual_Pagina_Grupo1.html` (a mesma página sem cabeçalho HTML; as alterações fazem-se nas duas) · `ComposicaoVisual_Regras_Bruno.md` (as 4 definições do Bruno + guião do avatar).
+- **Por fazer:** foto real (ilustração provisória; guardar como `ComposicaoVisual_Foto.jpg` na mesma pasta) · confirmar o 2:1 (Rodrigo), o âmbar nos números (Tiago) e os valores e legendas de cada um · avatares.
 
 ## Regras de coerência
 
