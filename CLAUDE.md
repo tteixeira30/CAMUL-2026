@@ -29,8 +29,8 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `L1/` | Tudo o que é só da L1 (Bruno) | Ver abaixo |
 | `L1/S4_Plano_L1.md` | S4 — plano da L1: evidências, calendário, estrutura do PDF | Nota de trabalho |
 | `L1/S4_Guiao_L1.md`, `L1/S4_Guiao_L1.html` | S4 — guião (narração exata por cena), atividade, quiz com feedback, próximos passos | **Fonte da narração**: as notas do `.pptx` e o guião do `.docx` vêm daqui |
-| `L1/S4_Video_L1.pptx` | S4 — vídeo da L1 (1 diapositivo por cena, narração nas notas) | Faltam as ilustrações e a voz |
-| `L1/S4_Evidencias_L1_Grupo1.docx` | S4 — entrega: primeiras evidências de produção (5 evidências do enunciado) | Exportar para PDF antes de submeter; faltam o link do gancho e a captura da Udemy |
+| `L1/S4_Video_L1.pptx` | S4 — vídeo da L1 (1 diapositivo por cena, narração nas notas) | Ilustrações, voz e MP4 passam para o S5 |
+| `L1/S4_Evidencias_L1_Grupo1.docx` | S4 — entrega: primeiras evidências de produção (5 evidências do enunciado) | Atualizado a 19/10; exportar para PDF antes de submeter. Quiz e reflexão já na Udemy (rever no S5); Matterport, voz e vídeos no S5 |
 
 Cada lição tem a sua pasta `Files/P1/L<n>/`; o que é geral fica em `Files/P1/`.
 
