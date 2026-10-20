@@ -47,7 +47,7 @@ Ritmo calmo ≈ 130 palavras/min. «[pausa]» = 1 s de silêncio.
 > Pense na pessoa de quem cuida. Que três coisas a fazem sentir-se segura em casa? Pode ser um objeto, um hábito, uma pessoa, uma música…
 > Escreva-as num papel ou no telemóvel e guarde a lista. Vai precisar dela na próxima lição, para preparar a saída.
 >
-> *Visita 3D (opcional):* abra a casa da D. Rosa e encontre 3 coisas que lhe dão segurança. *(link a acrescentar)*
+> *Visita 3D (opcional):* abra a casa da D. Rosa e encontre 3 coisas que lhe dão segurança. *(link no S5)*
 
 Registo pessoal, sem correção. Ponte natural para a L2 (kit de emergência com objetos de conforto).
 
@@ -83,22 +83,24 @@ P1–P3 cobrem o objetivo 1 (impacto na pessoa) com 3 crises diferentes; a P4 co
 
 ## 5. Storyboard
 
-Miniaturas: diapositivos de `S4_Video_L1.pptx` (exportar como imagens para o PDF de evidências). Faltam as ilustrações planas (D. Rosa, Ana, sala, fumo): os retângulos tracejados «[Ilustração: …]» marcam onde ficam.
+Miniaturas: diapositivos de `S4_Video_L1.pptx` (exportar como imagens para o PDF de evidências). As ilustrações planas (D. Rosa, Ana, sala, fumo) passam para o S5: os retângulos tracejados «[Ilustração: …]» marcam onde ficam.
 
 O modelo comum para o grupo (sem conteúdo da L1) está em `Files/P1/P1_Modelo_Licoes.pptx`.
 
 ---
 
-## 6. Próximos passos (até 20/10)
+## 6. Próximos passos
 
-| # | Tarefa | Feito |
-|---|---|---|
-| 1 | Ler a narração em voz alta (notas do `.pptx`) e corrigir as frases que soam mal; se mudar, mudar aqui também | ☐ |
-| 2 | Ilustrações planas (Storyset ou unDraw): sala da D. Rosa, D. Rosa, Ana, fumo/alerta, 4 ícones de crise; recolorir a azul/laranja; guardar a licença | ☐ |
-| 3 | Teste de áudio: 20 s, ouvir com auscultadores (ruído, eco, volume) | ☐ |
-| 4 | Gravar os diapositivos 1–4 (gancho) → Exportar → Criar um vídeo → Full HD 1080p | ☐ |
-| 5 | Subir o gancho (YouTube não listado ou OneDrive) e pôr o link no documento de evidências | ☐ |
-| 6 | Criar o quiz (§4) e a reflexão (§3) na Udemy, secção 1 · testar em «Pré-visualizar como aluno» · captura de ecrã | ☐ |
-| 7 | Partilhar `P1_Modelo_Licoes.pptx` com o grupo | ☐ |
-| 8 | Atualizar `S4_Evidencias_L1_Grupo1.docx` (link, capturas, ilustrações) → exportar PDF → submeter no Moodle **antes da PL de 20/10** | ☐ |
-| — | Matterport: fica para depois (decidir com o grupo que casa capturar e quando) | ☐ |
+Decidido a 19/10: a voz, os vídeos, as ilustrações e o Matterport passam para o S5 (27/10).
+
+| # | Tarefa | Quando | Feito |
+|---|---|---|---|
+| 1 | Ler a narração em voz alta (notas do `.pptx`) e corrigir as frases que soam mal; se mudar, mudar aqui também | S5 | ☐ |
+| 2 | Ilustrações planas (Storyset ou unDraw): sala da D. Rosa, D. Rosa, Ana, fumo/alerta, 4 ícones de crise; recolorir a azul/laranja; guardar a licença | S5 | ☐ |
+| 3 | Teste de áudio: 20 s, ouvir com auscultadores (ruído, eco, volume) | S5 | ☐ |
+| 4 | Gravar os diapositivos 1–4 (gancho) → Exportar → Criar um vídeo → Full HD 1080p | S5 | ☐ |
+| 5 | Subir o gancho (YouTube não listado ou OneDrive) e pôr o link no documento de evidências | S5 | ☐ |
+| 6 | Criar o quiz (§4) e a reflexão (§3) na Udemy, secção 1 · testar em «Pré-visualizar como aluno» | S4 | ☑ (rever no S5) |
+| 7 | Partilhar `P1_Modelo_Licoes.pptx` com o grupo | S4 | ☐ |
+| 8 | Atualizar `S4_Evidencias_L1_Grupo1.docx` (feito a 19/10) → exportar PDF → submeter no Moodle **antes da PL de 20/10** | S4 | ☐ |
+| 9 | Matterport: decidir com o grupo que casa capturar e quando · tags da L1 · gravar a visita (30–60 s) | S5 | ☐ |

@@ -15,7 +15,7 @@ A partir do S4 o trabalho é individual: este plano cobre só a L1. As peças co
 | 1 | Conteúdos em produção | Texto final do conteúdo essencial (pessoa + cuidador + PSP) |
 | 2 | Guião/storyboard desenvolvido | Guião completo com narração + storyboard cena a cena |
 | 3 | Primeiros recursos multimédia | Modelo PowerPoint, ilustrações, infografia PSP, 1.º rascunho de vídeo (gancho) |
-| 4 | Componente Matterport iniciada | Tabela das tags da L1 + roteiro da visita guiada + vídeo de teste (Discover, se não houver casa) |
+| 4 | Componente Matterport iniciada | Tabela das tags da L1 + roteiro da visita guiada (captura e gravação no S5) |
 | 5 | Atividade/questões em desenvolvimento | 4 perguntas do quiz com feedback + reflexão, já na Udemy |
 
 **Feedback esperado (20/10):** acompanhamento do progresso de cada estudante e validação antecipada das opções pedagógicas e multimédia. Ou seja: o professor quer **ver coisas feitas**, não mais planeamento.
@@ -32,7 +32,8 @@ A partir do S4 o trabalho é individual: este plano cobre só a L1. As peças co
 | Ferramenta de vídeo | PowerPoint → vídeo (Exportar → Criar um vídeo → Full HD 1080p, com tempos e narrações gravados) |
 | Voz | A minha voz, gravada no PowerPoint (Apresentação de Diapositivos → Gravar) |
 | Quiz | Na Udemy (secção 1); funciona em cursos grátis (testado a 15/10) |
-| Matterport sem casa até 20/10 | Espaço do Matterport Discover parecido com uma casa portuguesa → gravar 20–30 s + tabela das tags da L1 |
+| Matterport no S4 | Só planeamento: tabela das tags da L1 + roteiro da visita. Captura e gravação no S5 (19/10) |
+| Voz, vídeos e ilustrações | Passam para o S5 (19/10) |
 | Entrega | 1 PDF: `S4_Evidencias_L1_Grupo1.pdf` |
 
 ---
@@ -86,7 +87,7 @@ Padrão S3: Gancho 1 min → Vídeo 3 min → Atividade 2 min → Quiz 1,5 min �
   | Quarto | L1 · E a Ana? Onde descansa? | … | laranja | — |
 
 - **Roteiro da visita guiada** «A casa pelos olhos da D. Rosa»: 4–6 paragens, ordem e o que se diz em cada uma.
-- **Se não houver casa:** escolher um espaço do Matterport Discover, gravar 20–30 s (Xbox Game Bar `Win+Alt+R` ou OBS, 1080p) e mostrar onde ficariam as tags (capturas anotadas).
+- **Se não houver casa:** escolher um espaço do Matterport Discover, gravar 20–30 s (Xbox Game Bar `Win+Alt+R` ou OBS, 1080p) e mostrar onde ficariam as tags (capturas anotadas). → Não usado: decidido a 19/10 passar a gravação para o S5.
 - Criar conta grátis no Matterport (1 espaço ativo) para estar pronto quando houver casa.
 
 ### 4.5 Avaliação
@@ -118,8 +119,8 @@ Padrão S3: Gancho 1 min → Vídeo 3 min → Atividade 2 min → Quiz 1,5 min �
 2. Ponto de situação: tabela das 5 evidências com estado (feito / em curso / falta) e o que mudou desde o S3.
 3. Conteúdo base (texto).
 4. Guião (tabela) + storyboard (miniaturas dos diapositivos).
-5. Recursos multimédia: capturas do modelo, personagens, infografia + **link do rascunho do gancho** (YouTube não listado ou OneDrive).
-6. Matterport: tabela das tags, roteiro, capturas (Discover ou casa).
+5. Recursos multimédia: capturas do modelo, personagens, infografia (o rascunho do gancho em MP4 passa para o S5).
+6. Matterport: tabela das tags e roteiro (capturas no S5).
 7. Avaliação: perguntas do quiz com feedback + captura da Udemy (vista de aluno).
 8. Próximos passos para o S5 e decisões em aberto.
 
@@ -129,7 +130,9 @@ Padrão S3: Gancho 1 min → Vídeo 3 min → Atividade 2 min → Quiz 1,5 min �
 
 | Questão | Quem decide | Impacto na L1 |
 |---|---|---|
-| Que casa capturamos e quando | Grupo | Sem casa → plano B Discover no S4; para o S5 é preciso a casa real |
+| Que casa capturamos e quando | Grupo | No S4 só tags e roteiro; para o S5 é preciso a casa real |
+
+**Decidido (19/10):** o Matterport (captura e gravação), a voz, o MP4 do gancho, as ilustrações e a música passam para o S5 · o quiz e a reflexão já estão na Udemy (rever no S5).
 
 **Decidido (15/10):** os quizzes funcionam em cursos grátis da Udemy (testado) · o meu modelo PowerPoint é proposto ao grupo como base comum · cada um grava a sua voz.
 
@@ -137,7 +140,7 @@ Padrão S3: Gancho 1 min → Vídeo 3 min → Atividade 2 min → Quiz 1,5 min �
 
 | Risco | Mitigação |
 |---|---|
-| Sem casa capturada a tempo | Discover + tabela de tags (S4); casa até ao S5 |
+| Sem casa capturada a tempo | Tabela de tags e roteiro no S4; casa até ao S5 |
 | Áudio fraco | Teste de 20 s antes de gravar tudo; gravar num quarto com tecidos |
 | Vídeo PowerPoint pesado | Exportar em 1080p, não em 4K |
 | Imagens sem licença | Só ícones do Office, unDraw/Storyset ou feitas por nós |
