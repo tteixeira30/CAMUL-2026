@@ -35,8 +35,8 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `L2/S4_Plano_L2.md` | S4 — plano da L2: evidências, decisões, calendário, estrutura do PDF | Nota de trabalho |
 | `L2/S4_Guiao_L2.md` | S4 — guião, atividade «Complete o kit», quiz com feedback, tags e roteiro Matterport «Caça ao kit», próximos passos | **Fonte da narração**: as notas do `.pptx` e o guião do `.docx` vêm daqui |
 | `L2/S4_Video_L2.pptx` | S4 — vídeo da L2 (11 diapositivos no modelo comum, narração nas notas) | Planos de pormenor, ilustrações, voz e MP4 passam para o S5 |
-| `L2/Recursos/S4_*_L2.pdf` (+ `.html`, `recursos.css`) | Recursos da aula 2.2: checklist do kit, ficha da pessoa, plano de apoio (1 página A4 cada) | O `.html` é a fonte; o PDF imprime-se com o Edge (`--headless --print-to-pdf --no-pdf-header-footer`) |
-| `L2/S4_Evidencias_L2_Grupo1.docx`, `.pdf` | S4 — entrega da L2 (mesmo formato da L1) | Atualizado a 20/10 (PDF exportado). Atividade e quiz na Udemy, secção 2 (rever no S5); Matterport, voz e vídeos no S5 |
+| `L2/Recursos/S4_*_L2.pdf` (+ `.html`, `recursos.css`) | Recursos da Aula 7 (atividade da L2): checklist do kit, ficha da pessoa, plano de apoio (1 página A4 cada) | O `.html` é a fonte; o PDF imprime-se com o Edge (`--headless --print-to-pdf --no-pdf-header-footer`) |
+| `L2/S4_Evidencias_L2_Grupo1.docx`, `.pdf` | S4 — entrega da L2 (mesmo formato da L1) | Atualizado a 20/10 (PDF exportado). Udemy, secção 2 «Preparar antes»: Aulas 5–8 + Teste 2, como a L1; Aula 7 (artigo + 3 PDFs) e Teste 2 (4 perguntas) feitos a 20/10, rever no S5; Matterport, voz e vídeos no S5 |
 
 Cada lição tem a sua pasta `Files/P1/L<n>/`; o que é geral fica em `Files/P1/`.
 

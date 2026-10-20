@@ -34,7 +34,7 @@ A partir do S4 o trabalho é individual: este plano cobre só a L2. Segue o mesm
 | Voz | A minha voz, gravada no PowerPoint |
 | Fio condutor | Continua a história da L1: o mesmo alerta de incêndio, agora visto pelo lado de quem **não** estava preparado. A reflexão da L1 («3 coisas que dão segurança») entra no kit. |
 | Atividade | Aula de texto com lista de 12 itens (8 certos + 4 distratores) e autocorreção pela checklist; o cuidador leva a lista para montar o kit em casa. Os 3 PDFs ficam como recursos desta aula. Se o editor da Udemy tiver «seleção múltipla», a escolha dos itens pode ganhar correção automática no S5. |
-| Quiz | Na Udemy (secção 2), 4 perguntas de cenário com feedback em cada opção; criado a 20/10, antes da PL |
+| Udemy | Secção 2 com 5 itens, como a L1: Aula 5 gancho · Aula 6 conteúdo · Aula 7 atividade (artigo + 3 PDFs) · Teste 2 quiz (4 perguntas com feedback em cada opção) · Aula 8 síntese. Atividade e quiz criados a 20/10; vídeos no S5 |
 | Matterport no S4 | Só planeamento: tabela das tags da L2 + roteiro da visita. Captura e gravação no S5 (20/10, como a L1) |
 | Voz, vídeos, planos de pormenor e ilustrações | Passam para o S5 (20/10, como a L1) |
 | Entrega | 1 PDF: `S4_Evidencias_L2_Grupo1.pdf` |
@@ -81,10 +81,10 @@ A partir do S3 (linha da Lição 2):
 - Criar conta grátis no Matterport (1 espaço ativo) para estar pronto quando houver casa.
 
 ### 4.5 Avaliação
-- **Atividade (aula 2.2):** «Complete o kit» — 12 itens, escolher os 8 certos, confirmar com a checklist. Descarregar e preencher a ficha da pessoa e o plano de apoio.
-- **Quiz (aula 2.3):** 4 perguntas de cenário (kit, objetos de conforto, ficha da pessoa, substituto do cuidador), cada opção com feedback «Certo, porque…» / «Ainda não: …».
+- **Atividade (Aula 7):** «Complete o kit» — 12 itens, escolher os 8 certos, confirmar com a checklist. Descarregar e preencher a ficha da pessoa e o plano de apoio.
+- **Quiz (Teste 2):** 4 perguntas de cenário (kit, objetos de conforto, ficha da pessoa, substituto do cuidador), cada opção com feedback «Certo, porque…» / «Ainda não: …».
 - **Atividade 3D (opcional):** percorrer a casa da D. Rosa e encontrar os itens do kit antes de ver a checklist.
-- Criar a atividade e o quiz na **secção 2 da Udemy** e testar em «Pré-visualizar como aluno».
+- Criar a atividade e o quiz na **secção 2 da Udemy** e testar em «Pré-visualizar como aluno». → Feito a 20/10.
 
 ---
 

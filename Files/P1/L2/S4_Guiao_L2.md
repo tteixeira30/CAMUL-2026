@@ -6,16 +6,17 @@ Decisões: continua a história da L1 (o mesmo alerta de incêndio, agora visto 
 
 ---
 
-## 1. Estrutura na Udemy (secção 2)
+## 1. Estrutura na Udemy (secção 2 «Preparar antes», criada a 20/10)
 
 | Aula | Tipo | Duração | Diapositivos (`S4_Video_L2.pptx`) |
 |---|---|---|---|
-| 2.1 Preparar antes | Vídeo | ≈ 4 min (gancho 1 + conteúdo 3) | 1–9 |
-| 2.2 Complete o kit | Texto + recursos (checklist, ficha da pessoa, plano de apoio) | 2 min | — |
-| 2.3 Teste a compreensão | Quiz (4 perguntas) | 1,5 min | — |
-| 2.4 Síntese e próxima lição | Vídeo | 0,5 min | 10–11 |
+| Aula 5 · O dia em que nada estava pronto | Vídeo (gancho) — no S5 | ≈ 45 s | 1–3 |
+| Aula 6 · Preparar antes | Vídeo (conteúdo) — no S5 | ≈ 3 min 30 s | 4–9 |
+| Aula 7 · Atividade: complete o kit | Artigo + 3 PDFs para descarregar (checklist, ficha da pessoa, plano de apoio) | 2 min | — |
+| Teste 2 · Quiz | Quiz (4 perguntas de escolha múltipla) | 1,5 min | — |
+| Aula 8 · Síntese e próximo passo | Vídeo — no S5 | 0,5 min | 10–11 |
 
-Para exportar o vídeo 2.4 à parte: ocultar os diapositivos 1–9 (e vice-versa) antes de «Exportar → Criar um vídeo».
+Mesma estrutura da secção 1 (L1): gancho → conteúdo → atividade → quiz → síntese. A Udemy numera as aulas seguidas no curso todo. Para exportar cada vídeo à parte: ocultar os outros diapositivos antes de «Exportar → Criar um vídeo».
 
 ---
 
@@ -33,10 +34,10 @@ Ritmo calmo ≈ 130 palavras/min. «[pausa]» = 1 s de silêncio. «Plano de por
 | **3b · Ficha da pessoa** | 7 | 2:30–3:05 | Depois, a ficha da pessoa. Numa crise, outras pessoas podem ter de cuidar de quem você cuida: um bombeiro, um voluntário, um vizinho. A ficha diz-lhes, numa só folha, o que precisam de saber: os medicamentos e as horas, como a pessoa comunica, o que a acalma, o que a perturba e a quem ligar. [pausa] Afixe uma cópia no frigorífico e guarde outra no kit. | Ilustração: a Ana a preencher a ficha. Os campos acendem-se um a um (azul). No fim, a ficha no frigorífico e uma cópia a entrar no saco. | Música calma. Som de caneta. |
 | **3c · Plano de apoio** | 8 | 3:05–3:45 | Por fim, um plano para si. E se for a Ana a ficar doente, ou a ficar separada da mãe? [pausa] Escolha três pessoas a quem pode ligar e combine com uma delas quem fica com a pessoa se você não puder. Dê-lhe uma cópia da ficha. Tire fotografias aos documentos e guarde-as no telemóvel. E tenha à mão o 112 e o SNS 24. [pausa] Pedir ajuda também faz parte do plano. | Metade laranja em destaque: a Ana ao telefone; 3 contactos à volta dela, um marcado «substituto». Ícones 112 e SNS 24. | Música calma. Toque de chamada suave. |
 | **3d · Ficar ou sair** | 9 | 3:45–4:15 | Nem todas as crises obrigam a sair. Se ficar em casa, tenha água, comida, uma lanterna e a medicação à mão. Se tiver de sair, leve o kit e saiba para onde vai. [pausa] Nos dois casos, mantenha a rotina possível: as refeições, os medicamentos e o sono às mesmas horas. | Ecrã em duas colunas: «Ficar» (casa + água, comida, lanterna, medicação) e «Sair» (porta + kit + seta para o acolhimento). Em baixo, relógio com refeições/medicação/sono. | Música calma. |
-| **4 · Síntese** | 10 | 0:00–0:15 *(vídeo 2.4)* | Um kit junto à porta, a ficha da pessoa no frigorífico e um plano de apoio para si. O que prepara hoje poupa minutos, e medo, no dia da crise. | Os 3 ícones do título com um ✔ cada (azul, azul, laranja). | Música calma. |
+| **4 · Síntese** | 10 | 0:00–0:15 *(Aula 8)* | Um kit junto à porta, a ficha da pessoa no frigorífico e um plano de apoio para si. O que prepara hoje poupa minutos, e medo, no dia da crise. | Os 3 ícones do título com um ✔ cada (azul, azul, laranja). | Música calma. |
 | **Ponte** | 11 | 0:15–0:30 | Mas, mesmo com tudo preparado, a crise pode deixar a pessoa em pânico. Na próxima lição, vamos ver o primeiro contacto: como a acalmar, e como se acalmar a si. | Mapa das 5 lições com a L3 em destaque. | Música sobe e termina. |
 
-**Narração:** ≈ 490 palavras → vídeo 2.1 ≈ 4 min 15 s (incluindo ≈ 40 s de visita 3D); vídeo 2.4 ≈ 30 s. Com a atividade (2 min) e o quiz (1,5 min), a lição tem ≈ 8 min. Se a voz sair mais lenta, cortar primeiro na cena 3d (ficar ou sair), não no kit.
+**Narração:** ≈ 490 palavras → Aulas 5 + 6 ≈ 4 min 15 s (gancho ≈ 45 s + conteúdo ≈ 3 min 30 s, incluindo ≈ 40 s de visita 3D); Aula 8 ≈ 30 s. Com a atividade (2 min) e o quiz (1,5 min), a lição tem ≈ 8 min. Se a voz sair mais lenta, cortar primeiro na cena 3d (ficar ou sair), não no kit.
 
 **Ligações às outras lições:** o gancho reaproveita o alerta de incêndio da L1 · o kit recebe as «3 coisas que dão segurança» da reflexão da L1 · a ficha da pessoa e o plano de apoio voltam na L4 (sinalizar a demência e aceitar ajuda) · a ponte abre a L3.
 
@@ -44,7 +45,7 @@ Ritmo calmo ≈ 130 palavras/min. «[pausa]» = 1 s de silêncio. «Plano de por
 
 ---
 
-## 3. Atividade (aula 2.2, texto)
+## 3. Atividade (Aula 7, artigo)
 
 > **Complete o kit**
 > A Ana tem dois minutos para preparar o saco da mãe. Destes 12 itens, quais vão para o kit? Escolha 8 e escreva os números num papel.
@@ -83,7 +84,7 @@ Autocorreção, sem nota. Fica numa aula de texto porque o objetivo é prático:
 
 ---
 
-## 4. Quiz (aula 2.3)
+## 4. Quiz (Teste 2)
 
 Escolha múltipla, uma resposta certa, com explicação em cada opção → feedback «Certo, porque…» / «Ainda não: …». ✔ = certa.
 
@@ -107,7 +108,7 @@ Escolha múltipla, uma resposta certa, com explicação em cada opção → feed
 - B) ✔ Uma pessoa combinada para a substituir, com uma cópia da ficha e os contactos. → *Certo, porque assim a D. Rosa fica com alguém que já sabe do que ela precisa.*
 - C) Ligar para o 112. → *Ainda não: o 112 é para situações de perigo; não resolve quem fica com a D. Rosa nos dias seguintes.*
 
-P1–P3 cobrem os objetivos 1 e 2 (kit e ficha da pessoa); a P4 cobre o objetivo 3 (plano de apoio para o cuidador). A atividade 2.2 completa o objetivo 1 com a escolha dos itens.
+P1–P3 cobrem os objetivos 1 e 2 (kit e ficha da pessoa); a P4 cobre o objetivo 3 (plano de apoio para o cuidador). A atividade da Aula 7 completa o objetivo 1 com a escolha dos itens.
 
 ---
 
@@ -174,7 +175,7 @@ Decidido a 20/10 (como a L1, 19/10): a voz, os vídeos, os planos de pormenor, a
 | 4 | Ilustrações (Ana a procurar, Ana a preencher a ficha, Ana ao telefone) no estilo da L1; guardar a licença | S5 | ☐ |
 | 5 | Teste de áudio de 20 s → gravar os diapositivos 1–4 (gancho) → Exportar → Criar um vídeo → Full HD 1080p | S5 | ☐ |
 | 6 | Subir o gancho (YouTube não listado ou OneDrive) e pôr o link no documento | S5 | ☐ |
-| 7 | Criar a atividade (§3, com os 3 PDFs como recursos) e o quiz (§4) na Udemy, secção 2 · testar em «Pré-visualizar como aluno» | S4 | ☐ (20/10, antes da PL) |
+| 7 | Criar a atividade (§3, com os 3 PDFs como recursos) e o quiz (§4) na Udemy, secção 2 (Aula 7 e Teste 2) · testar em «Pré-visualizar como aluno» | S4 | ☑ (20/10; rever no S5) |
 | 8 | Modelos em PDF: checklist do kit, ficha da pessoa, plano de apoio (`Recursos/`) | S4 | ☑ |
 | 9 | Matterport: decidir com o grupo que casa capturar e quando · tags da L2 (§5) · gravar a «Caça ao kit» (≈ 40 s) | S5 | ☐ |
 | 10 | `S4_Evidencias_L2_Grupo1.docx` atualizado e exportado para PDF (20/10) → submeter no Moodle **antes da PL de 20/10** | S4 | ☐ |
