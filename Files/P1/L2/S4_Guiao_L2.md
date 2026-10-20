@@ -66,7 +66,7 @@ Ritmo calmo ≈ 130 palavras/min. «[pausa]» = 1 s de silêncio. «Plano de por
 >
 > Agora é a sua vez: descarregue a **ficha da pessoa** e o **plano de apoio** e preencha-os esta semana, para a pessoa de quem cuida.
 >
-> *Visita 3D (opcional):* percorra a casa da D. Rosa e encontre os itens do kit antes de ver a checklist. *(link a acrescentar)*
+> *Visita 3D (opcional):* percorra a casa da D. Rosa e encontre os itens do kit antes de ver a checklist. *(link no S5)*
 
 **Respostas (vão na checklist):** certos 1, 2, 3, 5, 7, 9, 11, 12. Distratores:
 - 4 → só a medicação da pessoa, para alguns dias; o saco tem de ser leve.
@@ -74,7 +74,7 @@ Ritmo calmo ≈ 130 palavras/min. «[pausa]» = 1 s de silêncio. «Plano de por
 - 8 → num sítio estranho, acalma o que é familiar, não o que é novo.
 - 10 → uma ou duas fotografias chegam; o álbum pesa e pode perder-se.
 
-Autocorreção, sem nota. A Udemy só aceita uma resposta certa por pergunta, por isso esta escolha de vários itens fica numa aula de texto e não no quiz.
+Autocorreção, sem nota. Fica numa aula de texto porque o objetivo é prático: o cuidador escolhe os itens, confirma-os na checklist e leva a lista para montar o kit em casa. A Udemy parece ter também quizzes de «seleção múltipla» (várias respostas certas, até 15 opções); se o editor o permitir, a escolha dos 8 itens pode ganhar correção automática no S5.
 
 **Recursos para descarregar** (PDF de 1 página cada, em `Recursos/`; o `.html` com o mesmo nome é a fonte, impressa para PDF com o Edge):
 - **Checklist do kit** (`S4_Checklist_Kit_L2.pdf`): os 8 itens + 3 linhas para «o que a acalma» · «se ficar em casa» · as respostas da atividade.
@@ -113,7 +113,7 @@ P1–P3 cobrem os objetivos 1 e 2 (kit e ficha da pessoa); a P4 cobre o objetivo
 
 ## 5. Matterport — «Caça ao kit»
 
-Espaço: casa da D. Rosa (plano B no S4: espaço do Matterport Discover, só por vídeo e capturas anotadas). Formato comum do `P1_Tema_Matterport.md`, §8.
+Espaço: casa da D. Rosa. No S4 só as tags e o roteiro; a captura da casa e a gravação da visita passam para o S5 (a decidir com o grupo). Formato comum do `P1_Tema_Matterport.md`, §8.
 
 ### Tags da L2
 
@@ -162,17 +162,19 @@ Miniaturas: diapositivos de `S4_Video_L2.pptx` (feito no modelo comum `P1_Modelo
 
 ---
 
-## 7. Próximos passos (até 20/10)
+## 7. Próximos passos
 
-| # | Tarefa | Feito |
-|---|---|---|
-| 1 | Ler a narração em voz alta e corrigir as frases que soam mal; se mudar, mudar aqui também | ☐ |
-| 2 | Criar `S4_Video_L2.pptx` no modelo comum (1 diapositivo por cena, narração nas notas) | ☑ |
-| 3 | Filmar os planos de pormenor (medicamentos e receita sem nomes, cartão fictício, fotografia, roupa, óculos, manta, saco à porta) | ☐ |
-| 4 | Ilustrações (Ana a procurar, Ana a preencher a ficha, Ana ao telefone) no estilo da L1; guardar a licença | ☐ |
-| 5 | Teste de áudio de 20 s → gravar os diapositivos 1–4 (gancho) → Exportar → Criar um vídeo → Full HD 1080p | ☐ |
-| 6 | Subir o gancho (YouTube não listado ou OneDrive) e pôr o link no documento de evidências | ☐ |
-| 7 | Criar a atividade (§3) e o quiz (§4) na Udemy, secção 2 · testar em «Pré-visualizar como aluno» · captura de ecrã | ☐ |
-| 8 | Modelos em PDF: checklist do kit, ficha da pessoa, plano de apoio (`Recursos/`) | ☑ |
-| 9 | Matterport: conta grátis · espaço Discover · gravação de 20–30 s · capturas anotadas com as tags da §5 | ☐ |
-| 10 | Montar `S4_Evidencias_L2_Grupo1.docx` → exportar PDF → submeter no Moodle **antes da PL de 20/10** | ☐ |
+Decidido a 20/10 (como a L1, 19/10): a voz, os vídeos, os planos de pormenor, as ilustrações e o Matterport passam para o S5 (27/10).
+
+| # | Tarefa | Quando | Feito |
+|---|---|---|---|
+| 1 | Ler a narração em voz alta e corrigir as frases que soam mal; se mudar, mudar aqui também | S5 | ☐ |
+| 2 | Criar `S4_Video_L2.pptx` no modelo comum (1 diapositivo por cena, narração nas notas) | S4 | ☑ |
+| 3 | Filmar os planos de pormenor (medicamentos e receita sem nomes, cartão fictício, fotografia, roupa, óculos, manta, saco à porta) | S5 | ☐ |
+| 4 | Ilustrações (Ana a procurar, Ana a preencher a ficha, Ana ao telefone) no estilo da L1; guardar a licença | S5 | ☐ |
+| 5 | Teste de áudio de 20 s → gravar os diapositivos 1–4 (gancho) → Exportar → Criar um vídeo → Full HD 1080p | S5 | ☐ |
+| 6 | Subir o gancho (YouTube não listado ou OneDrive) e pôr o link no documento | S5 | ☐ |
+| 7 | Criar a atividade (§3, com os 3 PDFs como recursos) e o quiz (§4) na Udemy, secção 2 · testar em «Pré-visualizar como aluno» | S4 | ☐ (20/10, antes da PL) |
+| 8 | Modelos em PDF: checklist do kit, ficha da pessoa, plano de apoio (`Recursos/`) | S4 | ☑ |
+| 9 | Matterport: decidir com o grupo que casa capturar e quando · tags da L2 (§5) · gravar a «Caça ao kit» (≈ 40 s) | S5 | ☐ |
+| 10 | `S4_Evidencias_L2_Grupo1.docx` atualizado e exportado para PDF (20/10) → submeter no Moodle **antes da PL de 20/10** | S4 | ☐ |

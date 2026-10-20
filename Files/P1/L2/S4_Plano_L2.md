@@ -14,8 +14,8 @@ A partir do S4 o trabalho é individual: este plano cobre só a L2. Segue o mesm
 |---|---|---|
 | 1 | Conteúdos em produção | Texto final do conteúdo: kit (pessoa), ficha da pessoa (pessoa), plano de apoio (cuidador), ficar vs. sair |
 | 2 | Guião/storyboard desenvolvido | Guião completo com narração + storyboard cena a cena (`S4_Guiao_L2.md`) |
-| 3 | Primeiros recursos multimédia | Diapositivos no modelo comum, planos de pormenor dos itens do kit, modelo da ficha da pessoa e checklist (PDF), 1.º rascunho do gancho |
-| 4 | Componente Matterport iniciada | Tabela das tags da L2 + roteiro da «Caça ao kit» + vídeo de teste (Discover, se não houver casa) |
+| 3 | Primeiros recursos multimédia | Diapositivos no modelo comum, checklist do kit, ficha da pessoa e plano de apoio (PDF). Planos de pormenor, ilustrações, voz e MP4 do gancho no S5 |
+| 4 | Componente Matterport iniciada | Tabela das tags da L2 + roteiro da «Caça ao kit» (captura e gravação no S5) |
 | 5 | Atividade/questões em desenvolvimento | Atividade «Complete o kit» + 4 perguntas do quiz com feedback, já na Udemy |
 
 **Feedback esperado (20/10):** acompanhamento do progresso de cada estudante e validação antecipada das opções pedagógicas e multimédia → o professor quer **ver coisas feitas**, não mais planeamento.
@@ -33,9 +33,10 @@ A partir do S4 o trabalho é individual: este plano cobre só a L2. Segue o mesm
 | Formato visual | Ilustração plana no modelo comum (azul = pessoa, laranja = cuidador) **+ planos de pormenor filmados** dos objetos do kit (telemóvel, 1080p, em cima de uma mesa, sem pessoas nem dados pessoais). Mantém a «demonstração prática» do S3 sem filmar atores. |
 | Voz | A minha voz, gravada no PowerPoint |
 | Fio condutor | Continua a história da L1: o mesmo alerta de incêndio, agora visto pelo lado de quem **não** estava preparado. A reflexão da L1 («3 coisas que dão segurança») entra no kit. |
-| Atividade | Aula de texto com lista de 12 itens (8 certos + 4 distratores) e autocorreção pela checklist. A Udemy só aceita 1 resposta certa por pergunta, por isso a escolha múltipla com vários itens não vai para o quiz. |
-| Quiz | Na Udemy (secção 2), 4 perguntas de cenário com feedback em cada opção |
-| Matterport sem casa até 20/10 | Espaço do Matterport Discover parecido com uma casa portuguesa → gravar 20–30 s + tabela das tags da L2 |
+| Atividade | Aula de texto com lista de 12 itens (8 certos + 4 distratores) e autocorreção pela checklist; o cuidador leva a lista para montar o kit em casa. Os 3 PDFs ficam como recursos desta aula. Se o editor da Udemy tiver «seleção múltipla», a escolha dos itens pode ganhar correção automática no S5. |
+| Quiz | Na Udemy (secção 2), 4 perguntas de cenário com feedback em cada opção; criado a 20/10, antes da PL |
+| Matterport no S4 | Só planeamento: tabela das tags da L2 + roteiro da visita. Captura e gravação no S5 (20/10, como a L1) |
+| Voz, vídeos, planos de pormenor e ilustrações | Passam para o S5 (20/10, como a L1) |
 | Entrega | 1 PDF: `S4_Evidencias_L2_Grupo1.pdf` |
 
 ---
@@ -76,7 +77,7 @@ A partir do S3 (linha da Lição 2):
 ### 4.4 Matterport iniciado
 - **Tabela das tags da L2** (formato comum do `P1_Tema_Matterport.md`, §8): ver `S4_Guiao_L2.md`, §5.
 - **Roteiro da visita guiada «Caça ao kit»:** 6 paragens, da cozinha até à porta de saída.
-- **Se não houver casa:** escolher um espaço do Matterport Discover, gravar 20–30 s (Xbox Game Bar `Win+Alt+R` ou OBS, 1080p) e mostrar em capturas anotadas onde ficariam as tags.
+- **Se não houver casa:** escolher um espaço do Matterport Discover, gravar 20–30 s (Xbox Game Bar `Win+Alt+R` ou OBS, 1080p) e mostrar em capturas anotadas onde ficariam as tags. → Não usado: decidido a 20/10 passar a gravação para o S5.
 - Criar conta grátis no Matterport (1 espaço ativo) para estar pronto quando houver casa.
 
 ### 4.5 Avaliação
@@ -89,13 +90,13 @@ A partir do S3 (linha da Lição 2):
 
 ## 5. Calendário (18/10 → 20/10)
 
-O prazo está apertado: o essencial é ter o guião, o gancho e o quiz feitos; o resto entra como «em curso».
+O prazo está apertado. Decidido a 20/10: no S4 entram o guião, o vídeo em PowerPoint, os 3 PDFs e a atividade e o quiz na Udemy; a voz, os vídeos, os planos de pormenor, as ilustrações e o Matterport passam para o S5.
 
 | Dia | Tarefas |
 |---|---|
 | Dom 18/10 | Este plano · guião e quiz (`S4_Guiao_L2.md`) · conta Matterport · procurar espaço Discover |
 | Seg 19/10 | Filmar os planos de pormenor · diapositivos do gancho no modelo comum · gravar voz e exportar MP4 · quiz e atividade na Udemy · gravação Discover · modelo da ficha da pessoa |
-| Ter 20/10 | Montar o PDF de evidências · rever · submeter no Moodle **antes da PL** |
+| Ter 20/10 | Atividade e quiz na Udemy (secção 2) · PDF de evidências atualizado · submeter no Moodle **antes da PL** |
 
 ---
 
@@ -105,9 +106,9 @@ O prazo está apertado: o essencial é ter o guião, o gancho e o quiz feitos; o
 2. Ponto de situação: tabela das 5 evidências com estado (feito / em curso / falta) e o que mudou desde o S3.
 3. Conteúdo base (texto).
 4. Guião (tabela) + storyboard (miniaturas dos diapositivos).
-5. Recursos multimédia: capturas dos diapositivos, planos de pormenor, modelo da ficha da pessoa + **link do rascunho do gancho** (YouTube não listado ou OneDrive).
-6. Matterport: tabela das tags, roteiro, capturas (Discover ou casa).
-7. Avaliação: atividade, perguntas do quiz com feedback + captura da Udemy (vista de aluno).
+5. Recursos multimédia: capturas dos 3 PDFs + tabela de vídeo e áudio (planos de pormenor e rascunho do gancho em MP4 passam para o S5).
+6. Matterport: tabela das tags e roteiro (capturas no S5).
+7. Avaliação: atividade, perguntas do quiz com feedback + estado na Udemy.
 8. Próximos passos para o S5 e decisões em aberto.
 
 ---
@@ -116,7 +117,7 @@ O prazo está apertado: o essencial é ter o guião, o gancho e o quiz feitos; o
 
 | Questão | Quem decide | Impacto na L2 |
 |---|---|---|
-| Que casa capturamos e quando | Grupo | Sem casa → plano B Discover no S4; para o S5 é preciso a casa real |
+| Que casa capturamos e quando | Grupo | No S4 só tags e roteiro; para o S5 é preciso a casa real |
 | Modelo comum `P1_Modelo_Licoes.pptx` entra no `main`? | Grupo (Bruno) | A L2 trabalha no ramo `s4-producao-l2`, criado a partir do `s4-producao-l1`, para ter o modelo |
 | Planos de pormenor filmados também nas outras lições? | Grupo | Se só a L2 os usar, garantir que não destoam das ilustrações (mesma paleta, fundo liso) |
 
@@ -124,8 +125,8 @@ O prazo está apertado: o essencial é ter o guião, o gancho e o quiz feitos; o
 
 | Risco | Mitigação |
 |---|---|
-| Pouco tempo até 20/10 | Prioridade: guião, gancho em vídeo e quiz na Udemy; o resto entra como «em curso» |
-| Sem casa capturada a tempo | Discover + tabela de tags (S4); casa até ao S5 |
+| Pouco tempo até 20/10 | Voz, vídeos, planos de pormenor, ilustrações e Matterport passam para o S5 (como a L1) |
+| Sem casa capturada a tempo | Tabela de tags e roteiro no S4; casa até ao S5 |
 | Dados pessoais nos planos de pormenor | Caixas e receitas sem nome (ou tapadas), cartão de diagnóstico fictício com o nome «Rosa» |
 | Áudio fraco | Teste de 20 s antes de gravar tudo; gravar num quarto com tecidos |
 | Imagens sem licença | Só ícones do Office, unDraw/Storyset ou feitas por nós |
