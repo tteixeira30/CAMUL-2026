@@ -108,7 +108,7 @@ Padrão de cada lição (S3): Gancho 1 min → Vídeo 3 min → Atividade 2 min 
 ### Composição visual (entrega 21/10/2026)
 
 - **Grupo:** página inicial do MOOC «Cuidar em Crise» que aplica as regras de composição da aula. O botão «Mostrar regras» acende 10 marcadores numerados com legenda, as linhas dos terços, o percurso em Z, a grelha de 12 colunas e a medida entre blocos. Com as regras ligadas, as setas (botões ← → na barra de baixo ou teclas ← →) passam de regra em regra, por ordem.
-- **Individual:** avatar no D-ID, feito a partir de um vídeo de cada um, a explicar o seu papel (≈ 20–30 s). Adiado para a semana de 26/10.
+- **Individual:** avatar no D-ID, feito a partir de um vídeo de cada um, a explicar o seu papel (≈ 20–30 s). Adiado para a semana de 26/10. Depois, os 5 avatares entram na página (secção «Quem fez o quê», com legendas `.vtt`) e a entrega passa a ser um .zip; especificações comuns e nomes `Avatares/ComposicaoVisual_Avatar_<Nome>.mp4` no `ComposicaoVisual_Tutorial_DID_Bruno.md`.
 - **Regras por pessoa:** Bruno 1 regra dos terços, 2 direção e movimento · Evandro 3 hierarquia, 4 tipografia · Rodrigo 5 equilíbrio assimétrico e peso visual, 6 unidade, padrão e proporção · Ricardo 7 alinhamento, 8 espaço negativo · Tiago 9 contraste, 10 ênfase.
 - **Paleta:** areia #F5F1E8 · texto #1E2A3A (12,9:1) · azul #3A6EA5 (4,7:1) · âmbar #A8600F só no botão e nos números das lições (4,8:1 sobre branco; sobre a areia só 4,3:1, por isso os cartões são brancos). Letra: Atkinson Hyperlegible, 2 pesos.
 - **Composição:** foto nas colunas 1–8 (foto:texto ≈ 2:1), texto nas 9–12; título na linha de 1/3 e botão na de 2/3; rosto no ponto forte do terço direito da foto, a olhar para o texto. Só em ecrãs ≥ 1100 px; no telemóvel empilha.

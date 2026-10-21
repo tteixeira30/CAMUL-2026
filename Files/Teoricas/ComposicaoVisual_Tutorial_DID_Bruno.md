@@ -99,10 +99,69 @@ Descarregar em **MP4** (*Download*).
 
 ## Passo 7 · Guardar e partilhar
 
-1. Guardar como `Files/Teoricas/ComposicaoVisual_Avatar_Bruno_Grupo1.mp4`. Se o ficheiro passar de ≈ 50 MB, não o pôr no git e partilhar pela Drive.
-2. Enviar ao grupo e comparar: duração, voz e enquadramento parecidos nos 5 avatares.
-3. Entregar na teórica de 28/10 (Moodle ou onde a professora indicar).
-4. Depois da entrega, se quiser, apagar o avatar e os vídeos no D-ID (*Avatars* → apagar). A conta gratuita apaga os dados ao fim de 6 meses sem uso.
+1. Guardar como `Files/Teoricas/Avatares/ComposicaoVisual_Avatar_Bruno.mp4`, já com as especificações comuns (ver «Depois»). Se o ficheiro passar de ≈ 50 MB, não o pôr no git e partilhar pela Drive.
+2. Fazer a legenda `ComposicaoVisual_Avatar_Bruno.vtt` a partir do guião (ver «Depois»).
+3. Enviar ao grupo e comparar: duração, voz e enquadramento parecidos nos 5 avatares.
+4. Entregar na teórica de 28/10 (Moodle ou onde a professora indicar).
+5. Depois da entrega, se quiser, apagar o avatar e os vídeos no D-ID (*Avatars* → apagar). A conta gratuita apaga os dados ao fim de 6 meses sem uso.
+
+## Depois: juntar os 5 avatares e integrá-los na página (grupo)
+
+Os 5 avatares vão entrar na página `ComposicaoVisual_Pagina_Estatica_Grupo1.html`. Para isso ser só «colar», **todos fazem o vídeo com as mesmas especificações** → partilhar esta secção com o grupo.
+
+### Especificações comuns (cada um)
+
+| O quê | Valor |
+|---|---|
+| Duração | 20–30 s |
+| Formato | MP4 (H.264 + AAC), 16:9, 1280 × 720 ou 1920 × 1080 |
+| Tamanho | ≤ 15 MB (se passar, exportar a 720p) |
+| Enquadramento | Cabeça e ombros, rosto ao centro, fundo neutro (igual nos 5) |
+| Voz | Própria, em português europeu |
+| Conteúdo | «Olá, sou o/a …, do Grupo 1» + as 2 regras + o que fez em cada uma |
+| Nome | `ComposicaoVisual_Avatar_<Nome>.mp4` (Bruno, Evandro, Rodrigo, Ricardo, Tiago) |
+| Legenda | `ComposicaoVisual_Avatar_<Nome>.vtt`, o guião dividido em frases com tempos |
+| Imagem de capa | `ComposicaoVisual_Avatar_<Nome>.jpg`, 1 fotograma do vídeo (para não carregar o vídeo antes do clique) |
+| Pasta | `Files/Teoricas/Avatares/` |
+
+Exemplo de legenda (`.vtt`, texto simples):
+
+```
+WEBVTT
+
+00:00.000 --> 00:03.000
+Olá, sou o Bruno Lopes, do Grupo 1.
+
+00:03.000 --> 00:09.000
+Na página inicial do nosso MOOC «Cuidar em Crise», tratei da regra dos terços e da direção e movimento.
+```
+
+### Como entram na página (proposta, a combinar com o grupo)
+
+1. **Nova secção «Quem fez o quê»**, depois de «Regras de composição aplicadas»: 5 cartões iguais (mesmo padrão dos cartões das lições), cada um com o nome, as 2 regras e o vídeo.
+2. Cada vídeo: `<video controls preload="none" poster="…jpg">` + `<track kind="captions" srclang="pt" src="…vtt" default>` + transcrição por baixo (o guião). O vídeo só carrega quando se carrega em ▶ e não começa sozinho.
+3. **Ligação às regras:** com «Mostrar regras» ligado, o nome de quem fez cada regra (a lista já mostra «(Bruno)», etc.) passa a ser um link para o vídeo dessa pessoa.
+4. No telemóvel, os cartões empilham (1 por linha).
+
+### O que muda na entrega
+
+- Deixa de ser só o `.html`: passa a ser uma **pasta em .zip** com o `.html`, a foto e a pasta `Avatares/` (o HTML usa caminhos relativos e abre sem servidor).
+- Testar o .zip descompactado noutro PC antes de entregar.
+
+### O que muda no QEF
+
+Quando os vídeos entrarem, propor aos colegas que estão a validar o `ComposicaoVisual_QEF_Grupo1.xlsx`:
+- **Usabilidade → Acessibilidade:** «Os vídeos têm legendas e transcrição», medido pelo n.º de vídeos, de 5, com as duas (no modelo da professora é o AA5).
+- **Funcionalidade → Conteúdo:** «Cada avatar explica as suas 2 regras em ≤ 30 s», medido pelo n.º de avatares, de 5, que cumprem.
+- **Eficiência:** o E03 (carregamento) volta a medir-se com os vídeos já na página.
+
+### Ordem de trabalho
+
+| Quando | O quê | Quem |
+|---|---|---|
+| Até 26/10 | Cada um entrega MP4 + VTT + JPG em `Avatares/` | Todos |
+| 26–27/10 | Rever os 5 com a tabela de especificações | 1 pessoa (revisão cruzada) |
+| Depois | Integrar na página e gerar o .zip | Em conjunto |
 
 ## Cuidados
 
