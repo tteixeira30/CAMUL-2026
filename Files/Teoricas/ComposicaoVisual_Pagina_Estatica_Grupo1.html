@@ -115,7 +115,7 @@ h1 { font-size: var(--t-titulo); line-height: 1.2; }
   font: 700 14px/26px var(--fonte); text-align: center; box-shadow: 0 1px 4px rgba(30, 42, 58, .35);
 }
 .mk[aria-current="true"] { background: var(--azul); }
-.mk-2 { top: 33.333%; left: 66.7%; }        /* rosto da Ana, no ponto forte do terço direito da foto */
+.mk-2 { top: 33.333%; left: 66.7%; }        /* rosto do senhor, no ponto forte do terço direito da imagem */
 .mk-6, .mk-9, .mk-10 { left: 100%; }
 .mk-8 { top: calc(var(--bloco) / -2); left: calc(50% + 20px); }
 
@@ -152,7 +152,14 @@ h1 { font-size: var(--t-titulo); line-height: 1.2; }
   background: var(--texto); color: var(--areia);
   padding: 14px max(16px, env(safe-area-inset-right, 0px)) calc(14px + env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px));
 }
-.barra p { max-width: 1184px; margin: 0 auto; }
+.barra-in { max-width: 1184px; margin: 0 auto; display: flex; align-items: center; gap: 16px; }
+.barra-in p { flex: 1; min-width: 0; }
+.seta {
+  flex: none; width: 44px; height: 44px; padding: 0; border-radius: 50%; cursor: pointer;
+  background: transparent; color: var(--areia); border: 2px solid var(--areia); font: 700 20px/1 var(--fonte);
+}
+.seta:hover { background: var(--areia); color: var(--texto); }
+.seta:focus-visible { outline: 3px solid var(--areia); outline-offset: 3px; }
 
 @media (prefers-reduced-motion: no-preference) {
   .mk { transition: background-color .15s; }
@@ -174,7 +181,7 @@ h1 { font-size: var(--t-titulo); line-height: 1.2; }
 <main class="wrap">
   <section class="hero" aria-labelledby="titulo">
     <figure class="foto" style="margin:0">
-      <!-- Ilustração provisória: trocar pela foto (ComposicaoVisual_Foto.jpg, pessoas a olhar para a direita) -->
+      <!-- Ilustração de reserva: só aparece se a foto (ComposicaoVisual_Foto.webp) não carregar -->
       <svg viewBox="0 0 800 680" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Uma filha cuidadora, de pé, pousa a mão no ombro da mãe, sentada num cadeirão. As duas olham para a direita.">
         <rect width="800" height="680" fill="#DCE5EE"/>
         <rect y="575" width="800" height="105" fill="#C8D5E3"/>
@@ -210,7 +217,7 @@ h1 { font-size: var(--t-titulo); line-height: 1.2; }
         <circle cx="350" cy="414" r="14" fill="#D9AB84"/>
         </g>
       </svg>
-      <img src="ComposicaoVisual_Foto.jpg" alt="" onerror="this.remove()">
+      <img src="ComposicaoVisual_Foto.webp" alt="Uma cuidadora, de pé, pousa as mãos nos ombros de um senhor idoso sentado numa cadeira de rodas. Ele sorri; os dois estão virados para a direita." onload="this.previousElementSibling.remove()" onerror="this.remove()">
       <span class="mk-slot" data-n="2"></span>
     </figure>
 
@@ -284,7 +291,7 @@ h1 { font-size: var(--t-titulo); line-height: 1.2; }
   <section class="legenda-lista" aria-labelledby="t-regras">
     <h2 id="t-regras">Regras de composição aplicadas</h2>
     <ol id="lista"></ol>
-    <p style="font-size:var(--t-rodape)">A ilustração da abertura é provisória: vai ser trocada por uma foto com licença livre, com as pessoas a olhar para a direita.</p>
+    <p style="font-size:var(--t-rodape)">Ilustração da abertura: adaptada de Susa Monteiro, para o <a href="https://diariodoalentejo.pt/pt/noticias/15616/ser-cuidador-informal-tem-%E2%80%9Cconsequencias-ao-nivel-da-saude-fisica-e-mental%E2%80%9D.aspx" style="color:inherit">Diário do Alentejo</a>.</p>
   </section>
 </main>
 
@@ -292,7 +299,13 @@ h1 { font-size: var(--t-titulo); line-height: 1.2; }
   <p>CAMUL 2026/27 · ISEP · Grupo 1: Bruno Lopes, Tiago Teixeira, Rodrigo Silva, Ricardo Ferreira, Evandro Carvalho</p>
 </footer>
 
-<div class="barra" role="status" aria-live="polite"><p id="barra-txt"></p></div>
+<div class="barra">
+  <div class="barra-in">
+    <button class="seta" id="anterior" type="button" aria-label="Regra anterior (tecla ←)">←</button>
+    <p id="barra-txt" role="status" aria-live="polite"></p>
+    <button class="seta" id="seguinte" type="button" aria-label="Regra seguinte (tecla →)">→</button>
+  </div>
+</div>
 
 <script>
 const REGRAS = [
@@ -319,10 +332,16 @@ document.querySelectorAll(".mk-slot").forEach(s => {
 document.getElementById("lista").innerHTML = REGRAS.map(([quem, t], i) =>
   `<li><b class="n">${i + 1}</b><span>${t.replace(/^\d+ · /, "")} <span class="quem">(${quem})</span></span></li>`).join("");
 
-function mostrar(n) {
+let atual = 1;
+const suave = matchMedia("(prefers-reduced-motion: no-preference)");
+function mostrar(n, rolar) {
+  atual = n;
   document.querySelectorAll(".mk").forEach(m => m.setAttribute("aria-current", m.textContent == n));
-  barra.textContent = REGRAS[n - 1][1] + " (" + REGRAS[n - 1][0] + ")";
+  barra.textContent = n + "/" + REGRAS.length + " · " + REGRAS[n - 1][1].replace(/^\d+ · /, "") + " (" + REGRAS[n - 1][0] + ")";
+  if (rolar) document.querySelector(".mk-" + n).scrollIntoView({ block: "center", behavior: suave.matches ? "smooth" : "auto" });
 }
+/* setas: passam de regra em regra, por ordem; depois da 10 volta à 1 */
+function passar(d) { mostrar((atual - 1 + d + REGRAS.length) % REGRAS.length + 1, true); }
 function alternar(on) {
   raiz.classList.toggle("regras", on);
   botao.setAttribute("aria-pressed", on);
@@ -330,6 +349,13 @@ function alternar(on) {
   if (on) mostrar(1);
 }
 botao.addEventListener("click", () => alternar(!raiz.classList.contains("regras")));
+document.getElementById("anterior").addEventListener("click", () => passar(-1));
+document.getElementById("seguinte").addEventListener("click", () => passar(1));
+document.addEventListener("keydown", e => {
+  if (!raiz.classList.contains("regras") || e.altKey || e.ctrlKey || e.metaKey) return;
+  if (e.key === "ArrowRight") { e.preventDefault(); passar(1); }
+  if (e.key === "ArrowLeft") { e.preventDefault(); passar(-1); }
+});
 if (location.hash === "#regras") alternar(true);
 </script>
 </body>
