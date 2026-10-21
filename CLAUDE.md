@@ -28,6 +28,7 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `P1_Modelo_Licoes.pptx` | Modelo visual comum das 5 lições (guia oculto + 1 diapositivo de cada tipo) | Partilhado com o grupo; geral |
 | `L1/` | Tudo o que é só da L1 (Bruno) | Ver abaixo |
 | `L1/S4_Plano_L1.md` | S4 — plano da L1: evidências, calendário, estrutura do PDF | Nota de trabalho |
+| `L1/S5_Plano_L1.md`, `L1/S5_Plano_L1.html` | S5 — plano da L1: protótipo (vídeos com voz, Matterport, Udemy), feedback do S3, calendário até 27/10 | Nota de trabalho |
 | `L1/S4_Guiao_L1.md`, `L1/S4_Guiao_L1.html` | S4 — guião (narração exata por cena), atividade, quiz com feedback, próximos passos | **Fonte da narração**: as notas do `.pptx` e o guião do `.docx` vêm daqui |
 | `L1/S4_Video_L1.pptx` | S4 — vídeo da L1 (1 diapositivo por cena, narração nas notas) | Ilustrações, voz e MP4 passam para o S5 |
 | `L1/S4_Evidencias_L1_Grupo1.docx` | S4 — entrega: primeiras evidências de produção (5 evidências do enunciado) | Atualizado a 19/10; exportar para PDF antes de submeter. Quiz e reflexão já na Udemy (rever no S5); Matterport, voz e vídeos no S5 |
@@ -91,6 +92,10 @@ Aula 3: o tema da S2 tem de evoluir para um **contexto de crise/emergência/cat�
 | L5 Depois da crise | Depois | Evandro Carvalho |
 
 Padrão de cada lição (S3): Gancho 1 min → Vídeo 3 min → Atividade 2 min → Quiz 1,5 min → Síntese + ponte 0,5 min. Cada lição tem uma componente **para a pessoa** e outra **para o cuidador**.
+
+**Feedback do S3 (20/10/2026): etapa validada.** Recomendação: os cenários de crise pedidos (guerras e conflitos armados, catástrofes naturais, calamidades, deslocações forçadas) têm de continuar presentes **nas atividades e no Matterport** de cada lição, não só no vídeo.
+
+**Consistência entre lições (aviso da professora):** os media e o formato têm de ser iguais nas 5 lições. Se um elemento usar avatar com áudio, todos usam. Decisão atual: cada um grava a sua voz, **sem avatar** (o avatar D-ID é só da teórica). Mudar isto é decisão do grupo, nunca de um só.
 
 **A partir do S4 (13/10/2026) o trabalho é individual:** cada um trata da sua lição. **P2: 24/11/2026.**
 

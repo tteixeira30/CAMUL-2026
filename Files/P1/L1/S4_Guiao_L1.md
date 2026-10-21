@@ -2,7 +2,7 @@
 
 **Responsável:** Bruno Lopes (1240441) · **Versão:** 1 (15/10/2026) · Evidências 1, 2 e 5 do S4 (`S4_Plano_L1.md`, §4)
 
-Decisões: o incêndio é **só o exemplo** do gancho (a lição vale para qualquer crise) · ilustração plana (azul = pessoa, laranja = cuidador) · tratamento por «você» implícito · cada um grava a sua voz.
+Decisões: o incêndio é **só o exemplo** do gancho (a lição vale para qualquer crise) · ilustração plana (azul = pessoa, laranja = cuidador) · tratamento por «você» implícito · cada um grava a sua voz, sem avatar (a voz e o uso de avatar têm de ser iguais nas 5 lições: se mudar, muda para todos).
 
 ---
 
@@ -44,10 +44,10 @@ Ritmo calmo ≈ 130 palavras/min. «[pausa]» = 1 s de silêncio.
 ## 3. Atividade (aula 1.2, texto)
 
 > **O que dá segurança?**
-> Pense na pessoa de quem cuida. Que três coisas a fazem sentir-se segura em casa? Pode ser um objeto, um hábito, uma pessoa, uma música…
+> Pense na pessoa de quem cuida. Que três coisas a fazem sentir-se segura em casa? Pode ser um objeto, um hábito, uma pessoa, uma música… Se tivessem de sair de casa de repente, por um incêndio, uma cheia ou uma guerra, o que levaria consigo?
 > Escreva-as num papel ou no telemóvel e guarde a lista. Vai precisar dela na próxima lição, para preparar a saída.
 >
-> *Visita 3D (opcional):* abra a casa da D. Rosa e encontre 3 coisas que lhe dão segurança. *(link no S5)*
+> *Visita 3D (opcional):* abra a casa da D. Rosa e encontre 3 coisas que lhe dão segurança e que levaria numa saída de emergência. *(link no S5)*
 
 Registo pessoal, sem correção. Ponte natural para a L2 (kit de emergência com objetos de conforto).
 
@@ -72,7 +72,7 @@ Escolha múltipla, uma resposta certa. A Udemy deixa escrever uma explicação p
 - B) ✔ Perder a rotina e o contacto com os outros e ficar mais desorientada e triste. → *Certo, porque a rotina é uma das suas principais referências.*
 - C) Ficar mais autónoma, porque tem mais tempo livre. → *Ainda não: sem rotina, a pessoa com demência tende a ficar mais desorientada.*
 
-**P4 · Deslocação (quem cuida).** Há uma semana num centro de acolhimento, longe de casa, a Ana sente-se irritada e cansada e não consegue pensar com clareza. O que significa?
+**P4 · Deslocação forçada (quem cuida).** A família fugiu de um conflito armado e está há uma semana num centro de acolhimento, longe de casa. A Ana sente-se irritada e cansada e não consegue pensar com clareza. O que significa?
 - A) Que não é boa cuidadora. → *Ainda não: sentir isto não diz nada sobre o seu valor como cuidadora.*
 - B) Nada, isto passa sozinho. → *Ainda não: estas reações merecem atenção; quem cuida também precisa de apoio.*
 - C) ✔ São reações normais ao stress, e ela também precisa de cuidar de si. → *Certo, porque o cuidador também é afetado pela crise; sem cuidar de si, não consegue cuidar do outro.*
@@ -100,7 +100,7 @@ Decidido a 19/10: a voz, os vídeos, as ilustrações e o Matterport passam para
 | 3 | Teste de áudio: 20 s, ouvir com auscultadores (ruído, eco, volume) | S5 | ☐ |
 | 4 | Gravar os diapositivos 1–4 (gancho) → Exportar → Criar um vídeo → Full HD 1080p | S5 | ☐ |
 | 5 | Subir o gancho (YouTube não listado ou OneDrive) e pôr o link no documento de evidências | S5 | ☐ |
-| 6 | Criar o quiz (§4) e a reflexão (§3) na Udemy, secção 1 · testar em «Pré-visualizar como aluno» | S4 | ☑ (rever no S5) |
+| 6 | Criar o quiz (§4) e a reflexão (§3) na Udemy, secção 1 · S5: atualizar a P4 e a reflexão (feedback do S3) · testar em «Pré-visualizar como aluno» | S4 | ☑ (rever no S5) |
 | 7 | Partilhar `P1_Modelo_Licoes.pptx` com o grupo | S4 | ☐ |
 | 8 | Atualizar `S4_Evidencias_L1_Grupo1.docx` (feito a 19/10) → exportar PDF → submeter no Moodle **antes da PL de 20/10** | S4 | ☐ |
-| 9 | Matterport: decidir com o grupo que casa capturar e quando · tags da L1 · gravar a visita (30–60 s) | S5 | ☐ |
+| 9 | Matterport: decidir com o grupo que casa capturar e quando · tags da L1 ligadas às crises (janela → incêndio, porta → saída forçada, cozinha → cheia ou falta de água) · gravar a visita (30–60 s) | S5 | ☐ |
