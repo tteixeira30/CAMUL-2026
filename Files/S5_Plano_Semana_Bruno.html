@@ -25,17 +25,29 @@ tr:last-child td{border-bottom:0}
 .note{background:var(--orange-bg);border-left:4px solid var(--orange);padding:10px 14px;border-radius:6px;margin:12px 0}
 .legend{color:var(--muted);font-size:.9rem}
 code{font-size:.88em;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:0 4px}
-/* dias */
-.days{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
-.day{background:var(--card);border:1px solid var(--line);border-top:5px solid var(--blue);border-radius:10px;padding:14px}
-.day.big{border-top-color:var(--orange)} .day.end{border-top-color:var(--ok)} .day.tq{border-top-color:var(--muted)}
-.day h3{margin:0}
-.day .tag{color:var(--muted);font-size:.85rem;margin:0 0 8px}
-.day ul{list-style:none;padding:0;margin:0}
-.day li{display:flex;gap:8px;align-items:flex-start;padding:4px 0;font-size:.93rem}
-.day input{margin-top:4px;flex:none}
-.src{font-size:.75rem;font-weight:600;padding:0 6px;border-radius:4px;margin-right:6px}
+/* fases */
+.phases{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin:16px 0}
+.phase{background:var(--card);border:1px solid var(--line);border-top:5px solid var(--blue);border-radius:10px;padding:12px 14px}
+.phase.rec{border-top-color:var(--orange)} .phase.end{border-top-color:var(--ok)}
+.phase strong{display:block}
+.phase span{color:var(--muted);font-size:.9rem}
+/* tarefas */
+.block{background:var(--card);border:1px solid var(--line);border-left:5px solid var(--blue);border-radius:10px;padding:14px 16px;margin:12px 0}
+.block.rec{border-left-color:var(--orange)} .block.end{border-left-color:var(--ok)} .block.tq{border-left-color:var(--muted)}
+.block h3{margin:0 0 8px}
+.tasks{list-style:none;padding:0;margin:0}
+.tasks li{display:flex;gap:10px;align-items:flex-start;padding:7px 0;border-top:1px solid var(--line)}
+.tasks li:first-child{border-top:0}
+.tasks input{margin-top:5px;flex:none;width:17px;height:17px}
+.tasks label{flex:1}
+.how{display:block;color:var(--muted);font-size:.88rem;margin-top:2px}
+.tasks input:checked + label{opacity:.55}
+.tasks input:checked + label b{text-decoration:line-through}
+.id{font-size:.75rem;font-weight:700;color:var(--muted);margin-right:4px}
+.src{font-size:.72rem;font-weight:600;padding:0 6px;border-radius:4px;margin-right:6px;white-space:nowrap}
 .src.l1{background:var(--blue-bg);color:var(--blue)} .src.tq{background:var(--orange-bg);color:var(--orange)}
+.done{color:var(--muted);font-size:.9rem;margin:8px 0 0;font-style:italic}
+.count{float:right;font-size:.85rem;color:var(--muted);font-weight:400}
 footer{margin-top:40px;color:var(--muted);font-size:.85rem}
 </style>
 </head>
@@ -47,75 +59,153 @@ footer{margin-top:40px;color:var(--muted);font-size:.85rem}
   <span class="pill">S5 da L1 · ter 27/10, antes da PL</span>
   <span class="pill">Avatar D-ID · qua 28/10</span>
 </div>
-<p>Junta os dois calendários. O detalhe está nos planos de origem: <code>Files/P1/L1/S5_Plano_L1.md</code> (§4 trabalho, §6 PDF) e <code>Files/Teoricas/ComposicaoVisual_Tutorial_DID_Bruno.md</code> (passos 1–7).</p>
-<p class="note"><strong>Regra:</strong> a L1 tem prioridade até 27/10. O avatar ocupa ≈ 2 h no total; encaixa nos intervalos.</p>
+
+<div class="phases">
+  <div class="phase"><strong>Sex 23 · Preparar</strong><span>Tudo o que não é gravar: o que dizer, como dizer, visual, Udemy, PDF</span></div>
+  <div class="phase rec"><strong>Dom 25 · Gravar</strong><span>Microfone, câmara e Matterport, numa só sessão</span></div>
+  <div class="phase"><strong>Seg 26 · Montar</strong><span>Exportar, subir, legendar e testar o que se gravou</span></div>
+  <div class="phase end"><strong>Ter 27 · Qua 28 · Entregar</strong><span>S5 no Moodle · avatar na teórica</span></div>
+</div>
+
+<p>Detalhe nos planos de origem: <code>Files/P1/L1/S5_Plano_L1.md</code> (§4, §6), <code>Files/P1/L1/S4_Guiao_L1.md</code> (narração exata) e <code>Files/Teoricas/ComposicaoVisual_Tutorial_DID_Bruno.md</code> (passos 1–7).</p>
 <p class="legend"><span class="src l1">L1</span>lição 1 (S5) · <span class="src tq">TQ</span>teórica (avatar). As caixas ficam guardadas neste browser.</p>
 
-<h2>0. Ver o que ficou de 21–22/10</h2>
-<p class="legend">O que faltar passa para sex 23/10.</p>
-<div class="days">
-  <div class="day tq"><h3>Qua 21 – Qui 22/10</h3><p class="tag">Confirmar</p><ul>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Perguntas ao grupo (§7 do plano da L1)</span></li>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Narração em voz alta e correções (<code>.pptx</code> + guião)</span></li>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Guião §1 com a nova divisão em aulas</span></li>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Ilustrações, 4 ícones de crise e infografia nos diapositivos</span></li>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>P4 e reflexão na Udemy</span></li>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Enviar as 6 tags ao Tiago</span></li>
-    <li><input type="checkbox"><span><span class="src tq">TQ</span>Passo 1: rever o guião do avatar e cronometrar (≤ 30 s)</span></li>
-    <li><input type="checkbox"><span><span class="src tq">TQ</span>Passo 2: gravar o áudio (<code>ComposicaoVisual_Avatar_Bruno_Audio.mp3</code>)</span></li>
-  </ul></div>
+<!-- ============ SEXTA ============ -->
+<h2>1. Sex 23/10 · Preparar (sem gravar nada) <span class="count" data-count="sex"></span></h2>
+<p class="note"><strong>Pronto quando:</strong> no domingo basta ligar o microfone e ler. Não falta texto, imagem nem decisão.</p>
+
+<div data-group="sex">
+<div class="block"><h3>A · L1 · O que dizer</h3><ul class="tasks">
+  <li><input type="checkbox" id="A1"><label for="A1"><span class="id">A1</span><span class="src l1">L1</span><b>Guião §1 com a nova divisão em aulas</b>
+    <span class="how">Aula 1 gancho (diap. 1–4, ≈ 1:05) · Aula 2 conteúdo (diap. 5–8, ≈ 2:55 com a visita 3D) · Aula 3 reflexão · Teste 1 · Aula 4 síntese (diap. 9–10, ≈ 25 s). Mudar no <code>.md</code> e no <code>.html</code> do guião.</span></label></li>
+  <li><input type="checkbox" id="A2"><label for="A2"><span class="id">A2</span><span class="src l1">L1</span><b>Ensaiar a narração em voz alta, com cronómetro (sem gravar)</b>
+    <span class="how">Cena a cena, nos tempos do §2 do guião, a ≈ 130 palavras/min. Cada cena cabe no tempo com ± 5 s. Se a voz sair rápida, alonga-se a visita 3D, não o texto.</span></label></li>
+  <li><input type="checkbox" id="A3"><label for="A3"><span class="id">A3</span><span class="src l1">L1</span><b>Corrigir as frases que tropeçam</b>
+    <span class="how">No guião (<code>.md</code> + <code>.html</code>) <strong>e</strong> nas notas do <code>S4_Video_L1.pptx</code>. No fim, as notas ficam iguais ao guião.</span></label></li>
+  <li><input type="checkbox" id="A4"><label for="A4"><span class="id">A4</span><span class="src l1">L1</span><b>Marcar o «como dizer» nas notas do <code>.pptx</code></b>
+    <span class="how"><code>[pausa]</code> = 1 s · palavra de ênfase em MAIÚSCULAS (ex.: «Não é TEIMOSIA») · <code>/</code> = respirar. Diap. 8: pausa antes de Observar, Escutar e Encaminhar (coincide com os cliques da infografia).</span></label></li>
+  <li><input type="checkbox" id="A5"><label for="A5"><span class="id">A5</span><span class="src l1">L1</span><b>P4 e reflexão na Udemy</b>
+    <span class="how">Copiar do guião §3 (reflexão com «incêndio, cheia ou guerra») e §4 (P4 «Deslocação forçada», com o feedback de cada opção).</span></label></li>
+  <li><input type="checkbox" id="A6"><label for="A6"><span class="id">A6</span><span class="src l1">L1</span><b>Tags da L1: enviar e registar</b>
+    <span class="how">As 6 tags do §4.3 do plano da L1 → ao Tiago · guião §3 «Visita 3D» · <code>P1_Tema_Matterport.md</code> §5 (L1).</span></label></li>
+</ul></div>
+
+<div class="block"><h3>B · L1 · Como aparece (visual e som)</h3><ul class="tasks">
+  <li><input type="checkbox" id="B1"><label for="B1"><span class="id">B1</span><span class="src l1">L1</span><b>Ilustrações</b>
+    <span class="how">Storyset ou unDraw: sala da D. Rosa, D. Rosa, Ana, fumo/alerta. Recolorir com o azul e o laranja do <code>P1_Modelo_Licoes.pptx</code>. Guardar o link da licença. Já não há retângulos «[Ilustração: …]».</span></label></li>
+  <li><input type="checkbox" id="B2"><label for="B2"><span class="id">B2</span><span class="src l1">L1</span><b>4 ícones de crise (diap. 4)</b>
+    <span class="how">Incêndio, cheia, pandemia, deslocação. Mesmo estilo e cor das ilustrações.</span></label></li>
+  <li><input type="checkbox" id="B3"><label for="B3"><span class="id">B3</span><span class="src l1">L1</span><b>Infografia (diap. 8)</b>
+    <span class="how">Observar → Escutar → Encaminhar, 3 cliques de animação, um por passo.</span></label></li>
+  <li><input type="checkbox" id="B4"><label for="B4"><span class="id">B4</span><span class="src l1">L1</span><b>Animações e transições</b>
+    <span class="how">Todas «ao clicar», na ordem da narração. Passar os 10 diapositivos em apresentação sem falhas.</span></label></li>
+  <li><input type="checkbox" id="B5"><label for="B5"><span class="id">B5</span><span class="src l1">L1</span><b>Música e sons</b>
+    <span class="how">Biblioteca de Áudio do YouTube: 1 faixa calma (guardar nome e licença) · tique-taque (diap. 1–2) · sirene e alerta (diap. 3). Inserir no <code>.pptx</code>, volume baixo, para não tapar a voz.</span></label></li>
+  <li><input type="checkbox" id="B6"><label for="B6"><span class="id">B6</span><span class="src l1">L1</span><b>Diap. 6 pronto para receber a visita</b>
+    <span class="how">Fica o lugar reservado; o vídeo entra na segunda (M1).</span></label></li>
+</ul></div>
+
+<div class="block"><h3>C · L1 · Udemy e PDF</h3><ul class="tasks">
+  <li><input type="checkbox" id="C1"><label for="C1"><span class="id">C1</span><span class="src l1">L1</span><b>Estrutura da secção 1 na Udemy</b>
+    <span class="how">Criar as Aulas 1, 2 e 4 (só título, sem vídeo) e reordenar: Aula 1 gancho · Aula 2 conteúdo · Aula 3 reflexão · Teste 1 · Aula 4 síntese.</span></label></li>
+  <li><input type="checkbox" id="C2"><label for="C2"><span class="id">C2</span><span class="src l1">L1</span><b>Esqueleto do PDF</b>
+    <span class="how"><code>Files/P1/L1/S5_Prototipo_L1_Grupo1.docx</code> com as 8 secções do §6 do plano da L1. Escrever já a 1 (capa), a 2 (ponto de situação), a 7 (coerência) e a 8 (próximos passos). Nas outras, marcar o lugar das capturas.</span></label></li>
+  <li><input type="checkbox" id="C3"><label for="C3"><span class="id">C3</span><span class="src l1">L1</span><b>Mensagem ao grupo</b>
+    <span class="how">Casa do Matterport: <strong>onde e a que horas no domingo</strong> (resposta hoje) · ninguém usa avatar no P1 · música e ilustrações comuns · feedback do S4.</span></label></li>
+</ul></div>
+
+<div class="block tq"><h3>D · Preparar as gravações de domingo</h3><ul class="tasks">
+  <li><input type="checkbox" id="D1"><label for="D1"><span class="id">D1</span><span class="src l1">L1</span><b>Roteiro da visita 3D</b>
+    <span class="how">«A casa pelos olhos da D. Rosa»: Entrada → Sala (cadeira, fotografias, janela) → Cozinha (relógio) → Quarto (a Ana) → porta. 3–4 s parado em cada tag aberta · total 30–60 s.</span></label></li>
+  <li><input type="checkbox" id="D2"><label for="D2"><span class="id">D2</span><span class="src l1">L1</span><b>Gravador de ecrã configurado</b>
+    <span class="how">Xbox Game Bar (<code>Win+Alt+R</code>) ou OBS, 1080p. Saber em que pasta guarda os ficheiros.</span></label></li>
+  <li><input type="checkbox" id="D3"><label for="D3"><span class="id">D3</span><span class="src l1">L1</span><b>Sítio da gravação de voz</b>
+    <span class="how">Quarto pequeno com tecidos, janelas fechadas, sem ventoinha. Microfone escolhido no PowerPoint (Gravar → Definições).</span></label></li>
+  <li><input type="checkbox" id="D4"><label for="D4"><span class="id">D4</span><span class="src tq">TQ</span><b>Guião do avatar cronometrado (passo 1)</b>
+    <span class="how">Ler com cronómetro: ≤ 30 s. Se passar, cortar «que é um dos benefícios dessa regra». Texto final no <code>ComposicaoVisual_Regras_Bruno.md</code>.</span></label></li>
+  <li><input type="checkbox" id="D5"><label for="D5"><span class="id">D5</span><span class="src tq">TQ</span><b>Legenda do avatar (rascunho)</b>
+    <span class="how"><code>ComposicaoVisual_Avatar_Bruno.vtt</code> com o guião dividido em frases. Os tempos acertam-se na segunda (M9).</span></label></li>
+  <li><input type="checkbox" id="D6"><label for="D6"><span class="id">D6</span><span class="src tq">TQ</span><b>Conta D-ID e limites do plano gratuito</b>
+    <span class="how">Criar a conta em studio.d-id.com e ver se o plano gratuito deixa criar avatar a partir de <strong>vídeo</strong>. Se não → plano B: avatar a partir de foto (tirada no domingo) e avisar o grupo.</span></label></li>
+  <li><input type="checkbox" id="D7"><label for="D7"><span class="id">D7</span><span class="src tq">TQ</span><b>Sítio do vídeo-fonte</b>
+    <span class="how">Parede clara, luz de janela à frente, telemóvel na horizontal à altura dos olhos (tripé ou livros), 1080p.</span></label></li>
+</ul></div>
 </div>
 
-<h2>1. Calendário</h2>
-<div class="days">
-  <div class="day"><h3>Sex 23/10</h3><p class="tag">Hoje · voz e vídeos curtos</p><ul>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Teste de áudio (20 s)</span></li>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Gravar a voz (diap. 1–5, 7–10)</span></li>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Exportar Aula 1 (gancho) e Aula 4 (síntese)</span></li>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Criar as Aulas 1, 2 e 4 na Udemy e reordenar</span></li>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Subir as Aulas 1 e 4 (testa a revisão de qualidade)</span></li>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Legendas</span></li>
-    <li><input type="checkbox"><span><span class="src tq">TQ</span>Passo 3: gravar o vídeo-fonte (1–2 min, horizontal, luz de frente)</span></li>
-    <li><input type="checkbox"><span><span class="src tq">TQ</span>Passo 4: conta D-ID e criar o avatar (fica a processar)</span></li>
-  </ul></div>
-  <div class="day tq"><h3>Sáb 24/10</h3><p class="tag">Folga da L1</p><ul>
-    <li><input type="checkbox"><span><span class="src tq">TQ</span>Passo 5: gerar o vídeo com o áudio</span></li>
-    <li><input type="checkbox"><span><span class="src tq">TQ</span>Passo 6: rever (checklist) e descarregar o MP4</span></li>
-  </ul><p class="legend">Se o avatar ainda não estiver pronto, passa para dom à noite.</p></div>
-  <div class="day big"><h3>Dom 25/10</h3><p class="tag">O dia mais cheio</p><ul>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Matterport: casa do grupo, ou plano B Discover se não houver casa de manhã</span></li>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Tags</span></li>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Gravar a visita → diap. 6 → exportar e subir a Aula 2</span></li>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Link «Visita 3D»</span></li>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Testar a secção 1 como aluno (telemóvel e computador)</span></li>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Capturas</span></li>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Montar o PDF</span></li>
-  </ul></div>
-  <div class="day"><h3>Seg 26/10</h3><p class="tag">Margem</p><ul>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Folga para atrasos de domingo</span></li>
-    <li><input type="checkbox"><span><span class="src tq">TQ</span>Passo 7: MP4 + <code>.vtt</code> + <code>.jpg</code> em <code>Files/Teoricas/Avatares/</code></span></li>
-    <li><input type="checkbox"><span><span class="src tq">TQ</span>Enviar ao grupo e comparar os 5 avatares</span></li>
-  </ul></div>
-  <div class="day end"><h3>Ter 27/10</h3><p class="tag">Entrega S5</p><ul>
-    <li><input type="checkbox"><span><span class="src l1">L1</span>Rever o PDF e exportar</span></li>
-    <li><input type="checkbox"><span><span class="src l1">L1</span><strong>Submeter no Moodle antes da PL</strong></span></li>
-  </ul></div>
-  <div class="day end"><h3>Qua 28/10</h3><p class="tag">Entrega teórica</p><ul>
-    <li><input type="checkbox"><span><span class="src tq">TQ</span><strong>Entregar o avatar</strong> (onde a professora indicar)</span></li>
-  </ul></div>
+<!-- ============ SÁBADO ============ -->
+<h2>2. Sáb 24/10 · Margem</h2>
+<p>Só se a sexta não chegar: acabar o que ficou de A–D. Nada de gravar.</p>
+
+<!-- ============ DOMINGO ============ -->
+<h2>3. Dom 25/10 · Gravar (tudo numa sessão) <span class="count" data-count="dom"></span></h2>
+<p class="legend">Ordem pensada para gastar a voz no fim e mudar de sítio uma só vez. Vídeo e áudio ficam fora do git (OneDrive).</p>
+
+<div data-group="dom">
+<div class="block rec"><h3>Manhã · Matterport</h3><ul class="tasks">
+  <li><input type="checkbox" id="G1"><label for="G1"><span class="id">G1</span><span class="src l1">L1</span><b>Captura da casa com o grupo</b>
+    <span class="how">Se não houver casa até às 12h → plano B: espaço do Matterport Discover. Pronto quando: espaço «não listado», com link.</span></label></li>
+  <li><input type="checkbox" id="G2"><label for="G2"><span class="id">G2</span><span class="src l1">L1</span><b>Pôr as 6 tags</b>
+    <span class="how">Azul = D. Rosa, laranja = Ana, título com «L1 ·». Pronto quando: as 6 abrem no telemóvel.</span></label></li>
+  <li><input type="checkbox" id="G3"><label for="G3"><span class="id">G3</span><span class="src l1">L1</span><b>Gravar a visita (roteiro D1)</b>
+    <span class="how">30–60 s, MP4 1080p, sem notificações no ecrã nem rato a tremer. Gravar 2 vezes e escolher.</span></label></li>
+</ul></div>
+
+<div class="block rec"><h3>Tarde · Voz e câmara</h3><ul class="tasks">
+  <li><input type="checkbox" id="G4"><label for="G4"><span class="id">G4</span><span class="src l1">L1</span><b>Teste de áudio</b>
+    <span class="how">20 s, ouvir com auscultadores. Pronto quando: sem ruído, sem eco, volume igual nos dois lados.</span></label></li>
+  <li><input type="checkbox" id="G5"><label for="G5"><span class="id">G5</span><span class="src l1">L1</span><b>Narração da L1</b>
+    <span class="how">PowerPoint → Gravar, diap. 1–5 e 7–10 (o 6 é a visita). Ouvir cada diapositivo logo a seguir e regravar só o que falhar. Durações: gancho 1:05 · conteúdo 2:15 (sem a visita) · síntese 0:25.</span></label></li>
+  <li><input type="checkbox" id="G6"><label for="G6"><span class="id">G6</span><span class="src tq">TQ</span><b>Áudio do avatar (passo 2)</b>
+    <span class="how">Telemóvel a ≈ 20 cm, 2–3 takes, 1 s de silêncio antes e depois. Escolher o melhor → <code>ComposicaoVisual_Avatar_Bruno_Audio.mp3</code>.</span></label></li>
+  <li><input type="checkbox" id="G7"><label for="G7"><span class="id">G7</span><span class="src tq">TQ</span><b>Vídeo-fonte do avatar (passo 3)</b>
+    <span class="how">1–2 min a falar, cabeça e ombros, olhar na lente, 2–3 s parado no início e no fim. Passar o MP4 original para o PC (cabo ou Drive, nunca WhatsApp). Plano B (D6): tirar a foto aqui.</span></label></li>
+  <li><input type="checkbox" id="G8"><label for="G8"><span class="id">G8</span><span class="src tq">TQ</span><b>Carregar o vídeo-fonte no D-ID (passo 4)</b>
+    <span class="how">Fim do dia, para o avatar processar durante a noite.</span></label></li>
+</ul></div>
 </div>
 
-<h2>2. Entregáveis</h2>
-<div class="wrap"><table>
-  <tr><th>Entrega</th><th>Ficheiro</th><th>Prazo</th></tr>
-  <tr><td>S5 L1</td><td><code>Files/P1/L1/S5_Prototipo_L1_Grupo1.pdf</code> + Aulas 1–4 e Teste 1 na Udemy</td><td>ter 27/10, antes da PL</td></tr>
-  <tr><td>Avatar</td><td><code>Files/Teoricas/Avatares/ComposicaoVisual_Avatar_Bruno.mp4</code> (+ <code>.vtt</code>, <code>.jpg</code>)</td><td>qua 28/10</td></tr>
-</table></div>
+<!-- ============ SEGUNDA ============ -->
+<h2>4. Seg 26/10 · Montar <span class="count" data-count="seg"></span></h2>
+<div data-group="seg">
+<div class="block"><h3>L1</h3><ul class="tasks">
+  <li><input type="checkbox" id="M1"><label for="M1"><span class="id">M1</span><span class="src l1">L1</span><b>Visita (G3) no diap. 6</b>
+    <span class="how">Inserir o vídeo e pô-lo a começar sozinho, sem clique.</span></label></li>
+  <li><input type="checkbox" id="M2"><label for="M2"><span class="id">M2</span><span class="src l1">L1</span><b>Exportar os 3 vídeos</b>
+    <span class="how">Ocultar os outros diapositivos antes de cada um → Exportar → Criar um vídeo → Full HD 1080p. Aula 1 = diap. 1–4 · Aula 2 = 5–8 · Aula 4 = 9–10.</span></label></li>
+  <li><input type="checkbox" id="M3"><label for="M3"><span class="id">M3</span><span class="src l1">L1</span><b>Subir as Aulas 1, 2 e 4 na Udemy</b>
+    <span class="how">De manhã, para haver tempo de corrigir se a revisão de qualidade recusar (HD, áudio limpo).</span></label></li>
+  <li><input type="checkbox" id="M4"><label for="M4"><span class="id">M4</span><span class="src l1">L1</span><b>Legendas</b>
+    <span class="how">Automáticas (PT) na Udemy, revistas frase a frase com o guião.</span></label></li>
+  <li><input type="checkbox" id="M5"><label for="M5"><span class="id">M5</span><span class="src l1">L1</span><b>Link «Visita 3D» nos recursos da Aula 3</b>
+    <span class="how">Espaço não listado; opcional, nunca preciso para o quiz.</span></label></li>
+  <li><input type="checkbox" id="M6"><label for="M6"><span class="id">M6</span><span class="src l1">L1</span><b>Testar como aluno</b>
+    <span class="how">«Pré-visualizar como aluno» no telemóvel e no computador: ordem das aulas, feedback de cada opção, link 3D.</span></label></li>
+  <li><input type="checkbox" id="M7"><label for="M7"><span class="id">M7</span><span class="src l1">L1</span><b>Capturas e PDF</b>
+    <span class="how">Preencher as secções 3–6 do <code>.docx</code>: vista de aluno, 3–4 fotogramas por vídeo, tags, quiz com feedback.</span></label></li>
+</ul></div>
+<div class="block tq"><h3>Teórica</h3><ul class="tasks">
+  <li><input type="checkbox" id="M8"><label for="M8"><span class="id">M8</span><span class="src tq">TQ</span><b>Gerar e rever o avatar (passos 5–6)</b>
+    <span class="how">Create video → o meu avatar → Audio → carregar o MP3 → 16:9. Rever com a checklist do passo 6 e descarregar o MP4.</span></label></li>
+  <li><input type="checkbox" id="M9"><label for="M9"><span class="id">M9</span><span class="src tq">TQ</span><b>Guardar e partilhar (passo 7)</b>
+    <span class="how">MP4 + <code>.vtt</code> (tempos acertados) + <code>.jpg</code> em <code>Files/Teoricas/Avatares/</code>. Enviar ao grupo.</span></label></li>
+</ul></div>
+</div>
 
-<h2>3. Em aberto com o grupo</h2>
+<!-- ============ ENTREGAS ============ -->
+<h2>5. Entregar</h2>
+<div data-group="fim">
+<div class="block end"><ul class="tasks">
+  <li><input type="checkbox" id="E1"><label for="E1"><span class="id">E1</span><span class="src l1">L1</span><b>Ter 27/10 · Submeter o S5 no Moodle antes da PL</b>
+    <span class="how">Rever o <code>.docx</code> → exportar <code>S5_Prototipo_L1_Grupo1.pdf</code> → submeter.</span></label></li>
+  <li><input type="checkbox" id="E2"><label for="E2"><span class="id">E2</span><span class="src tq">TQ</span><b>Qua 28/10 · Entregar o avatar na teórica</b>
+    <span class="how">Onde a professora indicar.</span></label></li>
+</ul></div>
+</div>
+
+<h2>6. Em aberto com o grupo</h2>
 <div class="wrap"><table>
   <tr><th>Questão</th><th>Afeta</th></tr>
-  <tr><td>Que casa capturamos e quando (até dom 25/10 de manhã)</td><td>L1: sem casa → plano B Discover</td></tr>
+  <tr><td>Que casa capturamos, onde e a que horas no domingo</td><td>L1: sem casa até às 12h → plano B Discover</td></tr>
   <tr><td>Confirmar que <strong>ninguém</strong> usa avatar no P1 (o D-ID é só da teórica)</td><td>L1</td></tr>
   <tr><td>Estrutura da Udemy igual em todas (gancho e conteúdo em aulas separadas)</td><td>L1</td></tr>
   <tr><td>Música e pacote de ilustrações comuns (Storyset ou unDraw)</td><td>L1</td></tr>
@@ -125,23 +215,37 @@ footer{margin-top:40px;color:var(--muted);font-size:.85rem}
   <tr><td>Quem revê os 5 avatares (26–27/10) e quando se integram na página</td><td>Teórica</td></tr>
 </table></div>
 
-<h2>4. Riscos da semana</h2>
+<h2>7. Riscos da semana</h2>
 <div class="wrap"><table>
   <tr><th>Risco</th><th>Mitigação</th></tr>
-  <tr><td>Domingo demasiado cheio</td><td>Fechar voz e Aulas 1 e 4 hoje; seg 26 fica de folga para atrasos</td></tr>
-  <tr><td>D-ID demora a processar o avatar</td><td>Criar o avatar hoje (sex), para ter o fim de semana de margem</td></tr>
-  <tr><td>D-ID gratuito não deixa avatar a partir de vídeo</td><td>Plano B do tutorial: avatar a partir de foto; avisar o grupo</td></tr>
-  <tr><td>Casa não capturada a tempo</td><td>Plano B Discover no próprio domingo</td></tr>
+  <tr><td>Domingo demasiado cheio</td><td>Sexta fica tudo preparado: no domingo só se lê e se grava. Sábado é margem</td></tr>
+  <tr><td>Casa não capturada a tempo</td><td>Plano B Discover às 12h do próprio domingo</td></tr>
+  <tr><td>Voz cansada no fim do dia</td><td>Narração da L1 antes do áudio do avatar; água e pausas</td></tr>
+  <tr><td>Um take falha e só se nota na segunda</td><td>Ouvir cada diapositivo logo depois de gravar (G5)</td></tr>
+  <tr><td>D-ID demora a processar o avatar</td><td>Carregar o vídeo-fonte no domingo à noite; gerar na segunda</td></tr>
+  <tr><td>D-ID gratuito não deixa avatar a partir de vídeo</td><td>Verificado na sexta (D6); plano B foto</td></tr>
+  <tr><td>A Udemy recusa o vídeo na revisão</td><td>Subir na segunda de manhã, para ter tempo de corrigir antes de terça</td></tr>
 </table></div>
 
 <footer>Versão visual de <code>S5_Plano_Semana_Bruno.md</code> — qualquer alteração faz-se nos dois.</footer>
 </main>
 <script>
-document.querySelectorAll('input[type=checkbox]').forEach((c, i) => {
-  const k = 'semana-bruno-' + i;
+const boxes = document.querySelectorAll('.tasks input[type=checkbox]');
+function counts() {
+  document.querySelectorAll('[data-count]').forEach(el => {
+    const g = document.querySelectorAll('[data-group="' + el.dataset.count + '"] input');
+    el.textContent = [...g].filter(c => c.checked).length + ' / ' + g.length;
+  });
+}
+boxes.forEach(c => {
+  const k = 'semana-bruno-' + c.id;
   try { c.checked = localStorage.getItem(k) === '1'; } catch (e) {}
-  c.addEventListener('change', () => { try { localStorage.setItem(k, c.checked ? '1' : '0'); } catch (e) {} });
+  c.addEventListener('change', () => {
+    try { localStorage.setItem(k, c.checked ? '1' : '0'); } catch (e) {}
+    counts();
+  });
 });
+counts();
 </script>
 </body>
 </html>

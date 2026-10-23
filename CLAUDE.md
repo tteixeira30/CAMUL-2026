@@ -10,7 +10,7 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 |---|---|---|
 | `Files/` | Trabalhos a entregar | **Onde se trabalha** |
 | `Files/P1/P1_Enunciado.pdf` | Enunciado do P1 (requisitos, avaliação, roadmap S1–S8) | Fonte de verdade dos requisitos |
-| `Files/S5_Plano_Semana_Bruno.md`, `.html` | Plano da semana do Bruno (23–28/10): junta o S5 da L1 e o avatar D-ID da teórica | Nota de trabalho; ramo `bruno-semana` |
+| `Files/S5_Plano_Semana_Bruno.md`, `.html` | Plano da semana do Bruno (23–28/10): junta o S5 da L1 e o avatar D-ID da teórica. Sex = preparar, dom = gravar tudo, seg = montar | Nota de trabalho; ramo `bruno-semana` |
 | `Files/P1/` | Entregas do P1 (MOOC) | Ver tabela abaixo |
 | `Files/Teoricas/` | Trabalho das teóricas: apresentação «A cor azul» (`CorAzul_*`) e composição visual (`ComposicaoVisual_*`, ver secção «Teóricas») | Independente do P1 |
 | `Aulas/` | Slides das aulas 2026/27 (`CAMUL_2026_2027_Aula{1,2,3}_TP_PL.pdf`), Composição visual (`Aula3_Composição Visual sn (audio).pdf`, Paula Escudeiro), QEF (`Aula3_QEF PBL Active Learning sn_EN.pdf`, artigo `QualityCritEducGames_ICST2012_Rev.docx`, modelo `QEF_Final.xlsx`), Masterclass «Da Comunidade ao MOOC» (Sara de Sousa, só imagem), aulas antigas (design, usabilidade, SUS, multimédia e aprendizagem, Mayer/Clark) | Só contexto |
