@@ -1,135 +1,186 @@
-# Plano da semana — Bruno (23/10 → 28/10/2026)
+# Plano da semana — Bruno (domingo 25/10/2026)
 
 **Duas entregas:** S5 da L1 (ter 27/10, antes da PL) · avatar D-ID da teórica de composição visual (qua 28/10).
 
-**Regra da semana:**
-- **Sex 23 (hoje) · Preparar:** tudo o que não é gravar. O que dizer, como dizer, visual, Udemy, PDF e o material para domingo.
-- **Dom 25 · Gravar:** tudo o que precisa de microfone, câmara ou Matterport, numa só sessão.
-- **Seg 26 · Montar:** exportar, subir, legendar e testar o que se gravou no domingo.
+**Mudança a 23/10:** sexta e sábado sem tempo. **Tudo se faz no domingo**, por blocos e por esta ordem. Cada passo tem uma caixa; segue-se de cima para baixo.
 
-O detalhe de cada tarefa está nos planos de origem:
-- L1: `Files/P1/L1/S5_Plano_L1.md` (§4 trabalho por pedido, §6 estrutura do PDF) e `Files/P1/L1/S4_Guiao_L1.md` (narração exata)
-- Teórica: `Files/Teoricas/ComposicaoVisual_Tutorial_DID_Bruno.md` (passos 1–7)
+**Decisões de 23/10:**
+- Matterport → **plano B**: espaço do Matterport Discover, gravado; as tags aparecem como etiquetas no vídeo (Clipchamp) e em capturas no PDF. A casa da D. Rosa fica para o S6.
+- Ilustrações → **Storyset**, um só estilo.
+- Tags da L1 já enviadas ao Tiago.
 
----
+**Legenda:** ★ = mínimo para entregar o S5. Se o dia apertar, corta-se pela ordem do §3.
 
-## 1. Sex 23/10 · Preparar (sem gravar nada)
-
-**Pronto quando:** no domingo basta ligar o microfone e ler. Não falta texto, imagem nem decisão.
-
-### A. L1 · O que dizer
-| # | Tarefa | Como / pronto quando |
-|---|---|---|
-| A1 | Guião §1 com a nova divisão em aulas | Aula 1 gancho (diap. 1–4, ≈ 1:05) · Aula 2 conteúdo (diap. 5–8, ≈ 2:55 com a visita 3D) · Aula 3 reflexão · Teste 1 · Aula 4 síntese (diap. 9–10, ≈ 25 s). Mudar no `.md` e no `.html` do guião |
-| A2 | Ensaiar a narração em voz alta, com cronómetro (sem gravar) | Cena a cena, nos tempos do §2 do guião (≈ 130 palavras/min). Cada cena cabe no tempo com ± 5 s |
-| A3 | Corrigir as frases que tropeçam | Mudar no guião (`.md` + `.html`) **e** nas notas do `.pptx`. As notas ficam iguais ao guião |
-| A4 | Marcar o «como dizer» nas notas do `.pptx` | `[pausa]` = 1 s · palavra de ênfase em MAIÚSCULAS (ex.: «Não é TEIMOSIA») · `/` = respirar. Diap. 8: uma pausa antes de cada passo (Observar, Escutar, Encaminhar) |
-| A5 | P4 e reflexão na Udemy | Copiar do guião §3 (reflexão com incêndio, cheia, guerra) e §4 (P4 «Deslocação forçada» com o feedback de cada opção) |
-| A6 | Tags da L1 | Texto das 6 tags (§4.3 do plano da L1) → enviar ao Tiago · atualizar o guião (§3 «Visita 3D») e o `P1_Tema_Matterport.md` (§5, L1) |
-
-### B. L1 · Como aparece (visual e som)
-| # | Tarefa | Como / pronto quando |
-|---|---|---|
-| B1 | Ilustrações | Storyset ou unDraw: sala da D. Rosa, D. Rosa, Ana, fumo/alerta. Recolorir com o azul e o laranja do `P1_Modelo_Licoes.pptx`. Guardar o link da licença. Já não há retângulos «[Ilustração: …]» |
-| B2 | 4 ícones de crise (diap. 4) | Incêndio, cheia, pandemia, deslocação. Mesmo estilo e cor |
-| B3 | Infografia (diap. 8) | Observar → Escutar → Encaminhar, 3 cliques de animação, 1 por passo (coincidem com as pausas da narração) |
-| B4 | Animações e transições | Todas «ao clicar» e na ordem da narração. Ver os 10 diapositivos em apresentação sem falhas |
-| B5 | Música e sons | Biblioteca de Áudio do YouTube: 1 faixa calma (guardar nome e licença) · tique-taque (diap. 1–2) · sirene e alerta (diap. 3). Inserir no `.pptx` com volume baixo |
-| B6 | Diap. 6 | Fica com o lugar reservado para o vídeo da visita 3D (entra na segunda) |
-
-### C. L1 · Udemy e PDF
-| # | Tarefa | Como / pronto quando |
-|---|---|---|
-| C1 | Estrutura da secção 1 | Criar as Aulas 1, 2 e 4 (só título, sem vídeo) e reordenar: Aula 1 gancho · Aula 2 conteúdo · Aula 3 reflexão · Teste 1 · Aula 4 síntese |
-| C2 | Esqueleto do PDF | `Files/P1/L1/S5_Prototipo_L1_Grupo1.docx` com as 8 secções do §6 do plano da L1. Escrever já a 1 (capa), a 2 (ponto de situação), a 7 (coerência) e a 8 (próximos passos). Nas outras, marcar o lugar das capturas |
-| C3 | Mensagem ao grupo | Casa do Matterport: **onde e a que horas no domingo** (prazo: hoje) · ninguém usa avatar no P1 · música e ilustrações comuns · feedback do S4 |
-
-### D. Preparar as gravações de domingo
-| # | Tarefa | Como / pronto quando |
-|---|---|---|
-| D1 | Roteiro da visita 3D | «A casa pelos olhos da D. Rosa»: Entrada → Sala (cadeira, fotografias, janela) → Cozinha (relógio) → Quarto (a Ana) → porta. 3–4 s parado em cada tag aberta · total 30–60 s |
-| D2 | Gravador de ecrã | Xbox Game Bar (`Win+Alt+R`) ou OBS em 1080p · confirmar onde guarda os ficheiros |
-| D3 | Sítio de gravação | Quarto pequeno com tecidos, janelas fechadas, sem ventoinha. Microfone escolhido no PowerPoint (Gravar → Definições) |
-| D4 | Guião do avatar (passo 1) | Ler com cronómetro: ≤ 30 s. Se passar, cortar «que é um dos benefícios dessa regra». Texto final no `ComposicaoVisual_Regras_Bruno.md` |
-| D5 | Legenda do avatar (rascunho) | `ComposicaoVisual_Avatar_Bruno.vtt` com o guião dividido em frases. Os tempos acertam-se na segunda |
-| D6 | Conta D-ID (parte do passo 4) | Criar a conta e ver se o plano gratuito deixa criar avatar a partir de **vídeo**. Se não deixar → plano B: avatar a partir de foto (tirada no domingo) e avisar o grupo |
-| D7 | Sítio do vídeo-fonte | Parede clara, luz de janela à frente, telemóvel na horizontal à altura dos olhos (tripé ou livros), 1080p |
+Ficheiros que vais usar: `Files/P1/L1/S4_Guiao_L1.md` (narração exata) · `Files/P1/L1/S4_Video_L1.pptx` · `Files/P1/L1/S5_Plano_L1.md` (§6 estrutura do PDF) · `Files/Teoricas/ComposicaoVisual_Tutorial_DID_Bruno.md` (avatar, passos 1–7).
 
 ---
 
-## 2. Sáb 24/10 · Margem
+## 1. Domingo 25/10, passo a passo
 
-Só se o dia de hoje não chegar: acabar o que ficou de A–D. Nada de gravar.
+### Bloco 0 · Arranque (09:00, 15 min)
+- [ ] **0.1** Abrir: `S4_Video_L1.pptx`, `S4_Guiao_L1.md`, a Udemy (secção 1), o studio.d-id.com e este plano.
+- [ ] **0.2** Telemóvel a carregar (é a câmara do avatar e a gravação do áudio).
+- [ ] **0.3** Mensagem ao grupo: «A L1 usa o plano B do Matterport (Discover) e ilustrações Storyset, estilo ‹nome›. Alguém usa avatar no P1? Já chegou o feedback do S4?»
+
+### Bloco 1 · O que dizer (09:15, 1 h) ★
+- [ ] **1.1** Guião §1 (`S4_Guiao_L1.md` + `.html`): trocar a tabela pela nova divisão em aulas:
+
+  | Aula | Tipo | Duração | Diapositivos |
+  |---|---|---|---|
+  | Aula 1 · Crise, demência e quem cuida | Vídeo (gancho) | ≈ 1:05 | 1–4 |
+  | Aula 2 · A pessoa, quem cuida e os 3 passos | Vídeo (conteúdo) | ≈ 2:55 | 5–8 |
+  | Aula 3 · O que dá segurança? | Texto (reflexão) | 2 min | — |
+  | Teste 1 · Teste a compreensão | Quiz (4 perguntas) | 1,5 min | — |
+  | Aula 4 · Síntese e próxima lição | Vídeo | ≈ 0:25 | 9–10 |
+
+- [ ] **1.2** Ensaiar a narração **em voz alta, com cronómetro** (ainda sem gravar), cena a cena. Alvo: tempos do §2 do guião, ± 5 s por cena.
+- [ ] **1.3** Cada frase em que tropeçares: reescrever mais curta, no guião (`.md` + `.html`) **e** nas notas do `.pptx`. As notas ficam iguais ao guião.
+- [ ] **1.4** Marcar nas notas do `.pptx` como dizer:
+  - `[pausa]` = 1 s de silêncio;
+  - palavra de ênfase em MAIÚSCULAS (ex.: «Não é TEIMOSIA. É a DOENÇA a reagir…»);
+  - `/` = sítio para respirar nas frases longas;
+  - diap. 8: `[clique]` antes de «Observar», «Escutar» e «Encaminhar».
+- [ ] **1.5** Avatar: ler o guião do avatar (`ComposicaoVisual_Regras_Bruno.md`) com cronómetro. Se passar de 30 s, cortar «que é um dos benefícios dessa regra».
+
+### Bloco 2 · Visual e som (10:15, 2 h)
+**Storyset** (storyset.com):
+- [ ] **2.1** Escolher **um** estilo (aparecem vários por ilustração, ex.: Amico, Bro, Cuate, Pana, Rafiki) e usar só esse em todas. Mandar o nome do estilo ao Tiago. ★
+- [ ] **2.2** Procurar e descarregar (PNG, fundo transparente) as 4 ilustrações:
+
+  | Diap. | Ilustração | Procurar por | Cor |
+  |---|---|---|---|
+  | 1–2 | Sala com a D. Rosa na cadeira | *elderly woman*, *grandmother*, *living room* | azul |
+  | 1–2, 7 | Ana (filha que cuida) | *caregiver*, *daughter*, *tired woman* | laranja |
+  | 3 | Fumo/alerta | *fire*, *emergency*, *alert* | laranja |
+  | 5 | D. Rosa confusa | *confused*, *anxiety*, *elderly* | azul |
+
+  No editor do Storyset, mudar a cor principal para o azul ou o laranja do `P1_Modelo_Licoes.pptx` antes de descarregar. ★
+- [ ] **2.3** Guardar o link de cada ilustração num ficheiro de notas (para os créditos). O plano grátis obriga a atribuição: «Illustrations by Storyset» com link, no último diapositivo (10) e no PDF.
+- [ ] **2.4** Pôr as ilustrações no `.pptx`, no lugar dos retângulos «[Ilustração: …]». Apagar os retângulos. ★
+
+**No PowerPoint:**
+- [ ] **2.5** Diap. 4: 4 ícones de crise em Inserir → Ícones (já têm licença): incêndio (*fire*), cheia (*water*/*flood*), pandemia (*virus*), deslocação (*walking*/*luggage*). Mesma cor e tamanho, numa linha. ★
+- [ ] **2.6** Diap. 8: infografia Observar → Escutar → Encaminhar (3 formas com ícone + palavra). Animação «Aparecer», **ao clicar**, um passo de cada vez. ★
+- [ ] **2.7** Diap. 5 e 7: as palavras (desorientação · agitação · recusa / ansiedade · cansaço · irritação) com «Aparecer», ao clicar.
+- [ ] **2.8** Música: Biblioteca de Áudio do YouTube (studio.youtube.com → Biblioteca de áudio), filtro *Calmo*, sem atribuição obrigatória. Descarregar 1 faixa, anotar o nome. Inserir no diap. 1 → Reprodução: «Reproduzir em todos os diapositivos», volume baixo, ocultar durante a apresentação.
+- [ ] **2.9** Sons (Biblioteca de Áudio, separador Efeitos sonoros): tique-taque no diap. 1, sirene + toque de alerta no diap. 3. Volume baixo.
+- [ ] **2.10** Passar a apresentação do 1 ao 10 (F5): tudo aparece na ordem da narração, sem falhas. ★
+
+### Almoço (12:15 – 13:00)
+
+### Bloco 3 · Matterport, plano B (13:00, 1 h) ★
+- [ ] **3.1** discover.matterport.com → procurar *house*, *home*, *apartment* (de preferência *Portugal*). Escolher um espaço com **entrada, sala com janela, cozinha e quarto**, mobília comum (não de luxo). ★
+- [ ] **3.2** Anotar o link, o nome do espaço e o autor (para os créditos e o link «Visita 3D»). ★
+- [ ] **3.3** Ensaiar o roteiro «A casa pelos olhos da D. Rosa» sem gravar: Entrada → Sala (cadeira, parede com quadros, janela) → Cozinha (zona do relógio) → Quarto → de volta à porta. Em cada paragem, 3–4 s parado.
+- [ ] **3.4** Gravar o ecrã: browser em ecrã inteiro (F11), notificações desligadas (Assistente de foco), Xbox Game Bar `Win+Alt+R` para começar e parar. 30–60 s. Gravar 2 vezes, ficar com a melhor. ★
+- [ ] **3.5** Tags no vídeo: abrir o **Clipchamp** (já vem no Windows 11) → importar a gravação → em cada paragem, Texto com fundo azul ou laranja, durante os 3–4 s da paragem: ★
+
+  | Paragem | Título | Texto | Cor |
+  |---|---|---|---|
+  | Sala | L1 · Cadeira habitual | É aqui que a D. Rosa se senta todas as manhãs. Um lugar fixo ajuda-a a orientar-se. | azul |
+  | Sala | L1 · Fotografias | As caras conhecidas lembram-lhe quem é e quem está com ela. | azul |
+  | Sala (janela) | L1 · Quando a crise chega | Fumo, sirenes, luzes: num incêndio ou num bombardeamento, é por aqui que a crise entra. Para a D. Rosa, o mundo deixa de fazer sentido. | azul |
+  | Cozinha | L1 · Relógio / rotina | As horas das refeições marcam o dia. Numa crise ou num confinamento, manter estas horas ajuda a acalmar. | azul |
+  | Entrada (porta) | L1 · Sair à força | Uma cheia, um incêndio ou uma guerra podem obrigar a sair por esta porta sem tempo. Para a D. Rosa, é deixar tudo o que conhece. | azul |
+  | Quarto | L1 · E a Ana? Onde descansa? | Quem cuida também precisa de um sítio e de um tempo para descansar. | laranja |
+
+  Se o espaço não tiver o objeto (ex.: relógio), a etiqueta fica na zona onde estaria.
+- [ ] **3.6** Exportar do Clipchamp em 1080p → `L1_Visita3D.mp4` (fora do git).
+- [ ] **3.7** 6 capturas para o PDF: pausar o vídeo em cada etiqueta → `Win+Shift+S` → guardar.
+- [ ] **3.8** Diap. 6: Inserir → Vídeo → `L1_Visita3D.mp4` → Reprodução: Iniciar «Automaticamente», ecrã inteiro. Apagar o lugar reservado. ★
+
+### Bloco 4 · Voz da L1 (14:00, 1 h 30) ★
+- [ ] **4.1** Sítio: quarto pequeno com tecidos, janelas fechadas, sem ventoinha, telemóvel em silêncio. Água à mão.
+- [ ] **4.2** PowerPoint → Gravar → Definições: escolher o microfone; **câmara desligada** (sem avatar nem cara nas lições).
+- [ ] **4.3** Teste de 20 s: gravar só o diap. 1, ouvir com auscultadores. Sem ruído, sem eco, volume igual nos dois lados. Se falhar, mudar de sítio ou aproximar o microfone. ★
+- [ ] **4.4** Gravar → Desde o início. Ler as notas (o PowerPoint mostra-as no teleponto). Clicar nos `[clique]`. **No diap. 6 ficar calado** até o vídeo da visita acabar, e só depois avançar. ★
+- [ ] **4.5** Ouvir cada diapositivo logo a seguir. Se um falhar: ir a esse diapositivo → Limpar → «Limpar gravação no diapositivo atual» → Gravar a partir do diapositivo atual. ★
+- [ ] **4.6** Ver os tempos: gancho (1–4) ≈ 1:05 · conteúdo (5–8) ≈ 2:55 com a visita · síntese (9–10) ≈ 0:25.
+
+### Bloco 5 · Avatar da teórica (15:30, 45 min)
+Detalhe em `ComposicaoVisual_Tutorial_DID_Bruno.md`.
+- [ ] **5.1** studio.d-id.com → criar conta (*Sign up*) → ver se o plano gratuito deixa criar avatar a partir de **vídeo** (*Avatars* → *Create avatar*). Se não deixar → plano B: avatar a partir de **foto** (tirada no 5.3).
+- [ ] **5.2** Áudio (passo 2): telemóvel a ≈ 20 cm, gravador de voz, 1 s de silêncio → guião devagar → 1 s de silêncio. 2–3 takes, ficar com o melhor → `ComposicaoVisual_Avatar_Bruno_Audio.mp3`.
+- [ ] **5.3** Vídeo-fonte (passo 3): parede clara, luz de janela à frente, telemóvel na horizontal à altura dos olhos, 1080p. Cabeça e ombros, olhar na lente, 2–3 s parado no início e no fim, 1–2 min a falar (ler o guião 3–4 vezes).
+- [ ] **5.4** Passar o MP4 original para o PC por cabo ou Drive (nunca WhatsApp).
+- [ ] **5.5** Carregar o vídeo no D-ID (passo 4) e aceitar o consentimento. Fica a processar; o vídeo gera-se na segunda.
+
+### Bloco 6 · Exportar e Udemy (16:15, 1 h 30) ★
+- [ ] **6.1** Exportar os 3 vídeos. Para cada um: ocultar os outros diapositivos (botão direito → Ocultar diapositivo) → Ficheiro → Exportar → Criar um vídeo → **Full HD (1080p)** → «Utilizar narrações e intervalos gravados» → guardar. Enquanto exporta, passar ao 6.2. ★
+  - `L1_Aula1_Gancho.mp4` = diap. 1–4
+  - `L1_Aula2_Conteudo.mp4` = diap. 5–8
+  - `L1_Aula4_Sintese.mp4` = diap. 9–10
+- [ ] **6.2** Udemy → Gerir curso → Currículo → secção 1: criar as aulas que faltam e arrastá-las para esta ordem: Aula 1 gancho · Aula 2 conteúdo · Aula 3 reflexão · Teste 1 · Aula 4 síntese. ★
+- [ ] **6.3** Carregar cada vídeo na sua aula (+ Conteúdo → Vídeo). ★
+- [ ] **6.4** Aula 3 (reflexão): texto do guião §3 (com «incêndio, uma cheia ou uma guerra») + recurso «Visita 3D» com o link do Discover (opcional, nunca preciso para o quiz). ★
+- [ ] **6.5** Teste 1: P4 «Deslocação forçada» com o feedback de cada opção, copiado do guião §4. ★
+- [ ] **6.6** Legendas: se a Udemy tiver legendas automáticas em português, pedi-las e rever com o guião. Se não tiver, fica para o S6.
+- [ ] **6.7** Ver se os vídeos passam a revisão de qualidade (HD, áudio limpo).
+
+### Bloco 7 · Testar e PDF (17:45, 1 h 30) ★
+- [ ] **7.1** «Pré-visualizar como aluno» no **computador**: ordem das aulas, vídeos com som, feedback de cada opção do quiz, link 3D abre. ★
+- [ ] **7.2** O mesmo no **telemóvel** (app ou browser).
+- [ ] **7.3** Capturas: secção 1 em vista de aluno · 3–4 fotogramas de cada vídeo · quiz com feedback · reflexão. ★
+- [ ] **7.4** Word: `Files/P1/L1/S5_Prototipo_L1_Grupo1.docx` com as 8 secções do §6 do `S5_Plano_L1.md`: ★
+  1. Capa: curso, L1, Bruno Lopes (1240441), S5, data.
+  2. Ponto de situação: os 5 pedidos do enunciado com o estado, e o que mudou desde o S4 (feedback do S3, vídeo dividido, tags novas, plano B do Matterport).
+  3. Estrutura na Udemy: captura + tabela das aulas com duração.
+  4. Vídeos: links + fotogramas.
+  5. Matterport: as 6 capturas com etiquetas, o roteiro, o link «Visita 3D» e o crédito do espaço Discover.
+  6. Avaliação: reflexão e quiz (capturas com feedback).
+  7. Coerência com as outras lições: modelo comum, cores, voz própria sem avatar, estrutura das aulas, Storyset.
+  8. Próximos passos para o S6: casa da D. Rosa capturada pelo grupo, legendas, decisões em aberto.
+- [ ] **7.5** Créditos no fim do documento: Storyset (links), música (nome da faixa), espaço Discover (autor e link).
+
+### Fecho (19:15, 10 min)
+- [ ] **8.1** Commit do guião, deste plano e do `.docx` (os vídeos ficam fora do git).
+- [ ] **8.2** Anotar o que ficou por fazer → passa para segunda.
 
 ---
 
-## 3. Dom 25/10 · Gravar (tudo numa sessão)
-
-Ordem pensada para gastar a voz no fim e não mudar de sítio mais do que uma vez.
-
-| # | Hora | O quê | Duração final | Pronto quando |
-|---|---|---|---|---|
-| G1 | Manhã | Matterport: captura da casa com o grupo. Se não houver casa até às 12h → plano B Matterport Discover | — | Espaço «não listado» com link |
-| G2 | Manhã | Pôr as 6 tags (azul/laranja, prefixo «L1 ·») | — | As 6 tags abrem no telemóvel |
-| G3 | Manhã | Gravar a visita com o roteiro D1 | 30–60 s | MP4 1080p, sem pop-ups nem rato a tremer |
-| G4 | Tarde | Teste de áudio: 20 s, ouvir com auscultadores | — | Sem ruído, sem eco, volume igual nos dois lados |
-| G5 | Tarde | Narração da L1: PowerPoint → Gravar, diap. 1–5 e 7–10 (o 6 é a visita) | 1:05 + 2:15 + 0:25 | Um take bom por diapositivo; regravar só o que falhar |
-| G6 | Tarde | Áudio do avatar (passo 2): 2–3 takes, 1 s de silêncio antes e depois | ≈ 25 s | `ComposicaoVisual_Avatar_Bruno_Audio.mp3` escolhido |
-| G7 | Tarde | Vídeo-fonte do avatar (passo 3) | 1–2 min | MP4 original no PC (sem passar pelo WhatsApp) |
-| G8 | Fim do dia | Carregar o vídeo-fonte no D-ID (passo 4) | — | Avatar a processar durante a noite |
-
-Os ficheiros de vídeo e de áudio ficam **fora do git** (OneDrive).
-
----
-
-## 4. Seg 26/10 · Montar
-
-| # | Tarefa | Pronto quando |
-|---|---|---|
-| M1 | Visita (G3) no diap. 6 | O vídeo corre sozinho, sem clique |
-| M2 | Exportar 3 vídeos (ocultar os outros diapositivos antes de cada um) | Aula 1 = diap. 1–4 · Aula 2 = diap. 5–8 · Aula 4 = diap. 9–10 · Full HD 1080p |
-| M3 | Subir as Aulas 1, 2 e 4 na Udemy | Passam a revisão de qualidade (HD, áudio limpo) |
-| M4 | Legendas | Automáticas (PT) na Udemy, revistas frase a frase com o guião |
-| M5 | Link «Visita 3D» nos recursos da Aula 3 | Abre o espaço não listado; opcional, nunca preciso para o quiz |
-| M6 | Testar como aluno | Telemóvel e computador: ordem das aulas, feedback de cada opção, link 3D |
-| M7 | Capturas e PDF | Secções 3–6 do PDF preenchidas (vista de aluno, 3–4 fotogramas por vídeo, tags, quiz) |
-| M8 | Avatar: gerar e rever (passos 5–6) | Checklist do passo 6 cumprida · MP4 descarregado |
-| M9 | Avatar: guardar e partilhar (passo 7) | MP4 + `.vtt` com tempos certos + `.jpg` em `Files/Teoricas/Avatares/` · enviado ao grupo |
-
----
-
-## 5. Ter 27/10 e Qua 28/10 · Entregar
+## 2. Depois de domingo
 
 | Dia | Tarefa |
 |---|---|
-| Ter 27/10 | Rever o PDF · exportar `S5_Prototipo_L1_Grupo1.pdf` · **submeter no Moodle antes da PL** |
+| Seg 26/10 | Avatar: gerar o vídeo com o MP3 (passo 5) · rever (passo 6) · MP4 + `.vtt` + `.jpg` em `Files/Teoricas/Avatares/` · enviar ao grupo (passo 7) · o que ficou por fazer no domingo |
+| Ter 27/10 | Rever o `.docx` → exportar `S5_Prototipo_L1_Grupo1.pdf` → **submeter no Moodle antes da PL** |
 | Qua 28/10 | **Entregar o avatar na teórica** (onde a professora indicar) |
 
 ---
 
-## 6. Em aberto com o grupo
+## 3. Se o domingo apertar: o que cortar, por esta ordem
+
+1. Legendas (6.6) → S6.
+2. Teste no telemóvel (7.2) → segunda.
+3. Música e sons (2.8–2.9) → S6; a narração chega.
+4. Animações das palavras (2.7).
+5. Bloco 5 (avatar) → segunda, mas o D-ID pode demorar horas a processar: a entrega é só na quarta.
+
+**Nunca cortar:** a voz, o Matterport (é obrigatório), os 3 vídeos na Udemy e o PDF.
+
+---
+
+## 4. Em aberto com o grupo
 
 | Questão | Afeta |
 |---|---|
-| Que casa capturamos, onde e a que horas no domingo | L1: sem casa até às 12h → plano B Discover |
 | Confirmar que **ninguém** usa avatar no P1 (o D-ID é só da teórica) | L1 |
 | Estrutura da Udemy igual em todas (gancho e conteúdo em aulas separadas) | L1 |
-| Música e pacote de ilustrações comuns (Storyset ou unDraw) | L1 |
+| Mesmo estilo Storyset e mesma música nas 5 lições | L1 |
+| Quando se captura a casa da D. Rosa (passa para o S6) | L1 |
 | Feedback do S4 já chegou? | L1: registar no §2 do plano da L1 |
 | Atualizar o Gantt (S5–S8) | L1: pedido do enunciado «se necessário» |
 | Especificações comuns dos avatares (20–30 s, 16:9, voz própria, ≤ 15 MB) | Teórica |
 | Quem revê os 5 avatares (26–27/10) e quando se integram na página | Teórica |
 
----
-
-## 7. Riscos da semana
+## 5. Riscos
 
 | Risco | Mitigação |
 |---|---|
-| Domingo demasiado cheio | Hoje fica tudo preparado: no domingo só se lê e se grava. Sábado é margem |
-| Casa não capturada a tempo | Plano B Discover às 12h do próprio domingo |
-| Voz cansada no fim do dia | Narração da L1 antes do áudio do avatar; água e pausas |
-| Um take falha e só se nota na segunda | Ouvir cada diapositivo logo depois de gravar (G5) |
-| D-ID demora a processar o avatar | Carregar o vídeo-fonte no domingo à noite; gerar na segunda |
-| D-ID gratuito não deixa avatar a partir de vídeo | Verificado hoje (D6); plano B foto |
-| A Udemy recusa o vídeo na revisão | Subir na segunda de manhã, para ter tempo de corrigir antes de terça |
+| O dia não chega | Seguir os ★ primeiro; cortar pela ordem do §3 |
+| Voz cansada | Voz da L1 antes do áudio do avatar; água e pausas |
+| Um take falha e só se nota depois | Ouvir cada diapositivo logo a seguir (4.5) |
+| A exportação demora | Exportar e, enquanto isso, montar a Udemy (6.1–6.2) |
+| A Udemy recusa o vídeo | 1080p, áudio limpo; corrigir na segunda |
+| D-ID gratuito sem avatar de vídeo | Plano B foto (5.1) |
+| Espaço Discover sem as divisões do roteiro | Escolher outro no 3.1; etiqueta na zona onde estaria o objeto |

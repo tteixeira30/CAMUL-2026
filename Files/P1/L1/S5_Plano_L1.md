@@ -38,9 +38,9 @@ Continua o `S4_Plano_L1.md`. No S4 ficou feito o guião, o vídeo em PowerPoint 
 |---|---|
 | Voz | A minha voz, gravada no PowerPoint. Sem avatar (igual à L2) |
 | Estrutura na Udemy | **Separar o vídeo 1.1 em gancho e conteúdo**, como a L2 (Aula 5 gancho · Aula 6 conteúdo). Fica: Aula 1 gancho (diap. 1–4, ≈ 1 min) · Aula 2 conteúdo (5–8, ≈ 3 min) · Aula 3 reflexão · Teste 1 · Aula 4 síntese (9–10). Assim bate com o padrão do S3 e com a numeração da L2, que começa na Aula 5 |
-| Ilustrações | Planas, Storyset ou unDraw, recoloridas a azul/laranja; mesmo estilo das da L2 (combinar com o Tiago); guardar as licenças |
+| Ilustrações | **Storyset** (decidido a 23/10), planas, um só estilo, recoloridas a azul/laranja; avisar o Tiago do estilo para a L2 bater certo; guardar as licenças |
 | Música | Biblioteca de Áudio do YouTube, calma, a mesma nas 5 lições se o grupo aceitar |
-| Matterport | Casa da D. Rosa (captura do grupo). Se não estiver capturada até dom 25/10 de manhã → plano B: espaço do Matterport Discover, gravado e com as tags mostradas em capturas anotadas |
+| Matterport | **Plano B** (decidido a 23/10): espaço do Matterport Discover, gravado e com as tags mostradas em capturas anotadas. A casa da D. Rosa (captura do grupo) fica para o S6 |
 | Entrega | 1 PDF: `S5_Prototipo_L1_Grupo1.pdf` (links para os vídeos e para a secção 1 da Udemy) |
 
 ---
