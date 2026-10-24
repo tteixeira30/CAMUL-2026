@@ -11,6 +11,7 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `Files/` | Trabalhos a entregar | **Onde se trabalha** |
 | `Files/P1/P1_Enunciado.pdf` | Enunciado do P1 (requisitos, avaliação, roadmap S1–S8) | Fonte de verdade dos requisitos |
 | `Files/S5_Plano_Semana_Bruno.md`, `.html` | Plano do Bruno para dom 25/10: S5 da L1 e avatar D-ID da teórica, passo a passo por blocos (o .html tem caixas e progresso) | Nota de trabalho; ramo `bruno-semana` |
+| `Files/S5_Plano_Semana_Tiago.md`, `.html` | Plano do Tiago para dom 25/10 (e sáb 24/10 à noite): S5 da L2 e avatar D-ID da teórica, no mesmo formato do do Bruno | Nota de trabalho; ramo `s5-l2` |
 | `Files/P1/` | Entregas do P1 (MOOC) | Ver tabela abaixo |
 | `Files/Teoricas/` | Trabalho das teóricas: apresentação «A cor azul» (`CorAzul_*`) e composição visual (`ComposicaoVisual_*`, ver secção «Teóricas») | Independente do P1 |
 | `Aulas/` | Slides das aulas 2026/27 (`CAMUL_2026_2027_Aula{1,2,3}_TP_PL.pdf`), Composição visual (`Aula3_Composição Visual sn (audio).pdf`, Paula Escudeiro), QEF (`Aula3_QEF PBL Active Learning sn_EN.pdf`, artigo `QualityCritEducGames_ICST2012_Rev.docx`, modelo `QEF_Final.xlsx`), Masterclass «Da Comunidade ao MOOC» (Sara de Sousa, só imagem), aulas antigas (design, usabilidade, SUS, multimédia e aprendizagem, Mayer/Clark) | Só contexto |
@@ -35,6 +36,7 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `L1/S4_Evidencias_L1_Grupo1.docx` | S4 — entrega: primeiras evidências de produção (5 evidências do enunciado) | Atualizado a 19/10; exportar para PDF antes de submeter. Quiz e reflexão já na Udemy (rever no S5); Matterport, voz e vídeos no S5 |
 | `L2/` | Tudo o que é só da L2 (Tiago); ramo `s4-producao-l2` | Mesma estrutura da L1 |
 | `L2/S4_Plano_L2.md` | S4 — plano da L2: evidências, decisões, calendário, estrutura do PDF | Nota de trabalho |
+| `L2/S5_Plano_L2.md` | S5 — plano da L2: protótipo (vídeos com voz, planos de pormenor, Matterport no mesmo espaço Discover da L1, Udemy), tags e atividade com as crises (feedback do S3), estrutura do PDF | Nota de trabalho |
 | `L2/S4_Guiao_L2.md` | S4 — guião, atividade «Complete o kit», quiz com feedback, tags e roteiro Matterport «Caça ao kit», próximos passos | **Fonte da narração**: as notas do `.pptx` e o guião do `.docx` vêm daqui |
 | `L2/S4_Video_L2.pptx` | S4 — vídeo da L2 (11 diapositivos no modelo comum, narração nas notas) | Planos de pormenor, ilustrações, voz e MP4 passam para o S5 |
 | `L2/Recursos/S4_*_L2.pdf` (+ `.html`, `recursos.css`) | Recursos da Aula 7 (atividade da L2): checklist do kit, ficha da pessoa, plano de apoio (1 página A4 cada) | O `.html` é a fonte; o PDF imprime-se com o Edge (`--headless --print-to-pdf --no-pdf-header-footer`) |
