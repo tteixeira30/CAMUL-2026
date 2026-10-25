@@ -10,7 +10,7 @@
 - Voz própria, câmara desligada, sem avatar nas lições.
 
 **Decisões de 25/10:**
-- Espaço Discover → **escolho eu** (0.1). A L1 usa o mesmo, por isso o link vai para o Bruno (0.5).
+- Espaço Discover → **Apartamento Turístico «La Tarasca»** (Zamora, Espanha), partilhado por **Inmobarrios**: https://discover.matterport.com/space/R1sZEUzLrz9. Escolhi eu (0.1); a L1 usa o mesmo, por isso o link vai para o Bruno (0.5).
 - Storyset → estilo **Amico**.
 - Música → **«High Class», de Benjamin Andrews**, a mesma da L1 (`Files/P1/P1_Musica_High_Class_Benjamin_Andrews.mp3`, no `main`).
 
@@ -22,12 +22,12 @@ Ficheiros que vais usar: `Files/P1/L2/S4_Guiao_L2.md` (narração exata, ativida
 
 ## 0. Sábado 24/10 à noite (45 min)
 
-- [ ] **0.1** discover.matterport.com → procurar *house*, *home*, *apartment* (de preferência *Portugal*). O espaço tem de servir **as duas lições**: entrada com porta, corredor, sala com janela, cadeira ou sofá e parede com quadros, cozinha com frigorífico, quarto. Mobília comum, não de luxo. ★
-- [ ] **0.2** Anotar o link, o nome do espaço e o autor (créditos e link «Visita 3D»). ★
+- [x] **0.1** discover.matterport.com → procurar *house*, *home*, *apartment* (de preferência *Portugal*). O espaço tem de servir **as duas lições**: entrada com porta, corredor, sala com janela, cadeira ou sofá e parede com quadros, cozinha com frigorífico, quarto. Mobília comum, não de luxo. ★ → **Apartamento Turístico «La Tarasca»** (25/10).
+- [x] **0.2** Anotar o link, o nome do espaço e o autor (créditos e link «Visita 3D»). ★ → https://discover.matterport.com/space/R1sZEUzLrz9 · Apartamento Turístico «La Tarasca», C. San Basilio 7, Zamora (Espanha) · partilhado por Inmobarrios · captado com Ricoh Theta Z1.
 - [x] **0.3** Storyset: escolher **um** estilo (ex.: Amico, Bro, Cuate, Pana, Rafiki). Ver se tem uma mulher de meia-idade e uma senhora idosa em várias cenas. → **Amico** (25/10).
 - [x] **0.4** Música: studio.youtube.com → Biblioteca de áudio → filtro *Calmo*, sem atribuição obrigatória. Escolher 1 faixa. → **«High Class», de Benjamin Andrews**, a da L1 (25/10).
 - [ ] **0.5** Mensagem ao Bruno e ao grupo: ★
-  > «Bruno: para a L1 e a L2 serem a mesma casa, o espaço do Discover é este: ‹link›. Tem entrada, corredor, sala, cozinha e quarto. Uso o estilo Amico do Storyset e a música High Class, como a L1. Grupo: já chegou o feedback do S4? A frase "tens de aparecer e falar no vídeo" é só para quem usa avatar, certo? E atualizamos o Gantt (S5–S8)?»
+  > «Bruno: para a L1 e a L2 serem a mesma casa, o espaço do Discover é este: https://discover.matterport.com/space/R1sZEUzLrz9 (Apartamento Turístico «La Tarasca», partilhado por Inmobarrios). Tem sala, quarto, corredor e casa de banho. Uso o estilo Amico do Storyset e a música High Class, como a L1. Grupo: já chegou o feedback do S4? A frase "tens de aparecer e falar no vídeo" é só para quem usa avatar, certo? E atualizamos o Gantt (S5–S8)?»
 
 O estilo e a música são os da L1; o espaço escolho eu e a L1 usa o mesmo.
 
@@ -43,7 +43,7 @@ O estilo e a música são os da L1; o espaço escolho eu e a L1 usa o mesmo.
   - §3, atividade: o primeiro parágrafo passa a «Uma cheia, um incêndio ou um conflito armado podem obrigar a sair de casa em poucos minutos. A Ana tem dois minutos para preparar o saco da mãe. Destes 12 itens, quais vão para o kit? Escolha 8 e escreva os números num papel.»
   - §5, tags: trocar o texto de «Rede de apoio», «O kit» e «Caminho livre» pelo do `S5_Plano_L2.md`, §4.3 (com cheia, incêndio, guerra).
   - `P1_Tema_Matterport.md`, §5 (L2): acrescentar que as tags da porta, do corredor e da rede de apoio referem as crises.
-- [ ] **1.5** Ensaiar a narração **em voz alta, com cronómetro** (ainda sem gravar), cena a cena. Alvo: gancho (1–3) ≈ 45 s · conteúdo (4–9) ≈ 3:30 · síntese (10–11) ≈ 0:30. ★
+- [ ] **1.5** Ensaiar a narração **em voz alta, com cronómetro** (ainda sem gravar), cena a cena. Alvo: gancho (1–3) ≈ 45 s · conteúdo (4–9) ≈ 3:55 · síntese (10–11) ≈ 0:30. ★
 - [ ] **1.6** Cada frase em que tropeçares: reescrever mais curta, no guião **e** nas notas do `.pptx`. As notas ficam iguais ao guião. Se a voz sair lenta, cortar primeiro na cena 3d (ficar ou sair), nunca no kit. ★
 - [ ] **1.7** Marcar nas notas do `.pptx` como dizer:
   - `[pausa]` = 1 s de silêncio;
@@ -67,7 +67,7 @@ Com luz de dia. Mesa junto à janela, fundo liso (lençol ou cartolina clara), t
 - [ ] **2.2** Filmar 1 plano por objeto, 5–8 s: o objeto entra no saco aberto (a mão pode aparecer, a cara não). 2 takes de cada. ★
 - [ ] **2.3** Último plano: o saco fechado no chão, junto a uma porta.
 - [ ] **2.4** Passar os vídeos para o PC por cabo ou Drive (nunca WhatsApp: comprime). ★
-- [ ] **2.5** Clipchamp: juntar os 7 melhores planos pela ordem da narração do diap. 5 (medicação · cartão · fotografia · roupa · óculos · manta · saco à porta), cortes secos, sem som → exportar 1080p `L2_Planos_Kit.mp4` (≈ 45 s, fora do git). ★
+- [ ] **2.5** Clipchamp: juntar os 7 melhores planos pela ordem da narração do diap. 5 (medicação · cartão · fotografia · roupa · óculos · manta · saco à porta), cortes secos, sem som → exportar 1080p `S5_Planos_Kit_L2.mp4` (≈ 45 s, fora do git). ★
 
 ### Bloco 3 · Visual e som (11:00, 1 h 15)
 **Storyset** (storyset.com), estilo **Amico** (o da L1):
@@ -84,7 +84,7 @@ Com luz de dia. Mesa junto à janela, fundo liso (lençol ou cartolina clara), t
 - [ ] **3.3** Pôr as ilustrações no `.pptx`, no lugar dos retângulos «[Ilustração: …]». Apagar os retângulos. ★
 
 **No PowerPoint:**
-- [ ] **3.4** Diap. 5: Inserir → Vídeo → `L2_Planos_Kit.mp4` à esquerda → Reprodução: Iniciar «Automaticamente», sem som. À direita, a checklist do kit (8 linhas, azul), cada linha com «Aparecer», **ao clicar**. Apagar o lugar reservado. ★
+- [ ] **3.4** Diap. 5: Inserir → Vídeo → `S5_Planos_Kit_L2.mp4` à esquerda → Reprodução: Iniciar «Automaticamente», sem som. À direita, a checklist do kit (8 linhas, azul), cada linha com «Aparecer», **ao clicar**. Apagar o lugar reservado. ★
 - [ ] **3.5** Diap. 4: 3 ícones (Inserir → Ícones, já têm licença): saco (azul), ficha/documento (azul), telefone (laranja). Mesma cor e tamanho, numa linha. ★
 - [ ] **3.6** Diap. 7: os campos da ficha (medicamentos · como comunica · o que acalma · o que perturba · contactos) com «Aparecer», ao clicar.
 - [ ] **3.7** Diap. 8: 3 contactos à volta da Ana, um marcado «substituto»; ícones 112 e SNS 24. Diap. 9: duas colunas «Ficar» | «Sair» com ícones (casa, água, lanterna, medicação | porta, saco, seta). Diap. 10: os 3 ícones do diap. 4 com ✔. ★
@@ -96,7 +96,7 @@ Com luz de dia. Mesa junto à janela, fundo liso (lençol ou cartolina clara), t
 
 ### Bloco 4 · Matterport, plano B (13:00, 1 h) ★
 - [ ] **4.1** Abrir o espaço Discover escolhido no 0.1 (a L1 usa o mesmo). ★
-- [ ] **4.2** Ensaiar o roteiro «Caça ao kit» sem gravar: Cozinha (medicação) → Frigorífico (ficha) → Sala (manta na cadeira, fotografia na parede) → Quarto (óculos, roupa) → Telefone/gaveta (rede de apoio) → Corredor → Porta (o kit). 3–4 s parado em cada paragem. Alvo ≈ 40 s.
+- [ ] **4.2** Ensaiar o roteiro «Caça ao kit» sem gravar: Cozinha (medicação) → Frigorífico (ficha) → Sala (manta no sofá, fotografia na parede) → Quarto (óculos, roupa) → Corredor → Intercomunicador (rede de apoio) → Porta (o kit). 3–4 s parado em cada paragem. Alvo ≈ 40 s.
 - [ ] **4.3** Gravar o ecrã: browser em ecrã inteiro (F11), notificações desligadas (Assistente de foco), Xbox Game Bar `Win+Alt+R` para começar e parar. Movimentos lentos. Gravar 2 vezes, ficar com a melhor. ★
 - [ ] **4.4** Tags no vídeo: Clipchamp → importar a gravação → em cada paragem, Texto com fundo azul ou laranja, durante os 3–4 s da paragem (o mesmo tipo de etiqueta da L1). Textos com crises (✱) do `S5_Plano_L2.md`, §4.3: ★
 
@@ -104,10 +104,10 @@ Com luz de dia. Mesa junto à janela, fundo liso (lençol ou cartolina clara), t
   |---|---|---|---|
   | Cozinha | L2 · Medicação | A medicação e as receitas da D. Rosa. No kit vai o suficiente para alguns dias e a lista atualizada. | azul |
   | Frigorífico | L2 · Ficha da pessoa | Uma folha com o que a D. Rosa precisa. Uma cópia aqui, outra no kit. | azul |
-  | Sala (cadeira) | L2 · Objeto de conforto | A manta da cadeira acalma a D. Rosa. Num sítio estranho, o que é familiar ajuda. | azul |
+  | Sala (sofá) | L2 · Objeto de conforto | A manta do sofá acalma a D. Rosa. Num sítio estranho, o que é familiar ajuda. | azul |
   | Sala (parede) | L2 · Fotografia recente | Uma fotografia recente ajuda a encontrá-la se ela se perder. | azul |
   | Quarto | L2 · Óculos e roupa | Óculos de reserva, uma muda de roupa e calçado confortável. | azul |
-  | Telefone/gaveta ✱ | L2 · Rede de apoio | Três contactos e quem fica com a D. Rosa se a Ana não puder. As fotografias dos documentos no telemóvel servem mesmo que a casa se perca numa cheia ou numa guerra. | laranja |
+  | Entrada (intercomunicador) ✱ | L2 · Rede de apoio | Três contactos e quem fica com a D. Rosa se a Ana não puder. As fotografias dos documentos no telemóvel servem mesmo que a casa se perca numa cheia ou numa guerra. | laranja |
   | Corredor ✱ | L2 · Caminho livre | Com fumo ou água a entrar, sai-se à pressa. O caminho até à porta tem de estar livre. | azul |
   | Entrada (porta) ✱ | L2 · O kit | O saco fica sempre aqui, pronto a sair. Num incêndio, numa cheia ou numa guerra pode haver só minutos. | azul |
 
@@ -123,7 +123,7 @@ Com luz de dia. Mesa junto à janela, fundo liso (lençol ou cartolina clara), t
 - [ ] **5.3** Teste de 20 s: gravar só o diap. 2, ouvir com auscultadores. Sem ruído, sem eco, volume igual nos dois lados. Se falhar, mudar de sítio ou aproximar o microfone. ★
 - [ ] **5.4** Gravar → Desde o início. Ler as notas (o PowerPoint mostra-as no teleponto). Clicar nos `[clique]`. **No diap. 6** dizer a narração enquanto a visita corre e só avançar quando o vídeo acabar. ★
 - [ ] **5.5** Ouvir cada diapositivo logo a seguir. Se um falhar: ir a esse diapositivo → Limpar → «Limpar gravação no diapositivo atual» → Gravar a partir do diapositivo atual. ★
-- [ ] **5.6** Ver os tempos: gancho (1–3) ≈ 45 s · conteúdo (4–9) ≈ 3:30 com a visita · síntese (10–11) ≈ 0:30.
+- [ ] **5.6** Ver os tempos: gancho (1–3) ≈ 45 s · conteúdo (4–9) ≈ 3:55 com a visita · síntese (10–11) ≈ 0:30.
 
 ### Bloco 6 · Avatar da teórica (15:30, 45 min)
 Detalhe em `ComposicaoVisual_Tutorial_DID_Bruno.md` (os passos servem para todos; muda só o nome).

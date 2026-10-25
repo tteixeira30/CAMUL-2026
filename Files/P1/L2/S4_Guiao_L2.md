@@ -11,7 +11,7 @@ Decisões: continua a história da L1 (o mesmo alerta de incêndio, agora visto 
 | Aula | Tipo | Duração | Diapositivos (`S4_Video_L2.pptx`) |
 |---|---|---|---|
 | Aula 5 · O dia em que nada estava pronto | Vídeo (gancho) — no S5 | ≈ 45 s | 1–3 |
-| Aula 6 · Preparar antes | Vídeo (conteúdo) — no S5 | ≈ 3 min 30 s | 4–9 |
+| Aula 6 · Preparar antes | Vídeo (conteúdo) — no S5 | ≈ 3 min 55 s | 4–9 |
 | Aula 7 · Atividade: complete o kit | Artigo + 3 PDFs para descarregar (checklist, ficha da pessoa, plano de apoio) | 2 min | — |
 | Teste 2 · Quiz | Quiz (4 perguntas de escolha múltipla) | 1,5 min | — |
 | Aula 8 · Síntese e próximo passo | Vídeo — no S5 | 0,5 min | 10–11 |
@@ -30,14 +30,14 @@ Ritmo calmo ≈ 130 palavras/min. «[pausa]» = 1 s de silêncio. «Plano de por
 | **2 · Abertura** | 3 | 0:30–0:45 | Numa emergência não há tempo para procurar a receita ou lembrar o que acalma a sua mãe. [pausa] Isso prepara-se hoje. | A imagem congela e escurece. Transição para a mesma casa, calma, de dia: a Ana à mesa com um saco vazio. | Corta a sirene. Entra a música calma. |
 | **Título** | 4 | 0:45–1:00 | Nesta lição vai preparar três coisas: um kit para a pessoa de quem cuida, a ficha da pessoa e um plano de apoio para si. | Título «L2 · Preparar antes» + 3 ícones: saco (azul), ficha (azul), telefone (laranja). | Música calma. |
 | **3a · O kit** | 5 | 1:00–1:50 | Comece pelo kit: um saco leve, sempre no mesmo sítio, junto à porta de saída. Lá dentro: a medicação para alguns dias e as receitas; um documento com o diagnóstico e o seu contacto; uma fotografia recente, para o caso de a pessoa se perder; uma muda de roupa e calçado confortável; e os óculos ou o aparelho auditivo de reserva. [pausa] Há ainda uma coisa que só você sabe pôr no kit: o que a acalma. Lembra-se das três coisas que lhe dão segurança, da lição anterior? Uma manta, uma música, uma fotografia da família. Também vão para o kit. | **Planos de pormenor** em sequência, um por item, a entrar no saco: caixa de medicamentos + receita · cartão «Rosa — tem demência — contacto: Ana» (fictício) · fotografia · roupa e sapatos · óculos · manta. Lista a crescer ao lado (checklist animada, azul). | Música calma. Som suave de cada objeto a entrar no saco. |
-| **Visita 3D** | 6 | 1:50–2:30 | Na casa da D. Rosa, o que vai para o kit está espalhado: a medicação na cozinha, os documentos numa gaveta, a manta na cadeira da sala. Antes da crise, junte tudo num só sítio, junto à porta. *(narração provisória; ajustar à gravação)* | **Lugar reservado** para ≈ 40 s de visita gravada «Caça ao kit» (§5): paragens na cozinha, frigorífico, sala, quarto e porta de saída, com as tags abertas. | Música calma, baixa. |
-| **3b · Ficha da pessoa** | 7 | 2:30–3:05 | Depois, a ficha da pessoa. Numa crise, outras pessoas podem ter de cuidar de quem você cuida: um bombeiro, um voluntário, um vizinho. A ficha diz-lhes, numa só folha, o que precisam de saber: os medicamentos e as horas, como a pessoa comunica, o que a acalma, o que a perturba e a quem ligar. [pausa] Afixe uma cópia no frigorífico e guarde outra no kit. | Ilustração: a Ana a preencher a ficha. Os campos acendem-se um a um (azul). No fim, a ficha no frigorífico e uma cópia a entrar no saco. | Música calma. Som de caneta. |
-| **3c · Plano de apoio** | 8 | 3:05–3:45 | Por fim, um plano para si. E se for a Ana a ficar doente, ou a ficar separada da mãe? [pausa] Escolha três pessoas a quem pode ligar e combine com uma delas quem fica com a pessoa se você não puder. Dê-lhe uma cópia da ficha. Tire fotografias aos documentos e guarde-as no telemóvel. E tenha à mão o 112 e o SNS 24. [pausa] Pedir ajuda também faz parte do plano. | Metade laranja em destaque: a Ana ao telefone; 3 contactos à volta dela, um marcado «substituto». Ícones 112 e SNS 24. | Música calma. Toque de chamada suave. |
-| **3d · Ficar ou sair** | 9 | 3:45–4:15 | Nem todas as crises obrigam a sair. Se ficar em casa, tenha água, comida, uma lanterna e a medicação à mão. Se tiver de sair, leve o kit e saiba para onde vai. [pausa] Nos dois casos, mantenha a rotina possível: as refeições, os medicamentos e o sono às mesmas horas. | Ecrã em duas colunas: «Ficar» (casa + água, comida, lanterna, medicação) e «Sair» (porta + kit + seta para o acolhimento). Em baixo, relógio com refeições/medicação/sono. | Música calma. |
+| **Visita 3D** | 6 | 1:50–2:56 | [0 s] Vamos percorrer a casa da D. Rosa e encontrar o que vai para o kit. [pausa] Na cozinha, a medicação e as receitas. [14 s] No frigorífico, a ficha da pessoa, com uma cópia para o kit. [24 s] Na sala, a manta do sofá, que a acalma, [pausa] [32 s] e uma fotografia recente, para o caso de ela se perder. [43 s] No quarto, os óculos de reserva e uma muda de roupa. [52 s] Agora, o caminho até à porta: tem de estar livre, porque com fumo ou água a entrar sai-se à pressa. [58 s] Junto ao intercomunicador, os contactos da rede de apoio. [64 s] E aqui, junto à porta, fica o kit, pronto a sair. Num incêndio, numa cheia ou numa guerra, pode haver só minutos. *([s] = segundo do vídeo em que começa a frase; não se lê.)* | **Visita gravada** «Caça ao kit» (§5, 66 s): 8 paragens, cada uma com a sua etiqueta (azul ou laranja) a aparecer e a desaparecer com a visita. | Música calma, baixa. |
+| **3b · Ficha da pessoa** | 7 | 2:56–3:31 | Depois, a ficha da pessoa. Numa crise, outras pessoas podem ter de cuidar de quem você cuida: um bombeiro, um voluntário, um vizinho. A ficha diz-lhes, numa só folha, o que precisam de saber: os medicamentos e as horas, como a pessoa comunica, o que a acalma, o que a perturba e a quem ligar. [pausa] Afixe uma cópia no frigorífico e guarde outra no kit. | Ilustração: a Ana a preencher a ficha. Os campos acendem-se um a um (azul). No fim, a ficha no frigorífico e uma cópia a entrar no saco. | Música calma. Som de caneta. |
+| **3c · Plano de apoio** | 8 | 3:31–4:11 | Por fim, um plano para si. E se for a Ana a ficar doente, ou a ficar separada da mãe? [pausa] Escolha três pessoas a quem pode ligar e combine com uma delas quem fica com a pessoa se você não puder. Dê-lhe uma cópia da ficha. Tire fotografias aos documentos e guarde-as no telemóvel. E tenha à mão o 112 e o SNS 24. [pausa] Pedir ajuda também faz parte do plano. | Metade laranja em destaque: a Ana ao telefone; 3 contactos à volta dela, um marcado «substituto». Ícones 112 e SNS 24. | Música calma. Toque de chamada suave. |
+| **3d · Ficar ou sair** | 9 | 4:11–4:41 | Nem todas as crises obrigam a sair. Se ficar em casa, tenha água, comida, uma lanterna e a medicação à mão. Se tiver de sair, leve o kit e saiba para onde vai. [pausa] Nos dois casos, mantenha a rotina possível: as refeições, os medicamentos e o sono às mesmas horas. | Ecrã em duas colunas: «Ficar» (casa + água, comida, lanterna, medicação) e «Sair» (porta + kit + seta para o acolhimento). Em baixo, relógio com refeições/medicação/sono. | Música calma. |
 | **4 · Síntese** | 10 | 0:00–0:15 *(Aula 8)* | Um kit junto à porta, a ficha da pessoa no frigorífico e um plano de apoio para si. O que prepara hoje poupa minutos, e medo, no dia da crise. | Os 3 ícones do título com um ✔ cada (azul, azul, laranja). | Música calma. |
 | **Ponte** | 11 | 0:15–0:30 | Mas, mesmo com tudo preparado, a crise pode deixar a pessoa em pânico. Na próxima lição, vamos ver o primeiro contacto: como a acalmar, e como se acalmar a si. | Mapa das 5 lições com a L3 em destaque. | Música sobe e termina. |
 
-**Narração:** ≈ 490 palavras → Aulas 5 + 6 ≈ 4 min 15 s (gancho ≈ 45 s + conteúdo ≈ 3 min 30 s, incluindo ≈ 40 s de visita 3D); Aula 8 ≈ 30 s. Com a atividade (2 min) e o quiz (1,5 min), a lição tem ≈ 8 min. Se a voz sair mais lenta, cortar primeiro na cena 3d (ficar ou sair), não no kit.
+**Narração:** ≈ 575 palavras → Aulas 5 + 6 ≈ 4 min 40 s (gancho ≈ 45 s + conteúdo ≈ 3 min 55 s, incluindo 66 s de visita 3D); Aula 8 ≈ 30 s. Com a atividade (2 min) e o quiz (1,5 min), a lição tem ≈ 8,5 min. Se a voz sair mais lenta, cortar primeiro na cena 3d (ficar ou sair), não no kit.
 
 **Ligações às outras lições:** o gancho reaproveita o alerta de incêndio da L1 · o kit recebe as «3 coisas que dão segurança» da reflexão da L1 · a ficha da pessoa e o plano de apoio voltam na L4 (sinalizar a demência e aceitar ajuda) · a ponte abre a L3.
 
@@ -67,7 +67,7 @@ Ritmo calmo ≈ 130 palavras/min. «[pausa]» = 1 s de silêncio. «Plano de por
 >
 > Agora é a sua vez: descarregue a **ficha da pessoa** e o **plano de apoio** e preencha-os esta semana, para a pessoa de quem cuida.
 >
-> *Visita 3D (opcional):* percorra a casa da D. Rosa e encontre os itens do kit antes de ver a checklist. *(link no S5)*
+> *Visita 3D (opcional):* percorra a casa da D. Rosa e encontre os itens do kit antes de ver a checklist. [Visita 3D](https://discover.matterport.com/space/R1sZEUzLrz9)
 
 **Respostas (vão na checklist):** certos 1, 2, 3, 5, 7, 9, 11, 12. Distratores:
 - 4 → só a medicação da pessoa, para alguns dias; o saco tem de ser leve.
@@ -114,7 +114,7 @@ P1–P3 cobrem os objetivos 1 e 2 (kit e ficha da pessoa); a P4 cobre o objetivo
 
 ## 5. Matterport — «Caça ao kit»
 
-Espaço: casa da D. Rosa. No S4 só as tags e o roteiro. No S5, plano B (23/10, igual à L1): o mesmo espaço do Matterport Discover da L1, gravado, com as tags como etiquetas no vídeo; a casa capturada pelo grupo fica para o S6. Formato comum do `P1_Tema_Matterport.md`, §8.
+Espaço: casa da D. Rosa. No S4 só as tags e o roteiro. No S5, plano B (23/10, igual à L1): o mesmo espaço do Matterport Discover da L1 (Apartamento Turístico «La Tarasca», partilhado por Inmobarrios, escolhido a 25/10), gravado, com as tags como etiquetas no vídeo; a casa capturada pelo grupo fica para o S6. Formato comum do `P1_Tema_Matterport.md`, §8.
 
 ### Tags da L2
 
@@ -124,25 +124,27 @@ Com o feedback do S3 (20/10), 3 tags referem as crises (✱): incêndio, cheia, 
 |---|---|---|---|---|
 | Cozinha | L2 · Medicação | A medicação e as receitas da D. Rosa. No kit vai o suficiente para alguns dias e a lista atualizada. | azul | — |
 | Cozinha (frigorífico) | L2 · Ficha da pessoa | Uma folha com o que a D. Rosa precisa. Uma cópia aqui, outra no kit. | azul | PDF da ficha da pessoa |
-| Sala (cadeira) | L2 · Objeto de conforto | A manta da cadeira acalma a D. Rosa. Num sítio estranho, o que é familiar ajuda. | azul | — |
+| Sala (sofá) | L2 · Objeto de conforto | A manta do sofá acalma a D. Rosa. Num sítio estranho, o que é familiar ajuda. | azul | — |
 | Sala (parede) | L2 · Fotografia recente | Uma fotografia recente ajuda a encontrá-la se ela se perder. | azul | — |
 | Quarto | L2 · Óculos e roupa | Óculos de reserva, uma muda de roupa e calçado confortável. | azul | — |
-| Sala (telefone/gaveta) ✱ | L2 · Rede de apoio | Três contactos e quem fica com a D. Rosa se a Ana não puder. As fotografias dos documentos no telemóvel servem mesmo que a casa se perca numa cheia ou numa guerra. | laranja | PDF do plano de apoio |
+| Entrada (intercomunicador) ✱ | L2 · Rede de apoio | Três contactos e quem fica com a D. Rosa se a Ana não puder. As fotografias dos documentos no telemóvel servem mesmo que a casa se perca numa cheia ou numa guerra. | laranja | PDF do plano de apoio |
 | Entrada (porta) ✱ | L2 · O kit | O saco fica sempre aqui, pronto a sair. Num incêndio, numa cheia ou numa guerra pode haver só minutos. | azul | PDF da checklist |
 | Corredor ✱ | L2 · Caminho livre | Com fumo ou água a entrar, sai-se à pressa. O caminho até à porta tem de estar livre. | azul | — (usar a medição no vídeo) |
 
-### Roteiro da visita guiada (6 paragens, ≈ 40 s gravados)
+### Roteiro da visita guiada (8 paragens, 66 s gravados a 25/10)
 
-| # | Paragem | O que se vê / diz |
-|---|---|---|
-| 1 | Cozinha | Tag «Medicação» aberta |
-| 2 | Frigorífico | Tag «Ficha da pessoa» aberta |
-| 3 | Sala | Cadeira com a manta + fotografias na parede |
-| 4 | Quarto | Óculos e roupa |
-| 5 | Telefone/gaveta | Tag laranja «Rede de apoio» |
-| 6 | Corredor → porta | Medição do corredor + tag «O kit» junto à porta |
+| # | Paragem | Etiqueta | Parado (s) | Etiqueta à vista (s) |
+|---|---|---|---|---|
+| 1 | Cozinha | «Medicação» | 0–7,5 | 0,5–10 |
+| 2 | Frigorífico | «Ficha da pessoa» | 14–16,5 | 14,5–19 |
+| 3 | Sala: sofá | «Objeto de conforto» | 24–27,5 | 24,5–30 |
+| 4 | Sala: quadros | «Fotografia recente» | 31,5–35,5 | 32–38 |
+| 5 | Quarto | «Óculos e roupa» | 43–48,5 | 43,5–51 |
+| 6 | Corredor | «Caminho livre» | 52–55 | 52,5–57 |
+| 7 | Entrada: intercomunicador | «Rede de apoio» (laranja) | 57,5–60,5 | 58–63 |
+| 8 | Porta de entrada | «O kit» | 63,5–66 | 64–fim |
 
-Gravação: Xbox Game Bar (`Win+Alt+R`) ou OBS, 1080p, movimentos lentos, 3–4 s parado em cada tag aberta.
+Gravação: Xbox Game Bar (`Win+Alt+R`), browser em ecrã inteiro, 3–4 s parado em cada paragem → `S5_Visita3D_L2.mp4` (fora do git). As etiquetas são caixas do PowerPoint no diap. 6, com entrada e saída temporizadas pelo vídeo.
 
 ---
 
@@ -179,5 +181,5 @@ Decidido a 20/10 (como a L1, 19/10): a voz, os vídeos, os planos de pormenor, a
 | 6 | Subir o gancho (YouTube não listado ou OneDrive) e pôr o link no documento | S5 | ☐ |
 | 7 | Criar a atividade (§3, com os 3 PDFs como recursos) e o quiz (§4) na Udemy, secção 2 (Aula 7 e Teste 2) · testar em «Pré-visualizar como aluno» | S4 | ☑ (20/10; rever no S5) |
 | 8 | Modelos em PDF: checklist do kit, ficha da pessoa, plano de apoio (`Recursos/`) | S4 | ☑ |
-| 9 | Matterport: decidir com o grupo que casa capturar e quando · tags da L2 (§5) · gravar a «Caça ao kit» (≈ 40 s) | S5 | ☐ |
+| 9 | Matterport: decidir com o grupo que casa capturar e quando · tags da L2 (§5) · gravar a «Caça ao kit» (≈ 40 s) | S5 | ☑ (25/10: plano B, «La Tarasca», 66 s, 8 etiquetas no diap. 6) |
 | 10 | `S4_Evidencias_L2_Grupo1.docx` atualizado e exportado para PDF (20/10) → submeter no Moodle **antes da PL de 20/10** | S4 | ☐ |

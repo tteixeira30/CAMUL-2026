@@ -14,7 +14,7 @@ Continua o `S4_Plano_L2.md`. No S4 ficou feito o guião, o vídeo em PowerPoint 
 |---|---|---|---|
 | 1 | Estrutura e conteúdos já concretizados | Secção 2 da Udemy completa, com os textos finais | Aulas 5–8 + Teste 2 criados; atividade e quiz com texto; faltam os vídeos |
 | 2 | Recursos multimédia principais | 3 vídeos em MP4 1080p com voz, ilustrações, planos de pormenor e música | Diapositivos com lugares reservados |
-| 3 | Matterport funcional ou em fase avançada | Visita «Caça ao kit» gravada (≈ 40 s) com as 8 tags da L2, dentro do vídeo de conteúdo + link «Visita 3D» | Só tags e roteiro |
+| 3 | Matterport funcional ou em fase avançada | Visita «Caça ao kit» gravada (66 s) com as 8 tags da L2, dentro do vídeo de conteúdo + link «Visita 3D» | Só tags e roteiro |
 | 4 | Atividades/questões de avaliação | Atividade e quiz revistos com o feedback do S3, testados como aluno | Criados a 20/10; a atividade ainda não refere uma crise |
 | 5 | Atualização do Gantt, se necessária | Do grupo (S5–S8 mudaram: trabalho individual por lição) | Por decidir |
 
@@ -39,11 +39,11 @@ As mesmas da L1 (23/10), para as lições baterem certo.
 | Tema | Decisão |
 |---|---|
 | Voz | A minha voz, gravada no PowerPoint, câmara desligada. Sem avatar (igual à L1) |
-| Estrutura na Udemy | Já está como a L1 passa a ter: Aula 5 gancho (diap. 1–3, ≈ 45 s) · Aula 6 conteúdo (4–9, ≈ 3:30) · Aula 7 atividade · Teste 2 · Aula 8 síntese (10–11, ≈ 0:30) |
+| Estrutura na Udemy | Já está como a L1 passa a ter: Aula 5 gancho (diap. 1–3, ≈ 45 s) · Aula 6 conteúdo (4–9, ≈ 3:55) · Aula 7 atividade · Teste 2 · Aula 8 síntese (10–11, ≈ 0:30) |
 | Ilustrações | **Storyset**, estilo **Amico** (o mesmo da L1, 25/10), recoloridas a azul/laranja; guardar as licenças |
 | Planos de pormenor | Filmados com o telemóvel (só a L2): objetos do kit em fundo liso, sem pessoas nem dados reais. Juntos num só clipe no Clipchamp, para o diap. 5 |
 | Música | **«High Class», de Benjamin Andrews**, a mesma da L1 (`Files/P1/P1_Musica_High_Class_Benjamin_Andrews.mp3`) |
-| Matterport | **Plano B**: o **mesmo espaço do Matterport Discover na L1 e na L2** (a mesma «casa da D. Rosa»), escolhido por mim (25/10), gravado e com as tags como etiquetas no vídeo (Clipchamp) e em capturas no PDF. A casa capturada pelo grupo fica para o S6 |
+| Matterport | **Plano B**: o **mesmo espaço do Matterport Discover na L1 e na L2** (a mesma «casa da D. Rosa»), escolhido por mim (25/10): Apartamento Turístico «La Tarasca», partilhado por Inmobarrios, https://discover.matterport.com/space/R1sZEUzLrz9. Gravado e com as tags como etiquetas no vídeo (Clipchamp) e em capturas no PDF. A casa capturada pelo grupo fica para o S6 |
 | Entrega | 1 PDF: `S5_Prototipo_L2_Grupo1.pdf` (links para os vídeos e para a secção 2 da Udemy) |
 
 ---
@@ -70,14 +70,14 @@ Tags da L2 com o feedback do S3: as 8 do S4, com crises em 3 delas (✱).
 |---|---|---|---|
 | Cozinha | L2 · Medicação | A medicação e as receitas da D. Rosa. No kit vai o suficiente para alguns dias e a lista atualizada. | azul |
 | Cozinha (frigorífico) | L2 · Ficha da pessoa | Uma folha com o que a D. Rosa precisa. Uma cópia aqui, outra no kit. | azul |
-| Sala (cadeira) | L2 · Objeto de conforto | A manta da cadeira acalma a D. Rosa. Num sítio estranho, o que é familiar ajuda. | azul |
+| Sala (sofá) | L2 · Objeto de conforto | A manta do sofá acalma a D. Rosa. Num sítio estranho, o que é familiar ajuda. | azul |
 | Sala (parede) | L2 · Fotografia recente | Uma fotografia recente ajuda a encontrá-la se ela se perder. | azul |
 | Quarto | L2 · Óculos e roupa | Óculos de reserva, uma muda de roupa e calçado confortável. | azul |
-| Sala (telefone/gaveta) ✱ | L2 · Rede de apoio | Três contactos e quem fica com a D. Rosa se a Ana não puder. As fotografias dos documentos no telemóvel servem mesmo que a casa se perca numa cheia ou numa guerra. | laranja |
+| Entrada (intercomunicador) ✱ | L2 · Rede de apoio | Três contactos e quem fica com a D. Rosa se a Ana não puder. As fotografias dos documentos no telemóvel servem mesmo que a casa se perca numa cheia ou numa guerra. | laranja |
 | Entrada (porta) ✱ | L2 · O kit | O saco fica sempre aqui, pronto a sair. Num incêndio, numa cheia ou numa guerra pode haver só minutos. | azul |
 | Corredor ✱ | L2 · Caminho livre | Com fumo ou água a entrar, sai-se à pressa. O caminho até à porta tem de estar livre. | azul |
 
-- **Roteiro** «Caça ao kit» (6 paragens, ≈ 40 s): Cozinha (medicação) → Frigorífico (ficha) → Sala (manta, fotografia) → Quarto (óculos, roupa) → Telefone/gaveta (rede de apoio) → Corredor → Porta (o kit). 3–4 s parado em cada etiqueta.
+- **Roteiro** «Caça ao kit» (8 paragens, 66 s gravados a 25/10): Cozinha (medicação) → Frigorífico (ficha) → Sala (manta no sofá, fotografia na parede) → Quarto (óculos, roupa) → Corredor → Intercomunicador (rede de apoio) → Porta (o kit). 3–4 s parado em cada etiqueta.
 - Se o espaço não tiver o objeto (ex.: telefone), a etiqueta fica na zona onde estaria.
 - Gravar (Xbox Game Bar `Win+Alt+R`, 1080p) → etiquetas no Clipchamp → diap. 6 → exportar a Aula 6.
 - Link «Visita 3D» (espaço do Discover) na Aula 7. Opcional, nunca preciso para o quiz.
