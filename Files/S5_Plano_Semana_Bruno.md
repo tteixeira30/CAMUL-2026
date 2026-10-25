@@ -56,14 +56,14 @@ Ficheiros que vais usar: `Files/P1/L1/S4_Guiao_L1.md` (narração exata) · `Fil
 
   No editor do Storyset, mudar a cor principal para o azul ou o laranja do `P1_Modelo_Licoes.pptx` antes de descarregar. ★
 - [ ] **2.3** Guardar o link de cada ilustração num ficheiro de notas (para os créditos). O plano grátis obriga a atribuição: «Illustrations by Storyset» com link, no último diapositivo (10) e no PDF.
-- [ ] **2.4** Pôr as ilustrações no `.pptx`, no lugar dos retângulos «[Ilustração: …]». Apagar os retângulos. ★
+- [x] **2.4** Pôr as ilustrações no `.pptx`, no lugar dos retângulos «[Ilustração: …]». Apagar os retângulos. ★
 
 **No PowerPoint:**
-- [ ] **2.5** Diap. 4: 4 ícones de crise em Inserir → Ícones (já têm licença): incêndio (*fire*), cheia (*water*/*flood*), pandemia (*virus*), deslocação (*walking*/*luggage*). Mesma cor e tamanho, numa linha. ★
-- [ ] **2.6** Diap. 8: infografia Observar → Escutar → Encaminhar (3 formas com ícone + palavra). Animação «Aparecer», **ao clicar**, um passo de cada vez. ★
-- [ ] **2.7** Diap. 5 e 7: as palavras (desorientação · agitação · recusa / ansiedade · cansaço · irritação) com «Aparecer», ao clicar.
-- [ ] **2.8** Música: Biblioteca de Áudio do YouTube (studio.youtube.com → Biblioteca de áudio), filtro *Calmo*, sem atribuição obrigatória. Descarregar 1 faixa, anotar o nome. Inserir no diap. 1 → Reprodução: «Reproduzir em todos os diapositivos», volume baixo, ocultar durante a apresentação.
-- [ ] **2.9** Sons (Biblioteca de Áudio, separador Efeitos sonoros): tique-taque no diap. 1, sirene + toque de alerta no diap. 3. Volume baixo.
+- [x] **2.5** Diap. 4: 4 ícones de crise em Inserir → Ícones (já têm licença): incêndio (*fire*), cheia (*water*/*flood*), pandemia (*virus*), deslocação (*walking*/*luggage*). Mesma cor e tamanho, numa linha. ★
+- [x] **2.6** Diap. 8: infografia Observar → Escutar → Encaminhar (3 formas com ícone + palavra). Animação «Aparecer», **ao clicar**, um passo de cada vez. ★
+- [x] **2.7** Diap. 5 e 7: as palavras (desorientação · agitação · recusa / ansiedade · cansaço · irritação) com «Aparecer», ao clicar.
+- [x] **2.8** Música: Biblioteca de Áudio do YouTube (studio.youtube.com → Biblioteca de áudio), filtro *Calmo*, sem atribuição obrigatória. Descarregar 1 faixa, anotar o nome. Inserir no diap. 1 → Reprodução: «Reproduzir em todos os diapositivos», volume baixo, ocultar durante a apresentação.
+- [x] **2.9** Sons (Biblioteca de Áudio, separador Efeitos sonoros): tique-taque no diap. 1, sirene + toque de alerta no diap. 3. Volume baixo.
 - [ ] **2.10** Passar a apresentação do 1 ao 10 (F5): tudo aparece na ordem da narração, sem falhas. ★
 
 ### Almoço (12:15 – 13:00)

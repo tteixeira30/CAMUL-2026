@@ -10,12 +10,13 @@ Decisões: o incêndio é **só o exemplo** do gancho (a lição vale para qualq
 
 | Aula | Tipo | Duração | Diapositivos (`S4_Video_L1.pptx`) |
 |---|---|---|---|
-| 1.1 Crise, demência e quem cuida | Vídeo | ≈ 4 min (gancho 1 + conteúdo 3) | 1–8 |
-| 1.2 O que dá segurança? | Texto (reflexão) | 2 min | — |
-| 1.3 Teste a compreensão | Quiz (4 perguntas) | 1,5 min | — |
-| 1.4 Síntese e próxima lição | Vídeo | 0,5 min | 9–10 |
+| Aula 1 · Crise, demência e quem cuida | Vídeo (gancho) | ≈ 1:05 | 1–4 |
+| Aula 2 · A pessoa, quem cuida e os 3 passos | Vídeo (conteúdo) | ≈ 2:55 | 5–8 |
+| Aula 3 · O que dá segurança? | Texto (reflexão) | 2 min | — |
+| Teste 1 · Teste a compreensão | Quiz (4 perguntas) | 1,5 min | — |
+| Aula 4 · Síntese e próxima lição | Vídeo | ≈ 0:25 | 9–10 |
 
-Para exportar o vídeo 1.4 à parte: ocultar os diapositivos 1–8 (e vice-versa) antes de «Exportar → Criar um vídeo».
+Para exportar cada vídeo à parte (Aulas 1, 2 e 4): ocultar os outros diapositivos antes de «Exportar → Criar um vídeo».
 
 ---
 
@@ -32,16 +33,16 @@ Ritmo calmo ≈ 130 palavras/min. «[pausa]» = 1 s de silêncio.
 | **Visita 3D** | 6 | 1:50–2:30 | *(a gravar com o Matterport: «A casa pelos olhos da D. Rosa», paragens na cadeira, nas fotografias, no relógio e na cozinha)* | **Lugar reservado** para 30–60 s de visita gravada. | — |
 | **3b · Quem cuida** | 7 | 2:30–3:10 | E a Ana? Também sente o choque: ansiedade, cansaço, irritação, dificuldade em pensar com clareza. São reações normais a uma situação que não é normal. Mas a Ana já vinha cansada. E numa crise perde, muitas vezes, a ajuda que tinha: o centro de dia, os vizinhos, a família. Nos planos de emergência, as pessoas com demência e quem cuida delas ficam muitas vezes esquecidas. Se a Ana não cuidar de si, não consegue cuidar da mãe. | Ecrã dividido, metade laranja em destaque: Ana cansada. Palavras: ansiedade · cansaço · irritação. | Música calma. |
 | **4 · Os 3 passos** | 8 | 3:10–4:00 | Há uma forma simples de ajudar nestes momentos: os primeiros socorros psicológicos. Não são terapia e não é preciso ser profissional. São três passos. [pausa] Observar: ver se há perigo, do que a pessoa precisa e como está a reagir. E como está você. [pausa] Escutar: aproximar-se com calma, ouvir sem pressa, ajudar a acalmar. [pausa] Encaminhar: responder às necessidades básicas e saber a quem pedir ajuda. [pausa] Neste curso, vai aplicar estes três passos à pessoa de quem cuida, e a si. | Infografia Observar → Escutar → Encaminhar, um passo de cada vez. | Música calma. |
-| **5 · Síntese** | 9 | 0:00–0:12 *(vídeo 1.4)* | Numa crise, a pessoa com demência perde as suas referências, e quem cuida fica sob pressão. Observar, escutar e encaminhar ajuda os dois. | Síntese em 2 linhas (azul e laranja) + os 3 passos. | Música calma. |
+| **5 · Síntese** | 9 | 0:00–0:12 *(Aula 4)* | Numa crise, a pessoa com demência perde as suas referências, e quem cuida fica sob pressão. Observar, escutar e encaminhar ajuda os dois. | Síntese em 2 linhas (azul e laranja) + os 3 passos. | Música calma. |
 | **Ponte** | 10 | 0:12–0:25 | Mas há muito que pode fazer antes de a crise chegar. É isso que vamos ver na próxima lição: preparar antes. | Mapa das 5 lições com a L2 em destaque. | Música sobe e termina. |
 
-**Narração:** ≈ 420 palavras → vídeo 1.1 ≈ 4 min (incluindo 40 s de visita 3D); vídeo 1.4 ≈ 25 s. Com a atividade (2 min) e o quiz (1,5 min), a lição tem ≈ 8 min. Se a voz sair mais rápida, alongar a visita 3D, não a narração.
+**Narração:** ≈ 420 palavras → Aula 1 ≈ 1:05 + Aula 2 ≈ 2:55 (incluindo 40 s de visita 3D); Aula 4 ≈ 25 s. Com a atividade (2 min) e o quiz (1,5 min), a lição tem ≈ 8 min. Se a voz sair mais rápida, alongar a visita 3D, não a narração.
 
 **Fontes:** OMS (2011) *Psychological First Aid* — os 3 passos (*look, listen, link*) · ADI (2019) *Forgotten in a Crisis* — pessoas com demência esquecidas nos planos de emergência · ADI (2022) *Advice for carers… during times of crisis* — reações do cuidador e perda de apoio.
 
 ---
 
-## 3. Atividade (aula 1.2, texto)
+## 3. Atividade (Aula 3, texto)
 
 > **O que dá segurança?**
 > Pense na pessoa de quem cuida. Que três coisas a fazem sentir-se segura em casa? Pode ser um objeto, um hábito, uma pessoa, uma música… Se tivessem de sair de casa de repente, por um incêndio, uma cheia ou uma guerra, o que levaria consigo?
@@ -53,7 +54,7 @@ Registo pessoal, sem correção. Ponte natural para a L2 (kit de emergência com
 
 ---
 
-## 4. Quiz (aula 1.3)
+## 4. Quiz (Teste 1)
 
 Escolha múltipla, uma resposta certa. A Udemy deixa escrever uma explicação para cada opção → feedback «Certo, porque…» / «Ainda não: …». ✔ = certa.
 
