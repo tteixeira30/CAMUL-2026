@@ -136,4 +136,4 @@ O prazo está apertado. Decidido a 20/10: no S4 entram o guião, o vídeo em Pow
 - `Files/P1/P1_Enunciado.pdf` — Semana 4 e roadmap
 - `Files/P1/S3_MOOC_Template_Grupo1.xlsx` — linha da Lição 2
 - `Files/P1/P1_Tema_Matterport.md` — §5 (L2), §8 (fluxo de trabalho)
-- Ramo `s4-producao-l1` — `Files/P1/L1/S4_Plano_L1.md` e `S4_Guiao_L1.md` (formato e fio condutor)
+- Ramo `s4-producao-l1` — `Files/P1/L1/S4_Plano_L1.md` e `Guiao_L1.md` (formato e fio condutor)

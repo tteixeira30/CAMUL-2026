@@ -48,7 +48,7 @@ Continua o `S4_Plano_L1.md`. No S4 ficou feito o guião, o vídeo em PowerPoint 
 ## 4. Trabalho por pedido
 
 ### 4.1 Estrutura e conteúdos
-- Atualizar o §1 do `S4_Guiao_L1.md`/`.html` com a nova divisão em aulas (§3).
+- Atualizar o §1 do `Guiao_L1.md`/`.html` com a nova divisão em aulas (§3).
 - Ler a narração em voz alta (notas do `.pptx`) e corrigir as frases que soam mal; mudar também no guião.
 - Na Udemy: criar as Aulas 1, 2 e 4 (vídeo) e reordenar a secção 1.
 
@@ -138,6 +138,6 @@ Só trabalho na L1 a 21, 23, 25 e 27/10. O 27 é dia de entrega: só rever e sub
 ## Fontes
 
 - `Files/P1/P1_Enunciado.pdf` — Semana 5
-- `Files/P1/L1/S4_Plano_L1.md`, `S4_Guiao_L1.md`, `S4_Evidencias_L1_Grupo1.docx` — o que ficou para o S5
+- `Files/P1/L1/S4_Plano_L1.md`, `Guiao_L1.md`, `S4_Evidencias_L1_Grupo1.docx` — o que ficou para o S5
 - `Files/P1/L2/S4_Guiao_L2.md` — estrutura da Udemy e formato da L2 (coerência)
 - `Files/P1/P1_Tema_Matterport.md` — §5 (L1), §7 (Udemy), §8 (fluxo de trabalho)

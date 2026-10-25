@@ -10,7 +10,7 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 |---|---|---|
 | `Files/` | Trabalhos a entregar | **Onde se trabalha** |
 | `Files/P1/P1_Enunciado.pdf` | Enunciado do P1 (requisitos, avaliação, roadmap S1–S8) | Fonte de verdade dos requisitos |
-| `Files/S5_Plano_Semana_Bruno.md`, `.html` | Plano do Bruno para dom 25/10: S5 da L1 e avatar D-ID da teórica, passo a passo por blocos (o .html tem caixas e progresso) | Nota de trabalho; ramo `bruno-semana` |
+| `Files/P1_Plano_Bruno.md`, `.html` | Plano do Bruno até ao fim do P1 (S5 → S8, 10/11): o que está feito e as tarefas de cada entrega, da L1 e do grupo | Nota de trabalho; o .html (caixas e progresso) gera-se a partir do .md |
 | `Files/P1/` | Entregas do P1 (MOOC) | Ver tabela abaixo |
 | `Files/Teoricas/` | Trabalho das teóricas: apresentação «A cor azul» (`CorAzul_*`) e composição visual (`ComposicaoVisual_*`, ver secção «Teóricas») | Independente do P1 |
 | `Aulas/` | Slides das aulas 2026/27 (`CAMUL_2026_2027_Aula{1,2,3}_TP_PL.pdf`), Composição visual (`Aula3_Composição Visual sn (audio).pdf`, Paula Escudeiro), QEF (`Aula3_QEF PBL Active Learning sn_EN.pdf`, artigo `QualityCritEducGames_ICST2012_Rev.docx`, modelo `QEF_Final.xlsx`), Masterclass «Da Comunidade ao MOOC» (Sara de Sousa, só imagem), aulas antigas (design, usabilidade, SUS, multimédia e aprendizagem, Mayer/Clark) | Só contexto |
@@ -30,7 +30,7 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `L1/` | Tudo o que é só da L1 (Bruno) | Ver abaixo |
 | `L1/S4_Plano_L1.md` | S4 — plano da L1: evidências, calendário, estrutura do PDF | Nota de trabalho |
 | `L1/S5_Plano_L1.md`, `L1/S5_Plano_L1.html` | S5 — plano da L1: protótipo (vídeos com voz, Matterport, Udemy), feedback do S3, calendário até 27/10 | Nota de trabalho |
-| `L1/S4_Guiao_L1.md`, `L1/S4_Guiao_L1.html` | S4 — guião (narração exata por cena), atividade, quiz com feedback, próximos passos | **Fonte da narração**: as notas do `.pptx` e o guião do `.docx` vêm daqui |
+| `L1/Guiao_L1.md` | Guião da L1, do S4 ao S8 (narração exata por cena), atividade, quiz com feedback, próximos passos | **Fonte da narração**: as notas do `.pptx` e o guião do `.docx` vêm daqui |
 | `L1/S4_Video_L1.pptx` | S4 — vídeo da L1 (1 diapositivo por cena, narração nas notas) | Ilustrações, voz e MP4 passam para o S5 |
 | `L1/S4_Evidencias_L1_Grupo1.docx` | S4 — entrega: primeiras evidências de produção (5 evidências do enunciado) | Atualizado a 19/10; exportar para PDF antes de submeter. Quiz e reflexão já na Udemy (rever no S5); Matterport, voz e vídeos no S5 |
 | `L2/` | Tudo o que é só da L2 (Tiago); ramo `s4-producao-l2` | Mesma estrutura da L1 |
@@ -47,7 +47,7 @@ Cada lição tem a sua pasta `Files/P1/L<n>/`; o que é geral fica em `Files/P1/
 `<Prefixo>_<Descrição>[_Grupo1].<ext>`: palavras separadas por `_`, cada uma com maiúscula inicial, sem acentos nem espaços.
 - **Prefixo:** a etapa (`S1`…`S8`); `P1` para o que serve o projeto todo; o nome do trabalho nas teóricas (`CorAzul`).
 - **`_Grupo1`:** só nos ficheiros que se entregam. As notas de trabalho (`.md`) não levam este sufixo.
-- **Exceção:** o S2 mantém o nome do enunciado (`MOOC-choice_planning`).
+- **Exceções:** o S2 mantém o nome do enunciado (`MOOC-choice_planning`); o guião de cada lição é `Guiao_L<n>.md`, sem etapa, porque serve até ao S8.
 - Ao renomear um ficheiro, atualizar as referências a ele (este ficheiro e os `.md`).
 
 ## O P1 em resumo
@@ -129,7 +129,7 @@ Os mesmos factos aparecem em vários ficheiros. Quando um muda, atualizar todos:
 - **Título, lições e responsáveis das lições:** `P1_Tema_Matterport.md`, S2 (.docx), `S2_Gantt_Grupo1.xlsx` (título), S3 (.xlsx).
 - **Número de lições e duração:** 5 × ≈ 8 min ≈ 40 min, em todo o lado.
 - **Tarefas e semanas do Gantt:** o Gantt do S2 (.docx) e o `.xlsx` têm de coincidir.
-- **`.md` e `.html` com o mesmo nome** (ex.: `S4_Guiao_L1`): o `.html` é a versão visual do `.md`; qualquer alteração a um faz-se também no outro.
+- **`.md` e `.html` com o mesmo nome** (ex.: `S5_Plano_L1`): o `.html` é a versão visual do `.md`; qualquer alteração a um faz-se também no outro.
 - Não inventar estatísticas nem fontes; reutilizar as que já estão nos documentos (Alzheimer Portugal, OCDE 2017, ISS out. 2025, ADI 2019/2022, OMS 2011, Lei n.º 100/2019).
 - O S2 já não tem limite de 2 páginas (reentrega); o Gantt fica numa página própria.
 

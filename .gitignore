@@ -1,0 +1,4 @@
+# Vídeos das lições (grandes; ficam fora do git)
+Files/P1/**/L[0-9]_*.mp4
+# Ficheiros temporários do Office
+~$*
