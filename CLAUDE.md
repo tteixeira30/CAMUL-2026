@@ -11,6 +11,7 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `Files/` | Trabalhos a entregar | **Onde se trabalha** |
 | `Files/P1/P1_Enunciado.pdf` | Enunciado do P1 (requisitos, avaliação, roadmap S1–S8) | Fonte de verdade dos requisitos |
 | `Files/P1_Plano_Bruno.md`, `.html` | Plano do Bruno até ao fim do P1 (S5 → S8, 10/11): o que está feito e as tarefas de cada entrega, da L1 e do grupo | Nota de trabalho; o .html (caixas e progresso) gera-se a partir do .md |
+| `Files/S5_Plano_Semana_Tiago.md`, `.html` | Plano do Tiago para dom 25/10 (e sáb 24/10 à noite): S5 da L2 e avatar D-ID da teórica, passo a passo por blocos | Nota de trabalho; ramo `s5-l2` |
 | `Files/P1/` | Entregas do P1 (MOOC) | Ver tabela abaixo |
 | `Files/Teoricas/` | Trabalho das teóricas: apresentação «A cor azul» (`CorAzul_*`) e composição visual (`ComposicaoVisual_*`, ver secção «Teóricas») | Independente do P1 |
 | `Aulas/` | Slides das aulas 2026/27 (`CAMUL_2026_2027_Aula{1,2,3}_TP_PL.pdf`), Composição visual (`Aula3_Composição Visual sn (audio).pdf`, Paula Escudeiro), QEF (`Aula3_QEF PBL Active Learning sn_EN.pdf`, artigo `QualityCritEducGames_ICST2012_Rev.docx`, modelo `QEF_Final.xlsx`), Masterclass «Da Comunidade ao MOOC» (Sara de Sousa, só imagem), aulas antigas (design, usabilidade, SUS, multimédia e aprendizagem, Mayer/Clark) | Só contexto |
@@ -33,10 +34,12 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `L1/Guiao_L1.md` | Guião da L1, do S4 ao S8 (narração exata por cena), atividade, quiz com feedback, próximos passos | **Fonte da narração**: as notas do `.pptx` e o guião do `.docx` vêm daqui |
 | `L1/S4_Video_L1.pptx` | S4 — vídeo da L1 (1 diapositivo por cena, narração nas notas) | Ilustrações, voz e MP4 passam para o S5 |
 | `L1/S4_Evidencias_L1_Grupo1.docx` | S4 — entrega: primeiras evidências de produção (5 evidências do enunciado) | Atualizado a 19/10; exportar para PDF antes de submeter. Quiz e reflexão já na Udemy (rever no S5); Matterport, voz e vídeos no S5 |
-| `L2/` | Tudo o que é só da L2 (Tiago); ramo `s4-producao-l2` | Mesma estrutura da L1 |
+| `L2/` | Tudo o que é só da L2 (Tiago); ramo `s5-l2` | Mesma estrutura da L1 |
 | `L2/S4_Plano_L2.md` | S4 — plano da L2: evidências, decisões, calendário, estrutura do PDF | Nota de trabalho |
+| `L2/S5_Plano_L2.md` | S5 — plano da L2: protótipo (vídeos com voz, planos de pormenor, Matterport no mesmo espaço Discover da L1, Udemy), tags e atividade com as crises (feedback do S3), estrutura do PDF | Nota de trabalho |
 | `L2/S4_Guiao_L2.md` | S4 — guião, atividade «Complete o kit», quiz com feedback, tags e roteiro Matterport «Caça ao kit», próximos passos | **Fonte da narração**: as notas do `.pptx` e o guião do `.docx` vêm daqui |
-| `L2/S4_Video_L2.pptx` | S4 — vídeo da L2 (11 diapositivos no modelo comum, narração nas notas) | Planos de pormenor, ilustrações, voz e MP4 passam para o S5 |
+| `L2/S4_Video_L2.pptx` | Vídeo da L2 (11 diapositivos no modelo comum, narração nas notas e gravada a 25/10) | Ilustrações Storyset (`S5_Ilustracao_*_L2.png`), ícones, música e sons. Os vídeos dos diap. 5 e 6 estão **ligados** (`S5_Planos_Kit_L2.mp4`, `S5_Visita3D_L2.mp4`, fora do git): não mudar o nome nem o sítio. Exporta-se por aula → `L2_Aula5_Gancho.mp4`, `L2_Aula6_Conteudo.mp4`, `L2_Aula8_Sintese.mp4` (fora do git) |
+| `L2/S5_Prototipo_L2_Grupo1.docx`, `.pdf` | S5 — entrega da L2: protótipo (11 páginas) | Feito a 25/10; submeter o PDF no Moodle até 27/10 |
 | `L2/Recursos/S4_*_L2.pdf` (+ `.html`, `recursos.css`) | Recursos da Aula 7 (atividade da L2): checklist do kit, ficha da pessoa, plano de apoio (1 página A4 cada) | O `.html` é a fonte; o PDF imprime-se com o Edge (`--headless --print-to-pdf --no-pdf-header-footer`) |
 | `L2/S4_Evidencias_L2_Grupo1.docx`, `.pdf` | S4 — entrega da L2 (mesmo formato da L1) | Atualizado a 20/10 (PDF exportado). Udemy, secção 2 «Preparar antes»: Aulas 5–8 + Teste 2, como a L1; Aula 7 (artigo + 3 PDFs) e Teste 2 (4 perguntas) feitos a 20/10, rever no S5; Matterport, voz e vídeos no S5 |
 
@@ -139,3 +142,4 @@ Os mesmos factos aparecem em vários ficheiros. Quando um muda, atualizar todos:
 - **Há:** Node 22, `unzip`, `pdftotext` (Git Bash), Word e Excel (COM via PowerShell).
 - Editar .docx/.xlsx: `unzip` para uma pasta temporária → editar o XML (script Node ou `sed`) → voltar a zipar com `System.IO.Compression` no PowerShell. Os nomes das entradas usam `/`, sem prefixo de pasta, e `[Content_Types].xml` vem primeiro. `Compress-Archive` não serve.
 - Validar abrindo no Word/Excel por COM (`Documents.Open` / `Workbooks.Open`, só leitura); `ExportAsFixedFormat(path, 17)` exporta PDF e `ComputeStatistics(2)` conta as páginas.
+- **PowerPoint → vídeo:** a exportação (`CreateVideo` ou Ficheiro → Exportar) fica parada nos 0 MB se a aceleração gráfica estiver ligada; tem de estar marcado «Desativar a aceleração de gráficos de hardware da apresentação de diapositivos» (Opções → Avançadas → Ecrã). Nos diapositivos com vídeo, usar `TimeLine.MainSequence.AddEffect(..., 83, ...)` e nunca `AnimationSettings.PlaySettings` depois de haver outras animações: o modelo antigo apaga-as.

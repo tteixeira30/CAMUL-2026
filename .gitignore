@@ -1,4 +1,6 @@
 # Vídeos das lições (grandes; ficam fora do git)
 Files/P1/**/L[0-9]_*.mp4
+# Vídeos da L2: grandes, ficam fora do git (entram no .pptx e na Udemy)
+Files/P1/L2/*.mp4
 # Ficheiros temporários do Office
 ~$*
