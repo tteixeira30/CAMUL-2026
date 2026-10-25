@@ -40,10 +40,10 @@ As mesmas da L1 (23/10), para as lições baterem certo.
 |---|---|
 | Voz | A minha voz, gravada no PowerPoint, câmara desligada. Sem avatar (igual à L1) |
 | Estrutura na Udemy | Já está como a L1 passa a ter: Aula 5 gancho (diap. 1–3, ≈ 45 s) · Aula 6 conteúdo (4–9, ≈ 3:30) · Aula 7 atividade · Teste 2 · Aula 8 síntese (10–11, ≈ 0:30) |
-| Ilustrações | **Storyset**, o mesmo estilo da L1, recoloridas a azul/laranja; guardar as licenças |
+| Ilustrações | **Storyset**, estilo **Amico** (o mesmo da L1, 25/10), recoloridas a azul/laranja; guardar as licenças |
 | Planos de pormenor | Filmados com o telemóvel (só a L2): objetos do kit em fundo liso, sem pessoas nem dados reais. Juntos num só clipe no Clipchamp, para o diap. 5 |
-| Música | A mesma faixa da L1 (Biblioteca de Áudio do YouTube) |
-| Matterport | **Plano B**: o **mesmo espaço do Matterport Discover da L1** (a mesma «casa da D. Rosa»), gravado e com as tags como etiquetas no vídeo (Clipchamp) e em capturas no PDF. A casa capturada pelo grupo fica para o S6 |
+| Música | **«High Class», de Benjamin Andrews**, a mesma da L1 (`Files/P1/P1_Musica_High_Class_Benjamin_Andrews.mp3`) |
+| Matterport | **Plano B**: o **mesmo espaço do Matterport Discover na L1 e na L2** (a mesma «casa da D. Rosa»), escolhido por mim (25/10), gravado e com as tags como etiquetas no vídeo (Clipchamp) e em capturas no PDF. A casa capturada pelo grupo fica para o S6 |
 | Entrega | 1 PDF: `S5_Prototipo_L2_Grupo1.pdf` (links para os vídeos e para a secção 2 da Udemy) |
 
 ---
@@ -56,10 +56,10 @@ As mesmas da L1 (23/10), para as lições baterem certo.
 - Diap. 6: acertar a narração provisória da visita depois de ver o espaço Discover.
 
 ### 4.2 Recursos multimédia
-- **Ilustrações** (Storyset): Ana a abrir gavetas e D. Rosa inquieta (diap. 1–2) · casa calma com saco vazio (diap. 3) · Ana a preencher a ficha (diap. 7) · Ana ao telefone (diap. 8).
+- **Ilustrações** (Storyset, estilo Amico): Ana a abrir gavetas e D. Rosa inquieta (diap. 1–2) · casa calma com saco vazio (diap. 3) · Ana a preencher a ficha (diap. 7) · Ana ao telefone (diap. 8).
 - **Planos de pormenor** (5–8 s cada, 1080p, na horizontal): medicação + receita · cartão «Rosa — tem demência — contacto: Ana» · fotografia · roupa e sapatos · óculos · manta · saco junto à porta.
 - **Grafismo no PowerPoint:** 3 ícones do título (saco, ficha, telefone) · checklist a crescer (diap. 5) · campos da ficha a acender (diap. 7) · 112 e SNS 24 (diap. 8) · Ficar | Sair (diap. 9) · ✔ nos 3 ícones (diap. 10).
-- **Som:** a mesma música da L1; sirene (a mesma da L1) e relógio no gancho; caneta e toque de chamada baixos.
+- **Som:** «High Class» (a música da L1); a sirene e o relógio da L1 no gancho (`L1/S5_Som_Sirene_L1.mp3`, `L1/S5_Som_Relogio_L1.mp3`); caneta e toque de chamada baixos.
 - **Teste de áudio** de 20 s → gravar a voz → exportar os 3 vídeos em Full HD 1080p → Udemy.
 - **Legendas:** automáticas da Udemy (PT), revistas com o guião; se não houver, ficam para o S6.
 
@@ -125,9 +125,9 @@ Igual à L1.
 
 | Questão | Impacto na L2 |
 |---|---|
-| O mesmo espaço Discover na L1 e na L2 (e nas outras) | Sem isso, deixa de ser «a casa da D. Rosa» |
+| O mesmo espaço Discover nas outras lições (L1 e L2: escolho eu, 25/10) | Sem isso, deixa de ser «a casa da D. Rosa» |
 | «Tens de aparecer e falar no vídeo»: vale só para quem usa avatar? | Se valer para todos, as 5 lições mudam (câmara ligada) |
-| Mesmo estilo Storyset e mesma música nas 5 lições | Unidade visual e sonora |
+| Mesmo estilo Storyset e mesma música nas outras 3 lições (L1 e L2: Amico e «High Class», 25/10) | Unidade visual e sonora |
 | Planos de pormenor filmados (só a L2) | Não destoam se tiverem fundo liso e as cores do modelo |
 | Quando se captura a casa da D. Rosa (S6) | Eu coordeno o Matterport (`P1_Tema_Matterport.md`, §8) |
 | Atualizar o Gantt (S5–S8) | Pedido do enunciado «se necessário» |

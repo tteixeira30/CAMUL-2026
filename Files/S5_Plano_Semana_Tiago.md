@@ -9,6 +9,11 @@
 - Ilustrações → **Storyset**, um só estilo, o mesmo da L1.
 - Voz própria, câmara desligada, sem avatar nas lições.
 
+**Decisões de 25/10:**
+- Espaço Discover → **escolho eu** (0.1). A L1 usa o mesmo, por isso o link vai para o Bruno (0.5).
+- Storyset → estilo **Amico**.
+- Música → **«High Class», de Benjamin Andrews**, a mesma da L1 (`Files/P1/P1_Musica_High_Class_Benjamin_Andrews.mp3`, no `main`).
+
 **Legenda:** ★ = mínimo para entregar o S5. Se o dia apertar, corta-se pela ordem do §3.
 
 Ficheiros que vais usar: `Files/P1/L2/S4_Guiao_L2.md` (narração exata, atividade, tags) · `Files/P1/L2/S4_Video_L2.pptx` · `Files/P1/L2/S5_Plano_L2.md` (decisões, tags com crises, §6 estrutura do PDF) · `Files/Teoricas/ComposicaoVisual_Regras_Tiago.md` (guião do avatar) · `Files/Teoricas/ComposicaoVisual_Tutorial_DID_Bruno.md` (avatar, passos 1–7).
@@ -19,12 +24,12 @@ Ficheiros que vais usar: `Files/P1/L2/S4_Guiao_L2.md` (narração exata, ativida
 
 - [ ] **0.1** discover.matterport.com → procurar *house*, *home*, *apartment* (de preferência *Portugal*). O espaço tem de servir **as duas lições**: entrada com porta, corredor, sala com janela, cadeira ou sofá e parede com quadros, cozinha com frigorífico, quarto. Mobília comum, não de luxo. ★
 - [ ] **0.2** Anotar o link, o nome do espaço e o autor (créditos e link «Visita 3D»). ★
-- [ ] **0.3** Storyset: escolher **um** estilo (ex.: Amico, Bro, Cuate, Pana, Rafiki). Ver se tem uma mulher de meia-idade e uma senhora idosa em várias cenas.
-- [ ] **0.4** Música: studio.youtube.com → Biblioteca de áudio → filtro *Calmo*, sem atribuição obrigatória. Escolher 1 faixa.
+- [x] **0.3** Storyset: escolher **um** estilo (ex.: Amico, Bro, Cuate, Pana, Rafiki). Ver se tem uma mulher de meia-idade e uma senhora idosa em várias cenas. → **Amico** (25/10).
+- [x] **0.4** Música: studio.youtube.com → Biblioteca de áudio → filtro *Calmo*, sem atribuição obrigatória. Escolher 1 faixa. → **«High Class», de Benjamin Andrews**, a da L1 (25/10).
 - [ ] **0.5** Mensagem ao Bruno e ao grupo: ★
-  > «Bruno: para a L1 e a L2 serem a mesma casa, proponho este espaço do Discover: ‹link›. Tem entrada, corredor, sala, cozinha e quarto. Para o Storyset proponho o estilo ‹nome› e para a música ‹faixa›. Se já escolheste outros, uso os teus. Grupo: já chegou o feedback do S4? A frase "tens de aparecer e falar no vídeo" é só para quem usa avatar, certo? E atualizamos o Gantt (S5–S8)?»
+  > «Bruno: para a L1 e a L2 serem a mesma casa, o espaço do Discover é este: ‹link›. Tem entrada, corredor, sala, cozinha e quarto. Uso o estilo Amico do Storyset e a música High Class, como a L1. Grupo: já chegou o feedback do S4? A frase "tens de aparecer e falar no vídeo" é só para quem usa avatar, certo? E atualizamos o Gantt (S5–S8)?»
 
-Se o Bruno responder com outro espaço, estilo ou música, **usa os dele**.
+O estilo e a música são os da L1; o espaço escolho eu e a L1 usa o mesmo.
 
 ---
 
@@ -32,7 +37,7 @@ Se o Bruno responder com outro espaço, estilo ou música, **usa os dele**.
 
 ### Bloco 1 · O que dizer (09:00, 1 h 15) ★
 - [ ] **1.1** Abrir: `S4_Video_L2.pptx`, `S4_Guiao_L2.md`, `S5_Plano_L2.md`, a Udemy (secção 2) e este plano. Telemóvel a carregar (câmara dos planos de pormenor e do avatar).
-- [ ] **1.2** Ver se o Bruno respondeu (espaço, estilo, música). ★
+- [x] **1.2** Ver se o Bruno respondeu (espaço, estilo, música). ★ → decisões de 25/10, no topo.
 - [x] **1.3** Guião §7, tarefa 5: o gancho são os diapositivos **1–3** (não 1–4), como no §1.
 - [x] **1.4** Feedback do S3 no guião (`S4_Guiao_L2.md`): ★
   - §3, atividade: o primeiro parágrafo passa a «Uma cheia, um incêndio ou um conflito armado podem obrigar a sair de casa em poucos minutos. A Ana tem dois minutos para preparar o saco da mãe. Destes 12 itens, quais vão para o kit? Escolha 8 e escreva os números num papel.»
@@ -65,7 +70,7 @@ Com luz de dia. Mesa junto à janela, fundo liso (lençol ou cartolina clara), t
 - [ ] **2.5** Clipchamp: juntar os 7 melhores planos pela ordem da narração do diap. 5 (medicação · cartão · fotografia · roupa · óculos · manta · saco à porta), cortes secos, sem som → exportar 1080p `L2_Planos_Kit.mp4` (≈ 45 s, fora do git). ★
 
 ### Bloco 3 · Visual e som (11:00, 1 h 15)
-**Storyset** (storyset.com), no estilo combinado com o Bruno:
+**Storyset** (storyset.com), estilo **Amico** (o da L1):
 - [ ] **3.1** Descarregar (PNG, fundo transparente) as ilustrações. No editor, mudar a cor principal para o azul ou o laranja do `P1_Modelo_Licoes.pptx` antes de descarregar: ★
 
   | Diap. | Ilustração | Procurar por | Cor |
@@ -83,14 +88,14 @@ Com luz de dia. Mesa junto à janela, fundo liso (lençol ou cartolina clara), t
 - [ ] **3.5** Diap. 4: 3 ícones (Inserir → Ícones, já têm licença): saco (azul), ficha/documento (azul), telefone (laranja). Mesma cor e tamanho, numa linha. ★
 - [ ] **3.6** Diap. 7: os campos da ficha (medicamentos · como comunica · o que acalma · o que perturba · contactos) com «Aparecer», ao clicar.
 - [ ] **3.7** Diap. 8: 3 contactos à volta da Ana, um marcado «substituto»; ícones 112 e SNS 24. Diap. 9: duas colunas «Ficar» | «Sair» com ícones (casa, água, lanterna, medicação | porta, saco, seta). Diap. 10: os 3 ícones do diap. 4 com ✔. ★
-- [ ] **3.8** Música: a mesma faixa da L1. Inserir no diap. 1 → Reprodução: «Reproduzir em todos os diapositivos», volume baixo, ocultar durante a apresentação.
-- [ ] **3.9** Sons (Biblioteca de Áudio, separador Efeitos sonoros): sirene ao longe e relógio rápido nos diap. 1–2 (a mesma sirene da L1, se possível); caneta no diap. 7; toque de chamada no diap. 8. Volume baixo.
+- [ ] **3.8** Música: «High Class», de Benjamin Andrews (`Files/P1/P1_Musica_High_Class_Benjamin_Andrews.mp3`, a da L1). Inserir no diap. 1 → Reprodução: «Reproduzir em todos os diapositivos», volume baixo, ocultar durante a apresentação.
+- [ ] **3.9** Sons: sirene ao longe e relógio rápido nos diap. 1–2, os da L1 (`Files/P1/L1/S5_Som_Sirene_L1.mp3` e `S5_Som_Relogio_L1.mp3`); caneta no diap. 7 e toque de chamada no diap. 8 (Biblioteca de Áudio, separador Efeitos sonoros). Volume baixo.
 - [ ] **3.10** Passar a apresentação do 1 ao 11 (F5): tudo aparece na ordem da narração, sem falhas. ★
 
 ### Almoço (12:15 – 13:00)
 
 ### Bloco 4 · Matterport, plano B (13:00, 1 h) ★
-- [ ] **4.1** Abrir o espaço Discover combinado com o Bruno (o da L1). ★
+- [ ] **4.1** Abrir o espaço Discover escolhido no 0.1 (a L1 usa o mesmo). ★
 - [ ] **4.2** Ensaiar o roteiro «Caça ao kit» sem gravar: Cozinha (medicação) → Frigorífico (ficha) → Sala (manta na cadeira, fotografia na parede) → Quarto (óculos, roupa) → Telefone/gaveta (rede de apoio) → Corredor → Porta (o kit). 3–4 s parado em cada paragem. Alvo ≈ 40 s.
 - [ ] **4.3** Gravar o ecrã: browser em ecrã inteiro (F11), notificações desligadas (Assistente de foco), Xbox Game Bar `Win+Alt+R` para começar e parar. Movimentos lentos. Gravar 2 vezes, ficar com a melhor. ★
 - [ ] **4.4** Tags no vídeo: Clipchamp → importar a gravação → em cada paragem, Texto com fundo azul ou laranja, durante os 3–4 s da paragem (o mesmo tipo de etiqueta da L1). Textos com crises (✱) do `S5_Plano_L2.md`, §4.3: ★
@@ -188,9 +193,9 @@ Detalhe em `ComposicaoVisual_Tutorial_DID_Bruno.md` (os passos servem para todos
 
 | Questão | Afeta |
 |---|---|
-| O mesmo espaço Discover na L1 e na L2 (e nas outras lições) | L2 |
+| O mesmo espaço Discover nas outras lições (L1 e L2: escolho eu, 25/10) | L2 |
 | «Tens de aparecer e falar no vídeo»: só para quem usa avatar? | L2 (se for para todos, câmara ligada nas 5 lições) |
-| Mesmo estilo Storyset e mesma música nas 5 lições | L2 |
+| Mesmo estilo Storyset e mesma música nas outras 3 lições (L1 e L2: Amico e «High Class», 25/10) | L2 |
 | Quando se captura a casa da D. Rosa (S6; eu coordeno o Matterport) | L2 |
 | Feedback do S4 já chegou? | L2: registar no §2 do `S5_Plano_L2.md` |
 | Atualizar o Gantt (S5–S8) | L2: pedido do enunciado «se necessário» |
@@ -202,7 +207,7 @@ Detalhe em `ComposicaoVisual_Tutorial_DID_Bruno.md` (os passos servem para todos
 | Risco | Mitigação |
 |---|---|
 | O dia não chega | Seguir os ★ primeiro; cortar pela ordem do §3 |
-| O Bruno escolhe outro espaço Discover | Usar o dele; o roteiro adapta-se (etiqueta na zona onde estaria o objeto) |
+| O espaço escolhido não serve a L1 | Escolher a pensar nas duas lições (0.1) e confirmar com o Bruno antes de gravar; o roteiro adapta-se (etiqueta na zona onde estaria o objeto) |
 | Dia escuro para os planos de pormenor | Filmar logo de manhã, junto à janela; plano B no §3 |
 | Dados pessoais nos planos de pormenor | Nomes tapados, cartão fictício «Rosa», fotografia sem rosto real |
 | Voz cansada | Voz da L2 antes do áudio do avatar; água e pausas |
