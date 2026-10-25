@@ -74,6 +74,7 @@ Fio condutor: **é sempre a mesma casa da D. Rosa e da Ana**. Duas cores de tags
 - Onde guardar o kit (junto à porta de saída) e onde afixar a ficha da pessoa (frigorífico); tag com link para o PDF da ficha.
 - Medir o corredor até à porta: o caminho de saída está livre?
 - Tag laranja no telefone/agenda: rede de 3 contactos e quem substitui o cuidador.
+- Feedback do S3 (20/10): as tags da porta («O kit»), do corredor («Caminho livre») e da rede de apoio referem as crises (incêndio, cheia, guerra). Texto das tags em `L2/S4_Guiao_L2.md`, §5.
 
 **L3 — Primeiro contacto: acalmar (Rodrigo)**
 - «Reduzir estímulos»: na sala onde a cena acontece, tags nas fontes de estímulo (TV/rádio com notícias, janela com luzes de emergência, espelho, porta da rua) e no «canto calmo».

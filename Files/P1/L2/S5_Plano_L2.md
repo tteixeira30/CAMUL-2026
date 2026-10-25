@@ -26,7 +26,7 @@ Continua o `S4_Plano_L2.md`. No S4 ficou feito o guião, o vídeo em PowerPoint 
 
 - **S3 (20/10):** os cenários de crise (guerras e conflitos armados, catástrofes naturais, calamidades, deslocações forçadas) têm de estar nas **atividades e no Matterport**, não só no vídeo.
   - Na L2 já estão no vídeo (alerta de incêndio, ficar ou sair) e no quiz (centro de acolhimento, a Ana doente durante a crise).
-  - Falta: a atividade (§4.4) e as tags (§4.3).
+  - Falta: a atividade (§4.4) e as tags (§4.3). → No guião e no `P1_Tema_Matterport.md` já estão (25/10); na Udemy entra no bloco 7 do plano de domingo.
 - **Aviso da professora:** media iguais em todas as lições. Se um usar avatar com áudio, também tem de aparecer no vídeo, e todos fazem o mesmo. → Voz própria, sem avatar, como a L1.
 - **S4 (20/10):** *(registar aqui quando chegar)*
 

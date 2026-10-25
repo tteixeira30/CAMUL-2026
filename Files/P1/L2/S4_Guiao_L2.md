@@ -1,6 +1,6 @@
 # S4 — Guião e storyboard da L2 «Preparar antes»
 
-**Responsável:** Tiago Teixeira (1240493) · **Versão:** 1 (18/10/2026) · Evidências 1, 2, 4 e 5 do S4 (`S4_Plano_L2.md`, §4)
+**Responsável:** Tiago Teixeira (1240493) · **Versão:** 2 (25/10/2026: feedback do S3 na atividade e nas tags) · Evidências 1, 2, 4 e 5 do S4 (`S4_Plano_L2.md`, §4)
 
 Decisões: continua a história da L1 (o mesmo alerta de incêndio, agora visto por quem **não** estava preparado) · ilustração plana (azul = pessoa, laranja = cuidador) + planos de pormenor filmados dos objetos do kit · tratamento por «você» implícito · cada um grava a sua voz.
 
@@ -48,7 +48,7 @@ Ritmo calmo ≈ 130 palavras/min. «[pausa]» = 1 s de silêncio. «Plano de por
 ## 3. Atividade (Aula 7, artigo)
 
 > **Complete o kit**
-> A Ana tem dois minutos para preparar o saco da mãe. Destes 12 itens, quais vão para o kit? Escolha 8 e escreva os números num papel.
+> Uma cheia, um incêndio ou um conflito armado podem obrigar a sair de casa em poucos minutos. A Ana tem dois minutos para preparar o saco da mãe. Destes 12 itens, quais vão para o kit? Escolha 8 e escreva os números num papel.
 >
 > 1. Medicação para alguns dias
 > 2. Receitas ou lista da medicação
@@ -75,7 +75,7 @@ Ritmo calmo ≈ 130 palavras/min. «[pausa]» = 1 s de silêncio. «Plano de por
 - 8 → num sítio estranho, acalma o que é familiar, não o que é novo.
 - 10 → uma ou duas fotografias chegam; o álbum pesa e pode perder-se.
 
-Autocorreção, sem nota. Fica numa aula de texto porque o objetivo é prático: o cuidador escolhe os itens, confirma-os na checklist e leva a lista para montar o kit em casa. A Udemy parece ter também quizzes de «seleção múltipla» (várias respostas certas, até 15 opções); se o editor o permitir, a escolha dos 8 itens pode ganhar correção automática no S5.
+A primeira frase põe a atividade numa crise, como pediu o feedback do S3 (20/10). Autocorreção, sem nota. Fica numa aula de texto porque o objetivo é prático: o cuidador escolhe os itens, confirma-os na checklist e leva a lista para montar o kit em casa. A Udemy parece ter também quizzes de «seleção múltipla» (várias respostas certas, até 15 opções); se o editor o permitir, a escolha dos 8 itens pode ganhar correção automática no S5.
 
 **Recursos para descarregar** (PDF de 1 página cada, em `Recursos/`; o `.html` com o mesmo nome é a fonte, impressa para PDF com o Edge):
 - **Checklist do kit** (`S4_Checklist_Kit_L2.pdf`): os 8 itens + 3 linhas para «o que a acalma» · «se ficar em casa» · as respostas da atividade.
@@ -114,9 +114,11 @@ P1–P3 cobrem os objetivos 1 e 2 (kit e ficha da pessoa); a P4 cobre o objetivo
 
 ## 5. Matterport — «Caça ao kit»
 
-Espaço: casa da D. Rosa. No S4 só as tags e o roteiro; a captura da casa e a gravação da visita passam para o S5 (a decidir com o grupo). Formato comum do `P1_Tema_Matterport.md`, §8.
+Espaço: casa da D. Rosa. No S4 só as tags e o roteiro. No S5, plano B (23/10, igual à L1): o mesmo espaço do Matterport Discover da L1, gravado, com as tags como etiquetas no vídeo; a casa capturada pelo grupo fica para o S6. Formato comum do `P1_Tema_Matterport.md`, §8.
 
 ### Tags da L2
+
+Com o feedback do S3 (20/10), 3 tags referem as crises (✱): incêndio, cheia, guerra.
 
 | Divisão | Título | Texto (≤ 2 frases) | Cor | Media/link |
 |---|---|---|---|---|
@@ -125,9 +127,9 @@ Espaço: casa da D. Rosa. No S4 só as tags e o roteiro; a captura da casa e a g
 | Sala (cadeira) | L2 · Objeto de conforto | A manta da cadeira acalma a D. Rosa. Num sítio estranho, o que é familiar ajuda. | azul | — |
 | Sala (parede) | L2 · Fotografia recente | Uma fotografia recente ajuda a encontrá-la se ela se perder. | azul | — |
 | Quarto | L2 · Óculos e roupa | Óculos de reserva, uma muda de roupa e calçado confortável. | azul | — |
-| Sala (telefone/gaveta) | L2 · Rede de apoio | Três contactos e quem fica com a D. Rosa se a Ana não puder. Fotografias dos documentos no telemóvel. | laranja | PDF do plano de apoio |
-| Entrada (porta) | L2 · O kit | O saco fica sempre aqui, pronto a sair. | azul | PDF da checklist |
-| Corredor | L2 · Caminho livre | O caminho até à porta está livre? Retire o que atrapalha a passagem. | azul | — (usar a medição no vídeo) |
+| Sala (telefone/gaveta) ✱ | L2 · Rede de apoio | Três contactos e quem fica com a D. Rosa se a Ana não puder. As fotografias dos documentos no telemóvel servem mesmo que a casa se perca numa cheia ou numa guerra. | laranja | PDF do plano de apoio |
+| Entrada (porta) ✱ | L2 · O kit | O saco fica sempre aqui, pronto a sair. Num incêndio, numa cheia ou numa guerra pode haver só minutos. | azul | PDF da checklist |
+| Corredor ✱ | L2 · Caminho livre | Com fumo ou água a entrar, sai-se à pressa. O caminho até à porta tem de estar livre. | azul | — (usar a medição no vídeo) |
 
 ### Roteiro da visita guiada (6 paragens, ≈ 40 s gravados)
 
@@ -173,7 +175,7 @@ Decidido a 20/10 (como a L1, 19/10): a voz, os vídeos, os planos de pormenor, a
 | 2 | Criar `S4_Video_L2.pptx` no modelo comum (1 diapositivo por cena, narração nas notas) | S4 | ☑ |
 | 3 | Filmar os planos de pormenor (medicamentos e receita sem nomes, cartão fictício, fotografia, roupa, óculos, manta, saco à porta) | S5 | ☐ |
 | 4 | Ilustrações (Ana a procurar, Ana a preencher a ficha, Ana ao telefone) no estilo da L1; guardar a licença | S5 | ☐ |
-| 5 | Teste de áudio de 20 s → gravar os diapositivos 1–4 (gancho) → Exportar → Criar um vídeo → Full HD 1080p | S5 | ☐ |
+| 5 | Teste de áudio de 20 s → gravar os diapositivos 1–3 (gancho) → Exportar → Criar um vídeo → Full HD 1080p | S5 | ☐ |
 | 6 | Subir o gancho (YouTube não listado ou OneDrive) e pôr o link no documento | S5 | ☐ |
 | 7 | Criar a atividade (§3, com os 3 PDFs como recursos) e o quiz (§4) na Udemy, secção 2 (Aula 7 e Teste 2) · testar em «Pré-visualizar como aluno» | S4 | ☑ (20/10; rever no S5) |
 | 8 | Modelos em PDF: checklist do kit, ficha da pessoa, plano de apoio (`Recursos/`) | S4 | ☑ |
