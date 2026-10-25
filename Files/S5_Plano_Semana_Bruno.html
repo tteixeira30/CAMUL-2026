@@ -143,20 +143,20 @@ footer{margin-top:40px;color:var(--muted);font-size:.85rem}
     </table></span></label></li>
   <li><input type="checkbox" id="b2-3"><label for="b2-3"><span class="id">2.3</span><b>Guardar os links (créditos)</b>
     <span class="how">O plano grátis obriga a atribuição: «Illustrations by Storyset» com link, no diap. 10 e no PDF.</span></label></li>
-  <li><input type="checkbox" id="b2-4" data-star><label for="b2-4"><span class="id">2.4</span><span class="star">★</span> <b>Pôr as ilustrações no <code>.pptx</code></b>
+  <li><input type="checkbox" id="b2-4" checked data-star><label for="b2-4"><span class="id">2.4</span><span class="star">★</span> <b>Pôr as ilustrações no <code>.pptx</code></b>
     <span class="how">No lugar dos retângulos «[Ilustração: …]». Apagar os retângulos.</span></label></li>
 </ul>
 <p class="sec">PowerPoint</p>
 <ul class="tasks">
-  <li><input type="checkbox" id="b2-5" data-star><label for="b2-5"><span class="id">2.5</span><span class="star">★</span> <b>Diap. 4: 4 ícones de crise</b>
+  <li><input type="checkbox" id="b2-5" checked data-star><label for="b2-5"><span class="id">2.5</span><span class="star">★</span> <b>Diap. 4: 4 ícones de crise</b>
     <span class="how">Inserir → Ícones (já têm licença): incêndio (<i>fire</i>), cheia (<i>water</i>/<i>flood</i>), pandemia (<i>virus</i>), deslocação (<i>walking</i>/<i>luggage</i>). Mesma cor e tamanho, numa linha.</span></label></li>
-  <li><input type="checkbox" id="b2-6" data-star><label for="b2-6"><span class="id">2.6</span><span class="star">★</span> <b>Diap. 8: infografia Observar → Escutar → Encaminhar</b>
+  <li><input type="checkbox" id="b2-6" checked data-star><label for="b2-6"><span class="id">2.6</span><span class="star">★</span> <b>Diap. 8: infografia Observar → Escutar → Encaminhar</b>
     <span class="how">3 formas com ícone + palavra. Animação «Aparecer», <strong>ao clicar</strong>, uma de cada vez.</span></label></li>
-  <li><input type="checkbox" id="b2-7"><label for="b2-7"><span class="id">2.7</span><b>Diap. 5 e 7: palavras a aparecer</b>
+  <li><input type="checkbox" id="b2-7" checked><label for="b2-7"><span class="id">2.7</span><b>Diap. 5 e 7: palavras a aparecer</b>
     <span class="how">desorientação · agitação · recusa / ansiedade · cansaço · irritação. «Aparecer», ao clicar.</span></label></li>
-  <li><input type="checkbox" id="b2-8"><label for="b2-8"><span class="id">2.8</span><b>Música</b>
+  <li><input type="checkbox" id="b2-8" checked><label for="b2-8"><span class="id">2.8</span><b>Música</b>
     <span class="how">studio.youtube.com → Biblioteca de áudio → filtro «Calmo», sem atribuição obrigatória. 1 faixa; anotar o nome. Inserir no diap. 1 → Reprodução: «Reproduzir em todos os diapositivos», volume baixo, ocultar durante a apresentação.</span></label></li>
-  <li><input type="checkbox" id="b2-9"><label for="b2-9"><span class="id">2.9</span><b>Sons</b>
+  <li><input type="checkbox" id="b2-9" checked><label for="b2-9"><span class="id">2.9</span><b>Sons</b>
     <span class="how">Mesma biblioteca, separador Efeitos sonoros: tique-taque no diap. 1; sirene + toque de alerta no diap. 3. Volume baixo.</span></label></li>
   <li><input type="checkbox" id="b2-10" data-star><label for="b2-10"><span class="id">2.10</span><span class="star">★</span> <b>Passar a apresentação (F5) do 1 ao 10</b>
     <span class="how">Tudo aparece na ordem da narração, sem falhas.</span></label></li>
@@ -356,7 +356,7 @@ function update() {
 }
 boxes.forEach(c => {
   const k = 'domingo-bruno-' + c.id;
-  try { c.checked = localStorage.getItem(k) === '1'; } catch (e) {}
+  try { const v = localStorage.getItem(k); if (v !== null) c.checked = v === '1'; } catch (e) {}
   c.addEventListener('change', () => {
     try { localStorage.setItem(k, c.checked ? '1' : '0'); } catch (e) {}
     update();
