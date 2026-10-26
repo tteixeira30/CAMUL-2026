@@ -2,7 +2,7 @@
 
 **Responsável:** Tiago Teixeira (1240493) · **PL:** 20/10/2026 · **Entrega:** 27/10/2026, antes da PL (o Moodle fecha às 20:00) · **Formato:** 1 PDF com tudo + vídeos na Udemy
 
-Continua o `S4_Plano_L2.md`. No S4 ficou feito o guião, o vídeo em PowerPoint (sem voz nem ilustrações), os 3 PDFs da atividade, a atividade e o quiz na Udemy. Tudo o que passou para o S5 está aqui. Segue as decisões e o formato da L1 (`L1/S5_Plano_L1.md`), para as lições ficarem coerentes. O passo a passo do domingo está em `Files/S5_Plano_Semana_Tiago.md`.
+Continua o `S4_Plano_L2.md`. No S4 ficou feito o guião, o vídeo em PowerPoint (sem voz nem ilustrações), os 3 PDFs da atividade, a atividade e o quiz na Udemy. Tudo o que passou para o S5 está aqui. Segue as decisões e o formato da L1 (`Files/P1_Plano_Bruno.md`), para as lições ficarem coerentes. O passo a passo do domingo está em `Files/S5_Plano_Semana_Tiago.md`.
 
 ---
 
@@ -149,5 +149,5 @@ Igual à L1.
 
 - `Files/P1/P1_Enunciado.pdf` — Semana 5
 - `Files/P1/L2/S4_Plano_L2.md`, `S4_Guiao_L2.md`, `S4_Evidencias_L2_Grupo1.docx` — o que ficou para o S5
-- `Files/P1/L1/S5_Plano_L1.md`, `Files/S5_Plano_Semana_Bruno.md` — decisões de 23/10 e formato (coerência)
+- `Files/P1_Plano_Bruno.md`, `Files/S5_Plano_Semana_Bruno.md` — decisões de 23/10 e formato (coerência)
 - `Files/P1/P1_Tema_Matterport.md` — §5 (L2), §7 (Udemy), §8 (fluxo de trabalho)

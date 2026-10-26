@@ -38,23 +38,23 @@ O enunciado pede o Matterport «funcional ou em fase avançada»: entra no S5 pe
 - [x] **5.2** Anotar o link, o nome do espaço e o autor (créditos e link «Visita 3D»). ★ → «La Tarasca», Zamora · discover.matterport.com/space/R1sZEUzLrz9 · IInmobarrios.
 - [x] **5.3** Ensaiar o roteiro «A casa pelos olhos da D. Rosa» sem gravar: Entrada → Sala (cadeira, quadros, janela) → Cozinha (zona do relógio) → Quarto → de volta à porta. 3–4 s parado em cada paragem.
 - [x] **5.4** Gravar o ecrã: browser em ecrã inteiro (F11), notificações desligadas, Xbox Game Bar `Win+Alt+R`. 30–60 s. 2 vezes, ficar com a melhor. ★ → feito: `L1/L1_Visita3D.mp4`, 58 s, 74 MB (fora do git).
-- [ ] **5.5** Diap. 6: Inserir → Vídeo → Este dispositivo → `L1_Visita3D.mp4` → separador Reprodução: Iniciar «Automaticamente», «Reproduzir em ecrã inteiro» desligado (o vídeo ocupa o diapositivo todo). Apagar o lugar reservado. Ficheiro → Informações → Comprimir multimédia → Full HD (o vídeo tem 74 MB). ★
-- [ ] **5.6** Etiquetas no PowerPoint, por cima do vídeo: 6 caixas de texto (Inserir → Caixa de texto), fundo azul ou laranja, texto branco. Cada uma com Animações → «Aparecer», Iniciar «Com a anterior» e Atraso = segundo da paragem, e «Desaparecer» 5–6 s depois. O PowerPoint grava as etiquetas no vídeo ao exportar. Se faltar o objeto, a etiqueta fica na zona onde estaria. ★
+- [x] **5.5** Diap. 6: Inserir → Vídeo → Este dispositivo → `L1_Visita3D.mp4` → separador Reprodução: Iniciar «Automaticamente», «Reproduzir em ecrã inteiro» desligado (o vídeo ocupa o diapositivo todo). Apagar o lugar reservado. Ficheiro → Informações → Comprimir multimédia → Full HD (o vídeo tem 74 MB). ★ → feito a 26/10; falta comprimir (o `.pptx` tem ≈ 90 MB).
+- [x] **5.6** Etiquetas no PowerPoint, por cima do vídeo: 6 retângulos arredondados, só o texto (sem título), fundo azul #2F6DB5 ou laranja #E07B2E, letra branca Segoe UI a negrito. «Desvanecer» de entrada e de saída, «Com a anterior», Atraso = segundo da paragem. O PowerPoint grava as etiquetas no vídeo ao exportar. A casa não tem fotografias nem relógio → quadros e banca da cozinha. ★ → feito a 26/10; tabela completa no guião §3.
 
-  | Paragem | Título | Texto | Cor |
+  | Tempo | Paragem | Texto | Cor |
   |---|---|---|---|
-  | Sala | L1 · Cadeira habitual | É aqui que a D. Rosa se senta todas as manhãs. Um lugar fixo ajuda-a a orientar-se. | azul |
-  | Sala | L1 · Fotografias | As caras conhecidas lembram-lhe quem é e quem está com ela. | azul |
-  | Sala (janela) | L1 · Quando a crise chega | Fumo, sirenes, luzes: num incêndio ou num bombardeamento, é por aqui que a crise entra. Para a D. Rosa, o mundo deixa de fazer sentido. | azul |
-  | Cozinha | L1 · Relógio / rotina | As horas das refeições marcam o dia. Numa crise ou num confinamento, manter estas horas ajuda a acalmar. | azul |
-  | Entrada (porta) | L1 · Sair à força | Uma cheia, um incêndio ou uma guerra podem obrigar a sair por esta porta sem tempo. Para a D. Rosa, é deixar tudo o que conhece. | azul |
-  | Quarto | L1 · E a Ana? Onde descansa? | Quem cuida também precisa de um sítio e de um tempo para descansar. | laranja |
+  | 10–13 s | Sala · quadros | Os quadros que conhece há anos dizem-lhe que esta é a casa dela. | azul |
+  | 17–22 s | Sala · sofá | É aqui que a D. Rosa se senta todas as manhãs. Um lugar fixo ajuda-a a orientar-se. | azul |
+  | 23–27 s | Sala · janela | Fumo, sirenes, luzes: num incêndio ou num bombardeamento, é por aqui que a crise entra. | azul |
+  | 34–38 s | Cozinha · banca | As refeições marcam o dia. Numa crise ou num confinamento, manter as horas ajuda a acalmar. | azul |
+  | 46–50 s | Quarto | Quem cuida também precisa de um sítio e de um tempo para descansar. | laranja |
+  | 56–58 s | Entrada · porta | Uma cheia, um incêndio ou uma guerra podem obrigar a sair por esta porta sem tempo. | azul |
 
 - [ ] **5.7** 6 capturas, uma por etiqueta: diap. 6 em apresentação (`Shift+F5`), pausar em cada etiqueta, `Win+Shift+S`. Juntar ao §3 do guião e acertar os tempos do §2 e do §3 à visita real (58 s em vez de 40 s: a Aula 2 passa a ≈ 3:15). ★
 
 ### Guião e PowerPoint ★
 - [x] **5.8** Guião: nova secção «Matterport» (§3: espaço, roteiro, 6 tags, produção). Espaço, link e autor preenchidos; faltam as capturas (5.7). Cumpre o feedback do S3: cenários de crise também no Matterport. ★
-- [ ] **5.9** Guião §7 (Próximos passos): marcar o que está feito; voz, vídeos e Udemy → S6. ★
+- [x] **5.9** Guião §7 (Próximos passos): marcar o que está feito; voz, vídeos e Udemy → S6. ★ → feito a 26/10 (e §1–§3 e §6 acertados à visita de 58 s).
 - [x] **5.10** Ensaiar em voz alta com cronómetro (sem gravar) e reescrever as frases em que tropeças, no guião **e** nas notas do `.pptx`.
 - [x] **5.11** Marcas nas notas do `.pptx`: `[pausa]` · ênfase em MAIÚSCULAS · `/` = respirar · `[clique]` nos diap. 3 (1), 4 (4), 5 (3), 7 (3), 8 (3).
 - [x] **5.12** Passar a apresentação do 1 ao 10 (F5), com som. ★
