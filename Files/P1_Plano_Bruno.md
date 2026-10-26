@@ -25,7 +25,7 @@ Ficheiros: `Files/P1/L1/Guiao_L1.md` (narração, atividade, quiz) · `Files/P1/
 - [x] **F.2** PowerPoint: 4 ilustrações Storyset (diap. 2, 3, 5, 7), ícones de crise (diap. 4), infografia com ícones (diap. 8), uma palavra por clique (diap. 5 e 7), créditos (diap. 10).
 - [x] **F.3** Música «High Class», Benjamin Andrews (`P1/P1_Musica_High_Class_Benjamin_Andrews.mp3`): recomeça nos diap. 1, 4, 5 e 9. Relógio no diap. 1, sirene no diap. 3.
 - [x] **F.4** Grupo: ninguém usa avatar.
-- [x] **F.5** Teórica: página, regras e QEF feitos. Avatar `Teoricas/BrunoAvatar.mp4` (22 s, 16:9, 3,2 MB). Entrega na teórica de qua 28/10.
+- [x] **F.5** Teórica: página, regras e QEF feitos. Avatar `Teoricas/Avatares/BrunoAvatar.mp4` (22 s, 16:9, 3,2 MB). Entrega na teórica de qua 28/10.
 
 ---
 

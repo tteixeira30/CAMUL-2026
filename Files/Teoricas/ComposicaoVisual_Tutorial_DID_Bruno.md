@@ -99,8 +99,8 @@ Descarregar em **MP4** (*Download*).
 
 ## Passo 7 · Guardar e partilhar
 
-1. Guardar como `Files/Teoricas/Avatares/ComposicaoVisual_Avatar_Bruno.mp4`, já com as especificações comuns (ver «Depois»). Se o ficheiro passar de ≈ 50 MB, não o pôr no git e partilhar pela Drive.
-2. Fazer a legenda `ComposicaoVisual_Avatar_Bruno.vtt` a partir do guião (ver «Depois»).
+1. Guardar como `Files/Teoricas/Avatares/BrunoAvatar.mp4`, já com as especificações comuns (ver «Depois»). Se o ficheiro passar de ≈ 50 MB, não o pôr no git e partilhar pela Drive.
+2. Legenda `.vtt`: não é pedida pela professora. Só se faz se os vídeos entrarem na página (ver «Depois»).
 3. Enviar ao grupo e comparar: duração, voz e enquadramento parecidos nos 5 avatares.
 4. Entregar na teórica de 28/10 (Moodle ou onde a professora indicar).
 5. Depois da entrega, se quiser, apagar o avatar e os vídeos no D-ID (*Avatars* → apagar). A conta gratuita apaga os dados ao fim de 6 meses sem uso.
@@ -119,10 +119,15 @@ Os 5 avatares vão entrar na página `ComposicaoVisual_Pagina_Estatica_Grupo1.ht
 | Enquadramento | Cabeça e ombros, rosto ao centro, fundo neutro (igual nos 5) |
 | Voz | Própria, em português europeu |
 | Conteúdo | «Olá, sou o/a …, do Grupo 1» + as 2 regras + o que fez em cada uma |
-| Nome | `ComposicaoVisual_Avatar_<Nome>.mp4` (Bruno, Evandro, Rodrigo, Ricardo, Tiago) |
-| Legenda | `ComposicaoVisual_Avatar_<Nome>.vtt`, o guião dividido em frases com tempos |
-| Imagem de capa | `ComposicaoVisual_Avatar_<Nome>.jpg`, 1 fotograma do vídeo (para não carregar o vídeo antes do clique) |
+| Nome | `<Nome>Avatar.mp4` (Bruno, Evandro, Rodrigo, Ricardo, Tiago), ex.: `BrunoAvatar.mp4` |
 | Pasta | `Files/Teoricas/Avatares/` |
+
+Só se os vídeos entrarem na página (opcional, não é pedido pela professora):
+
+| O quê | Valor |
+|---|---|
+| Legenda | `<Nome>Avatar.vtt`, o guião dividido em frases com tempos |
+| Imagem de capa | `<Nome>Avatar.jpg`, 1 fotograma do vídeo (para não carregar o vídeo antes do clique) |
 
 Exemplo de legenda (`.vtt`, texto simples):
 
@@ -159,7 +164,7 @@ Quando os vídeos entrarem, propor aos colegas que estão a validar o `Composica
 
 | Quando | O quê | Quem |
 |---|---|---|
-| Até 26/10 | Cada um entrega MP4 + VTT + JPG em `Avatares/` | Todos |
+| Até 26/10 | Cada um põe o MP4 em `Avatares/` | Todos |
 | 26–27/10 | Rever os 5 com a tabela de especificações | 1 pessoa (revisão cruzada) |
 | Depois | Integrar na página e gerar o .zip | Em conjunto |
 

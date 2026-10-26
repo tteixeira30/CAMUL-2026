@@ -170,7 +170,7 @@ Detalhe em `ComposicaoVisual_Tutorial_DID_Bruno.md` (os passos servem para todos
 
 | Dia | Tarefa |
 |---|---|
-| Seg 26/10 | Avatar: gerar o vídeo com o MP3 (passo 5) · rever (passo 6) · MP4 + `.vtt` + `.jpg` em `Files/Teoricas/Avatares/` com o nome `ComposicaoVisual_Avatar_Tiago` · enviar ao grupo (passo 7) · o que ficou por fazer no domingo |
+| Seg 26/10 | Avatar: gerar o vídeo com o MP3 (passo 5) · rever (passo 6) · MP4 em `Files/Teoricas/Avatares/` com o nome `TiagoAvatar.mp4` · enviar ao grupo (passo 7) · o que ficou por fazer no domingo |
 | Ter 27/10 | Rever o `.docx` → exportar `S5_Prototipo_L2_Grupo1.pdf` → **submeter no Moodle antes da PL** |
 | Qua 28/10 | **Entregar o avatar na teórica** (onde a professora indicar) |
 
