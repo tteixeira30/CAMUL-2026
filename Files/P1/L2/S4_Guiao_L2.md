@@ -60,7 +60,7 @@ Ritmo calmo ≈ 130 palavras/min. «[pausa]» = 1 s de silêncio. «Plano de por
 > 8. Um objeto novo, para a distrair
 > 9. Óculos de reserva
 > 10. O álbum de fotografias da família
-> 11. A manta da cadeira da sala
+> 11. A manta do sofá da sala
 > 12. Uma cópia da ficha da pessoa
 >
 > Confirme as respostas na **checklist do kit** (recurso para descarregar).
@@ -95,7 +95,7 @@ Escolha múltipla, uma resposta certa, com explicação em cada opção → feed
 
 **P2 · Objetos de conforto.** A Ana quer pôr no kit algo que acalme a mãe num sítio desconhecido. O que escolhe?
 - A) Um objeto novo, comprado para a ocasião. → *Ainda não: num sítio estranho, o novo pode confundir ainda mais; acalma o que é familiar.*
-- B) ✔ A manta que a mãe usa na cadeira e a música de que gosta. → *Certo, porque os objetos e os hábitos familiares levam um pouco de casa para o sítio novo.*
+- B) ✔ A manta que a mãe usa no sofá e a música de que gosta. → *Certo, porque os objetos e os hábitos familiares levam um pouco de casa para o sítio novo.*
 - C) Nada: no acolhimento há tudo o que é preciso. → *Ainda não: no acolhimento há o básico, mas não o que é só da D. Rosa.*
 
 **P3 · Ficha da pessoa.** No centro de acolhimento, a Ana tem de ir tratar do registo e um voluntário fica com a D. Rosa. O que ajuda mais o voluntário?
