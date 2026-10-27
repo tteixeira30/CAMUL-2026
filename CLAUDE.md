@@ -10,7 +10,7 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 |---|---|---|
 | `Files/` | Trabalhos a entregar | **Onde se trabalha** |
 | `Files/P1/P1_Enunciado.pdf` | Enunciado do P1 (requisitos, avaliação, roadmap S1–S8) | Fonte de verdade dos requisitos |
-| `Files/P1_Plano_Bruno.md`, `.html` | Plano do Bruno até ao fim do P1 (S5 → S8, 10/11): o que está feito e as tarefas de cada entrega, da L1 e do grupo | Nota de trabalho; o .html (caixas e progresso) gera-se a partir do .md |
+| `Files/P1_Plano_Bruno.md`, `.html` | Plano do Bruno até ao fim do P1 (S6 → S8, 10/11; S6 e S7 a 03/11): o que está feito e as tarefas de cada entrega, da L1 e do grupo | Nota de trabalho; o .html (caixas e progresso) gera-se a partir do .md |
 | `Files/S5_Plano_Semana_Tiago.md`, `.html` | Plano do Tiago para dom 25/10 (e sáb 24/10 à noite): S5 da L2 e avatar D-ID da teórica, passo a passo por blocos | Nota de trabalho; ramo `s5-l2` |
 | `Files/P1/` | Entregas do P1 (MOOC) | Ver tabela abaixo |
 | `Files/Teoricas/` | Trabalho das teóricas: apresentação «A cor azul» (`CorAzul_*`) e composição visual (`ComposicaoVisual_*`, ver secção «Teóricas») | Independente do P1 |
@@ -67,7 +67,7 @@ Cada lição tem a sua pasta `Files/P1/L<n>/`; o que é geral fica em `Files/P1/
 | S4 | 13/10 | 20/10 | Primeiras evidências de produção |
 | S5 | 20/10 | 27/10 | Protótipo das lições |
 | S6 | 27/10 | 03/11 | Versão integrada |
-| S7 | 03/11 | 10/11 | Testes e validação |
+| S7 | 03/11 | 03/11 | Testes e validação (feitos na PL: Alfa = o autor testa a sua lição, Beta = outros grupos testam o nosso MOOC) |
 | S8 | 10/11 | 10/11 | Entrega final + apresentação presencial |
 
 Aula 3: o tema da S2 tem de evoluir para um **contexto de crise/emergência/catástrofe/deslocação/conflito**, com 5 elementos diferenciadores: público específico, situação concreta, contexto real, decisões, contributo do Matterport.

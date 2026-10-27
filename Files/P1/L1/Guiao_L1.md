@@ -150,7 +150,7 @@ Decidido a 19/10: as ilustrações e o Matterport passam para o S5 (27/10). Comb
 | 2 | Ilustrações Storyset (estilo Amico) nos diap. 2, 3, 5 e 7 · 4 ícones de crise (diap. 4) · recoloridas a azul/laranja · créditos no diap. 10 | S5 | ☑ |
 | 3 | Matterport, plano B: espaço Discover «La Tarasca» · visita gravada (58 s) no diap. 6 · 6 etiquetas ligadas às crises (§3) | S5 | ☑ |
 | 4 | 6 capturas das etiquetas → §3 | S5 | ☑ |
-| 5 | Comprimir multimédia no `.pptx` (≈ 90 MB) | S5 | ☐ |
+| 5 | Comprimir multimédia no `.pptx` (90 → 42 MB) | S5 | ☑ |
 | 6 | Entrega S5: guião em PDF + `.pptx` no Moodle **antes da PL de 27/10** | S5 | ☐ |
 | 7 | Criar o quiz (§5) e a reflexão (§4) na Udemy, secção 1 | S4 | ☑ (rever no S6) |
 | 8 | Partilhar `P1_Modelo_Licoes.pptx` com o grupo | S4 | ☑ |

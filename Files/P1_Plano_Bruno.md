@@ -1,6 +1,8 @@
-# Plano do P1 — Bruno (25/10 → 10/11/2026)
+# Plano do P1 — Bruno (27/10 → 10/11/2026)
 
-**O que falta:** S5 (ter 27/10) · S6 (ter 03/11) · S7 e S8 (as duas a **ter 10/11**, antes da PL, com apresentação presencial). Depois vem o P2 (24/11).
+**O que falta:** S6 + S7 (as duas a **ter 03/11**) · S8 (ter 10/11, com apresentação presencial). Depois vem o P2 (24/11).
+
+> **Mudou a 27/10:** o S7 já não é a 10/11. Os testes são **na PL de ter 03/11**: os outros grupos experimentam o nosso MOOC e nós os deles. Por isso, a versão integrada (S6) tem de estar **completa e acessível a outras pessoas antes dessa aula**. As correções passam para o S8.
 
 **Regras:**
 - Cada entrega incorpora o feedback da anterior.
@@ -8,12 +10,12 @@
 - A teórica de composição visual está **feita** (ver §1).
 
 **Decisões:**
-- Matterport → **plano B** no S5: espaço do Matterport Discover, gravado, com as tags como etiquetas no PowerPoint (o Clipchamp não está disponível na conta). A casa da D. Rosa decide-se em grupo para o S6.
+- Matterport → espaço do Matterport Discover «La Tarasca», gravado, com as tags como etiquetas no PowerPoint. A casa da D. Rosa já não se captura: não há tempo antes de 03/11.
 - Ilustrações → **Storyset, estilo Amico**, azul #2F6DB5 (pessoa) e laranja #E07B2E (cuidador).
 - **Ninguém usa avatar no P1.** Cada um grava a sua voz.
 - A voz, os vídeos e a Udemy da L1 ficam para o S6 (combinado com a professora a 25/10).
 
-**Legenda:** ★ = mínimo para entregar. **[G]** = tarefa de grupo (o Bruno trata da Udemy, por isso puxa por estas).
+**Legenda:** ★ = mínimo para entregar. **[G]** = tarefa de grupo (o Bruno trata da Udemy, por isso puxa por estas). Cada tarefa tem os passos por baixo: segue-os por ordem.
 
 Ficheiros: `Files/P1/L1/Guiao_L1.md` (narração, atividade, quiz) · `Files/P1/L1/S4_Video_L1.pptx` · `Files/P1/P1_Enunciado.pdf` (o que cada entrega pede).
 
@@ -21,7 +23,8 @@ Ficheiros: `Files/P1/L1/Guiao_L1.md` (narração, atividade, quiz) · `Files/P1/
 
 ## 1. Já feito
 
-- [x] **F.1** Guião (`Guiao_L1.md`, sem o `.html`): §1 com a nova divisão em aulas e §2 igual ao PowerPoint (imagens, sons, tempos da Aula 2 a partir de 0:00).
+### Já feito
+- [x] **F.1** Guião (`Guiao_L1.md`): §1 com a divisão em aulas, §2 igual ao PowerPoint, §3 Matterport com as 6 capturas.
 - [x] **F.2** PowerPoint: 4 ilustrações Storyset (diap. 2, 3, 5, 7), ícones de crise (diap. 4), infografia com ícones (diap. 8), uma palavra por clique (diap. 5 e 7), créditos (diap. 10).
 - [x] **F.3** Música «High Class», Benjamin Andrews (`P1/P1_Musica_High_Class_Benjamin_Andrews.mp3`): recomeça nos diap. 1, 4, 5 e 9. Relógio no diap. 1, sirene no diap. 3.
 - [x] **F.4** Grupo: ninguém usa avatar.
@@ -29,72 +32,102 @@ Ficheiros: `Files/P1/L1/Guiao_L1.md` (narração, atividade, quiz) · `Files/P1/
 
 ---
 
-## 2. S5 · Protótipo (entrega ter 27/10): guião + PowerPoint
+## 2. S5 · Protótipo (entrega ter 27/10)
 
-O enunciado pede o Matterport «funcional ou em fase avançada»: entra no S5 pelo plano B.
-
-### Matterport, plano B ★
-- [x] **5.1** discover.matterport.com → procurar *house*, *home*, *apartment* (de preferência *Portugal*). Escolher um espaço com **entrada, sala com janela, cozinha e quarto**, mobília comum (não de luxo). ★
-- [x] **5.2** Anotar o link, o nome do espaço e o autor (créditos e link «Visita 3D»). ★ → «La Tarasca», Zamora · discover.matterport.com/space/R1sZEUzLrz9 · IInmobarrios.
-- [x] **5.3** Ensaiar o roteiro «A casa pelos olhos da D. Rosa» sem gravar: Entrada → Sala (cadeira, quadros, janela) → Cozinha (zona do relógio) → Quarto → de volta à porta. 3–4 s parado em cada paragem.
-- [x] **5.4** Gravar o ecrã: browser em ecrã inteiro (F11), notificações desligadas, Xbox Game Bar `Win+Alt+R`. 30–60 s. 2 vezes, ficar com a melhor. ★ → feito: `L1/L1_Visita3D.mp4`, 58 s, 74 MB (fora do git).
-- [x] **5.5** Diap. 6: Inserir → Vídeo → Este dispositivo → `L1_Visita3D.mp4` → separador Reprodução: Iniciar «Automaticamente», «Reproduzir em ecrã inteiro» desligado (o vídeo ocupa o diapositivo todo). Apagar o lugar reservado. Ficheiro → Informações → Comprimir multimédia → Full HD (o vídeo tem 74 MB). ★ → feito a 26/10; falta comprimir (o `.pptx` tem ≈ 90 MB).
-- [x] **5.6** Etiquetas no PowerPoint, por cima do vídeo: 6 retângulos arredondados, só o texto (sem título), fundo azul #2F6DB5 ou laranja #E07B2E, letra branca Segoe UI a negrito. «Desvanecer» de entrada e de saída, «Com a anterior», Atraso = segundo da paragem. O PowerPoint grava as etiquetas no vídeo ao exportar. A casa não tem fotografias nem relógio → quadros e banca da cozinha. ★ → feito a 26/10; tabela completa no guião §3.
-
-  | Tempo | Paragem | Texto | Cor |
-  |---|---|---|---|
-  | 10–13 s | Sala · quadros | Os quadros que conhece há anos dizem-lhe que esta é a casa dela. | azul |
-  | 17–22 s | Sala · sofá | É aqui que a D. Rosa se senta todas as manhãs. Um lugar fixo ajuda-a a orientar-se. | azul |
-  | 23–27 s | Sala · janela | Fumo, sirenes, luzes: num incêndio ou num bombardeamento, é por aqui que a crise entra. | azul |
-  | 34–38 s | Cozinha · banca | As refeições marcam o dia. Numa crise ou num confinamento, manter as horas ajuda a acalmar. | azul |
-  | 46–50 s | Quarto | Quem cuida também precisa de um sítio e de um tempo para descansar. | laranja |
-  | 56–58 s | Entrada · porta | Uma cheia, um incêndio ou uma guerra podem obrigar a sair por esta porta sem tempo. | azul |
-
-- [ ] **5.7** 6 capturas, uma por etiqueta: diap. 6 em apresentação (`Shift+F5`), pausar em cada etiqueta, `Win+Shift+S`. Juntar ao §3 do guião e acertar os tempos do §2 e do §3 à visita real (58 s em vez de 40 s: a Aula 2 passa a ≈ 3:15). ★
-
-### Guião e PowerPoint ★
-- [x] **5.8** Guião: nova secção «Matterport» (§3: espaço, roteiro, 6 tags, produção). Espaço, link e autor preenchidos; faltam as capturas (5.7). Cumpre o feedback do S3: cenários de crise também no Matterport. ★
-- [x] **5.9** Guião §7 (Próximos passos): marcar o que está feito; voz, vídeos e Udemy → S6. ★ → feito a 26/10 (e §1–§3 e §6 acertados à visita de 58 s).
-- [x] **5.10** Ensaiar em voz alta com cronómetro (sem gravar) e reescrever as frases em que tropeças, no guião **e** nas notas do `.pptx`.
-- [x] **5.11** Marcas nas notas do `.pptx`: `[pausa]` · ênfase em MAIÚSCULAS · `/` = respirar · `[clique]` nos diap. 3 (1), 4 (4), 5 (3), 7 (3), 8 (3).
-- [x] **5.12** Passar a apresentação do 1 ao 10 (F5), com som. ★
-- [ ] **5.13** Entrega: `S5_Guiao_L1_Grupo1.pdf` (do `.md`) + `S5_Video_L1_Grupo1.pptx`. **Submeter no Moodle antes da PL de ter 27/10.** Commit. ★
+### Matterport (plano B) e PowerPoint ★
+- [x] **5.1** Espaço Discover: «La Tarasca», Zamora · discover.matterport.com/space/R1sZEUzLrz9 · IInmobarrios. ★
+- [x] **5.2** Visita gravada: `L1/L1_Visita3D.mp4`, 58 s, 74 MB (fora do git), no diap. 6. ★
+- [x] **5.3** 6 etiquetas por cima do vídeo (5 azuis, 1 laranja), ligadas às crises; tabela no guião §3. ★
+- [x] **5.4** 6 capturas das etiquetas (`L1/Capturas/S5_Captura_1…6_L1.png`) no guião §3; tempos acertados à visita de 58 s. ★
+- [x] **5.5** Multimédia comprimida: o `.pptx` passou de 90 MB para 42 MB. ★
+- [x] **5.6** Ensaio em voz alta, marcas nas notas (`[pausa]`, MAIÚSCULAS, `/`, `[clique]`), apresentação passada do 1 ao 10 com som.
+- [x] **5.7** `S5_Guiao_L1_Grupo1.pdf` exportado. Commit `d58270a`. ★
+- [ ] **5.8** Submeter no Moodle **hoje, ter 27/10**: `S5_Guiao_L1_Grupo1.pdf` + o `.pptx` (renomear a cópia para `S5_Video_L1_Grupo1.pptx`). ★
+  - Se o Moodle recusar o `.pptx` por ser grande (42 MB): pôr no OneDrive com link «qualquer pessoa pode ver» e colar o link na submissão.
+  - Tirar a visita do stage do git (é para ficar fora): `git restore --staged Files/P1/L1/L1_Visita3D.mp4`.
 
 ---
 
-## 3. S6 · Versão integrada (entrega ter 03/11)
+## 3. S6 · Versão integrada (entrega ter 03/11, antes da PL)
 
-O enunciado pede: lições funcionais e articuladas · multimédia integrada · Matterport integrado · avaliação · navegação do curso · Gantt atualizado.
+O enunciado pede: lições funcionais e articuladas · multimédia integrada · Matterport integrado · avaliação · navegação do curso · integração na plataforma · Gantt atualizado.
 
-### L1
-- [ ] **6.1** Voz: sítio calado, **auscultadores** (a música e a sirene tocam durante a gravação), PowerPoint → Gravar → câmara desligada. Teste de 20 s, depois desde o início; ouvir cada diapositivo logo a seguir. ★
-- [ ] **6.2** Exportar em Full HD, ocultando os outros diapositivos: `L1_Aula1_Gancho.mp4` (1–4) · `L1_Aula2_Conteudo.mp4` (5–8) · `L1_Aula4_Sintese.mp4` (9–10). ★
-- [ ] **6.3** Udemy, secção 1, por esta ordem: Aula 1 · Aula 2 · Aula 3 (reflexão) · Teste 1 · Aula 4. Carregar os vídeos. ★
-- [ ] **6.4** Aula 3: texto do guião §4 + recurso «Visita 3D» (link do Discover, opcional, nunca preciso para o quiz). Rever o Teste 1 (P4 e feedback de cada opção, guião §5). ★
-- [ ] **6.5** Legendas em português (automáticas, revistas com o guião).
-- [ ] **6.6** «Pré-visualizar como aluno» no computador e no telemóvel: ordem, som, quiz, link 3D. ★
-- [ ] **6.7** Evidências do S6 (L1): links, capturas, créditos (Storyset, música, espaço Discover). ★
+**Prazo real: seg 02/11 à noite.** Na PL de 03/11 os outros grupos vão testar o curso; o que não estiver na Udemy não é testado.
 
-### Grupo
-- [ ] **6.8** [G] As 5 secções na Udemy, pela ordem L1 → L5, com a ponte de cada lição para a seguinte. ★
-- [ ] **6.9** [G] Página do curso na Udemy: título, subtítulo, descrição, objetivos, público, imagem. Pedir a revisão da Udemy cedo: pode demorar dias. ★
-- [ ] **6.10** [G] Revisão cruzada: mesmo modelo, cores, Storyset Amico, música, estrutura das aulas e tags azul/laranja nas 5 lições.
-- [ ] **6.11** [G] Matterport: decidir se se captura a casa da D. Rosa (e a sala de acolhimento da L4) ou se fica o Discover.
-- [ ] **6.12** [G] Gantt atualizado com o progresso real: `S2_Gantt_Grupo1.xlsx` **e** o Gantt do S2 (`.docx`), iguais. ★
+### L1: voz e vídeos (qua 28/10 → qui 29/10) ★
+- [ ] **6.1** Teste de áudio (10 min). ★
+  - Sítio calado, porta fechada, telemóvel em silêncio. **Auscultadores postos** (a música e a sirene tocam durante a gravação; sem auscultadores ficam gravadas duas vezes).
+  - PowerPoint → separador Gravar → «Do início». Câmara **desligada**; microfone certo escolhido no menu.
+  - Gravar só o diap. 1 (≈ 20 s) → parar → ouvir. Volume bom? Sem eco? Música não abafa a voz? Se não, aproximar o microfone ou baixar a música.
+- [ ] **6.2** Gravar a narração dos diap. 1–10 (≈ 1 h com repetições). ★
+  - Ler das notas do `.pptx` (já têm as marcas). Esperar 1 s antes de falar em cada diapositivo.
+  - Fazer os `[clique]` nos sítios marcados: diap. 3 (1), 4 (4), 5 (3), 7 (3), 8 (3).
+  - Diap. 6 (visita, 58 s): falar por cima do vídeo e só avançar quando o vídeo acabar.
+  - Depois de cada diapositivo, ouvir. Se correu mal: botão direito → Limpar → «Limpar gravação neste diapositivo» e repetir só esse.
+  - Gravar → Guardar o `.pptx`. Commit.
+- [ ] **6.3** Exportar os 3 vídeos (Full HD 1080p, «Utilizar tempos e narrações gravados»). ★
+  - Antes: Opções → Avançadas → Ecrã → marcar «Desativar a aceleração de gráficos de hardware» (senão fica nos 0 MB).
+  - Ocultar todos os diapositivos menos 1–4 → Ficheiro → Exportar → Criar um vídeo → `L1_Aula1_Gancho.mp4`.
+  - Só 5–8 visíveis → `L1_Aula2_Conteudo.mp4`. Só 9–10 → `L1_Aula4_Sintese.mp4`. No fim, voltar a mostrar todos.
+  - Ver os 3 MP4 do início ao fim: som, etiquetas do diap. 6, cliques no sítio certo. Os MP4 ficam fora do git.
+
+### L1: Udemy (sex 30/10 → sáb 31/10) ★
+- [ ] **6.4** Secção 1 «Crise, demência e quem cuida», por esta ordem (guião §1). ★
+  - Aula 1 · Crise, demência e quem cuida → vídeo `L1_Aula1_Gancho.mp4`.
+  - Aula 2 · A pessoa, quem cuida e os 3 passos → vídeo `L1_Aula2_Conteudo.mp4`.
+  - Aula 3 · O que dá segurança? → já existe; confirmar o texto do guião §4.
+  - Teste 1 · Teste a compreensão → já existe; confirmar a P4 e o feedback de cada opção (guião §5).
+  - Aula 4 · Síntese e próxima lição → vídeo `L1_Aula4_Sintese.mp4`.
+  - Esperar que a Udemy acabe de processar cada vídeo (pode levar minutos).
+- [ ] **6.5** Recurso «Visita 3D» na Aula 2 e na Aula 3: link https://discover.matterport.com/space/R1sZEUzLrz9, com a nota «opcional». O quiz nunca depende dele. ★
+- [ ] **6.6** Pré-visualizar como aluno, no computador **e** no telemóvel (app Udemy). ★
+  - Ordem das aulas certa? Os 3 vídeos têm som? O link 3D abre? O Teste 1 mostra o feedback?
+  - **Confirmar se o Teste 1 aparece aos alunos num curso grátis.** Se não aparecer → avisar o grupo já: o quiz passa para o Google Forms (link na aula) em todas as lições.
+  - Tirar 4 capturas (secção 1, um vídeo, a Aula 3, o Teste 1) → `L1/Capturas/S6_*_L1.png`.
+- [ ] **6.7** Legendas em português nos 3 vídeos (automáticas, revistas com o guião). Se não houver tempo → passa para o S8 como melhoria.
+
+### Grupo: curso integrado (dom 01/11 → seg 02/11) ★
+- [ ] **6.8** [G] As 5 secções na Udemy pela ordem L1 → L5, todas com a mesma estrutura (vídeos → atividade → teste → síntese). Cada vídeo de síntese faz a ponte para a lição seguinte. ★
+  - Dom 01/11: mensagem no grupo a perguntar quem já tem a secção carregada. Quem não tiver até seg 02/11 às 18:00 → avisar a professora antes da aula.
+- [ ] **6.9** [G] Página do curso: título, subtítulo, descrição, objetivos, público, imagem do curso, vídeo promocional (pode ser o `L1_Aula1_Gancho.mp4`). ★
+- [ ] **6.10** [G] **Decidir como os outros grupos entram no curso a 03/11.** ★
+  - Plano A: pedir a publicação já (a Udemy exige ≥ 30 min de vídeo num curso grátis; somar a duração dos vídeos das 5 lições; se faltar, não dá) → link público.
+  - Plano B: os testadores usam o nosso portátil, com a conta de instrutor em «Pré-visualizar como aluno». Levar o portátil carregado e com o curso aberto.
+- [ ] **6.11** [G] Revisão cruzada rápida: mesmo modelo, cores, Storyset Amico, música, etiquetas azul/laranja no Matterport, cenários de crise na atividade e no Matterport de cada lição (feedback do S3).
+- [ ] **6.12** [G] Gantt com o progresso real: `S2_Gantt_Grupo1.xlsx` **e** o Gantt do `S2_MOOC-choice_planning_Grupo1.docx`, iguais. Tarefas feitas a 100 %, as do S7 e S8 com as datas novas (S7 a 03/11). ★
+- [ ] **6.13** Documento do S6 (`S6_Integracao_L1_Grupo1.docx` → PDF, ≈ 3–4 páginas). ★
+  - Link do curso (ou nota «acesso pelo portátil do grupo») · estrutura da secção 1 (tabela do guião §1) · capturas do 6.6 · Matterport: link e captura · créditos (Storyset, música, espaço Discover) · Gantt atualizado (imagem).
+  - Confirmar com o grupo se vai um PDF por lição (como no S4/S5) ou um só do grupo.
+- [ ] **6.14** Submeter no Moodle **até ter 03/11, antes da PL** (o limite é às 20:00). Commit. ★
 
 ---
 
-## 4. S7 · Testes e validação (entrega ter 10/11)
+## 4. S7 · Testes e validação (na PL de ter 03/11; entrega no mesmo dia)
 
-O prazo é o mesmo do S8. **Os testes têm de acabar até sex 06/11** para haver tempo de corrigir. O enunciado pede: versão completa para teste · metodologia · feedback · problemas · melhorias.
+Como funciona: na aula preenche-se a folha de testes do Moodle (as 5 primeiras linhas são exemplos, não mexer).
+- **Alfa:** eu testo a **minha** lição, sabendo o conteúdo, para ver se tudo funciona.
+- **Beta:** eu testo o MOOC de **outro grupo**, como se fosse um aluno novo; e alunos de outros grupos testam o nosso.
+- Cada estudante faz ≥ 1 teste Alfa e ≥ 1 Beta. Cada grupo tem de fazer ≥ 1 Beta a **cada** MOOC da turma.
 
-- [ ] **7.1** [G] Google Forms: pré-teste e pós-teste (as mesmas perguntas, antes e depois do curso), SUS (10 itens) e 2–3 perguntas abertas. ★
-- [ ] **7.2** [G] Links dos formulários no início e no fim do curso, na Udemy.
-- [ ] **7.3** [G] Testadores: ≥ 5 (colegas, família; se possível 1–2 cuidadores). Sem dados pessoais. Cada um faz o curso no telemóvel ou no computador. ★
-- [ ] **7.4** [G] Metodologia: quem testou, como, que tarefas, o que se mediu. ★
-- [ ] **7.5** [G] Resultados: pontuação SUS, ganho do pré para o pós-teste, problemas encontrados (por lição). ★
-- [ ] **7.6** Corrigir os problemas da L1 e registar o que mudou. ★
-- [ ] **7.7** [G] Documento do S7. ★
+### Antes da aula (seg 02/11)
+- [ ] **7.1** Abrir a folha de testes no Moodle e ler as colunas: saber o que se regista antes de começar. ★
+- [ ] **7.2** [G] Combinar no grupo quem testa o MOOC de que grupo (para não falhar nenhum) e quem fica junto ao portátil a acompanhar os testadores do nosso. ★
+- [ ] **7.3** [G] Preparar o portátil: carregado, Udemy com sessão iniciada, curso aberto na L1, auscultadores.
+
+### Na aula (ter 03/11)
+- [ ] **7.4** Teste **Alfa** da L1: fazer a secção 1 do princípio ao fim (3 vídeos, Aula 3, Teste 1, link 3D) e registar na folha. ★
+- [ ] **7.5** Teste **Beta** de pelo menos 1 MOOC de outro grupo; registar na folha. ★
+- [ ] **7.6** Acompanhar quem testa o nosso curso: **não ajudar**, só observar. Anotar num papel onde a pessoa hesita, o que não encontra, o que não funciona e quanto tempo demora na L1. ★
+
+### Depois da aula (ter 03/11, até às 20:00)
+- [ ] **7.7** Lista de problemas da L1: o que veio da folha (Alfa e Beta) + as notas do 7.6. Para cada um: gravidade (alta/média/baixa) e correção. ★
+- [ ] **7.8** [G] Documento do S7 (`S7_Testes_Grupo1.docx` → PDF). Confirmar no grupo quem o junta. ★
+  - **Versão testada:** link/acesso e data.
+  - **Metodologia:** testes Alfa e Beta em aula, quantos testadores, que tarefas (fazer a lição do princípio ao fim), o que se registou.
+  - **Feedback recolhido:** resumo da folha, por lição.
+  - **Problemas identificados:** a lista do 7.7 de cada lição.
+  - **Melhorias:** já feitas ou a fazer até 10/11.
+- [ ] **7.9** Submeter no Moodle. Commit. ★
 
 ---
 
@@ -102,37 +135,54 @@ O prazo é o mesmo do S8. **Os testes têm de acabar até sex 06/11** para haver
 
 O enunciado pede: MOOC completo · MOOC-choice e MOOC Template finais · Gantt final · regras/diretrizes da plataforma · resultados dos testes e melhorias · relatório do processo · esquema de navegação · guiões finais · apresentação presencial (obrigatória).
 
-- [ ] **8.1** [G] MOOC completo na Udemy, 5 lições. ★
-- [ ] **8.2** [G] `S2_MOOC-choice_planning_Grupo1.docx` e `S3_MOOC_Template_Grupo1.xlsx` finais. ★
-- [ ] **8.3** [G] Gantt final. ★
-- [ ] **8.4** [G] Regras e diretrizes da Udemy e como o curso as cumpre (vídeo ≥ 30 min, ≥ 5 aulas, HD, grátis < 2 h, revisão de qualidade). ★
-- [ ] **8.5** Guião final da L1 (`Guiao_L1.md` → PDF). ★
-- [ ] **8.6** [G] Relatório final: processo, esquema de navegação do curso, guiões das 5 lições, testes e melhorias. A parte da L1 é minha. ★
-- [ ] **8.7** [G] Apresentação presencial: diapositivos + demonstração na Udemy; a L1 em ≈ 1–2 min. Ensaiar com tempo. ★
-- [ ] **8.8** Submeter **antes da apresentação** e commit final. ★
+### Correções (qua 04/11 → sex 06/11)
+- [ ] **8.1** Corrigir os problemas da L1, primeiro os de gravidade alta. Se mexer na narração: guião, notas do `.pptx`, gravar de novo só esse diapositivo e voltar a exportar e carregar o vídeo. ★
+- [ ] **8.2** Registar cada correção: problema → o que mudou → onde. Vai para o relatório. ★
+- [ ] **8.3** Legendas (6.7), se ficaram por fazer.
+
+### Documentos (sáb 07/11 → dom 08/11)
+- [ ] **8.4** [G] MOOC completo na Udemy, 5 lições, todas com as correções. ★
+- [ ] **8.5** [G] `S2_MOOC-choice_planning_Grupo1.docx` e `S3_MOOC_Template_Grupo1.xlsx` finais (o que mudou desde o S3: Matterport Discover, durações reais). ★
+- [ ] **8.6** [G] Gantt final (`.xlsx` e `.docx`, iguais). ★
+- [ ] **8.7** [G] Regras e diretrizes da Udemy e como o curso as cumpre (vídeo ≥ 30 min, ≥ 5 aulas, HD, grátis < 2 h, revisão de qualidade, quiz num curso grátis). ★
+- [ ] **8.8** Guião final da L1 (`Guiao_L1.md` → `S8_Guiao_L1_Grupo1.pdf`). ★
+- [ ] **8.9** [G] Relatório final: processo, esquema de navegação do curso (diagrama secção → aulas → teste), guiões das 5 lições, testes do S7 e melhorias. A parte da L1 é minha. ★
+
+### Apresentação (seg 09/11 → ter 10/11)
+- [ ] **8.10** [G] Diapositivos + demonstração na Udemy; a L1 em ≈ 1–2 min (gancho + visita 3D). ★
+- [ ] **8.11** [G] Ensaio com cronómetro, seg 09/11. ★
+- [ ] **8.12** Submeter **antes da apresentação** e commit final. ★
 
 ---
 
 ## 6. Calendário
 
-| Semana | Até | O quê |
+| Dia | O quê | Tarefas |
 |---|---|---|
-| S5 | ter 27/10 | Matterport (5.1–5.7) → guião e PowerPoint (5.8–5.13) |
-| S6 | ter 03/11 | Voz e vídeos (6.1–6.2) até qui 29/10 · Udemy (6.3–6.6) até sáb 31/10 · grupo (6.8–6.12) |
-| S7 | sex 06/11 | Formulários prontos (7.1–7.2) até seg 02/11 · testes de 03 a 06/11 |
-| S7 + S8 | ter 10/11 | Correções (7.6) · documentos (7.7, 8.1–8.6) até dom 08/11 · ensaio da apresentação · entrega antes da PL |
-| P2 | ter 24/11 | — |
+| ter 27/10 | Submeter o S5 | 5.8 |
+| qua 28/10 | Teórica (avatar) · teste de áudio · começar a gravar | 6.1–6.2 |
+| qui 29/10 | Acabar a voz · exportar os 3 vídeos | 6.2–6.3 |
+| sex 30/10 | Udemy: carregar os vídeos, recursos | 6.4–6.5 |
+| sáb 31/10 | Pré-visualizar no computador e no telemóvel · legendas | 6.6–6.7 |
+| dom 01/11 | Grupo: secções, página do curso, acesso dos testadores, Gantt | 6.8–6.12 |
+| seg 02/11 | Documento do S6 · preparar os testes | 6.13, 7.1–7.3 |
+| ter 03/11 | Submeter o S6 antes da PL · testes na PL · S7 até às 20:00 | 6.14, 7.4–7.9 |
+| qua 04 → sex 06/11 | Correções da L1 | 8.1–8.3 |
+| sáb 07 → dom 08/11 | Documentos finais | 8.4–8.9 |
+| seg 09/11 | Ensaio da apresentação | 8.10–8.11 |
+| ter 10/11 | Entrega final e apresentação | 8.12 |
+| ter 24/11 | P2 | — |
 
 ---
 
 ## 7. Se apertar: o que cortar, por esta ordem
 
-1. Ensaio e marcas nas notas (5.10–5.11) → antes de gravar a voz (6.1).
-2. Legendas (6.5) → S7, como melhoria.
-3. Etiquetas no diap. 6: só as 3 da crise (Cadeira habitual, Quando a crise chega, Sair à força).
-4. Casa da D. Rosa (6.11): fica o Discover.
+1. Legendas (6.7, 8.3) → ficam como «melhoria a fazer».
+2. Recurso «Visita 3D» na Aula 2 (6.5): fica só na Aula 3.
+3. Vídeo promocional da página do curso (6.9).
+4. Revisão cruzada (6.11): só as cores e os cenários de crise.
 
-**Nunca cortar:** o Matterport, a voz e os vídeos na Udemy, os testes com utilizadores, a apresentação.
+> **Nunca cortar:** a voz e os vídeos na Udemy antes de 03/11, o Matterport, os testes da aula, a apresentação.
 
 ---
 
@@ -140,21 +190,22 @@ O enunciado pede: MOOC completo · MOOC-choice e MOOC Template finais · Gantt f
 
 | Questão | Quando |
 |---|---|
-| A voz e a Udemy passam para o S6 **para todos**? | Já |
-| Estrutura da Udemy igual em todas (gancho e conteúdo em aulas separadas) | S6 |
-| Mesmo estilo Storyset (Amico) e mesma música nas 5 lições | S6 |
-| Casa da D. Rosa capturada ou Discover? | S6 |
-| Quem faz os formulários e quem arranja testadores | até 02/11 |
-| Quem junta o relatório final e a apresentação | S7 |
+| Todos têm a secção na Udemy até seg 02/11 às 18:00? | dom 01/11 |
+| Os outros grupos acedem por link público ou pelo nosso portátil? (6.10) | dom 01/11 |
+| O quiz aparece num curso grátis? Se não → Google Forms em todas (6.6) | sáb 31/10 |
+| S6 e S7: um documento por lição ou um do grupo? | seg 02/11 |
+| Quem testa que MOOC na aula e quem fica com o portátil (7.2) | seg 02/11 |
+| Quem junta o documento do S7, o relatório final e a apresentação | ter 03/11 |
 | Feedback do S4 e do S5 | Cada semana |
 
 ## 9. Riscos
 
 | Risco | Mitigação |
 |---|---|
-| S7 e S8 no mesmo dia | Testes até sex 06/11; documentos até dom 08/11 |
-| A revisão da Udemy demora | Pedir a revisão no S6 (6.9) |
-| Poucos testadores | Pedir já a colegas e família; 5 chegam para o SUS |
-| Espaço Discover sem as divisões do roteiro | Escolher outro; etiqueta na zona onde estaria o objeto |
-| `.pptx` demasiado grande com a visita | Comprimir multimédia (5.7) |
-| Lições diferentes entre si | Revisão cruzada (6.10) |
+| S6 e S7 no mesmo dia: o curso tem de estar pronto antes | Prazo interno seg 02/11; Udemy da L1 até sáb 31/10 |
+| Um colega não tem a secção pronta a 03/11 | Perguntar dom 01/11; avisar a professora antes da aula |
+| Curso por publicar → os outros grupos não entram | Plano B: o nosso portátil em «Pré-visualizar como aluno» (6.10) |
+| Quiz não aparece num curso grátis | Ver na pré-visualização (6.6); plano B Google Forms |
+| Vídeos de todas as lições < 30 min → Udemy não publica | Explicar no S8 (8.7); demonstração pela pré-visualização |
+| Exportação do vídeo parada nos 0 MB | Desativar a aceleração de gráficos (6.3) |
+| Lições diferentes entre si | Revisão cruzada (6.11) |

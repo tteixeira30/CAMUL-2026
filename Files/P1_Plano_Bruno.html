@@ -59,8 +59,9 @@ footer{margin-top:40px;color:var(--muted);font-size:.85rem}
 </style>
 <body>
 <main>
-<h1>Plano do P1 — Bruno (25/10 → 10/11/2026)</h1>
-<p><strong>O que falta:</strong> S5 (ter 27/10) · S6 (ter 03/11) · S7 e S8 (as duas a <strong>ter 10/11</strong>, antes da PL, com apresentação presencial). Depois vem o P2 (24/11).</p>
+<h1>Plano do P1 — Bruno (27/10 → 10/11/2026)</h1>
+<p><strong>O que falta:</strong> S6 + S7 (as duas a <strong>ter 03/11</strong>) · S8 (ter 10/11, com apresentação presencial). Depois vem o P2 (24/11).</p>
+<p class="note"><strong>Mudou a 27/10:</strong> o S7 já não é a 10/11. Os testes são <strong>na PL de ter 03/11</strong>: os outros grupos experimentam o nosso MOOC e nós os deles. Por isso, a versão integrada (S6) tem de estar <strong>completa e acessível a outras pessoas antes dessa aula</strong>. As correções passam para o S8.</p>
 <p><strong>Regras:</strong></p>
 <ul>
   <li>Cada entrega incorpora o feedback da anterior.</li>
@@ -69,155 +70,281 @@ footer{margin-top:40px;color:var(--muted);font-size:.85rem}
 </ul>
 <p><strong>Decisões:</strong></p>
 <ul>
-  <li>Matterport → <strong>plano B</strong> no S5: espaço do Matterport Discover, gravado, com as tags como etiquetas no PowerPoint (o Clipchamp não está disponível na conta). A casa da D. Rosa decide-se em grupo para o S6.</li>
+  <li>Matterport → espaço do Matterport Discover «La Tarasca», gravado, com as tags como etiquetas no PowerPoint. A casa da D. Rosa já não se captura: não há tempo antes de 03/11.</li>
   <li>Ilustrações → <strong>Storyset, estilo Amico</strong>, azul #2F6DB5 (pessoa) e laranja #E07B2E (cuidador).</li>
   <li><strong>Ninguém usa avatar no P1.</strong> Cada um grava a sua voz.</li>
   <li>A voz, os vídeos e a Udemy da L1 ficam para o S6 (combinado com a professora a 25/10).</li>
 </ul>
-<p><strong>Legenda:</strong> <span class="star">★</span> = mínimo para entregar. <strong>[G]</strong> = tarefa de grupo (o Bruno trata da Udemy, por isso puxa por estas).</p>
+<p><strong>Legenda:</strong> <span class="star">★</span> = mínimo para entregar. <strong>[G]</strong> = tarefa de grupo (o Bruno trata da Udemy, por isso puxa por estas). Cada tarefa tem os passos por baixo: segue-os por ordem.</p>
 <p>Ficheiros: <code>Files/P1/L1/Guiao_L1.md</code> (narração, atividade, quiz) · <code>Files/P1/L1/S4_Video_L1.pptx</code> · <code>Files/P1/P1_Enunciado.pdf</code> (o que cada entrega pede).</p>
 <div class="progress">
   <div class="bar"><i id="bar"></i></div>
   <p><span id="total"></span><span id="stars"></span></p>
 </div>
-
 <h2>1. Já feito</h2>
 <div class="block end" data-block>
 <div class="head"><h3>Já feito</h3><span class="count"></span></div>
 <ul class="tasks">
-  <li><input type="checkbox" id="t-F-1" checked><label for="t-F-1"><span class="id">F.1</span><span class="t">Guião (<code>Guiao_L1.md</code>, sem o <code>.html</code>): §1 com a nova divisão em aulas e §2 igual ao PowerPoint (imagens, sons, tempos da Aula 2 a partir de 0:00).</span></label></li>
-  <li><input type="checkbox" id="t-F-2" checked><label for="t-F-2"><span class="id">F.2</span><span class="t">PowerPoint: 4 ilustrações Storyset (diap. 2, 3, 5, 7), ícones de crise (diap. 4), infografia com ícones (diap. 8), uma palavra por clique (diap. 5 e 7), créditos (diap. 10).</span></label></li>
-  <li><input type="checkbox" id="t-F-3" checked><label for="t-F-3"><span class="id">F.3</span><span class="t">Música «High Class», Benjamin Andrews (<code>P1/P1_Musica_High_Class_Benjamin_Andrews.mp3</code>): recomeça nos diap. 1, 4, 5 e 9. Relógio no diap. 1, sirene no diap. 3.</span></label></li>
-  <li><input type="checkbox" id="t-F-4" checked><label for="t-F-4"><span class="id">F.4</span><span class="t">Grupo: ninguém usa avatar.</span></label></li>
-  <li><input type="checkbox" id="t-F-5" checked><label for="t-F-5"><span class="id">F.5</span><span class="t">Teórica: página, regras e QEF feitos. Avatar <code>Teoricas/Avatares/BrunoAvatar.mp4</code> (22 s, 16:9, 3,2 MB). Entrega na teórica de qua 28/10.</span></label></li>
+  <li><input type="checkbox" id="t-F-1" checked><label for="t-F-1"><span class="id">F.1</span><span class="t">Guião (<code>Guiao_L1.md</code>): §1 com a divisão em aulas, §2 igual ao PowerPoint, §3 Matterport com as 6 capturas.</span>
+</label></li>
+  <li><input type="checkbox" id="t-F-2" checked><label for="t-F-2"><span class="id">F.2</span><span class="t">PowerPoint: 4 ilustrações Storyset (diap. 2, 3, 5, 7), ícones de crise (diap. 4), infografia com ícones (diap. 8), uma palavra por clique (diap. 5 e 7), créditos (diap. 10).</span>
+</label></li>
+  <li><input type="checkbox" id="t-F-3" checked><label for="t-F-3"><span class="id">F.3</span><span class="t">Música «High Class», Benjamin Andrews (<code>P1/P1_Musica_High_Class_Benjamin_Andrews.mp3</code>): recomeça nos diap. 1, 4, 5 e 9. Relógio no diap. 1, sirene no diap. 3.</span>
+</label></li>
+  <li><input type="checkbox" id="t-F-4" checked><label for="t-F-4"><span class="id">F.4</span><span class="t">Grupo: ninguém usa avatar.</span>
+</label></li>
+  <li><input type="checkbox" id="t-F-5" checked><label for="t-F-5"><span class="id">F.5</span><span class="t">Teórica: página, regras e QEF feitos. Avatar <code>Teoricas/Avatares/BrunoAvatar.mp4</code> (22 s, 16:9, 3,2 MB). Entrega na teórica de qua 28/10.</span>
+</label></li>
 </ul>
 </div>
-<h2>2. S5 · Protótipo (entrega ter 27/10): guião + PowerPoint</h2>
-<p>O enunciado pede o Matterport «funcional ou em fase avançada»: entra no S5 pelo plano B.</p>
+<h2>2. S5 · Protótipo (entrega ter 27/10)</h2>
 <div class="block" data-block>
-<div class="head"><h3>Matterport, plano B <span class="star">★</span></h3><span class="count"></span></div>
+<div class="head"><h3>Matterport (plano B) e PowerPoint <span class="star">★</span></h3><span class="count"></span></div>
 <ul class="tasks">
-  <li><input type="checkbox" id="t-5-1" checked data-star><label for="t-5-1"><span class="id">5.1</span><span class="star">★</span> <span class="t">discover.matterport.com → procurar <i>house</i>, <i>home</i>, <i>apartment</i> (de preferência <i>Portugal</i>). Escolher um espaço com <strong>entrada, sala com janela, cozinha e quarto</strong>, mobília comum (não de luxo).</span></label></li>
-  <li><input type="checkbox" id="t-5-2" checked data-star><label for="t-5-2"><span class="id">5.2</span><span class="star">★</span> <span class="t">Anotar o link, o nome do espaço e o autor (créditos e link «Visita 3D»).  → «La Tarasca», Zamora · discover.matterport.com/space/R1sZEUzLrz9 · IInmobarrios.</span></label></li>
-  <li><input type="checkbox" id="t-5-3" checked><label for="t-5-3"><span class="id">5.3</span><span class="t">Ensaiar o roteiro «A casa pelos olhos da D. Rosa» sem gravar: Entrada → Sala (cadeira, quadros, janela) → Cozinha (zona do relógio) → Quarto → de volta à porta. 3–4 s parado em cada paragem.</span></label></li>
-  <li><input type="checkbox" id="t-5-4" checked data-star><label for="t-5-4"><span class="id">5.4</span><span class="star">★</span> <span class="t">Gravar o ecrã: browser em ecrã inteiro (F11), notificações desligadas, Xbox Game Bar <code>Win+Alt+R</code>. 30–60 s. 2 vezes, ficar com a melhor.  → feito: <code>L1/L1_Visita3D.mp4</code>, 58 s, 74 MB (fora do git).</span></label></li>
-  <li><input type="checkbox" id="t-5-5" checked data-star><label for="t-5-5"><span class="id">5.5</span><span class="star">★</span> <span class="t">Diap. 6: Inserir → Vídeo → Este dispositivo → <code>L1_Visita3D.mp4</code> → separador Reprodução: Iniciar «Automaticamente», «Reproduzir em ecrã inteiro» desligado (o vídeo ocupa o diapositivo todo). Apagar o lugar reservado. Ficheiro → Informações → Comprimir multimédia → Full HD (o vídeo tem 74 MB).  → feito a 26/10; falta comprimir (o <code>.pptx</code> tem ≈ 90 MB).</span></label></li>
-  <li><input type="checkbox" id="t-5-6" checked data-star><label for="t-5-6"><span class="id">5.6</span><span class="star">★</span> <span class="t">Etiquetas no PowerPoint, por cima do vídeo: 6 retângulos arredondados, só o texto (sem título), fundo azul #2F6DB5 ou laranja #E07B2E, letra branca Segoe UI a negrito. «Desvanecer» de entrada e de saída, «Com a anterior», Atraso = segundo da paragem. O PowerPoint grava as etiquetas no vídeo ao exportar. A casa não tem fotografias nem relógio → quadros e banca da cozinha.  → feito a 26/10; tabela completa no guião §3.</span></label></li>
+  <li><input type="checkbox" id="t-5-1" checked data-star><label for="t-5-1"><span class="id">5.1</span><span class="star">★</span> <span class="t">Espaço Discover: «La Tarasca», Zamora · discover.matterport.com/space/R1sZEUzLrz9 · IInmobarrios.</span>
+</label></li>
+  <li><input type="checkbox" id="t-5-2" checked data-star><label for="t-5-2"><span class="id">5.2</span><span class="star">★</span> <span class="t">Visita gravada: <code>L1/L1_Visita3D.mp4</code>, 58 s, 74 MB (fora do git), no diap. 6.</span>
+</label></li>
+  <li><input type="checkbox" id="t-5-3" checked data-star><label for="t-5-3"><span class="id">5.3</span><span class="star">★</span> <span class="t">6 etiquetas por cima do vídeo (5 azuis, 1 laranja), ligadas às crises; tabela no guião §3.</span>
+</label></li>
+  <li><input type="checkbox" id="t-5-4" checked data-star><label for="t-5-4"><span class="id">5.4</span><span class="star">★</span> <span class="t">6 capturas das etiquetas (<code>L1/Capturas/S5_Captura_1…6_L1.png</code>) no guião §3; tempos acertados à visita de 58 s.</span>
+</label></li>
+  <li><input type="checkbox" id="t-5-5" checked data-star><label for="t-5-5"><span class="id">5.5</span><span class="star">★</span> <span class="t">Multimédia comprimida: o <code>.pptx</code> passou de 90 MB para 42 MB.</span>
+</label></li>
+  <li><input type="checkbox" id="t-5-6" checked><label for="t-5-6"><span class="id">5.6</span><span class="t">Ensaio em voz alta, marcas nas notas (<code>[pausa]</code>, MAIÚSCULAS, <code>/</code>, <code>[clique]</code>), apresentação passada do 1 ao 10 com som.</span>
+</label></li>
+  <li><input type="checkbox" id="t-5-7" checked data-star><label for="t-5-7"><span class="id">5.7</span><span class="star">★</span> <span class="t"><code>S5_Guiao_L1_Grupo1.pdf</code> exportado. Commit <code>d58270a</code>.</span>
+</label></li>
+  <li><input type="checkbox" id="t-5-8" data-star><label for="t-5-8"><span class="id">5.8</span><span class="star">★</span> <span class="t">Submeter no Moodle <strong>hoje, ter 27/10</strong>: <code>S5_Guiao_L1_Grupo1.pdf</code> + o <code>.pptx</code> (renomear a cópia para <code>S5_Video_L1_Grupo1.pptx</code>).</span>
+<span class="how"><ul>
+<li>Se o Moodle recusar o <code>.pptx</code> por ser grande (42 MB): pôr no OneDrive com link «qualquer pessoa pode ver» e colar o link na submissão.</li>
+<li>Tirar a visita do stage do git (é para ficar fora): <code>git restore --staged Files/P1/L1/L1_Visita3D.mp4</code>.</li>
+</ul></span>
+</label></li>
 </ul>
-<div class="wrap"><table>
-  <tr><th>Tempo</th><th>Paragem</th><th>Texto</th><th>Cor</th></tr>
-  <tr><td>10–13 s</td><td>Sala · quadros</td><td>Os quadros que conhece há anos dizem-lhe que esta é a casa dela.</td><td>azul</td></tr>
-  <tr><td>17–22 s</td><td>Sala · sofá</td><td>É aqui que a D. Rosa se senta todas as manhãs. Um lugar fixo ajuda-a a orientar-se.</td><td>azul</td></tr>
-  <tr><td>23–27 s</td><td>Sala · janela</td><td>Fumo, sirenes, luzes: num incêndio ou num bombardeamento, é por aqui que a crise entra.</td><td>azul</td></tr>
-  <tr><td>34–38 s</td><td>Cozinha · banca</td><td>As refeições marcam o dia. Numa crise ou num confinamento, manter as horas ajuda a acalmar.</td><td>azul</td></tr>
-  <tr><td>46–50 s</td><td>Quarto</td><td>Quem cuida também precisa de um sítio e de um tempo para descansar.</td><td>laranja</td></tr>
-  <tr><td>56–58 s</td><td>Entrada · porta</td><td>Uma cheia, um incêndio ou uma guerra podem obrigar a sair por esta porta sem tempo.</td><td>azul</td></tr>
-</table></div>
+</div>
+<h2>3. S6 · Versão integrada (entrega ter 03/11, antes da PL)</h2>
+<p>O enunciado pede: lições funcionais e articuladas · multimédia integrada · Matterport integrado · avaliação · navegação do curso · integração na plataforma · Gantt atualizado.</p>
+<p><strong>Prazo real: seg 02/11 à noite.</strong> Na PL de 03/11 os outros grupos vão testar o curso; o que não estiver na Udemy não é testado.</p>
+<div class="block" data-block>
+<div class="head"><h3>L1: voz e vídeos (qua 28/10 → qui 29/10) <span class="star">★</span></h3><span class="count"></span></div>
 <ul class="tasks">
-  <li><input type="checkbox" id="t-5-7" data-star><label for="t-5-7"><span class="id">5.7</span><span class="star">★</span> <span class="t">6 capturas, uma por etiqueta: diap. 6 em apresentação (<code>Shift+F5</code>), pausar em cada etiqueta, <code>Win+Shift+S</code>. Juntar ao §3 do guião e acertar os tempos do §2 e do §3 à visita real (58 s em vez de 40 s: a Aula 2 passa a ≈ 3:15).</span></label></li>
+  <li><input type="checkbox" id="t-6-1" data-star><label for="t-6-1"><span class="id">6.1</span><span class="star">★</span> <span class="t">Teste de áudio (10 min).</span>
+<span class="how"><ul>
+<li>Sítio calado, porta fechada, telemóvel em silêncio. <strong>Auscultadores postos</strong> (a música e a sirene tocam durante a gravação; sem auscultadores ficam gravadas duas vezes).</li>
+<li>PowerPoint → separador Gravar → «Do início». Câmara <strong>desligada</strong>; microfone certo escolhido no menu.</li>
+<li>Gravar só o diap. 1 (≈ 20 s) → parar → ouvir. Volume bom? Sem eco? Música não abafa a voz? Se não, aproximar o microfone ou baixar a música.</li>
+</ul></span>
+</label></li>
+  <li><input type="checkbox" id="t-6-2" data-star><label for="t-6-2"><span class="id">6.2</span><span class="star">★</span> <span class="t">Gravar a narração dos diap. 1–10 (≈ 1 h com repetições).</span>
+<span class="how"><ul>
+<li>Ler das notas do <code>.pptx</code> (já têm as marcas). Esperar 1 s antes de falar em cada diapositivo.</li>
+<li>Fazer os <code>[clique]</code> nos sítios marcados: diap. 3 (1), 4 (4), 5 (3), 7 (3), 8 (3).</li>
+<li>Diap. 6 (visita, 58 s): falar por cima do vídeo e só avançar quando o vídeo acabar.</li>
+<li>Depois de cada diapositivo, ouvir. Se correu mal: botão direito → Limpar → «Limpar gravação neste diapositivo» e repetir só esse.</li>
+<li>Gravar → Guardar o <code>.pptx</code>. Commit.</li>
+</ul></span>
+</label></li>
+  <li><input type="checkbox" id="t-6-3" data-star><label for="t-6-3"><span class="id">6.3</span><span class="star">★</span> <span class="t">Exportar os 3 vídeos (Full HD 1080p, «Utilizar tempos e narrações gravados»).</span>
+<span class="how"><ul>
+<li>Antes: Opções → Avançadas → Ecrã → marcar «Desativar a aceleração de gráficos de hardware» (senão fica nos 0 MB).</li>
+<li>Ocultar todos os diapositivos menos 1–4 → Ficheiro → Exportar → Criar um vídeo → <code>L1_Aula1_Gancho.mp4</code>.</li>
+<li>Só 5–8 visíveis → <code>L1_Aula2_Conteudo.mp4</code>. Só 9–10 → <code>L1_Aula4_Sintese.mp4</code>. No fim, voltar a mostrar todos.</li>
+<li>Ver os 3 MP4 do início ao fim: som, etiquetas do diap. 6, cliques no sítio certo. Os MP4 ficam fora do git.</li>
+</ul></span>
+</label></li>
 </ul>
 </div>
 <div class="block" data-block>
-<div class="head"><h3>Guião e PowerPoint <span class="star">★</span></h3><span class="count"></span></div>
+<div class="head"><h3>L1: Udemy (sex 30/10 → sáb 31/10) <span class="star">★</span></h3><span class="count"></span></div>
 <ul class="tasks">
-  <li><input type="checkbox" id="t-5-8" checked data-star><label for="t-5-8"><span class="id">5.8</span><span class="star">★</span> <span class="t">Guião: nova secção «Matterport» (§3: espaço, roteiro, 6 tags, produção). Espaço, link e autor preenchidos; faltam as capturas (5.7). Cumpre o feedback do S3: cenários de crise também no Matterport.</span></label></li>
-  <li><input type="checkbox" id="t-5-9" checked data-star><label for="t-5-9"><span class="id">5.9</span><span class="star">★</span> <span class="t">Guião §7 (Próximos passos): marcar o que está feito; voz, vídeos e Udemy → S6.  → feito a 26/10 (e §1–§3 e §6 acertados à visita de 58 s).</span></label></li>
-  <li><input type="checkbox" id="t-5-10" checked><label for="t-5-10"><span class="id">5.10</span><span class="t">Ensaiar em voz alta com cronómetro (sem gravar) e reescrever as frases em que tropeças, no guião <strong>e</strong> nas notas do <code>.pptx</code>.</span></label></li>
-  <li><input type="checkbox" id="t-5-11" checked><label for="t-5-11"><span class="id">5.11</span><span class="t">Marcas nas notas do <code>.pptx</code>: <code>[pausa]</code> · ênfase em MAIÚSCULAS · <code>/</code> = respirar · <code>[clique]</code> nos diap. 3 (1), 4 (4), 5 (3), 7 (3), 8 (3).</span></label></li>
-  <li><input type="checkbox" id="t-5-12" checked data-star><label for="t-5-12"><span class="id">5.12</span><span class="star">★</span> <span class="t">Passar a apresentação do 1 ao 10 (F5), com som.</span></label></li>
-  <li><input type="checkbox" id="t-5-13" data-star><label for="t-5-13"><span class="id">5.13</span><span class="star">★</span> <span class="t">Entrega: <code>S5_Guiao_L1_Grupo1.pdf</code> (do <code>.md</code>) + <code>S5_Video_L1_Grupo1.pptx</code>. <strong>Submeter no Moodle antes da PL de ter 27/10.</strong> Commit.</span></label></li>
+  <li><input type="checkbox" id="t-6-4" data-star><label for="t-6-4"><span class="id">6.4</span><span class="star">★</span> <span class="t">Secção 1 «Crise, demência e quem cuida», por esta ordem (guião §1).</span>
+<span class="how"><ul>
+<li>Aula 1 · Crise, demência e quem cuida → vídeo <code>L1_Aula1_Gancho.mp4</code>.</li>
+<li>Aula 2 · A pessoa, quem cuida e os 3 passos → vídeo <code>L1_Aula2_Conteudo.mp4</code>.</li>
+<li>Aula 3 · O que dá segurança? → já existe; confirmar o texto do guião §4.</li>
+<li>Teste 1 · Teste a compreensão → já existe; confirmar a P4 e o feedback de cada opção (guião §5).</li>
+<li>Aula 4 · Síntese e próxima lição → vídeo <code>L1_Aula4_Sintese.mp4</code>.</li>
+<li>Esperar que a Udemy acabe de processar cada vídeo (pode levar minutos).</li>
+</ul></span>
+</label></li>
+  <li><input type="checkbox" id="t-6-5" data-star><label for="t-6-5"><span class="id">6.5</span><span class="star">★</span> <span class="t">Recurso «Visita 3D» na Aula 2 e na Aula 3: link https://discover.matterport.com/space/R1sZEUzLrz9, com a nota «opcional». O quiz nunca depende dele.</span>
+</label></li>
+  <li><input type="checkbox" id="t-6-6" data-star><label for="t-6-6"><span class="id">6.6</span><span class="star">★</span> <span class="t">Pré-visualizar como aluno, no computador <strong>e</strong> no telemóvel (app Udemy).</span>
+<span class="how"><ul>
+<li>Ordem das aulas certa? Os 3 vídeos têm som? O link 3D abre? O Teste 1 mostra o feedback?</li>
+<li><strong>Confirmar se o Teste 1 aparece aos alunos num curso grátis.</strong> Se não aparecer → avisar o grupo já: o quiz passa para o Google Forms (link na aula) em todas as lições.</li>
+<li>Tirar 4 capturas (secção 1, um vídeo, a Aula 3, o Teste 1) → <code>L1/Capturas/S6_*_L1.png</code>.</li>
+</ul></span>
+</label></li>
+  <li><input type="checkbox" id="t-6-7"><label for="t-6-7"><span class="id">6.7</span><span class="t">Legendas em português nos 3 vídeos (automáticas, revistas com o guião). Se não houver tempo → passa para o S8 como melhoria.</span>
+</label></li>
 </ul>
 </div>
-<h2>3. S6 · Versão integrada (entrega ter 03/11)</h2>
-<p>O enunciado pede: lições funcionais e articuladas · multimédia integrada · Matterport integrado · avaliação · navegação do curso · Gantt atualizado.</p>
 <div class="block" data-block>
-<div class="head"><h3>L1</h3><span class="count"></span></div>
+<div class="head"><h3>Grupo: curso integrado (dom 01/11 → seg 02/11) <span class="star">★</span></h3><span class="count"></span></div>
 <ul class="tasks">
-  <li><input type="checkbox" id="t-6-1" data-star><label for="t-6-1"><span class="id">6.1</span><span class="star">★</span> <span class="t">Voz: sítio calado, <strong>auscultadores</strong> (a música e a sirene tocam durante a gravação), PowerPoint → Gravar → câmara desligada. Teste de 20 s, depois desde o início; ouvir cada diapositivo logo a seguir.</span></label></li>
-  <li><input type="checkbox" id="t-6-2" data-star><label for="t-6-2"><span class="id">6.2</span><span class="star">★</span> <span class="t">Exportar em Full HD, ocultando os outros diapositivos: <code>L1_Aula1_Gancho.mp4</code> (1–4) · <code>L1_Aula2_Conteudo.mp4</code> (5–8) · <code>L1_Aula4_Sintese.mp4</code> (9–10).</span></label></li>
-  <li><input type="checkbox" id="t-6-3" data-star><label for="t-6-3"><span class="id">6.3</span><span class="star">★</span> <span class="t">Udemy, secção 1, por esta ordem: Aula 1 · Aula 2 · Aula 3 (reflexão) · Teste 1 · Aula 4. Carregar os vídeos.</span></label></li>
-  <li><input type="checkbox" id="t-6-4" data-star><label for="t-6-4"><span class="id">6.4</span><span class="star">★</span> <span class="t">Aula 3: texto do guião §4 + recurso «Visita 3D» (link do Discover, opcional, nunca preciso para o quiz). Rever o Teste 1 (P4 e feedback de cada opção, guião §5).</span></label></li>
-  <li><input type="checkbox" id="t-6-5"><label for="t-6-5"><span class="id">6.5</span><span class="t">Legendas em português (automáticas, revistas com o guião).</span></label></li>
-  <li><input type="checkbox" id="t-6-6" data-star><label for="t-6-6"><span class="id">6.6</span><span class="star">★</span> <span class="t">«Pré-visualizar como aluno» no computador e no telemóvel: ordem, som, quiz, link 3D.</span></label></li>
-  <li><input type="checkbox" id="t-6-7" data-star><label for="t-6-7"><span class="id">6.7</span><span class="star">★</span> <span class="t">Evidências do S6 (L1): links, capturas, créditos (Storyset, música, espaço Discover).</span></label></li>
+  <li><input type="checkbox" id="t-6-8" data-star><label for="t-6-8"><span class="id">6.8</span><span class="star">★</span> <span class="t">[G] As 5 secções na Udemy pela ordem L1 → L5, todas com a mesma estrutura (vídeos → atividade → teste → síntese). Cada vídeo de síntese faz a ponte para a lição seguinte.</span>
+<span class="how"><ul>
+<li>Dom 01/11: mensagem no grupo a perguntar quem já tem a secção carregada. Quem não tiver até seg 02/11 às 18:00 → avisar a professora antes da aula.</li>
+</ul></span>
+</label></li>
+  <li><input type="checkbox" id="t-6-9" data-star><label for="t-6-9"><span class="id">6.9</span><span class="star">★</span> <span class="t">[G] Página do curso: título, subtítulo, descrição, objetivos, público, imagem do curso, vídeo promocional (pode ser o <code>L1_Aula1_Gancho.mp4</code>).</span>
+</label></li>
+  <li><input type="checkbox" id="t-6-10" data-star><label for="t-6-10"><span class="id">6.10</span><span class="star">★</span> <span class="t">[G] <strong>Decidir como os outros grupos entram no curso a 03/11.</strong></span>
+<span class="how"><ul>
+<li>Plano A: pedir a publicação já (a Udemy exige ≥ 30 min de vídeo num curso grátis; somar a duração dos vídeos das 5 lições; se faltar, não dá) → link público.</li>
+<li>Plano B: os testadores usam o nosso portátil, com a conta de instrutor em «Pré-visualizar como aluno». Levar o portátil carregado e com o curso aberto.</li>
+</ul></span>
+</label></li>
+  <li><input type="checkbox" id="t-6-11"><label for="t-6-11"><span class="id">6.11</span><span class="t">[G] Revisão cruzada rápida: mesmo modelo, cores, Storyset Amico, música, etiquetas azul/laranja no Matterport, cenários de crise na atividade e no Matterport de cada lição (feedback do S3).</span>
+</label></li>
+  <li><input type="checkbox" id="t-6-12" data-star><label for="t-6-12"><span class="id">6.12</span><span class="star">★</span> <span class="t">[G] Gantt com o progresso real: <code>S2_Gantt_Grupo1.xlsx</code> <strong>e</strong> o Gantt do <code>S2_MOOC-choice_planning_Grupo1.docx</code>, iguais. Tarefas feitas a 100 %, as do S7 e S8 com as datas novas (S7 a 03/11).</span>
+</label></li>
+  <li><input type="checkbox" id="t-6-13" data-star><label for="t-6-13"><span class="id">6.13</span><span class="star">★</span> <span class="t">Documento do S6 (<code>S6_Integracao_L1_Grupo1.docx</code> → PDF, ≈ 3–4 páginas).</span>
+<span class="how"><ul>
+<li>Link do curso (ou nota «acesso pelo portátil do grupo») · estrutura da secção 1 (tabela do guião §1) · capturas do 6.6 · Matterport: link e captura · créditos (Storyset, música, espaço Discover) · Gantt atualizado (imagem).</li>
+<li>Confirmar com o grupo se vai um PDF por lição (como no S4/S5) ou um só do grupo.</li>
+</ul></span>
+</label></li>
+  <li><input type="checkbox" id="t-6-14" data-star><label for="t-6-14"><span class="id">6.14</span><span class="star">★</span> <span class="t">Submeter no Moodle <strong>até ter 03/11, antes da PL</strong> (o limite é às 20:00). Commit.</span>
+</label></li>
+</ul>
+</div>
+<h2>4. S7 · Testes e validação (na PL de ter 03/11; entrega no mesmo dia)</h2>
+<p>Como funciona: na aula preenche-se a folha de testes do Moodle (as 5 primeiras linhas são exemplos, não mexer).</p>
+<ul>
+  <li><strong>Alfa:</strong> eu testo a <strong>minha</strong> lição, sabendo o conteúdo, para ver se tudo funciona.</li>
+  <li><strong>Beta:</strong> eu testo o MOOC de <strong>outro grupo</strong>, como se fosse um aluno novo; e alunos de outros grupos testam o nosso.</li>
+  <li>Cada estudante faz ≥ 1 teste Alfa e ≥ 1 Beta. Cada grupo tem de fazer ≥ 1 Beta a <strong>cada</strong> MOOC da turma.</li>
+</ul>
+<div class="block" data-block>
+<div class="head"><h3>Antes da aula (seg 02/11)</h3><span class="count"></span></div>
+<ul class="tasks">
+  <li><input type="checkbox" id="t-7-1" data-star><label for="t-7-1"><span class="id">7.1</span><span class="star">★</span> <span class="t">Abrir a folha de testes no Moodle e ler as colunas: saber o que se regista antes de começar.</span>
+</label></li>
+  <li><input type="checkbox" id="t-7-2" data-star><label for="t-7-2"><span class="id">7.2</span><span class="star">★</span> <span class="t">[G] Combinar no grupo quem testa o MOOC de que grupo (para não falhar nenhum) e quem fica junto ao portátil a acompanhar os testadores do nosso.</span>
+</label></li>
+  <li><input type="checkbox" id="t-7-3"><label for="t-7-3"><span class="id">7.3</span><span class="t">[G] Preparar o portátil: carregado, Udemy com sessão iniciada, curso aberto na L1, auscultadores.</span>
+</label></li>
 </ul>
 </div>
 <div class="block" data-block>
-<div class="head"><h3>Grupo</h3><span class="count"></span></div>
+<div class="head"><h3>Na aula (ter 03/11)</h3><span class="count"></span></div>
 <ul class="tasks">
-  <li><input type="checkbox" id="t-6-8" data-star><label for="t-6-8"><span class="id">6.8</span><span class="star">★</span> <span class="t">[G] As 5 secções na Udemy, pela ordem L1 → L5, com a ponte de cada lição para a seguinte.</span></label></li>
-  <li><input type="checkbox" id="t-6-9" data-star><label for="t-6-9"><span class="id">6.9</span><span class="star">★</span> <span class="t">[G] Página do curso na Udemy: título, subtítulo, descrição, objetivos, público, imagem. Pedir a revisão da Udemy cedo: pode demorar dias.</span></label></li>
-  <li><input type="checkbox" id="t-6-10"><label for="t-6-10"><span class="id">6.10</span><span class="t">[G] Revisão cruzada: mesmo modelo, cores, Storyset Amico, música, estrutura das aulas e tags azul/laranja nas 5 lições.</span></label></li>
-  <li><input type="checkbox" id="t-6-11"><label for="t-6-11"><span class="id">6.11</span><span class="t">[G] Matterport: decidir se se captura a casa da D. Rosa (e a sala de acolhimento da L4) ou se fica o Discover.</span></label></li>
-  <li><input type="checkbox" id="t-6-12" data-star><label for="t-6-12"><span class="id">6.12</span><span class="star">★</span> <span class="t">[G] Gantt atualizado com o progresso real: <code>S2_Gantt_Grupo1.xlsx</code> <strong>e</strong> o Gantt do S2 (<code>.docx</code>), iguais.</span></label></li>
+  <li><input type="checkbox" id="t-7-4" data-star><label for="t-7-4"><span class="id">7.4</span><span class="star">★</span> <span class="t">Teste <strong>Alfa</strong> da L1: fazer a secção 1 do princípio ao fim (3 vídeos, Aula 3, Teste 1, link 3D) e registar na folha.</span>
+</label></li>
+  <li><input type="checkbox" id="t-7-5" data-star><label for="t-7-5"><span class="id">7.5</span><span class="star">★</span> <span class="t">Teste <strong>Beta</strong> de pelo menos 1 MOOC de outro grupo; registar na folha.</span>
+</label></li>
+  <li><input type="checkbox" id="t-7-6" data-star><label for="t-7-6"><span class="id">7.6</span><span class="star">★</span> <span class="t">Acompanhar quem testa o nosso curso: <strong>não ajudar</strong>, só observar. Anotar num papel onde a pessoa hesita, o que não encontra, o que não funciona e quanto tempo demora na L1.</span>
+</label></li>
 </ul>
 </div>
-<h2>4. S7 · Testes e validação (entrega ter 10/11)</h2>
-<p>O prazo é o mesmo do S8. <strong>Os testes têm de acabar até sex 06/11</strong> para haver tempo de corrigir. O enunciado pede: versão completa para teste · metodologia · feedback · problemas · melhorias.</p>
 <div class="block" data-block>
-<div class="head"><h3>S7 · Testes e validação (entrega ter 10/11)</h3><span class="count"></span></div>
+<div class="head"><h3>Depois da aula (ter 03/11, até às 20:00)</h3><span class="count"></span></div>
 <ul class="tasks">
-  <li><input type="checkbox" id="t-7-1" data-star><label for="t-7-1"><span class="id">7.1</span><span class="star">★</span> <span class="t">[G] Google Forms: pré-teste e pós-teste (as mesmas perguntas, antes e depois do curso), SUS (10 itens) e 2–3 perguntas abertas.</span></label></li>
-  <li><input type="checkbox" id="t-7-2"><label for="t-7-2"><span class="id">7.2</span><span class="t">[G] Links dos formulários no início e no fim do curso, na Udemy.</span></label></li>
-  <li><input type="checkbox" id="t-7-3" data-star><label for="t-7-3"><span class="id">7.3</span><span class="star">★</span> <span class="t">[G] Testadores: ≥ 5 (colegas, família; se possível 1–2 cuidadores). Sem dados pessoais. Cada um faz o curso no telemóvel ou no computador.</span></label></li>
-  <li><input type="checkbox" id="t-7-4" data-star><label for="t-7-4"><span class="id">7.4</span><span class="star">★</span> <span class="t">[G] Metodologia: quem testou, como, que tarefas, o que se mediu.</span></label></li>
-  <li><input type="checkbox" id="t-7-5" data-star><label for="t-7-5"><span class="id">7.5</span><span class="star">★</span> <span class="t">[G] Resultados: pontuação SUS, ganho do pré para o pós-teste, problemas encontrados (por lição).</span></label></li>
-  <li><input type="checkbox" id="t-7-6" data-star><label for="t-7-6"><span class="id">7.6</span><span class="star">★</span> <span class="t">Corrigir os problemas da L1 e registar o que mudou.</span></label></li>
-  <li><input type="checkbox" id="t-7-7" data-star><label for="t-7-7"><span class="id">7.7</span><span class="star">★</span> <span class="t">[G] Documento do S7.</span></label></li>
+  <li><input type="checkbox" id="t-7-7" data-star><label for="t-7-7"><span class="id">7.7</span><span class="star">★</span> <span class="t">Lista de problemas da L1: o que veio da folha (Alfa e Beta) + as notas do 7.6. Para cada um: gravidade (alta/média/baixa) e correção.</span>
+</label></li>
+  <li><input type="checkbox" id="t-7-8" data-star><label for="t-7-8"><span class="id">7.8</span><span class="star">★</span> <span class="t">[G] Documento do S7 (<code>S7_Testes_Grupo1.docx</code> → PDF). Confirmar no grupo quem o junta.</span>
+<span class="how"><ul>
+<li><strong>Versão testada:</strong> link/acesso e data.</li>
+<li><strong>Metodologia:</strong> testes Alfa e Beta em aula, quantos testadores, que tarefas (fazer a lição do princípio ao fim), o que se registou.</li>
+<li><strong>Feedback recolhido:</strong> resumo da folha, por lição.</li>
+<li><strong>Problemas identificados:</strong> a lista do 7.7 de cada lição.</li>
+<li><strong>Melhorias:</strong> já feitas ou a fazer até 10/11.</li>
+</ul></span>
+</label></li>
+  <li><input type="checkbox" id="t-7-9" data-star><label for="t-7-9"><span class="id">7.9</span><span class="star">★</span> <span class="t">Submeter no Moodle. Commit.</span>
+</label></li>
 </ul>
 </div>
 <h2>5. S8 · Entrega final e apresentação (ter 10/11, antes da PL)</h2>
 <p>O enunciado pede: MOOC completo · MOOC-choice e MOOC Template finais · Gantt final · regras/diretrizes da plataforma · resultados dos testes e melhorias · relatório do processo · esquema de navegação · guiões finais · apresentação presencial (obrigatória).</p>
 <div class="block" data-block>
-<div class="head"><h3>S8 · Entrega final e apresentação (ter 10/11, antes da PL)</h3><span class="count"></span></div>
+<div class="head"><h3>Correções (qua 04/11 → sex 06/11)</h3><span class="count"></span></div>
 <ul class="tasks">
-  <li><input type="checkbox" id="t-8-1" data-star><label for="t-8-1"><span class="id">8.1</span><span class="star">★</span> <span class="t">[G] MOOC completo na Udemy, 5 lições.</span></label></li>
-  <li><input type="checkbox" id="t-8-2" data-star><label for="t-8-2"><span class="id">8.2</span><span class="star">★</span> <span class="t">[G] <code>S2_MOOC-choice_planning_Grupo1.docx</code> e <code>S3_MOOC_Template_Grupo1.xlsx</code> finais.</span></label></li>
-  <li><input type="checkbox" id="t-8-3" data-star><label for="t-8-3"><span class="id">8.3</span><span class="star">★</span> <span class="t">[G] Gantt final.</span></label></li>
-  <li><input type="checkbox" id="t-8-4" data-star><label for="t-8-4"><span class="id">8.4</span><span class="star">★</span> <span class="t">[G] Regras e diretrizes da Udemy e como o curso as cumpre (vídeo ≥ 30 min, ≥ 5 aulas, HD, grátis &lt; 2 h, revisão de qualidade).</span></label></li>
-  <li><input type="checkbox" id="t-8-5" data-star><label for="t-8-5"><span class="id">8.5</span><span class="star">★</span> <span class="t">Guião final da L1 (<code>Guiao_L1.md</code> → PDF).</span></label></li>
-  <li><input type="checkbox" id="t-8-6" data-star><label for="t-8-6"><span class="id">8.6</span><span class="star">★</span> <span class="t">[G] Relatório final: processo, esquema de navegação do curso, guiões das 5 lições, testes e melhorias. A parte da L1 é minha.</span></label></li>
-  <li><input type="checkbox" id="t-8-7" data-star><label for="t-8-7"><span class="id">8.7</span><span class="star">★</span> <span class="t">[G] Apresentação presencial: diapositivos + demonstração na Udemy; a L1 em ≈ 1–2 min. Ensaiar com tempo.</span></label></li>
-  <li><input type="checkbox" id="t-8-8" data-star><label for="t-8-8"><span class="id">8.8</span><span class="star">★</span> <span class="t">Submeter <strong>antes da apresentação</strong> e commit final.</span></label></li>
+  <li><input type="checkbox" id="t-8-1" data-star><label for="t-8-1"><span class="id">8.1</span><span class="star">★</span> <span class="t">Corrigir os problemas da L1, primeiro os de gravidade alta. Se mexer na narração: guião, notas do <code>.pptx</code>, gravar de novo só esse diapositivo e voltar a exportar e carregar o vídeo.</span>
+</label></li>
+  <li><input type="checkbox" id="t-8-2" data-star><label for="t-8-2"><span class="id">8.2</span><span class="star">★</span> <span class="t">Registar cada correção: problema → o que mudou → onde. Vai para o relatório.</span>
+</label></li>
+  <li><input type="checkbox" id="t-8-3"><label for="t-8-3"><span class="id">8.3</span><span class="t">Legendas (6.7), se ficaram por fazer.</span>
+</label></li>
+</ul>
+</div>
+<div class="block" data-block>
+<div class="head"><h3>Documentos (sáb 07/11 → dom 08/11)</h3><span class="count"></span></div>
+<ul class="tasks">
+  <li><input type="checkbox" id="t-8-4" data-star><label for="t-8-4"><span class="id">8.4</span><span class="star">★</span> <span class="t">[G] MOOC completo na Udemy, 5 lições, todas com as correções.</span>
+</label></li>
+  <li><input type="checkbox" id="t-8-5" data-star><label for="t-8-5"><span class="id">8.5</span><span class="star">★</span> <span class="t">[G] <code>S2_MOOC-choice_planning_Grupo1.docx</code> e <code>S3_MOOC_Template_Grupo1.xlsx</code> finais (o que mudou desde o S3: Matterport Discover, durações reais).</span>
+</label></li>
+  <li><input type="checkbox" id="t-8-6" data-star><label for="t-8-6"><span class="id">8.6</span><span class="star">★</span> <span class="t">[G] Gantt final (<code>.xlsx</code> e <code>.docx</code>, iguais).</span>
+</label></li>
+  <li><input type="checkbox" id="t-8-7" data-star><label for="t-8-7"><span class="id">8.7</span><span class="star">★</span> <span class="t">[G] Regras e diretrizes da Udemy e como o curso as cumpre (vídeo ≥ 30 min, ≥ 5 aulas, HD, grátis &lt; 2 h, revisão de qualidade, quiz num curso grátis).</span>
+</label></li>
+  <li><input type="checkbox" id="t-8-8" data-star><label for="t-8-8"><span class="id">8.8</span><span class="star">★</span> <span class="t">Guião final da L1 (<code>Guiao_L1.md</code> → <code>S8_Guiao_L1_Grupo1.pdf</code>).</span>
+</label></li>
+  <li><input type="checkbox" id="t-8-9" data-star><label for="t-8-9"><span class="id">8.9</span><span class="star">★</span> <span class="t">[G] Relatório final: processo, esquema de navegação do curso (diagrama secção → aulas → teste), guiões das 5 lições, testes do S7 e melhorias. A parte da L1 é minha.</span>
+</label></li>
+</ul>
+</div>
+<div class="block" data-block>
+<div class="head"><h3>Apresentação (seg 09/11 → ter 10/11)</h3><span class="count"></span></div>
+<ul class="tasks">
+  <li><input type="checkbox" id="t-8-10" data-star><label for="t-8-10"><span class="id">8.10</span><span class="star">★</span> <span class="t">[G] Diapositivos + demonstração na Udemy; a L1 em ≈ 1–2 min (gancho + visita 3D).</span>
+</label></li>
+  <li><input type="checkbox" id="t-8-11" data-star><label for="t-8-11"><span class="id">8.11</span><span class="star">★</span> <span class="t">[G] Ensaio com cronómetro, seg 09/11.</span>
+</label></li>
+  <li><input type="checkbox" id="t-8-12" data-star><label for="t-8-12"><span class="id">8.12</span><span class="star">★</span> <span class="t">Submeter <strong>antes da apresentação</strong> e commit final.</span>
+</label></li>
 </ul>
 </div>
 <h2>6. Calendário</h2>
 <div class="wrap"><table>
-  <tr><th>Semana</th><th>Até</th><th>O quê</th></tr>
-  <tr><td>S5</td><td>ter 27/10</td><td>Matterport (5.1–5.7) → guião e PowerPoint (5.8–5.13)</td></tr>
-  <tr><td>S6</td><td>ter 03/11</td><td>Voz e vídeos (6.1–6.2) até qui 29/10 · Udemy (6.3–6.6) até sáb 31/10 · grupo (6.8–6.12)</td></tr>
-  <tr><td>S7</td><td>sex 06/11</td><td>Formulários prontos (7.1–7.2) até seg 02/11 · testes de 03 a 06/11</td></tr>
-  <tr><td>S7 + S8</td><td>ter 10/11</td><td>Correções (7.6) · documentos (7.7, 8.1–8.6) até dom 08/11 · ensaio da apresentação · entrega antes da PL</td></tr>
-  <tr><td>P2</td><td>ter 24/11</td><td>—</td></tr>
+  <tr><th>Dia</th><th>O quê</th><th>Tarefas</th></tr>
+  <tr><td>ter 27/10</td><td>Submeter o S5</td><td>5.8</td></tr>
+  <tr><td>qua 28/10</td><td>Teórica (avatar) · teste de áudio · começar a gravar</td><td>6.1–6.2</td></tr>
+  <tr><td>qui 29/10</td><td>Acabar a voz · exportar os 3 vídeos</td><td>6.2–6.3</td></tr>
+  <tr><td>sex 30/10</td><td>Udemy: carregar os vídeos, recursos</td><td>6.4–6.5</td></tr>
+  <tr><td>sáb 31/10</td><td>Pré-visualizar no computador e no telemóvel · legendas</td><td>6.6–6.7</td></tr>
+  <tr><td>dom 01/11</td><td>Grupo: secções, página do curso, acesso dos testadores, Gantt</td><td>6.8–6.12</td></tr>
+  <tr><td>seg 02/11</td><td>Documento do S6 · preparar os testes</td><td>6.13, 7.1–7.3</td></tr>
+  <tr><td>ter 03/11</td><td>Submeter o S6 antes da PL · testes na PL · S7 até às 20:00</td><td>6.14, 7.4–7.9</td></tr>
+  <tr><td>qua 04 → sex 06/11</td><td>Correções da L1</td><td>8.1–8.3</td></tr>
+  <tr><td>sáb 07 → dom 08/11</td><td>Documentos finais</td><td>8.4–8.9</td></tr>
+  <tr><td>seg 09/11</td><td>Ensaio da apresentação</td><td>8.10–8.11</td></tr>
+  <tr><td>ter 10/11</td><td>Entrega final e apresentação</td><td>8.12</td></tr>
+  <tr><td>ter 24/11</td><td>P2</td><td>—</td></tr>
 </table></div>
 <h2>7. Se apertar: o que cortar, por esta ordem</h2>
 <ol class="cut">
-  <li>Ensaio e marcas nas notas (5.10–5.11) → antes de gravar a voz (6.1).</li>
-  <li>Legendas (6.5) → S7, como melhoria.</li>
-  <li>Etiquetas no diap. 6: só as 3 da crise (Cadeira habitual, Quando a crise chega, Sair à força).</li>
-  <li>Casa da D. Rosa (6.11): fica o Discover.</li>
+  <li>Legendas (6.7, 8.3) → ficam como «melhoria a fazer».</li>
+  <li>Recurso «Visita 3D» na Aula 2 (6.5): fica só na Aula 3.</li>
+  <li>Vídeo promocional da página do curso (6.9).</li>
+  <li>Revisão cruzada (6.11): só as cores e os cenários de crise.</li>
 </ol>
-<p class="note"><strong>Nunca cortar:</strong> o Matterport, a voz e os vídeos na Udemy, os testes com utilizadores, a apresentação.</p>
+<p class="note"><strong>Nunca cortar:</strong> a voz e os vídeos na Udemy antes de 03/11, o Matterport, os testes da aula, a apresentação.</p>
 <h2>8. Em aberto com o grupo</h2>
 <div class="wrap"><table>
   <tr><th>Questão</th><th>Quando</th></tr>
-  <tr><td>A voz e a Udemy passam para o S6 <strong>para todos</strong>?</td><td>Já</td></tr>
-  <tr><td>Estrutura da Udemy igual em todas (gancho e conteúdo em aulas separadas)</td><td>S6</td></tr>
-  <tr><td>Mesmo estilo Storyset (Amico) e mesma música nas 5 lições</td><td>S6</td></tr>
-  <tr><td>Casa da D. Rosa capturada ou Discover?</td><td>S6</td></tr>
-  <tr><td>Quem faz os formulários e quem arranja testadores</td><td>até 02/11</td></tr>
-  <tr><td>Quem junta o relatório final e a apresentação</td><td>S7</td></tr>
+  <tr><td>Todos têm a secção na Udemy até seg 02/11 às 18:00?</td><td>dom 01/11</td></tr>
+  <tr><td>Os outros grupos acedem por link público ou pelo nosso portátil? (6.10)</td><td>dom 01/11</td></tr>
+  <tr><td>O quiz aparece num curso grátis? Se não → Google Forms em todas (6.6)</td><td>sáb 31/10</td></tr>
+  <tr><td>S6 e S7: um documento por lição ou um do grupo?</td><td>seg 02/11</td></tr>
+  <tr><td>Quem testa que MOOC na aula e quem fica com o portátil (7.2)</td><td>seg 02/11</td></tr>
+  <tr><td>Quem junta o documento do S7, o relatório final e a apresentação</td><td>ter 03/11</td></tr>
   <tr><td>Feedback do S4 e do S5</td><td>Cada semana</td></tr>
 </table></div>
 <h2>9. Riscos</h2>
 <div class="wrap"><table>
   <tr><th>Risco</th><th>Mitigação</th></tr>
-  <tr><td>S7 e S8 no mesmo dia</td><td>Testes até sex 06/11; documentos até dom 08/11</td></tr>
-  <tr><td>A revisão da Udemy demora</td><td>Pedir a revisão no S6 (6.9)</td></tr>
-  <tr><td>Poucos testadores</td><td>Pedir já a colegas e família; 5 chegam para o SUS</td></tr>
-  <tr><td>Espaço Discover sem as divisões do roteiro</td><td>Escolher outro; etiqueta na zona onde estaria o objeto</td></tr>
-  <tr><td><code>.pptx</code> demasiado grande com a visita</td><td>Comprimir multimédia (5.7)</td></tr>
-  <tr><td>Lições diferentes entre si</td><td>Revisão cruzada (6.10)</td></tr>
+  <tr><td>S6 e S7 no mesmo dia: o curso tem de estar pronto antes</td><td>Prazo interno seg 02/11; Udemy da L1 até sáb 31/10</td></tr>
+  <tr><td>Um colega não tem a secção pronta a 03/11</td><td>Perguntar dom 01/11; avisar a professora antes da aula</td></tr>
+  <tr><td>Curso por publicar → os outros grupos não entram</td><td>Plano B: o nosso portátil em «Pré-visualizar como aluno» (6.10)</td></tr>
+  <tr><td>Quiz não aparece num curso grátis</td><td>Ver na pré-visualização (6.6); plano B Google Forms</td></tr>
+  <tr><td>Vídeos de todas as lições &lt; 30 min → Udemy não publica</td><td>Explicar no S8 (8.7); demonstração pela pré-visualização</td></tr>
+  <tr><td>Exportação do vídeo parada nos 0 MB</td><td>Desativar a aceleração de gráficos (6.3)</td></tr>
+  <tr><td>Lições diferentes entre si</td><td>Revisão cruzada (6.11)</td></tr>
 </table></div>
 <footer>Versão visual de <code>P1_Plano_Bruno.md</code>, gerada a partir dele. As caixas ficam guardadas neste browser.</footer>
 </main>
@@ -236,7 +363,7 @@ function update() {
   document.getElementById('stars').textContent = '★ mínimo: ' + stars.filter(c => c.checked).length + ' / ' + stars.length;
 }
 boxes.forEach(c => {
-  const k = 'p1-bruno-' + c.id;
+  const k = 'p1-bruno-v2-' + c.id;
   try { const v = localStorage.getItem(k); if (v !== null) c.checked = v === '1'; } catch (e) {}
   c.addEventListener('change', () => {
     try { localStorage.setItem(k, c.checked ? '1' : '0'); } catch (e) {}
