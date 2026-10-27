@@ -61,7 +61,7 @@ As mesmas da L1 (23/10), para as lições baterem certo.
 - **Grafismo no PowerPoint:** 3 ícones do título (saco, ficha, telefone) · checklist a crescer (diap. 5) · campos da ficha a acender (diap. 7) · 112 e SNS 24 (diap. 8) · Ficar | Sair (diap. 9) · ✔ nos 3 ícones (diap. 10).
 - **Som:** «High Class» (a música da L1); a sirene e o relógio da L1 no gancho (`L1/S5_Som_Sirene_L1.mp3`, `L1/S5_Som_Relogio_L1.mp3`); caneta e toque de chamada baixos.
 - **Teste de áudio** de 20 s → gravar a voz → exportar os 3 vídeos em Full HD 1080p → Udemy.
-- **Legendas:** automáticas da Udemy (PT), revistas com o guião; se não houver, ficam para o S6.
+- **Legendas:** passaram para o S6. Feitas a 27/10 a partir das notas do `.pptx` (= guião), com os tempos tirados das pausas da voz gravada: `L2/Legendas/S6_Legenda_Aula{5,6,8}_L2.vtt` (10 + 42 + 5 legendas, ≤ 2 linhas). Carregadas na Udemy a 27/10 (Legendas → Português (Portugal), as 3 publicadas). Os vídeos na Udemy duram 33 s, 179 s e 22 s, a soma dos tempos dos diapositivos: as transições não atrasam a voz. Se o upload der «Ocorreu um erro», o ficheiro foi enviado como `application/octet-stream` e a Udemy só aceita `text/vtt`.
 
 ### 4.3 Matterport
 Tags da L2 com o feedback do S3: as 8 do S4, com crises em 3 delas (✱).
