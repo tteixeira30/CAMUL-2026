@@ -1,6 +1,6 @@
 # Plano do P1 — Bruno (27/10 → 10/11/2026)
 
-**O que falta:** S6 + S7 (as duas a **ter 03/11**) · S8 (ter 10/11, com apresentação presencial). Depois vem o P2 (24/11).
+**O que falta:** S6 + S7 (as duas a **ter 03/11**) · S8 (ter 10/11, com apresentação presencial). Depois vem o P2 (24/11), com o plano de marketing (há exemplos em `Exemplos/`).
 
 > **Mudou a 27/10:** o S7 já não é a 10/11. Os testes são **na PL de ter 03/11**: os outros grupos experimentam o nosso MOOC e nós os deles. Por isso, a versão integrada (S6) tem de estar **completa e acessível a outras pessoas antes dessa aula**. As correções passam para o S8.
 
@@ -84,12 +84,16 @@ O enunciado pede: lições funcionais e articuladas · multimédia integrada · 
   - Ordem das aulas certa? Os 3 vídeos têm som? O link 3D abre? O Teste 1 mostra o feedback?
   - **Confirmar se o Teste 1 aparece aos alunos num curso grátis.** Se não aparecer → avisar o grupo já: o quiz passa para o Google Forms (link na aula) em todas as lições.
   - Tirar 4 capturas (secção 1, um vídeo, a Aula 3, o Teste 1) → `L1/Capturas/S6_*_L1.png`.
-- [ ] **6.7** Legendas em português nos 3 vídeos (automáticas, revistas com o guião). Se não houver tempo → passa para o S8 como melhoria.
+- [ ] **6.7** Legendas e transcrição em português nos 3 vídeos. ★
+  - Udemy → Legendas → gerar as automáticas em português → rever cada uma com a narração do guião §2 (nomes, números, «D. Rosa», «PSP»).
+  - A transcrição sai das legendas: confirmar na pré-visualização que o separador «Transcrição» aparece.
 
 ### Grupo: curso integrado (dom 01/11 → seg 02/11) ★
 - [ ] **6.8** [G] As 5 secções na Udemy pela ordem L1 → L5, todas com a mesma estrutura (vídeos → atividade → teste → síntese). Cada vídeo de síntese faz a ponte para a lição seguinte. ★
   - Dom 01/11: mensagem no grupo a perguntar quem já tem a secção carregada. Quem não tiver até seg 02/11 às 18:00 → avisar a professora antes da aula.
 - [ ] **6.9** [G] Página do curso: título, subtítulo, descrição, objetivos, público, imagem do curso, vídeo promocional (pode ser o `L1_Aula1_Gancho.mp4`). ★
+  - Instrutores: o meu perfil completo (foto + biografia curta); aparece sozinho na página do curso.
+  - Opcional: os outros 4 como co-instrutores visíveis, cada um com o seu perfil (≈ 10 min cada).
 - [ ] **6.10** [G] **Decidir como os outros grupos entram no curso a 03/11.** ★
   - Plano A: pedir a publicação já (a Udemy exige ≥ 30 min de vídeo num curso grátis; somar a duração dos vídeos das 5 lições; se faltar, não dá) → link público.
   - Plano B: os testadores usam o nosso portátil, com a conta de instrutor em «Pré-visualizar como aluno». Levar o portátil carregado e com o curso aberto.
@@ -138,7 +142,6 @@ O enunciado pede: MOOC completo · MOOC-choice e MOOC Template finais · Gantt f
 ### Correções (qua 04/11 → sex 06/11)
 - [ ] **8.1** Corrigir os problemas da L1, primeiro os de gravidade alta. Se mexer na narração: guião, notas do `.pptx`, gravar de novo só esse diapositivo e voltar a exportar e carregar o vídeo. ★
 - [ ] **8.2** Registar cada correção: problema → o que mudou → onde. Vai para o relatório. ★
-- [ ] **8.3** Legendas (6.7), se ficaram por fazer.
 
 ### Documentos (sáb 07/11 → dom 08/11)
 - [ ] **8.4** [G] MOOC completo na Udemy, 5 lições, todas com as correções. ★
@@ -163,7 +166,7 @@ O enunciado pede: MOOC completo · MOOC-choice e MOOC Template finais · Gantt f
 | qua 28/10 | Teórica (avatar) · teste de áudio · começar a gravar | 6.1–6.2 |
 | qui 29/10 | Acabar a voz · exportar os 3 vídeos | 6.2–6.3 |
 | sex 30/10 | Udemy: carregar os vídeos, recursos | 6.4–6.5 |
-| sáb 31/10 | Pré-visualizar no computador e no telemóvel · legendas | 6.6–6.7 |
+| sáb 31/10 | Legendas · pré-visualizar no computador e no telemóvel | 6.6–6.7 |
 | dom 01/11 | Grupo: secções, página do curso, acesso dos testadores, Gantt | 6.8–6.12 |
 | seg 02/11 | Documento do S6 · preparar os testes | 6.13, 7.1–7.3 |
 | ter 03/11 | Submeter o S6 antes da PL · testes na PL · S7 até às 20:00 | 6.14, 7.4–7.9 |
@@ -177,12 +180,12 @@ O enunciado pede: MOOC completo · MOOC-choice e MOOC Template finais · Gantt f
 
 ## 7. Se apertar: o que cortar, por esta ordem
 
-1. Legendas (6.7, 8.3) → ficam como «melhoria a fazer».
-2. Recurso «Visita 3D» na Aula 2 (6.5): fica só na Aula 3.
-3. Vídeo promocional da página do curso (6.9).
+1. Vídeo promocional da página do curso (6.9).
+2. Perfis dos outros 4 instrutores (6.9): fica só o meu.
+3. Recurso «Visita 3D» na Aula 2 (6.5): fica só na Aula 3.
 4. Revisão cruzada (6.11): só as cores e os cenários de crise.
 
-> **Nunca cortar:** a voz e os vídeos na Udemy antes de 03/11, o Matterport, os testes da aula, a apresentação.
+> **Nunca cortar:** a voz e os vídeos na Udemy antes de 03/11, as legendas, o Matterport, os testes da aula, a apresentação.
 
 ---
 
