@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<title>S5 · Protótipo L4 · Cuidar em Crise</title>
+<style>
+@page { size: A4; margin: 16mm 15mm 17mm; }
+* { box-sizing: border-box; }
+body { margin: 0; color: #1e2a3a; background: #fff; font-family: "Aptos", "Segoe UI", sans-serif; font-size: 10.2pt; line-height: 1.36; }
+h1, h2, h3 { margin: 0 0 7pt; font-family: "Aptos Display", "Segoe UI", sans-serif; color: #244e73; }
+h1 { font-size: 25pt; line-height: 1.08; }
+h2 { margin-top: 15pt; padding-bottom: 4pt; border-bottom: 2px solid #e07b2e; font-size: 16pt; page-break-after: avoid; }
+h3 { margin-top: 10pt; font-size: 12pt; }
+p { margin: 5pt 0; }
+ul, ol { margin: 5pt 0 8pt 18pt; padding: 0; }
+li { margin: 2pt 0; }
+.cover { min-height: 255mm; display: flex; flex-direction: column; justify-content: space-between; page-break-after: always; }
+.cover-top { border-left: 9px solid #2f6db5; padding-left: 16px; margin-top: 22mm; }
+.kicker { color: #e07b2e; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; font-size: 10pt; }
+.subtitle { margin-top: 12pt; font-size: 15pt; color: #526579; }
+.cover-image { width: 100%; max-height: 105mm; object-fit: cover; margin: 16mm 0 8mm; }
+.meta { border-top: 1px solid #b7c5d1; padding-top: 9pt; color: #526579; }
+.meta strong { color: #1e2a3a; }
+.note { background: #f3f7fa; border-left: 4px solid #2f6db5; padding: 7pt 9pt; margin: 8pt 0; }
+.warning { background: #fff5ec; border-left-color: #e07b2e; }
+table { width: 100%; border-collapse: collapse; margin: 7pt 0 10pt; page-break-inside: avoid; }
+th { background: #2f6db5; color: #fff; text-align: left; font-weight: 700; }
+th, td { border: 1px solid #c8d3dc; padding: 5pt 6pt; vertical-align: top; }
+tr:nth-child(even) td { background: #f7fafc; }
+.status { font-weight: 700; color: #2f6db5; }
+.pending { color: #a45b19; }
+.small { font-size: 8.7pt; color: #526579; }
+.page-break { page-break-before: always; }
+.storyboard td:first-child { width: 11%; font-weight: 700; color: #244e73; }
+.storyboard td:nth-child(2) { width: 25%; }
+.storyboard img { width: 100%; max-height: 42mm; object-fit: contain; }
+.img-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8pt; margin: 8pt 0; }
+.figure { border: 1px solid #c8d3dc; padding: 5pt; page-break-inside: avoid; }
+.figure img { display: block; width: 100%; height: 48mm; object-fit: contain; }
+.caption { margin-top: 4pt; font-size: 8.5pt; color: #526579; }
+.two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 12pt; }
+.check { color: #2f6db5; font-weight: 700; }
+.footer { margin-top: 15pt; padding-top: 5pt; border-top: 1px solid #c8d3dc; font-size: 8pt; color: #687887; }
+@media screen { body { max-width: 190mm; margin: 12mm auto; } .cover { min-height: 245mm; } }
+</style>
+</head>
+<body>
+<section class="cover">
+  <div class="cover-top">
+    <div class="kicker">Cuidar em Crise · S5 — protótipo</div>
+    <h1>L4 · Necessidades e encaminhamento</h1>
+    <div class="subtitle">Evidências do protótipo para a integração na Udemy</div>
+    <p>Uma lição sobre proteger a pessoa com demência num espaço de acolhimento, comunicar as suas necessidades e pedir ajuda no momento certo.</p>
+  </div>
+  <img class="cover-image" src="S5_Ilustracao_Acolhimento_L4.png" alt="D. Rosa e Ana num espaço de acolhimento">
+  <div class="meta">
+    <p><strong>Responsável:</strong> Ricardo Ferreira · 1220901</p>
+    <p><strong>Etapa:</strong> S5 · protótipo &nbsp; <strong>Data:</strong> 27/10/2026</p>
+    <p><strong>Estado:</strong> guião, ilustrações, atividade, quiz, cartão de bolso e roteiro Matterport preparados; voz, PowerPoint, gravação e publicação na Udemy ficam para S6.</p>
+  </div>
+</section>
+
+<h2>1. Ponto de situação</h2>
+<p>O protótipo concretiza a L4 a partir da estruturação inicial da Udemy. Mantém o formato comum às cinco lições e torna visível o que será produzido, sem apresentar como concluídos os media que ainda não foram gravados.</p>
+<table>
+<tr><th>Requisito do S5</th><th>Evidência nesta entrega</th><th>Estado</th></tr>
+<tr><td>Estrutura e conteúdos</td><td>Objetivos, sequência Udemy e narração final por cena no guião.</td><td class="status">Feito</td></tr>
+<tr><td>Recursos multimédia</td><td>Cinco ilustrações, grafismo previsto e storyboard; voz, PowerPoint e MP4 ficam para S6.</td><td class="status">Parcial</td></tr>
+<tr><td>Matterport</td><td>Visita «O melhor lugar»: seis paragens, etiquetas, crises e roteiro de ≈ 60 s.</td><td class="status">Em preparação</td></tr>
+<tr><td>Atividade e avaliação</td><td>Artigo com cenário de crise, quatro perguntas, Teste 4 com feedback e cartão de bolso.</td><td class="status">Feito</td></tr>
+<tr><td>Coerência entre lições</td><td>Voz própria sem avatar, ilustração plana azul/laranja, música comum e vídeo Matterport gravado.</td><td class="status">Definido</td></tr>
+</table>
+<div class="note warning"><strong>Limite desta evidência:</strong> ainda não há narrações, vídeos MP4, PowerPoint final, capturas da Udemy nem visita Matterport gravada. Estes elementos estão calendarizados para S6.</div>
+
+<h2>2. Estrutura na Udemy</h2>
+<table>
+<tr><th>Aula</th><th>Formato</th><th>Duração</th><th>Conteúdo demonstrado pelo protótipo</th></tr>
+<tr><td>Aula 13 · Chegar a um sítio que não é casa</td><td>Vídeo — gancho</td><td>≈ 50 s</td><td>Chegada de D. Rosa e Ana a um espaço de acolhimento.</td></tr>
+<tr><td>Aula 14 · Necessidades e encaminhamento</td><td>Vídeo — conteúdo</td><td>≈ 3 min 40 s</td><td>Necessidades, visita 3D, comunicação à equipa, sinais de alarme e apoio ao cuidador.</td></tr>
+<tr><td>Aula 15 · O que faria nesta situação?</td><td>Artigo + cartão PDF</td><td>≈ 2 min</td><td>Cenário de cheia, incêndio ou conflito armado e quatro respostas de aplicação.</td></tr>
+<tr><td>Teste 4 · Quiz</td><td>Escolha múltipla</td><td>≈ 1,5 min</td><td>Quatro perguntas com feedback por opção.</td></tr>
+<tr><td>Aula 16 · Síntese e próximo passo</td><td>Vídeo — síntese</td><td>≈ 30 s</td><td>Proteger, responder, manter rotina possível, comunicar e pedir ajuda.</td></tr>
+</table>
+<h3>Objetivos da lição</h3>
+<ul><li>Proteger a pessoa e responder às necessidades básicas num espaço provisório.</li><li>Manter uma rotina possível e comunicar à equipa como ajudar.</li><li>Reconhecer confusão súbita, queda e recusa persistente como sinais que exigem encaminhamento.</li><li>Aceitar apoio e reconhecer que o cuidador também precisa de cuidados.</li></ul>
+
+<h2>3. Storyboard e ilustrações</h2>
+<p>O storyboard segue o modelo comum do grupo. As ilustrações funcionam como evidência visual do protótipo e serão colocadas nos diapositivos equivalentes do PowerPoint. A voz será gravada posteriormente, com câmara desligada e sem avatar.</p>
+<table class="storyboard">
+<tr><th>Cena</th><th>Visual</th><th>Função e estado</th></tr>
+<tr><td>1–2 · Chegada</td><td><img src="S5_Ilustracao_Chegada_L4.png" alt="Ana ampara D. Rosa à entrada do acolhimento"></td><td>Gancho: a saída de casa cria ruído, desorientação e risco de afastamento. <span class="status">Ilustração pronta.</span></td></tr>
+<tr><td>3–4 · Abertura</td><td>Imagem da chegada + título e quatro ícones</td><td>Apresenta segurança, necessidades, rotina e identificação. <span class="pending">Grafismo no S6.</span></td></tr>
+<tr><td>5 · Necessidades</td><td><img src="S5_Ilustracao_Necessidades_L4.png" alt="Ana oferece água a D. Rosa"></td><td>Água, alimentação, medicação, descanso e objeto familiar. <span class="status">Ilustração pronta.</span></td></tr>
+<tr><td>6 · Visita 3D</td><td><img src="S5_Ilustracao_Acolhimento_L4.png" alt="Vista do espaço de acolhimento"></td><td>Escolha do lugar mais seguro, longe da saída e do ruído. <span class="pending">Gravação no S6.</span></td></tr>
+<tr><td>7 · Sinalizar</td><td><img src="S5_Ilustracao_Registo_L4.png" alt="Ana entrega a ficha no balcão"></td><td>Comunicar a demência e entregar a ficha da pessoa à equipa. <span class="status">Ilustração pronta.</span></td></tr>
+<tr><td>8 · Alarmes</td><td>Três cartões: confusão súbita · queda · recusa de comer/beber</td><td>Separar 112, SNS 24 e apoio da equipa. <span class="pending">Grafismo no S6.</span></td></tr>
+<tr><td>9 · Cuidador</td><td><img src="S5_Ilustracao_Ana_Ajuda_L4.png" alt="Voluntário oferece água a Ana"></td><td>Pedir ajuda também é cuidar. <span class="status">Ilustração pronta.</span></td></tr>
+<tr><td>10–12 · Fecho</td><td>Cartão de bolso + síntese + mapa das cinco lições</td><td>Consolida prioridades e abre a L5. <span class="pending">Montagem no S6.</span></td></tr>
+</table>
+
+<div class="page-break"></div>
+<h2>4. Matterport · «O melhor lugar»</h2>
+<p>A visita decorre num espaço de acolhimento, e não na casa da família. A versão de protótipo define o roteiro e as etiquetas; a gravação será incluída como vídeo de aproximadamente 60 segundos na Aula 14. O link da visita será opcional na Aula 15 e nunca será necessário para responder ao quiz.</p>
+<table>
+<tr><th>#</th><th>Paragem / etiqueta</th><th>Mensagem</th><th>Estado</th></tr>
+<tr><td>1</td><td>Balcão · «Sinalizar a demência»</td><td>Dizer que D. Rosa tem demência e entregar a ficha da pessoa.</td><td class="status">Roteiro feito</td></tr>
+<tr><td>2</td><td>Casa de banho / água · «Necessidades básicas»</td><td>Água, casa de banho, medicação e descanso são prioridades.</td><td class="status">Roteiro feito</td></tr>
+<tr><td>3</td><td>Saída · «Risco de se perder»</td><td>Num pavilhão, numa ZCAP ou num centro de deslocados, não deixar a pessoa sozinha junto à porta.</td><td class="status">Roteiro feito</td></tr>
+<tr><td>4</td><td>Zona calma · «O sítio certo»</td><td>Ficar longe da saída e do ruído, perto da casa de banho e com um objeto familiar.</td><td class="status">Roteiro feito</td></tr>
+<tr><td>5</td><td>Contactos · «Sinais de alarme»</td><td>Confusão súbita ou queda grave: 112 se for emergência; SNS 24 não substitui o 112.</td><td class="status">Roteiro feito</td></tr>
+<tr><td>6</td><td>Canto da Ana · «Pedir ajuda»</td><td>O cuidador também precisa de água, descanso e substituição temporária.</td><td class="status">Roteiro feito</td></tr>
+</table>
+<div class="note"><strong>Integração da crise:</strong> as etiquetas da saída e dos contactos referem explicitamente cheia, incêndio, guerra, deslocação e emergência. Assim, o Matterport concretiza o feedback do S3 e não funciona apenas como visita decorativa.</div>
+
+<h2>5. Atividade e avaliação</h2>
+<h3>Aula 15 · «O que faria nesta situação?»</h3>
+<p>Uma cheia, um incêndio ou um conflito armado obrigaram D. Rosa e Ana a sair de casa. Num espaço de acolhimento temporário, D. Rosa está desorientada e aproxima-se da saída. Ana está cansada e não sabe a quem pedir ajuda. Mais tarde, percebe que a mãe está muito mais confusa do que o habitual e caiu ao levantar-se.</p>
+<p><strong>Resposta breve:</strong> 1) como proteger D. Rosa e evitar que se afaste; 2) que informação dar à equipa; 3) como reagir à confusão súbita e à queda; 4) que apoio pedir para si. O cartão de bolso permite a autocorreção.</p>
+<h3>Teste 4 · quatro perguntas</h3>
+<table>
+<tr><th>Tema</th><th>Resposta esperada</th><th>Feedback central</th></tr>
+<tr><td>Prioridades na chegada</td><td>Verificar segurança e necessidades básicas.</td><td>Sem segurança, água, medicação e supervisão, o resto espera.</td></tr>
+<tr><td>Prevenir que se perca</td><td>Informar a equipa, supervisionar e identificar percursos seguros.</td><td>A autonomia mantém-se, mas não junto a uma saída de risco.</td></tr>
+<tr><td>Confusão súbita</td><td>Procurar avaliação médica; ligar 112 se for emergência.</td><td>Uma alteração abrupta pode ser um problema médico.</td></tr>
+<tr><td>Quem cuida</td><td>Comunicar necessidades e aceitar ajuda.</td><td>Pedir ajuda a tempo também é cuidar.</td></tr>
+</table>
+<p><strong>Recurso:</strong> cartão de bolso em uma página A4, com necessidades, sinais de alarme, 112 / SNS 24 / equipa e apoio ao cuidador. Ficheiro-fonte: `Recursos/S5_Cartao_Bolso_L4.html`.</p>
+
+<h2>6. Coerência e próximos passos</h2>
+<div class="two-col">
+<div>
+<h3>Decisões comuns</h3>
+<ul><li>Voz própria, sem avatar.</li><li>Ilustração plana com azul para D. Rosa e laranja para Ana.</li><li>Música «High Class», de Benjamin Andrews, em volume baixo.</li><li>Matterport em vídeo gravado, devido à limitação de iframes da Udemy.</li><li>Atividade e quiz independentes da visita 3D.</li></ul>
+</div>
+<div>
+<h3>S6</h3>
+<ol><li>Criar o PowerPoint no modelo comum.</li><li>Escolher e gravar o espaço de acolhimento.</li><li>Fazer teste de áudio e gravar a voz.</li><li>Exportar os vídeos das Aulas 13, 14 e 16.</li><li>Criar a secção 4 na Udemy e testar como aluno.</li></ol>
+</div>
+</div>
+<div class="note"><strong>Resultado esperado:</strong> uma lição com aproximadamente 8 minutos, integrada na sequência temporal do curso: compreender → preparar → agir → encaminhar → retomar.</div>
+<div class="footer">Cuidar em Crise · L4 · Evidências do protótipo S5 · Ricardo Ferreira · 27/10/2026</div>
+</body>
+</html>

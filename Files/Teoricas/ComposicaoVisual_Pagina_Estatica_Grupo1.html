@@ -51,7 +51,7 @@ h1, h2 { text-wrap: balance; }
 .alternar[aria-pressed="true"] { background: var(--texto); color: var(--areia); }
 .alternar:focus-visible, .cta:focus-visible, .mk:focus-visible { outline: 3px solid var(--azul); outline-offset: 3px; }
 
-main { display: flex; flex-direction: column; gap: var(--bloco); padding-block: 8px var(--bloco); }
+main { position: relative; display: flex; flex-direction: column; gap: var(--bloco); padding-block: 8px var(--bloco); }
 
 /* Abertura (hero) */
 .hero { position: relative; display: grid; gap: var(--gap); }
@@ -102,7 +102,7 @@ h1 { font-size: var(--t-titulo); line-height: 1.2; }
 .rodape { font-size: var(--t-rodape); border-top: 1px solid var(--linha); padding-block: 24px; }
 
 /* ───── Camada de anotações («Mostrar regras») ───── */
-.mk, .sobrepor, .medida, .legenda-lista, .barra, .colunas { display: none; }
+.mk, .sobrepor, .medida, .legenda-lista, .barra, .colunas, .eixo, .margens { display: none; }
 .regras .mk { display: block; }
 .regras .legenda-lista { display: grid; }
 .regras .barra { display: block; }
@@ -123,7 +123,16 @@ h1 { font-size: var(--t-titulo); line-height: 1.2; }
   position: absolute; top: calc(var(--bloco) * -1); left: 50%; height: var(--bloco);
   border-left: 2px dashed var(--azul);
 }
-.medida span { position: absolute; top: 50%; left: 8px; transform: translateY(-50%); font-size: 14px; color: var(--azul); font-weight: 700; padding-left: 28px; }
+.medida::before, .medida::after {
+  content: ""; position: absolute; left: -6px; width: 10px; height: 10px;
+  border-left: 2px solid var(--azul); border-top: 2px solid var(--azul);
+}
+.medida::before { top: 0; transform: rotate(45deg); }
+.medida::after { bottom: 0; transform: rotate(225deg); }
+.medida span {
+  position: absolute; top: 50%; left: 12px; width: max-content; transform: translateY(-50%);
+  font-size: 14px; color: var(--azul); font-weight: 700; background: var(--areia); padding: 2px 6px;
+}
 .regras .medida { display: block; }
 
 @media (min-width: 1100px) {
@@ -134,6 +143,25 @@ h1 { font-size: var(--t-titulo); line-height: 1.2; }
 }
 .sobrepor { position: absolute; inset: 0; pointer-events: none; z-index: 4; }
 .sobrepor svg { width: 100%; height: 100%; overflow: visible; }
+.eixo {
+  position: absolute; top: 0; bottom: 0; left: 0; border-left: 2px dashed var(--azul);
+  pointer-events: none; z-index: 3;
+}
+.eixo span {
+  position: absolute; top: 0; left: 8px; width: max-content; color: var(--azul);
+  background: var(--areia); padding: 2px 6px; font-size: 14px; font-weight: 700;
+}
+.regras .eixo { display: block; }
+.margens {
+  position: absolute; top: -34px; left: 0; width: 48px; height: 18px;
+  border-top: 2px solid var(--azul); border-left: 2px solid var(--azul);
+  pointer-events: none; z-index: 3;
+}
+.margens::after {
+  content: "48 px · margem"; position: absolute; top: -24px; left: 0; width: max-content;
+  color: var(--azul); background: var(--areia); padding: 2px 6px; font-size: 14px; font-weight: 700;
+}
+.regras .margens { display: block; }
 .colunas { position: fixed; inset: 0; pointer-events: none; z-index: 1; }
 .colunas .wrap { height: 100%; display: grid; grid-template-columns: repeat(12, 1fr); column-gap: var(--gap); }
 .colunas i { background: var(--grelha); }
@@ -179,6 +207,7 @@ h1 { font-size: var(--t-titulo); line-height: 1.2; }
 </header>
 
 <main class="wrap">
+  <span class="margens" aria-hidden="true"></span>
   <section class="hero" aria-labelledby="titulo">
     <figure class="foto" style="margin:0">
       <!-- Ilustração de reserva: só aparece se a foto (ComposicaoVisual_Foto.webp) não carregar -->
@@ -255,7 +284,8 @@ h1 { font-size: var(--t-titulo); line-height: 1.2; }
   </section>
 
   <section class="licoes" id="licoes" aria-labelledby="t-licoes">
-    <div class="medida" aria-hidden="true"><span>64 px</span></div>
+    <div class="medida" aria-hidden="true"><span>64 px · intervalo entre blocos</span></div>
+    <div class="eixo" aria-hidden="true"><span>eixo comum de alinhamento</span></div>
     <span class="mk-slot" data-n="8"></span>
     <h2 id="t-licoes">As 5 lições<span class="mk-slot" data-n="7"></span></h2>
     <ol class="cartoes">
@@ -315,8 +345,8 @@ const REGRAS = [
   ["Evandro", "4 · Tipografia: uma só família sem serifa, 2 pesos, corpo de 18 px e linhas até 70 caracteres."],
   ["Rodrigo", "5 · Equilíbrio assimétrico: a foto, que pesa mais, equilibra-se com o texto e o espaço vazio."],
   ["Rodrigo", "6 · Unidade, padrão e proporção: 5 cartões iguais (ícone, título, duração) e foto:texto ≈ 2:1."],
-  ["Ricardo", "7 · Alinhamento: grelha de 12 colunas, texto num eixo à esquerda e margens iguais."],
-  ["Ricardo", "8 · Espaço negativo: margens de 48 px e 64 px entre blocos."],
+  ["Ricardo", "7 · Alinhamento: grelha de 12 colunas, eixo comum à esquerda e margens laterais iguais."],
+  ["Ricardo", "8 · Espaço negativo: margem lateral de 48 px e intervalo de 64 px entre blocos."],
   ["Tiago", "9 · Contraste: o texto tem 12,9:1 com o fundo, acima dos 4,5:1 da WCAG AA."],
   ["Tiago", "10 · Ênfase: o âmbar é a única cor de destaque, só no botão e nos números das lições."]
 ];
