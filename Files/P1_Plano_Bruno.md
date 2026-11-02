@@ -54,24 +54,27 @@ O enunciado pede: lições funcionais e articuladas · multimédia integrada · 
 
 **Prazo real: seg 02/11 à noite.** Na PL de 03/11 os outros grupos vão testar o curso; o que não estiver na Udemy não é testado.
 
-### L1: voz e vídeos (qua 28/10 → qui 29/10) ★
-- [ ] **6.1** Teste de áudio (10 min). ★
+### L1: voz e vídeos (qua 28/10 → qui 29/10; feito seg 02/11) ★
+- [x] **6.1** Teste de áudio (10 min). ★
   - Sítio calado, porta fechada, telemóvel em silêncio. **Auscultadores postos** (a música e a sirene tocam durante a gravação; sem auscultadores ficam gravadas duas vezes).
   - PowerPoint → separador Gravar → «Do início». Câmara **desligada**; microfone certo escolhido no menu.
   - Gravar só o diap. 1 (≈ 20 s) → parar → ouvir. Volume bom? Sem eco? Música não abafa a voz? Se não, aproximar o microfone ou baixar a música.
-- [ ] **6.2** Gravar a narração dos diap. 1–10 (≈ 1 h com repetições). ★
+  - Feito a 02/11: música baixada para 15 % (relógio 40 %, sirene 50 %).
+- [x] **6.2** Gravar a narração dos diap. 1–10 (≈ 1 h com repetições). ★
   - Ler das notas do `.pptx` (já têm as marcas). Esperar 1 s antes de falar em cada diapositivo.
   - Fazer os `[clique]` nos sítios marcados: diap. 3 (1), 4 (4), 5 (3), 7 (3), 8 (3).
-  - Diap. 6 (visita, 58 s): falar por cima do vídeo e só avançar quando o vídeo acabar.
+  - Diap. 6 (visita, 58 s): **sem narração**. Não tocar no rato (um clique põe o vídeo em pausa); avançar quando o vídeo acabar.
   - Depois de cada diapositivo, ouvir. Se correu mal: botão direito → Limpar → «Limpar gravação neste diapositivo» e repetir só esse.
   - Gravar → Guardar o `.pptx`. Commit.
-- [ ] **6.3** Exportar os 3 vídeos (Full HD 1080p, «Utilizar tempos e narrações gravados»). ★
+  - Feito a 02/11: notas com os cliques numerados e quando avançar; conectores na narração (diap. 3, 5, 7, 8, 9), iguais no guião §2. Commit `58e6cb2`.
+- [x] **6.3** Exportar os 3 vídeos (Full HD 1080p, «Utilizar tempos e narrações gravados»). ★
   - Antes: Opções → Avançadas → Ecrã → marcar «Desativar a aceleração de gráficos de hardware» (senão fica nos 0 MB).
   - Ocultar todos os diapositivos menos 1–4 → Ficheiro → Exportar → Criar um vídeo → `L1_Aula1_Gancho.mp4`.
   - Só 5–8 visíveis → `L1_Aula2_Conteudo.mp4`. Só 9–10 → `L1_Aula4_Sintese.mp4`. No fim, voltar a mostrar todos.
-  - Ver os 3 MP4 do início ao fim: som, etiquetas do diap. 6, cliques no sítio certo. Os MP4 ficam fora do git.
+  - Ver os 3 MP4 do início ao fim: som, etiquetas do diap. 6, cliques no sítio certo.
+  - Feito a 02/11: Aula 1 0:56 · Aula 2 2:44 · Aula 4 0:20. A música do diap. 4 tocava até ao fim da faixa (Aula 1 com 5:42) → passou a parar no fim do diapositivo. Os 3 MP4 estão no git (forçados, apesar do `.gitignore`) para carregar na Udemy noutro computador. Commit `376fd8e`.
 
-### L1: Udemy (sex 30/10 → sáb 31/10) ★
+### L1: Udemy (passou para ter 03/11 de manhã, noutro computador: `git pull` para ter os vídeos) ★
 - [ ] **6.4** Secção 1 «Crise, demência e quem cuida», por esta ordem (guião §1). ★
   - Aula 1 · Crise, demência e quem cuida → vídeo `L1_Aula1_Gancho.mp4`.
   - Aula 2 · A pessoa, quem cuida e os 3 passos → vídeo `L1_Aula2_Conteudo.mp4`.
