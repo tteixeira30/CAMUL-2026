@@ -33,6 +33,8 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `L1/Guiao_L1.md` | Guião da L1, do S4 ao S8 (narração exata por cena), atividade, quiz com feedback, próximos passos | **Fonte da narração**: as notas do `.pptx` e o guião do `.docx` vêm daqui |
 | `L1/S4_Video_L1.pptx` | S4 — vídeo da L1 (1 diapositivo por cena, narração nas notas) | Ilustrações, voz e MP4 passam para o S5 |
 | `L1/S4_Evidencias_L1_Grupo1.docx` | S4 — entrega: primeiras evidências de produção (5 evidências do enunciado) | Atualizado a 19/10; exportar para PDF antes de submeter. Quiz e reflexão já na Udemy (rever no S5); Matterport, voz e vídeos no S5 |
+| `L1/Legendas/S6_Legenda_Aula{1,2,4}_L1.vtt` | S6 — legendas em português dos 3 vídeos da L1 (15 + 34 + 7) | Texto = notas do `.pptx`; tempos tirados da voz gravada no `.pptx`, alinhada com os MP4 (03/11). Diap. 6 sem legenda. Se a narração mudar, refazer |
+| `L1/S6_Integracao_L1_Grupo1.docx`, `.pdf` | S6 — entrega da L1: versão integrada (6 páginas, capturas da Udemy em `L1/Capturas/S6_*_L1.png`) | Feito a 03/11; submeter o PDF no Moodle antes da PL |
 | `L2/` | Tudo o que é só da L2 (Tiago); ramo `s5-l2` | Mesma estrutura da L1 |
 | `L2/S4_Plano_L2.md` | S4 — plano da L2: evidências, decisões, calendário, estrutura do PDF | Nota de trabalho |
 | `L2/S5_Plano_L2.md` | S5 — plano da L2: protótipo (vídeos com voz, planos de pormenor, Matterport no mesmo espaço Discover da L1, Udemy), tags e atividade com as crises (feedback do S3), estrutura do PDF | Nota de trabalho |
