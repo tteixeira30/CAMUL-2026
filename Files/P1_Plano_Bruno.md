@@ -1,9 +1,9 @@
 # Plano do P1 — Bruno (04/11 → 10/11/2026)
 
-**O que falta:** a L1 com ≈ 8 min de vídeo e a visita 3D na minha casa (sexta 06/11) · publicar o curso (sábado 07/11) · S8 com apresentação (terça 10/11). Depois vem o P2 (24/11).
+**O que falta:** a L1 com ≈ 8 min de vídeo e a visita 3D na minha casa, e o **curso publicado na Udemy até sexta 06/11 (obrigatório)** · sábado 07 → terça 10/11: juntar a entrega final (.zip) e preparar a apresentação · S8 e apresentação na terça 10/11. Depois vem o P2 (24/11).
 
 **Decisões em vigor:**
-- **O curso tem de ser publicado na Udemy** (professora, 03/11): ≥ 30 min de vídeo no total → a L1 passa de 4 para ≈ 9 min de vídeo.
+- **O curso tem de estar publicado na Udemy até sexta 06/11** (obrigatório): ≥ 30 min de vídeo no total → a L1 passa de 4 para ≈ 9 min de vídeo. **Sábado a terça** ficam só para juntar a entrega final e preparar a apresentação.
 - **Matterport gravado por nós, com tags dentro do espaço** (professora, 03/11): L1 = a minha casa (iPhone 17 Pro); L2 = casa do Tiago. O Discover «La Tarasca» sai.
 - **Regravar a voz toda** (S7: estalo do microfone, música alta, voz abafada). Música a 8 %.
 - **L1 na Udemy (7 itens):** Aula 1 Gancho · Aula 2 Conteúdo · Aula 3 Quatro crises (nova) · Aula 4 Sinais (nova) · Aula 5 O que dá segurança? (texto) · Teste 1 · Aula 6 Síntese.
@@ -13,9 +13,9 @@
 
 ---
 
-## Sexta 06/11 · Tutorial do dia (fazer por esta ordem)
+## Sexta 06/11 · Tutorial do dia: a L1 pronta e o curso publicado (obrigatório)
 
-> **Ordem do dia:** A (Matterport, de manhã cedo) → enquanto a Matterport processa o espaço: B (PowerPoint) e C (gravar a voz) → A5–A9 (tags e vídeo da visita) → B4 (pôr a visita no diap. 6) → D (exportar) → E (Udemy). Os diapositivos 11–17 **já estão feitos** (04/11), com as notas para ler. A Aula 3 antiga «O que dá segurança?» fica (passa a Aula 5).
+> **Ordem do dia:** A (Matterport, de manhã cedo) → enquanto a Matterport processa o espaço: B (PowerPoint) e C (gravar a voz) → A5–A9 (tags e vídeo da visita) → B4 (pôr a visita no diap. 6) → D (exportar) → E (Udemy) → **F (publicar o curso: obrigatório até ao fim de sexta)**. Os diapositivos 11–17 **já estão feitos** (04/11), com as notas para ler. A Aula 3 antiga «O que dá segurança?» fica (passa a Aula 5).
 
 ### Parte 0 · Antes de começar (10 min)
 - [ ] **0.1** Ter à mão: iPhone 17 Pro **carregado**, o portátil, os auscultadores, o microfone que usaste no S6. ★
@@ -51,7 +51,7 @@
   - Na app, abrir o trabalho → **Upload** (carregar). **Não fechar a app** e não deixar o ecrã apagar até chegar a 100 % (Definições → Ecrã → Bloqueio automático: Nunca, só durante o upload).
   - A Matterport processa o espaço na cloud e manda um **email quando estiver pronto**. Pode levar **algumas horas**.
   - **Enquanto esperas: faz a Parte B (B1–B3) e a Parte C (gravar a voz).** O diap. 6 não tem narração, por isso a visita pode entrar depois.
-  - **Se às 18:00 ainda não estiver pronto:** acaba C, D e E sem a Aula 2; no sábado de manhã fazes A5–A9, B4, exportas só a Aula 2 e substituis na Udemy.
+  - **Se às 18:00 ainda não estiver pronto:** acaba C, D e E com a **Aula 2 antiga** na Udemy e **publica na mesma (Parte F)**. No sábado de manhã fazes A5–A9, B4, exportas só a Aula 2 e substituis o vídeo (em princípio, num curso já publicado, substituir um vídeo não obriga a nova revisão).
 - [ ] **A5** Pôr as 9 tags (no portátil, ≈ 30 min). Textos na tabela abaixo: **copiar e colar**. ★
   - Abrir **my.matterport.com** no Chrome → entrar → abrir o espaço «Casa da D. Rosa».
   - Carregar em **Edit** (editar). Abre o editor com o 3D.
@@ -215,40 +215,52 @@
 | 6 | Teste 1 · Teste a compreensão | Quiz | Não mexer |
 | 7 | Aula 6 · Síntese e próxima lição | Vídeo (era a Aula 4) | `L1_Aula4_Sintese.mp4` (substituir) |
 
----
-
-## Sábado 07/11 · Publicar o curso (grupo)
-
-### Publicar na Udemy
+### Parte F · Publicar o curso (grupo, sexta até ao fim do dia: obrigatório)
+- [ ] **F0** [G] De manhã, mensagem no grupo: **todas as secções na Udemy até às 18:00 de sexta**, porque o curso tem de ficar publicado nesse dia. ★
 - [ ] **P1** [G] Somar no Currículo a duração de vídeo das 5 secções: **≥ 30 min** (e < 2 h). ★
   - Se faltar: dizer a cada um quanto falta. Não submeter antes.
 - [ ] **P2** [G] Página de destino: título, subtítulo, descrição (≈ 200 palavras ou mais, a partir do S2), categoria Saúde e Fitness → Saúde mental, nível, idioma Português, imagem do curso **750 × 422 px**. ★
   - Vídeo promocional: opcional (pode ser o `L1_Aula1_Gancho.mp4`).
 - [ ] **P3** [G] Alunos-alvo: pelo menos **4 objetivos**, requisitos («nenhum»), para quem é (cuidadores de pessoas com demência). ★
 - [ ] **P4** Perfil de instrutor: foto e biografia (≈ 50 palavras ou mais). Preço: **Grátis**. ★
-- [ ] **P5** [G] **Submeter para revisão.** ★
+- [ ] **P5** [G] **Submeter para revisão — sexta, assim que as 5 secções estiverem prontas.** ★
   - Se a Udemy recusar, mostra a lista do que falta: corrigir e voltar a submeter. Os números acima confirmam-se nessa lista.
-  - A revisão pode demorar dias: **submeter no sábado**.
-  - Quando for aprovado: copiar o link público para o S8 e para a apresentação.
+  - A revisão da Udemy pode demorar: quanto mais cedo na sexta, melhor. Se na sexta à noite o curso ainda estiver «Em revisão», tirar uma captura desse estado e avisar a professora.
+  - Quando for aprovado: copiar o **link público** para o relatório e para a apresentação.
 
 ---
 
-## Domingo 08/11 → terça 10/11 · Entrega final (S8)
+## Sábado 07/11 → terça 10/11 · Juntar a entrega final (S8) e preparar a apresentação
 
-> O enunciado pede: MOOC completo · MOOC-choice e MOOC Template finais · Gantt final · regras/diretrizes da plataforma · resultados dos testes e melhorias · relatório do processo · esquema de navegação · guiões finais · apresentação presencial (obrigatória).
+> **O que se entrega (S8, Moodle):** MOOC completo (todas as lições) · relatório/documentação final do processo · Gantt final e esquema de funcionamento/navegação do curso · conteúdos/guiões finais de todas as lições · análise das regras e diretrizes da Udemy · resultados dos testes/avaliação e melhorias. **Um só ficheiro:** `CAMUL2627_P1_G1_1240441_1240493_1221391_1220901_1200929.zip` (o exemplo do enunciado é `CAMUL2526_P1_G1_1111111_2222222_3333333.zip`; confirmar se o prefixo é o do ano letivo, 2627).
 
-### Documentos (dom 08/11)
-- [ ] **8.1** Registar as melhorias da L1 desde o S7 (problema → o que mudou → onde): estalo e voz abafada → regravação; música → 8 %; Matterport → casa própria com tags; vídeo 4 → ≈ 9 min. ★
-- [ ] **8.2** [G] `S2_MOOC-choice_planning_Grupo1.docx` e `S3_MOOC_Template_Grupo1.xlsx` finais: Matterport nas casas do Bruno e do Tiago (já não Discover), durações reais, L1 com 7 itens. ★
-- [ ] **8.3** [G] Gantt final (`.xlsx` e `.docx`, iguais). ★
-- [ ] **8.4** [G] Regras e diretrizes da Udemy e como o curso as cumpre (≥ 30 min, ≥ 5 aulas, HD, grátis < 2 h, revisão de qualidade, quiz num curso grátis: confirmado). ★
-- [ ] **8.5** Guião final da L1 (`Guiao_L1.md` → `S8_Guiao_L1_Grupo1.pdf`). ★
-- [ ] **8.6** [G] Relatório final: processo, esquema de navegação (secção → aulas → teste), guiões das lições, testes do S7 (`L1/S7_Notas_Testes_L1.md`) e melhorias. A parte da L1 é minha. ★
+### Conteúdos do .zip (sáb 07 → seg 09/11)
+- [ ] **8.1** [G] **MOOC completo:** link público do curso + 1 captura de cada secção (5) + a duração total de vídeo. ★
+  - Pasta do .zip: `01_MOOC` com um `Link_MOOC.txt` e as capturas.
+- [ ] **8.2** [G] **Relatório final do processo** (um só, do grupo). A parte da L1 é minha. ★
+  - Do S1 ao S8: plataforma, tema, lições, produção, testes, publicação.
+  - Decisões que mudaram: Discover → casas próprias com tags; L1 de 4 para ≈ 9 min de vídeo; regravação; publicação obrigatória.
+  - Quem fez o quê (uma lição por pessoa + tarefas de grupo).
+  - Pasta: `02_Relatorio` (PDF).
+- [ ] **8.3** [G] **Gantt final** (`S2_Gantt_Grupo1.xlsx` e o do `.docx`, iguais, com as datas reais) + **esquema de navegação** do curso. ★
+  - Esquema (diagrama): página do curso → pré-teste (Google Forms) → secções L1–L5 → em cada uma: vídeos → atividade → teste → síntese → pós-teste + SUS no fim; link «Visita 3D» nas aulas com Matterport.
+  - Pasta: `03_Gantt_Navegacao`.
+- [ ] **8.4** [G] **Guiões finais de todas as lições.** O da L1: `Guiao_L1.md` → `S8_Guiao_L1_Grupo1.pdf` (com a narração final, as 9 tags e a atividade). ★
+  - Pasta: `04_Guioes` (um PDF por lição).
+- [ ] **8.5** [G] **Análise das regras e diretrizes da Udemy** e como o curso as cumpre. ★
+  - ≥ 30 min de vídeo, ≥ 5 aulas, vídeo HD, grátis < 2 h, página do curso completa, revisão de qualidade, quiz num curso grátis (confirmado), sem iframes (Matterport por vídeo + link).
+  - Pasta: `05_Regras_Udemy`.
+- [ ] **8.6** [G] **Resultados dos testes e melhorias.** ★
+  - Testes do S7 (Alfa e Beta, folha do Moodle) e o que se mudou por causa deles. Na L1: estalo e voz abafada → regravação; música → 8 %; legendas revistas; Matterport → casa própria com tags; vídeo de 4 para ≈ 9 min. Fonte: `L1/S7_Notas_Testes_L1.md`.
+  - Pasta: `06_Testes_Melhorias`.
+- [ ] **8.7** [G] **Montar e verificar o .zip** (seg 09/11). ★
+  - Pastas `01`–`06` acima. Nome exato do ficheiro (ver a nota no topo desta secção).
+  - Abrir o .zip noutro computador e confirmar que todos os PDFs abrem e o link do MOOC funciona.
 
 ### Apresentação (seg 09/11 → ter 10/11)
-- [ ] **8.7** [G] Diapositivos + demonstração na Udemy; a L1 em ≈ 1–2 min (gancho + visita 3D com as tags). ★
-- [ ] **8.8** [G] Ensaio com cronómetro, seg 09/11. ★
-- [ ] **8.9** Submeter **antes da apresentação** e commit final. ★
+- [ ] **8.8** [G] Diapositivos + demonstração no curso publicado; a L1 em ≈ 1–2 min (gancho + visita 3D com as tags). ★
+- [ ] **8.9** [G] Ensaio com cronómetro, seg 09/11. ★
+- [ ] **8.10** [G] Submeter o .zip no Moodle **antes da apresentação** (ter 10/11). Commit final. ★
 
 ---
 
@@ -256,11 +268,11 @@
 
 | Dia | O quê | Partes |
 |---|---|---|
-| sex 06/11 | Matterport de manhã · PowerPoint e voz enquanto processa · tags e visita · exportar · Udemy | 0, A–E |
-| sáb 07/11 | (Se o Matterport atrasou: A5–A9, B4, Aula 2) · publicar o curso | P1–P5 |
-| dom 08/11 | Documentos finais | 8.1–8.6 |
-| seg 09/11 | Ensaio da apresentação | 8.7–8.8 |
-| ter 10/11 | Entrega final e apresentação | 8.9 |
+| sex 06/11 | Matterport de manhã · PowerPoint e voz enquanto processa · tags e visita · exportar · Udemy · **curso publicado (obrigatório)** | 0, A–F |
+| sáb 07/11 | (Se o Matterport atrasou: A5–A9, B4, substituir a Aula 2) · juntar conteúdos do .zip | 8.1–8.6 |
+| dom 08/11 | Relatório, guiões, regras, testes | 8.2–8.6 |
+| seg 09/11 | Montar o .zip · diapositivos · ensaio | 8.7–8.9 |
+| ter 10/11 | Submeter o .zip e apresentar | 8.10 |
 | ter 24/11 | P2 (plano de marketing; exemplos em `Exemplos/`) | — |
 
 ---
@@ -272,7 +284,7 @@
 3. Vídeo promocional (P2).
 4. Pré-visualização no telemóvel (E7): fica só o computador.
 
-> **Nunca cortar:** o Matterport com tags, a voz regravada, os ≥ 8 min de vídeo, as legendas, submeter no sábado, a apresentação.
+> **Nunca cortar:** o curso publicado até sexta, o Matterport com tags, a voz regravada, os ≥ 8 min de vídeo, as legendas, o .zip completo, a apresentação.
 
 ---
 
@@ -280,9 +292,10 @@
 
 | Questão | Quando |
 |---|---|
-| O curso todo chega aos 30 min de vídeo? | sex 06/11 (E8) |
+| Todas as secções na Udemy até sexta às 18:00? O curso todo chega aos 30 min de vídeo? | sex 06/11 (F0, P1) |
 | O plano grátis da Matterport deixa pôr tags? (senão, Starter) | sex 06/11 (A5) |
-| Quem junta o relatório final e a apresentação | sáb 07/11 |
+| Prefixo do .zip: `CAMUL2627` (ano letivo) ou `CAMUL2526` (como no exemplo)? | sáb 07/11 |
+| Quem junta o relatório, o .zip e a apresentação | sáb 07/11 |
 
 ---
 
@@ -290,7 +303,9 @@
 
 | Risco | O que fazer |
 |---|---|
-| A Matterport demora a processar o espaço | Capturar cedo; fazer B e C enquanto espera; se passar das 18:00, A5–A9 e a Aula 2 no sábado (A4) |
+| A revisão da Udemy não acaba até sexta | Submeter o mais cedo possível na sexta (P5); se ficar «Em revisão», captura do estado e avisar a professora |
+| Um colega não tem a secção pronta na sexta | Mensagem de manhã (F0); limite 18:00 |
+| A Matterport demora a processar o espaço | Capturar cedo; fazer B e C enquanto espera; se passar das 18:00, publicar com a Aula 2 antiga e substituí-la no sábado (A4) |
 | Erros de alinhamento na captura | Pontos mais perto (1,5 m), luz igual, portas abertas; repetir o ponto |
 | Algo pessoal aparece no 3D | Rever a visita antes de partilhar; voltar a capturar a divisão ou cobrir com uma tag |
 | Vídeo da L1 < 8 min | Falar mais devagar; visita mais longa (D3) |

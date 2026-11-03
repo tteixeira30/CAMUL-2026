@@ -76,6 +76,8 @@ Cada lição tem a sua pasta `Files/P1/L<n>/`; o que é geral fica em `Files/P1/
 | S7 | 03/11 | 03/11 | Testes e validação (feitos na PL: Alfa = o autor testa a sua lição, Beta = outros grupos testam o nosso MOOC) |
 | S8 | 10/11 | 10/11 | Entrega final + apresentação presencial |
 
+**Fim do P1 (decidido a 04/11):** o MOOC tem de estar **publicado na Udemy até sex 06/11** (obrigatório); sáb 07 → ter 10/11 só para juntar a entrega e preparar a apresentação. O S8 entrega-se num só `.zip` (`CAMUL2627_P1_G1_1240441_1240493_1221391_1220901_1200929.zip`; o exemplo do enunciado usa `CAMUL2526_…`, confirmar o prefixo) com: MOOC completo (todas as lições) · relatório final do processo · Gantt final e esquema de funcionamento/navegação · guiões finais de todas as lições · análise das regras e diretrizes da Udemy · resultados dos testes e melhorias.
+
 Aula 3: o tema da S2 tem de evoluir para um **contexto de crise/emergência/catástrofe/deslocação/conflito**, com 5 elementos diferenciadores: público específico, situação concreta, contexto real, decisões, contributo do Matterport.
 
 ## O nosso MOOC (estado atual)
