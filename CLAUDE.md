@@ -113,6 +113,7 @@ Padrão de cada lição (S3): Gancho 1 min → Vídeo 3 min → Atividade 2 min 
 ### Matterport
 
 - Fio condutor: a casa da dupla **fictícia D. Rosa (pessoa com demência) e Ana (filha cuidadora)**, capturada pelo grupo com a app Matterport Capture; espaço de acolhimento encenado numa sala da escola para a L4 (plano B: Matterport Discover, só por vídeo).
+- **03/11/2026 (professora):** cada lição grava o seu Matterport, com **tags dentro do espaço** (o Discover deixa de servir). L1 = casa do Bruno, L2 = casa do Tiago (a professora aceita casas diferentes). O curso tem de ser **publicado** na Udemy (≥ 30 min de vídeo); o quiz aparece num curso grátis (confirmado).
 - Tags: **azul = pessoa com demência**, **laranja = cuidador**; título com prefixo da lição (ex.: «L2 · Medicação»).
 - Restrições: plano grátis = 1 espaço ativo por conta (usar 2 contas ou 1 mês de Starter); espaços «não listados»; consentimento do proprietário, sem dados pessoais, nunca capturar uma pessoa com demência real.
 - Detalhe completo (ideias por lição, fluxo de trabalho, riscos) em `Files/P1/P1_Tema_Matterport.md`.

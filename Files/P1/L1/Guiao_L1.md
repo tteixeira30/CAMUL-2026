@@ -14,14 +14,13 @@ Decisões: o incêndio é **só o exemplo** do gancho (a lição vale para qualq
 | Aula 2 · A pessoa, quem cuida e os 3 passos | Vídeo (conteúdo) | ≈ 3:15 | 5–8 |
 | **Aula 3 · Quatro crises, a mesma pessoa** *(nova, 03/11)* | Vídeo | ≈ 2:10 | 11–14 |
 | **Aula 4 · Sinais a que estar atento** *(nova, 03/11)* | Vídeo | ≈ 2:05 | 15–17 |
+| Aula 5 · O que dá segurança? *(era a Aula 3)* | Texto (reflexão) | 2 min | — |
 | Teste 1 · Teste a compreensão | Quiz (4 perguntas) | 1,5 min | — |
-| Aula 5 · Síntese e próxima lição *(era a Aula 4; o ficheiro mantém o nome `L1_Aula4_Sintese.mp4`)* | Vídeo | ≈ 0:20 | 9–10 |
+| Aula 6 · Síntese e próxima lição *(era a Aula 4; o ficheiro mantém o nome `L1_Aula4_Sintese.mp4`)* | Vídeo | ≈ 0:20 | 9–10 |
 
-**03/11 (S7):** o curso tem de ser publicado (≥ 30 min de vídeo) → a L1 passa a ≈ 8 min de **vídeo**: o dobro do conteúdo. Os diap. 1–10 ficam como estão (já gravados, a professora disse que não é preciso regravar); os diap. 11–17 são novos, no fim do `.pptx`, para não mudar a numeração.
+**03/11 (S7):** o curso tem de ser publicado (≥ 30 min de vídeo) → a L1 passa a ≈ 8 min de **vídeo**: o dobro do conteúdo. **Regrava-se tudo** (música alta e voz abafada no S6); a narração dos diap. 1–10 pode crescer um pouco. Os diap. 11–17 são novos, no fim do `.pptx`, para não mudar a numeração.
 
-A antiga Aula 3 «O que dá segurança?» (atividade em texto, §4) **sai** a 03/11.
-
-Para exportar cada vídeo à parte (Aulas 1, 2, 3, 4 e 5): ocultar os outros diapositivos antes de «Exportar → Criar um vídeo».
+Para exportar cada vídeo à parte (Aulas 1, 2, 3, 4 e 6): ocultar os outros diapositivos antes de «Exportar → Criar um vídeo».
 
 ---
 
@@ -57,6 +56,8 @@ Ritmo calmo ≈ 130 palavras/min. «[pausa]» = 1 s de silêncio.
 ---
 
 ## 3. Matterport · «A casa pelos olhos da D. Rosa»
+
+> **03/11: muda para a casa do Bruno**, capturada com a app Matterport Capture, com as 6 tags **dentro do Matterport** (plano Bruno, bloco B0). O Discover abaixo fica só como histórico até à captura nova.
 
 **Plano B (S5):** um espaço público do Matterport Discover, apresentado como a casa da D. Rosa. A casa capturada pelo grupo decide-se no S6. A Udemy não aceita iframes, por isso a visita entra de duas formas:
 - **vídeo gravado** (58 s) no **diap. 6** do `S4_Video_L1.pptx`, dentro da Aula 2;
@@ -104,7 +105,7 @@ O espaço não tem fotografias nem relógio na cozinha: as fotografias passaram 
 
 ---
 
-## 4. Atividade (antiga Aula 3, texto) · retirada a 03/11, fica só como registo
+## 4. Atividade (Aula 5, texto; era a Aula 3)
 
 > **O que dá segurança?**
 > Pense na pessoa de quem cuida. Que três coisas a fazem sentir-se segura em casa? Pode ser um objeto, um hábito, uma pessoa, uma música… Se tivessem de sair de casa de repente, por um incêndio, uma cheia ou uma guerra, o que levaria consigo?

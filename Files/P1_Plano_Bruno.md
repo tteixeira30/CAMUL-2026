@@ -10,11 +10,12 @@
 - A teórica de composição visual está **feita** (ver §1).
 
 **Decisões:**
-- Matterport → espaço do Matterport Discover «La Tarasca», gravado, com as tags como etiquetas no PowerPoint. A casa da D. Rosa já não se captura: não há tempo antes de 03/11.
+- Matterport → espaço do Matterport Discover «La Tarasca», gravado, com as tags como etiquetas no PowerPoint. A casa da D. Rosa já não se captura: não há tempo antes de 03/11. → **Mudou a 03/11:** **o Matterport tem de ser gravado por nós, com tags dentro.** A L1 usa a minha casa (capturada com o telemóvel) no lugar do Discover «La Tarasca» (bloco B0).
 - Ilustrações → **Storyset, estilo Amico**, azul #2F6DB5 (pessoa) e laranja #E07B2E (cuidador).
 - **Ninguém usa avatar no P1.** Cada um grava a sua voz.
 - A voz, os vídeos e a Udemy da L1 ficam para o S6 (combinado com a professora a 25/10).
-- **03/11 (professora): o curso tem de ser publicado na Udemy.** A Udemy exige ≥ 30 min de vídeo num curso grátis; a 03/11 o curso tem 18 min e só 4 lições carregadas → todos estendem o vídeo da sua lição. Na L1: ≈ 8 min de **vídeo**, o dobro do conteúdo, sem regravar o que já está (8.3).
+- **03/11 (professora): o curso tem de ser publicado na Udemy.** A Udemy exige ≥ 30 min de vídeo num curso grátis; a 03/11 o curso tem 18 min e só 4 lições carregadas → todos estendem o vídeo da sua lição. Na L1: ≈ 8 min de **vídeo**, o dobro do conteúdo, **com tudo regravado** (8.3).
+- **03/11 (depois da aula):** o quiz aparece num curso grátis (confirmado). A L2 usa a casa do Tiago no Matterport. **A L1 regrava-se toda** (música alta, voz abafada).
 
 **Legenda:** ★ = mínimo para entregar. **[G]** = tarefa de grupo (o Bruno trata da Udemy, por isso puxa por estas). Cada tarefa tem os passos por baixo: segue-os por ordem.
 
@@ -24,49 +25,92 @@ Ficheiros: `Files/P1/L1/Guiao_L1.md` (narração, atividade, quiz) · `Files/P1/
 
 ## 0. MOOC pronto: tudo o que falta, por ordem (03/11 → 10/11)
 
-A professora (03/11): o curso tem de ser **publicado** na Udemy. Esta lista leva a L1 a ≈ 8 min de vídeo e o curso à publicação. **A Aula 3 «O que dá segurança?» sai da L1** (03/11); a L3 fica. Segue-a de cima para baixo.
+A professora (03/11): o curso tem de ser **publicado** na Udemy. Esta lista leva a L1 a ≈ 8 min de vídeo e o curso à publicação. A Aula 3 «O que dá segurança?» **fica** (passa a Aula 5; só muda o link da visita 3D). Segue-a de cima para baixo.
+
+### B0. Matterport na minha casa, com tags (qua 04 → qui 05/11)
+- [ ] **K.1** A casa da D. Rosa passa a ser **a minha casa** (substitui o Discover «La Tarasca»). A L2 usa a casa do Tiago (a professora disse que não há problema, 03/11). ★
+- [ ] **K.2** Preparar a casa (≈ 30 min, antes de capturar). ★
+  - Tirar ou esconder: fotografias de família, documentos, correio, nada com nome ou morada, ecrãs ligados.
+  - Cuidado com espelhos e janelas: não podem mostrar a rua, matrículas ou o exterior do prédio.
+  - Arrumar como uma casa do dia a dia. Todas as luzes acesas, estores abertos por igual, portas interiores abertas.
+  - Divisões a capturar (as do roteiro do guião §3): **entrada/porta → sala (sofá, quadros, janela) → cozinha → quarto**.
+  - Ninguém em casa durante a captura (ou numa divisão que não entra).
+- [ ] **K.3** Capturar com o telemóvel (≈ 1 h). ★
+  - Instalar a app **Matterport Capture** e entrar com a conta Matterport (plano grátis = 1 espaço ativo).
+  - Novo espaço → «Casa da D. Rosa · Cuidar em Crise».
+  - Um ponto de captura a cada **1,5–2 m**: telemóvel à altura do peito, rodar no mesmo sítio como a app manda. Começar na entrada e seguir a ordem do K.2.
+  - Ver na app se as divisões ficam ligadas entre si; repetir o ponto que falhar.
+  - Carregar (Upload) com Wi-Fi. O processamento na cloud pode levar **horas**: capturar na qua 04/11 de manhã.
+- [ ] **K.4** Pôr as 6 tags no espaço (em my.matterport.com → espaço → Editar → Tags). ★
+  - Uma tag por paragem do roteiro (guião §3): quadros, sofá, janela, cozinha, quarto, porta. Mesmo texto das etiquetas que estão no PowerPoint.
+  - Título com o prefixo da lição: «L1 · Sofá», «L1 · Janela»…
+  - Cor: **azul #2F6DB5** = pessoa (5 tags), **laranja #E07B2E** = quem cuida (1, no quarto).
+  - Confirmar se o plano grátis deixa pôr tags. Se não deixar → 1 mês de Starter (≈ 10 $), já previsto no `P1_Tema_Matterport.md`.
+- [ ] **K.5** Visita guiada e partilha. ★
+  - Editar → Highlight Reel (visita guiada): paragens pela ordem entrada → sala → cozinha → quarto → porta, cada uma a abrir a sua tag.
+  - Privacidade: **«Não listado»** (só quem tem o link entra). Copiar o link.
+  - Abrir o link no telemóvel, sem sessão iniciada, e confirmar que entra e que as tags se leem.
+- [ ] **K.6** Gravar a visita em vídeo (≈ 58 s, a mesma duração da atual). ★
+  - Chrome em ecrã inteiro (F11), notificações desligadas, `Win+Alt+R` (Xbox Game Bar) para gravar.
+  - Seguir a visita guiada devagar, com cada tag aberta ≈ 3–4 s. Gravar 2 vezes, ficar com a melhor.
+  - Guardar **com o mesmo nome** `L1/L1_Visita3D.mp4` (substitui o antigo; está fora do git).
+- [ ] **K.7** Pôr a visita nova na L1 (antes da regravação geral, M.8). ★
+  - Diap. 6: trocar o vídeo (botão direito → Alterar vídeo) e **apagar as 6 etiquetas do PowerPoint** (as tags passam a estar no Matterport).
+  - Se a visita nova não tiver 58 s: acertar o tempo do diap. 6 (Transições → Avançar após) para a duração do vídeo.
+  - A Aula 2 exporta-se no M.9, com o resto.
+  - Trocar o link «Visita 3D» na Udemy pelo link novo. Rever a legenda da Aula 2 se os tempos mudarem.
+  - Diap. 10 (créditos): tirar o Discover «La Tarasca» / IInmobarrios → a síntese exporta-se no M.9, com o resto.
+  - Aula 5 (atividade, texto): trocar o link no texto e confirmar que a casa tem 3 coisas que «dão segurança» (manta, quadro, cadeira…) para a pessoa encontrar.
+  - Atualizar o guião §3 (espaço, link, capturas novas `L1/Capturas/S8_Captura_1…6_L1.png`) e §4 (link).
 
 ### B. L1: 2 vídeos novos (qua 04/11 → qui 05/11)
 - [ ] **M.5** Ler em voz alta a narração nova (guião §2, cenas 6–12) com cronómetro. ★
   - Tem de dar ≈ 2:10 (cenas 6–9) e ≈ 2:05 (cenas 10–12).
   - Mudar as frases que não soam a ti no guião primeiro; o `.pptx` copia do guião.
-- [ ] **M.6** PowerPoint: criar os diap. 11–17 **no fim** do `S4_Video_L1.pptx` (os 1–10 não se mexem). ★
+- [ ] **M.6** PowerPoint: criar os diap. 11–17 **no fim** do `S4_Video_L1.pptx` (os 1–10 não mudam de número). **Ainda não criados (03/11): fazer com o Claude na próxima sessão** (ver a nota «Próxima sessão» no fim do bloco B). ★
   - Para cada um: selecionar um diapositivo do mesmo tipo → Ctrl+D → arrastar para o fim.
   - 11–14 «Quatro crises, a mesma pessoa»: copiar os ícones do diap. 4 (chama, ondas, vírus, pessoa com mala) e as ilustrações Storyset dos diap. 3, 5, 7.
   - 15–17 «Sinais a que estar atento»: metade azul (pessoa) no 15, metade laranja (quem cuida) no 16, 2 cartões «112» e «SNS 24 · 808 24 24 24» no 17.
   - Palavras uma por clique (Animações → Aparecer, «Ao clicar»), como nos diap. 5 e 7.
   - Copiar a narração de cada cena para as notas, com as marcas `[pausa]` e `[clique]`.
+- [ ] **M.6b** **Próxima sessão (04/11): criar os diap. 11–17 com o Claude.** Estado a 03/11: o `.pptx` tem 10 diapositivos, 960 × 540; narração gravada em cada um (forma «Audio NN», volume 0,8), música «Musica» a 0,15 nos diap. 1, 4, 5, 9; relógio 0,4; sirene 0,5. Proposta: ★
+  - 11–14 «Quatro crises»: duplicar o diap. 4 (4 círculos com ícones + rótulos); destacar a crise de cada diapositivo e esbater as outras; título «Quatro crises, a mesma pessoa», subtítulo = a crise; 3 palavras por clique em baixo. Música só no 11.
+  - 15 «Sinais na pessoa»: duplicar o diap. 5 (metade azul, D. Rosa confusa); 6 palavras em 2 linhas (confusão · agitação · repetição / recusa · sono · silêncio). Música no 15.
+  - 16 «Sinais em quem cuida»: duplicar o diap. 7 (metade laranja); cansaço · irritação · indecisão / esquecimento · sem ajuda.
+  - 17 «Quando pedir ajuda»: duplicar o diap. 9 (2 cartões): «112 · perigo imediato» e «SNS 24 · 808 24 24 24 · aconselhamento» + «Pedir ajuda faz parte de cuidar.»
+  - Nas cópias: apagar a narração copiada («Audio NN») e a música dos diap. 12–14, 16, 17; notas no formato das existentes (`[AULA 3 · Crises][Esperar 1 s]…[→ 1/3]…[Esperar 1 s → AVANÇAR]`) a partir do guião §2. Animações com `TimeLine.MainSequence.AddEffect` (nunca `AnimationSettings.PlaySettings`). Fechar o PowerPoint ou guardar antes.
 - [ ] **M.7** Música nos diapositivos novos. ★
-  - Diap. 11: Inserir → Áudio → `P1_Musica_High_Class_Benjamin_Andrews.mp3` → Volume 15 % → «Reproduzir em vários diapositivos» até ao 14 → ícone oculto.
+  - Diap. 11: Inserir → Áudio → `P1_Musica_High_Class_Benjamin_Andrews.mp3` → Volume ≈ 8 % → «Reproduzir em vários diapositivos» até ao 14 → ícone oculto.
   - Diap. 15: o mesmo, até ao 17.
   - Confirmar que a música para no fim do 14 e do 17 (o erro da Aula 1: tocava até ao fim da faixa).
-- [ ] **M.8** Gravar a voz só dos diap. 11–17. ★
+  - **Baixar a música em todos os diapositivos** (1, 4, 5, 9, 11, 15): de 15 % para ≈ 8 %. Fazer um teste de 20 s e ouvir com auscultadores antes de gravar tudo.
+- [ ] **M.8** Gravar a voz de **todos** os diapositivos (1–17). ★
   - Sítio calado, telemóvel em silêncio, **auscultadores postos**.
-  - Gravar → selecionar o diap. 11 → «Do diapositivo atual». Câmara desligada.
+  - Microfone mais perto da boca (≈ 15–20 cm), sem tapar; voz abafada no S6. Gravar → «Do início» (substitui a narração antiga). Câmara desligada. Diap. 6: sem narração.
   - **Esperar 1 s antes de falar** em cada diapositivo (evita o estalo do microfone).
-  - Fazer os `[clique]` nos sítios marcados. Parar no fim do 17.
+  - Fazer os `[clique]` nos sítios marcados. Parar no fim do 17 (ou gravar por partes: 1–10, depois 11–17).
   - Ouvir cada um. Se correu mal: botão direito → Limpar → «Limpar gravação neste diapositivo» e repetir só esse.
   - Guardar. Commit.
-- [ ] **M.9** Exportar os 2 vídeos novos (Full HD 1080p, «Utilizar tempos e narrações gravados»). ★
+- [ ] **M.9** Exportar os **6 vídeos** (Full HD 1080p, «Utilizar tempos e narrações gravados»). ★
   - Antes: Opções → Avançadas → Ecrã → «Desativar a aceleração de gráficos de hardware» marcado.
-  - Ocultar tudo menos 11–14 → Ficheiro → Exportar → Criar um vídeo → `L1_Aula3_Crises.mp4`.
-  - Só 15–17 visíveis → `L1_Aula4_Sinais.mp4`. No fim, voltar a mostrar todos.
-  - Ver os 2 MP4 do início ao fim: som, cliques, música a parar no fim.
-- [ ] **M.10** Problemas do S7 nos vídeos antigos (opcional: a professora disse que não é preciso regravar).
-  - Estalo: só se houver tempo, regravar o **primeiro diapositivo** de cada vídeo (diap. 1, 5, 9) com 1 s de silêncio, e voltar a exportar essa aula.
+  - 1–4 → `L1_Aula1_Gancho.mp4` · 5–8 → `L1_Aula2_Conteudo.mp4` · 11–14 → `L1_Aula3_Crises.mp4`. Ocultar os outros antes de cada exportação (Ficheiro → Exportar → Criar um vídeo).
+  - 15–17 → `L1_Aula4_Sinais.mp4` · 9–10 → `L1_Aula4_Sintese.mp4` (é a Aula 6). No fim, voltar a mostrar todos.
+  - Ver os 6 MP4 do início ao fim: voz clara, música baixa, cliques, música a parar no fim. Na Udemy, substituir os vídeos das Aulas 1, 2 e 6 e refazer as 3 legendas `.vtt` do S6 (os tempos mudam).
+- [ ] **M.10** Problemas do S7 nos vídeos antigos: **resolvidos pela regravação geral** (M.8).
+  - Estalo: 1 s de silêncio antes de falar em cada diapositivo.
   - Narração por cima da visita (diap. 6): ver o `L1_Aula2_Conteudo.mp4` aos 0:45–1:43 e decidir. Se ficar como está, registar no S8 como «conhecido».
   - Registar cada decisão (tarefa 8.2).
 
 ### C. L1: Udemy (sex 06/11)
 - [ ] **M.11** Carregar os 2 vídeos na secção 1. ★
   - Currículo → secção 1 → «+ Item do currículo» → Aula → título → «+ Conteúdo» → Vídeo → carregar.
-  - Ordem final: Aula 1 Gancho → Aula 2 Conteúdo → **Aula 3 Quatro crises, a mesma pessoa** → **Aula 4 Sinais a que estar atento** → Teste 1 → Aula 5 Síntese e próxima lição (era a 4). **Apagar a antiga Aula 3 «O que dá segurança?»**.
+  - Ordem final: Aula 1 Gancho → Aula 2 Conteúdo → **Aula 3 Quatro crises, a mesma pessoa** → **Aula 4 Sinais a que estar atento** → Aula 5 O que dá segurança? (era a 3) → Teste 1 → Aula 6 Síntese e próxima lição (era a 4).
   - Arrastar as aulas para a ordem certa e mudar os títulos das antigas (lápis ao lado do título).
   - Esperar que a Udemy acabe de processar os vídeos.
 - [ ] **M.12** Legendas em português nos 5 vídeos. ★
-  - Fazer `L1/Legendas/S8_Legenda_Aula3_L1.vtt` e `S8_Legenda_Aula4_L1.vtt` como as do S6 (texto = notas do `.pptx`, tempos da voz gravada) e carregar em Português (Portugal). A legenda da síntese (`S6_Legenda_Aula4_L1.vtt`) continua na mesma aula, agora Aula 5.
+  - Fazer `L1/Legendas/S8_Legenda_Aula3_L1.vtt` e `S8_Legenda_Aula4_L1.vtt` como as do S6 (texto = notas do `.pptx`, tempos da voz gravada) e carregar em Português (Portugal). A legenda da síntese (`S6_Legenda_Aula4_L1.vtt`) continua na mesma aula, agora Aula 6.
   - Problema do S7 (legendas parecidas mas não iguais): comparar as 3 do S6 com o áudio e acertar o texto onde a voz se afastou das notas.
-- [ ] **M.13** Recurso «Visita 3D» (https://discover.matterport.com/space/R1sZEUzLrz9, «opcional») **mudar da Aula 3 para a Aula 2** antes de apagar a Aula 3 antiga. ★
+- [ ] **M.13** Recurso «Visita 3D» com o **link novo** da minha casa (K.5), «opcional», na Aula 2 e na Aula 5 (atividade). Apagar o link antigo do Discover. ★
 - [ ] **M.14** Pré-visualizar como aluno a secção 1 do princípio ao fim, no computador e no telemóvel. ★
   - A secção mostra ≈ 8 min? Ordem certa? Som nos 5 vídeos? Teste 1 com feedback? Link 3D abre?
   - Tirar capturas para o S8 (`L1/Capturas/S8_*_L1.png`).
@@ -219,11 +263,11 @@ O enunciado pede: MOOC completo · MOOC-choice e MOOC Template finais · Gantt f
 ### Correções (qua 04/11 → sex 06/11)
 - [ ] **8.1** Corrigir os problemas da L1, primeiro os de gravidade alta. Se mexer na narração: guião, notas do `.pptx`, gravar de novo só esse diapositivo e voltar a exportar e carregar o vídeo. ★
 - [ ] **8.2** Registar cada correção: problema → o que mudou → onde. Vai para o relatório. ★
-- [ ] **8.3** Estender a L1 para **≈ 8 min de vídeo**: o **dobro do conteúdo**. O que já está gravado (Aulas 1, 2 e síntese, 4:00) **fica como está** (a professora disse que não é preciso regravar); só se gravam 2 vídeos novos, diap. 11–17 no fim do `.pptx`. Narração no guião §2 (cenas 6–12). ★
+- [ ] **8.3** Estender a L1 para **≈ 8 min de vídeo**: o **dobro do conteúdo**. **Regravar tudo** (diap. 1–17): a música ficou alta e a voz abafada; a narração pode crescer um pouco. Os 2 vídeos novos são os diap. 11–17, no fim do `.pptx`. Narração no guião §2 (cenas 6–12). ★
   - **Aula 3 · Quatro crises, a mesma pessoa** (diap. 11–14, ≈ 2:10): incêndio, cheia/tempestade, pandemia, deslocação por conflito → `L1_Aula3_Crises.mp4`.
   - **Aula 4 · Sinais a que estar atento** (diap. 15–17, ≈ 2:05): sinais na pessoa (azul), em quem cuida (laranja), quando pedir ajuda (112, SNS 24) → `L1_Aula4_Sinais.mp4`.
   - Reutilizar as ilustrações Storyset e os ícones do diap. 4. Gravar com 1 s de silêncio no início (evita o estalo do microfone).
-  - Udemy: Aula 1 → Aula 2 → **Aula 3 (nova)** → **Aula 4 (nova)** → Teste 1 → Aula 5 Síntese (era a 4, mesmo ficheiro). A Aula 3 «O que dá segurança?» sai.
+  - Udemy: Aula 1 → Aula 2 → **Aula 3 (nova)** → **Aula 4 (nova)** → Aula 5 «O que dá segurança?» (era a 3) → Teste 1 → Aula 6 Síntese (era a 4, mesmo ficheiro).
   - Total ≈ 0:56 + 2:44 + 2:10 + 2:05 + 0:20 ≈ **8:15**. Somar no Currículo; o curso tem de chegar aos 30 min.
 
 ### Documentos (sáb 07/11 → dom 08/11)
@@ -253,6 +297,7 @@ O enunciado pede: MOOC completo · MOOC-choice e MOOC Template finais · Gantt f
 | dom 01/11 | Grupo: secções, página do curso, acesso dos testadores, Gantt | 6.8–6.12 |
 | seg 02/11 | Documento do S6 · preparar os testes | 6.13, 7.1–7.3 |
 | ter 03/11 | Submeter o S6 antes da PL · testes na PL · S7 até às 20:00 | 6.14, 7.4–7.9 |
+| qua 04 → qui 05/11 | Matterport na minha casa (capturar qua de manhã) | K.1–K.7 |
 | qua 04 → sex 06/11 | 2 vídeos novos da L1 + Udemy da L1 | M.5–M.14 (8.1–8.3) |
 | sáb 07 → dom 08/11 | Publicar (submeter para revisão sáb 07/11) · documentos finais | M.15–M.20, 8.4–8.9 |
 | seg 09/11 | Ensaio da apresentação | 8.10–8.11 |
