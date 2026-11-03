@@ -24,7 +24,7 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `S1_Analise_Plataformas.md`, `S1_Plataformas_Grupo1.xlsx` | S1 — análise de plataformas | Histórico |
 | `S1_Abordagens.md` | S1 — escolha Udemy + Google Forms | Histórico; as decisões posteriores prevalecem |
 | `S2_MOOC-choice_planning_Grupo1.docx` | S2 — tema, enquadramento, público, objetivo, plataforma, Gantt da equipa | Reentregue após o feedback; atualizado a partir do `P1_Tema_Matterport.md` |
-| `S2_Gantt_Grupo1.xlsx` | S2 — Gantt da equipa (folha «Gantt») | Tem de bater certo com o Gantt do S2 |
+| `S2_Gantt_Grupo1.xlsx` | S2 — Gantt da equipa (folha «Gantt»), atualizado a 03/11 com as datas reais e a coluna M «Estado a 03/11» | Tem de bater certo com o Gantt do S2 (no `.docx`, numa página só, com a mesma coluna «Estado») |
 | `P1_Tema_Matterport.md` | Rascunho de trabalho do tema reescrito para crise + estudo do Matterport | **Fonte para atualizar o S2** |
 | `S3_MOOC_Template_Grupo1.xlsx` | S3 — MOOC Template (folhas «Enquadramento» e «Lições») | Versão mais detalhada das 5 lições |
 | `P1_Modelo_Licoes.pptx` | Modelo visual comum das 5 lições (guia oculto + 1 diapositivo de cada tipo) | Partilhado com o grupo; geral |
@@ -33,6 +33,8 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `L1/Guiao_L1.md` | Guião da L1, do S4 ao S8 (narração exata por cena), atividade, quiz com feedback, próximos passos | **Fonte da narração**: as notas do `.pptx` e o guião do `.docx` vêm daqui |
 | `L1/S4_Video_L1.pptx` | S4 — vídeo da L1 (1 diapositivo por cena, narração nas notas) | Ilustrações, voz e MP4 passam para o S5 |
 | `L1/S4_Evidencias_L1_Grupo1.docx` | S4 — entrega: primeiras evidências de produção (5 evidências do enunciado) | Atualizado a 19/10; exportar para PDF antes de submeter. Quiz e reflexão já na Udemy (rever no S5); Matterport, voz e vídeos no S5 |
+| `L1/Legendas/S6_Legenda_Aula{1,2,4}_L1.vtt` | S6 — legendas em português dos 3 vídeos da L1 (15 + 34 + 7) · a Aula 4 (síntese) passa a Aula 5 no S8 | Texto = notas do `.pptx`; tempos tirados da voz gravada no `.pptx`, alinhada com os MP4 (03/11). Diap. 6 sem legenda. Se a narração mudar, refazer |
+| `L1/S6_Integracao_L1_Grupo1.docx`, `.pdf` | S6 — entrega da L1: versão integrada (6 páginas, capturas da Udemy em `L1/Capturas/S6_*_L1.png`) | Feito a 03/11; submeter o PDF no Moodle antes da PL |
 | `L1/S7_Notas_Testes_L1.md` | S7 — notas da PL de 03/11: Alfa, Beta, observação dos testadores, problemas → correções | Nota de trabalho; alimenta o documento do S7 e as correções do S8 |
 | `L2/` | Tudo o que é só da L2 (Tiago); ramo `s5-l2` | Mesma estrutura da L1 |
 | `L2/S4_Plano_L2.md` | S4 — plano da L2: evidências, decisões, calendário, estrutura do PDF | Nota de trabalho |
@@ -41,6 +43,8 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `L2/S4_Video_L2.pptx` | Vídeo da L2 (11 diapositivos no modelo comum, narração nas notas e gravada a 25/10) | Ilustrações Storyset (`S5_Ilustracao_*_L2.png`), ícones, música e sons. Os vídeos dos diap. 5 e 6 estão **ligados** (`S5_Planos_Kit_L2.mp4`, `S5_Visita3D_L2.mp4`, fora do git): não mudar o nome nem o sítio. Exporta-se por aula → `L2_Aula5_Gancho.mp4`, `L2_Aula6_Conteudo.mp4`, `L2_Aula8_Sintese.mp4` (fora do git) |
 | `L2/S5_Prototipo_L2_Grupo1.docx`, `.pdf` | S5 — entrega da L2: protótipo (11 páginas) | Feito a 25/10; submeter o PDF no Moodle até 27/10 |
 | `L2/Legendas/S6_Legenda_Aula{5,6,8}_L2.vtt` | S6 — legendas em português dos 3 vídeos da L2 | Texto = notas do `.pptx`; tempos tirados das pausas da voz gravada (27/10). Se a narração mudar, refazer. Carregam-se na Udemy, aula a aula |
+| `L2/Legendas/S6_Legenda_Aula{5,6,8}_L2.vtt` | Legendas em português dos 3 vídeos (texto do guião, tempos da voz) | Carregadas e publicadas na Udemy a 27/10 |
+| `L2/S6_Integracao_L2_Grupo1.docx`, `.pdf` | S6 — entrega da L2: versão integrada (9 páginas): secção 2 no curso, articulação L1 → L2 → L3, multimédia e legendas, Matterport, avaliação, funcionamento, progresso real para o Gantt | Feito a 03/11 a partir de um HTML convertido no Word (imagens do S5 + `L2/Capturas/S6_Curso_Integrado_L2.png`, o curso com as 5 secções). Na Udemy o curso chama-se «Socorros psicológicos: cuidador de demência em crise» (≈ 23 min de vídeo); submeter o PDF no Moodle até 03/11, 20:00 |
 | `L2/Recursos/S4_*_L2.pdf` (+ `.html`, `recursos.css`) | Recursos da Aula 7 (atividade da L2): checklist do kit, ficha da pessoa, plano de apoio (1 página A4 cada) | O `.html` é a fonte; o PDF imprime-se com o Edge (`--headless --print-to-pdf --no-pdf-header-footer`) |
 | `L2/S4_Evidencias_L2_Grupo1.docx`, `.pdf` | S4 — entrega da L2 (mesmo formato da L1) | Atualizado a 20/10 (PDF exportado). Udemy, secção 2 «Preparar antes»: Aulas 5–8 + Teste 2, como a L1; Aula 7 (artigo + 3 PDFs) e Teste 2 (4 perguntas) feitos a 20/10, rever no S5; Matterport, voz e vídeos no S5 |
 

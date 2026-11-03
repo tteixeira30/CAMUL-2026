@@ -64,9 +64,9 @@ A professora (03/11): o curso tem de ser **publicado** na Udemy. Esta lista leva
   - Arrastar as aulas para a ordem certa e mudar os títulos das antigas (lápis ao lado do título).
   - Esperar que a Udemy acabe de processar os vídeos.
 - [ ] **M.12** Legendas em português nos 5 vídeos. ★
-  - Udemy → Legendas → português → rever cada uma com a narração do guião §2 (nomes, «D. Rosa», «PSP», «SNS 24», números).
-  - Corrige também o problema do S7: legendas parecidas mas não iguais à narração.
-- [ ] **M.13** Recurso «Visita 3D» (https://discover.matterport.com/space/R1sZEUzLrz9, «opcional») só na Aula 2 (a Aula 3 antiga sai). ★
+  - Fazer `L1/Legendas/S8_Legenda_Aula3_L1.vtt` e `S8_Legenda_Aula4_L1.vtt` como as do S6 (texto = notas do `.pptx`, tempos da voz gravada) e carregar em Português (Portugal). A legenda da síntese (`S6_Legenda_Aula4_L1.vtt`) continua na mesma aula, agora Aula 5.
+  - Problema do S7 (legendas parecidas mas não iguais): comparar as 3 do S6 com o áudio e acertar o texto onde a voz se afastou das notas.
+- [ ] **M.13** Recurso «Visita 3D» (https://discover.matterport.com/space/R1sZEUzLrz9, «opcional») **mudar da Aula 3 para a Aula 2** antes de apagar a Aula 3 antiga. ★
 - [ ] **M.14** Pré-visualizar como aluno a secção 1 do princípio ao fim, no computador e no telemóvel. ★
   - A secção mostra ≈ 8 min? Ordem certa? Som nos 5 vídeos? Teste 1 com feedback? Link 3D abre?
   - Tirar capturas para o S8 (`L1/Capturas/S8_*_L1.png`).
@@ -152,14 +152,18 @@ O enunciado pede: lições funcionais e articuladas · multimédia integrada · 
   - Teste 1 · Teste a compreensão → já existe; confirmar a P4 e o feedback de cada opção (guião §5).
   - Aula 4 · Síntese e próxima lição → vídeo `L1_Aula4_Sintese.mp4`.
   - Esperar que a Udemy acabe de processar cada vídeo (pode levar minutos).
+  - Feito a 03/11: as 5 aulas pela ordem do guião §1; Aula 3 com o texto do §4; Teste 1 revisto (P1 com o sofá, feedback em todas as opções).
 - [x] **6.5** Recurso «Visita 3D» na Aula 2 e na Aula 3: link https://discover.matterport.com/space/R1sZEUzLrz9, com a nota «opcional». O quiz nunca depende dele. ★
-- [ ] **6.6** Pré-visualizar como aluno, no computador **e** no telemóvel (app Udemy). ★
+  - Feito a 03/11: recurso externo «Visita 3D (opcional) · A casa da D. Rosa» na Aula 3.
+- [x] **6.6** Pré-visualizar como aluno, no computador **e** no telemóvel (app Udemy). ★
   - Ordem das aulas certa? Os 3 vídeos têm som? O link 3D abre? O Teste 1 mostra o feedback?
   - **Confirmar se o Teste 1 aparece aos alunos num curso grátis.** Se não aparecer → avisar o grupo já: o quiz passa para o Google Forms (link na aula) em todas as lições.
   - Tirar 4 capturas (secção 1, um vídeo, a Aula 3, o Teste 1) → `L1/Capturas/S6_*_L1.png`.
-- [ ] **6.7** Legendas e transcrição em português nos 3 vídeos. ★
+  - Feito a 03/11, no computador: tudo certo. 4 capturas: `L1/Capturas/S6_Seccao_L1.png`, `S6_Video_L1.png`, `S6_Aula3_L1.png`, `S6_Teste_L1.png`. Falta ver no telemóvel. Se o quiz aparece num curso grátis fica por confirmar (a pré-visualização de instrutor mostra tudo) → explicar no S8 (8.7).
+- [x] **6.7** Legendas e transcrição em português nos 3 vídeos. ★
   - Udemy → Legendas → gerar as automáticas em português → rever cada uma com a narração do guião §2 (nomes, números, «D. Rosa», «PSP»).
   - A transcrição sai das legendas: confirmar na pré-visualização que o separador «Transcrição» aparece.
+  - Feito a 03/11: em vez das automáticas, `.vtt` feitos a partir das notas do `.pptx`, como na L2, com os tempos tirados da voz gravada: `L1/Legendas/S6_Legenda_Aula{1,2,4}_L1.vtt` (15 + 34 + 7). Carregados em Português (Portugal) e publicados.
 
 ### Grupo: curso integrado (dom 01/11 → seg 02/11) ★
 - [ ] **6.8** [G] As 5 secções na Udemy pela ordem L1 → L5, todas com a mesma estrutura (vídeos → atividade → teste → síntese). Cada vídeo de síntese faz a ponte para a lição seguinte. ★
