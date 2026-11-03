@@ -10,7 +10,7 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 |---|---|---|
 | `Files/` | Trabalhos a entregar | **Onde se trabalha** |
 | `Files/P1/P1_Enunciado.pdf` | Enunciado do P1 (requisitos, avaliação, roadmap S1–S8) | Fonte de verdade dos requisitos |
-| `Files/P1_Plano_Bruno.md`, `.html` | Plano do Bruno até ao fim do P1 (S6 → S8, 10/11; S6 e S7 a 03/11): o que está feito e as tarefas de cada entrega, da L1 e do grupo | Nota de trabalho; o .html (caixas e progresso) gera-se a partir do .md |
+| `Files/P1_Plano_Bruno.md`, `.html` | Plano do Bruno até ao fim do P1: tutorial passo a passo de sexta 06/11 (Matterport no iPhone, 9 tags, PowerPoint, voz, exportar, Udemy), publicar no sábado 07/11, S8 a 10/11; histórico até 03/11 no fim | Nota de trabalho; o .md e o .html geram-se juntos (o histórico não conta para o progresso) |
 | `Files/S5_Plano_Semana_Tiago.md`, `.html` | Plano do Tiago para dom 25/10 (e sáb 24/10 à noite): S5 da L2 e avatar D-ID da teórica, passo a passo por blocos | Nota de trabalho; ramo `s5-l2` |
 | `Files/P1/` | Entregas do P1 (MOOC) | Ver tabela abaixo |
 | `Files/Teoricas/` | Trabalho das teóricas: apresentação «A cor azul» (`CorAzul_*`) e composição visual (`ComposicaoVisual_*`, ver secção «Teóricas») | Independente do P1 |
@@ -31,7 +31,7 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `L1/` | Tudo o que é só da L1 (Bruno) | Ver abaixo |
 | `L1/S4_Plano_L1.md` | S4 — plano da L1: evidências, calendário, estrutura do PDF | Nota de trabalho |
 | `L1/Guiao_L1.md` | Guião da L1, do S4 ao S8 (narração exata por cena), atividade, quiz com feedback, próximos passos | **Fonte da narração**: as notas do `.pptx` e o guião do `.docx` vêm daqui |
-| `L1/S4_Video_L1.pptx` | S4 — vídeo da L1 (1 diapositivo por cena, narração nas notas) | Ilustrações, voz e MP4 passam para o S5 |
+| `L1/S4_Video_L1.pptx` | Vídeo da L1: 17 diapositivos, narração nas notas (diap. 1–4 Aula 1, 5–8 Aula 2, 11–14 Aula 3 «Quatro crises», 15–17 Aula 4 «Sinais», 9–10 Aula 6 síntese) | Diap. 11–17 criados a 04/11; música a 8 %; diap. 6 com um retângulo tracejado no lugar da visita (a nova, da casa do Bruno, entra na sexta 06/11); voz toda por regravar |
 | `L1/S4_Evidencias_L1_Grupo1.docx` | S4 — entrega: primeiras evidências de produção (5 evidências do enunciado) | Atualizado a 19/10; exportar para PDF antes de submeter. Quiz e reflexão já na Udemy (rever no S5); Matterport, voz e vídeos no S5 |
 | `L1/Legendas/S6_Legenda_Aula{1,2,4}_L1.vtt` | S6 — legendas em português dos 3 vídeos da L1 (15 + 34 + 7) · a Aula 4 (síntese) passa a Aula 5 no S8 | Texto = notas do `.pptx`; tempos tirados da voz gravada no `.pptx`, alinhada com os MP4 (03/11). Diap. 6 sem legenda. Se a narração mudar, refazer |
 | `L1/S6_Integracao_L1_Grupo1.docx`, `.pdf` | S6 — entrega da L1: versão integrada (6 páginas, capturas da Udemy em `L1/Capturas/S6_*_L1.png`) | Feito a 03/11; submeter o PDF no Moodle antes da PL |
