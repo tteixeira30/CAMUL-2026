@@ -14,10 +14,80 @@
 - Ilustrações → **Storyset, estilo Amico**, azul #2F6DB5 (pessoa) e laranja #E07B2E (cuidador).
 - **Ninguém usa avatar no P1.** Cada um grava a sua voz.
 - A voz, os vídeos e a Udemy da L1 ficam para o S6 (combinado com a professora a 25/10).
+- **03/11 (professora): o curso tem de ser publicado na Udemy.** A Udemy exige ≥ 30 min de vídeo num curso grátis; a 03/11 o curso tem 18 min e só 4 lições carregadas → todos estendem o vídeo da sua lição. Na L1: ≈ 8 min de **vídeo**, o dobro do conteúdo, sem regravar o que já está (8.3).
 
 **Legenda:** ★ = mínimo para entregar. **[G]** = tarefa de grupo (o Bruno trata da Udemy, por isso puxa por estas). Cada tarefa tem os passos por baixo: segue-os por ordem.
 
 Ficheiros: `Files/P1/L1/Guiao_L1.md` (narração, atividade, quiz) · `Files/P1/L1/S4_Video_L1.pptx` · `Files/P1/P1_Enunciado.pdf` (o que cada entrega pede).
+
+---
+
+## 0. MOOC pronto: tudo o que falta, por ordem (03/11 → 10/11)
+
+A professora (03/11): o curso tem de ser **publicado** na Udemy. Esta lista leva a L1 a ≈ 8 min de vídeo e o curso à publicação. **A Aula 3 «O que dá segurança?» sai da L1** (03/11); a L3 fica. Segue-a de cima para baixo.
+
+### B. L1: 2 vídeos novos (qua 04/11 → qui 05/11)
+- [ ] **M.5** Ler em voz alta a narração nova (guião §2, cenas 6–12) com cronómetro. ★
+  - Tem de dar ≈ 2:10 (cenas 6–9) e ≈ 2:05 (cenas 10–12).
+  - Mudar as frases que não soam a ti no guião primeiro; o `.pptx` copia do guião.
+- [ ] **M.6** PowerPoint: criar os diap. 11–17 **no fim** do `S4_Video_L1.pptx` (os 1–10 não se mexem). ★
+  - Para cada um: selecionar um diapositivo do mesmo tipo → Ctrl+D → arrastar para o fim.
+  - 11–14 «Quatro crises, a mesma pessoa»: copiar os ícones do diap. 4 (chama, ondas, vírus, pessoa com mala) e as ilustrações Storyset dos diap. 3, 5, 7.
+  - 15–17 «Sinais a que estar atento»: metade azul (pessoa) no 15, metade laranja (quem cuida) no 16, 2 cartões «112» e «SNS 24 · 808 24 24 24» no 17.
+  - Palavras uma por clique (Animações → Aparecer, «Ao clicar»), como nos diap. 5 e 7.
+  - Copiar a narração de cada cena para as notas, com as marcas `[pausa]` e `[clique]`.
+- [ ] **M.7** Música nos diapositivos novos. ★
+  - Diap. 11: Inserir → Áudio → `P1_Musica_High_Class_Benjamin_Andrews.mp3` → Volume 15 % → «Reproduzir em vários diapositivos» até ao 14 → ícone oculto.
+  - Diap. 15: o mesmo, até ao 17.
+  - Confirmar que a música para no fim do 14 e do 17 (o erro da Aula 1: tocava até ao fim da faixa).
+- [ ] **M.8** Gravar a voz só dos diap. 11–17. ★
+  - Sítio calado, telemóvel em silêncio, **auscultadores postos**.
+  - Gravar → selecionar o diap. 11 → «Do diapositivo atual». Câmara desligada.
+  - **Esperar 1 s antes de falar** em cada diapositivo (evita o estalo do microfone).
+  - Fazer os `[clique]` nos sítios marcados. Parar no fim do 17.
+  - Ouvir cada um. Se correu mal: botão direito → Limpar → «Limpar gravação neste diapositivo» e repetir só esse.
+  - Guardar. Commit.
+- [ ] **M.9** Exportar os 2 vídeos novos (Full HD 1080p, «Utilizar tempos e narrações gravados»). ★
+  - Antes: Opções → Avançadas → Ecrã → «Desativar a aceleração de gráficos de hardware» marcado.
+  - Ocultar tudo menos 11–14 → Ficheiro → Exportar → Criar um vídeo → `L1_Aula3_Crises.mp4`.
+  - Só 15–17 visíveis → `L1_Aula4_Sinais.mp4`. No fim, voltar a mostrar todos.
+  - Ver os 2 MP4 do início ao fim: som, cliques, música a parar no fim.
+- [ ] **M.10** Problemas do S7 nos vídeos antigos (opcional: a professora disse que não é preciso regravar).
+  - Estalo: só se houver tempo, regravar o **primeiro diapositivo** de cada vídeo (diap. 1, 5, 9) com 1 s de silêncio, e voltar a exportar essa aula.
+  - Narração por cima da visita (diap. 6): ver o `L1_Aula2_Conteudo.mp4` aos 0:45–1:43 e decidir. Se ficar como está, registar no S8 como «conhecido».
+  - Registar cada decisão (tarefa 8.2).
+
+### C. L1: Udemy (sex 06/11)
+- [ ] **M.11** Carregar os 2 vídeos na secção 1. ★
+  - Currículo → secção 1 → «+ Item do currículo» → Aula → título → «+ Conteúdo» → Vídeo → carregar.
+  - Ordem final: Aula 1 Gancho → Aula 2 Conteúdo → **Aula 3 Quatro crises, a mesma pessoa** → **Aula 4 Sinais a que estar atento** → Teste 1 → Aula 5 Síntese e próxima lição (era a 4). **Apagar a antiga Aula 3 «O que dá segurança?»**.
+  - Arrastar as aulas para a ordem certa e mudar os títulos das antigas (lápis ao lado do título).
+  - Esperar que a Udemy acabe de processar os vídeos.
+- [ ] **M.12** Legendas em português nos 5 vídeos. ★
+  - Udemy → Legendas → português → rever cada uma com a narração do guião §2 (nomes, «D. Rosa», «PSP», «SNS 24», números).
+  - Corrige também o problema do S7: legendas parecidas mas não iguais à narração.
+- [ ] **M.13** Recurso «Visita 3D» (https://discover.matterport.com/space/R1sZEUzLrz9, «opcional») só na Aula 2 (a Aula 3 antiga sai). ★
+- [ ] **M.14** Pré-visualizar como aluno a secção 1 do princípio ao fim, no computador e no telemóvel. ★
+  - A secção mostra ≈ 8 min? Ordem certa? Som nos 5 vídeos? Teste 1 com feedback? Link 3D abre?
+  - Tirar capturas para o S8 (`L1/Capturas/S8_*_L1.png`).
+
+### D. Publicar o curso na Udemy (grupo, até sáb 07/11)
+- [ ] **M.15** [G] Somar a duração de vídeo de todas as secções no Currículo: tem de dar **≥ 30 min** (e < 2 h num curso grátis). ★
+  - Se faltar: dizer a cada um quanto falta na sua lição. Não submeter antes.
+- [ ] **M.16** [G] Página de destino do curso completa. ★
+  - Título, subtítulo, descrição (≈ 200 palavras ou mais, a partir do S2), categoria Saúde e Fitness → Saúde mental, nível, idioma Português.
+  - Imagem do curso (750 × 422 px, sem texto a mais).
+  - Vídeo promocional: opcional (pode ser o `L1_Aula1_Gancho.mp4`).
+- [ ] **M.17** [G] Alunos-alvo: pelo menos 4 objetivos de aprendizagem, requisitos («nenhum») e para quem é o curso (cuidadores de pessoas com demência). ★
+- [ ] **M.18** Perfil de instrutor: foto e biografia (≈ 50 palavras ou mais). ★
+- [ ] **M.19** Preço: Grátis. Mensagens de boas-vindas e de parabéns (opcional). ★
+- [ ] **M.20** [G] «Submeter para revisão». ★
+  - Se a Udemy recusar, mostra a lista do que falta: corrigir e submeter de novo. Os números acima (200 palavras, 4 objetivos, 750 × 422) confirmam-se nessa lista.
+  - **Submeter até sáb 07/11:** a revisão pode demorar dias.
+  - Quando for aprovado: copiar o link público para o S8 e para a apresentação.
+
+### E. Entrega final (dom 08/11 → ter 10/11)
+- [ ] **M.21** Seguir o §5 (S8): documentos 8.5–8.9, apresentação 8.10–8.11, submeter 8.12. ★
 
 ---
 
@@ -75,14 +145,14 @@ O enunciado pede: lições funcionais e articuladas · multimédia integrada · 
   - Feito a 02/11: Aula 1 0:56 · Aula 2 2:44 · Aula 4 0:20. A música do diap. 4 tocava até ao fim da faixa (Aula 1 com 5:42) → passou a parar no fim do diapositivo. Os 3 MP4 estão no git (forçados, apesar do `.gitignore`) para carregar na Udemy noutro computador. Commit `376fd8e`.
 
 ### L1: Udemy (passou para ter 03/11 de manhã, noutro computador: `git pull` para ter os vídeos) ★
-- [ ] **6.4** Secção 1 «Crise, demência e quem cuida», por esta ordem (guião §1). ★
+- [x] **6.4** Secção 1 «Crise, demência e quem cuida», por esta ordem (guião §1). ★
   - Aula 1 · Crise, demência e quem cuida → vídeo `L1_Aula1_Gancho.mp4`.
   - Aula 2 · A pessoa, quem cuida e os 3 passos → vídeo `L1_Aula2_Conteudo.mp4`.
   - Aula 3 · O que dá segurança? → já existe; confirmar o texto do guião §4.
   - Teste 1 · Teste a compreensão → já existe; confirmar a P4 e o feedback de cada opção (guião §5).
   - Aula 4 · Síntese e próxima lição → vídeo `L1_Aula4_Sintese.mp4`.
   - Esperar que a Udemy acabe de processar cada vídeo (pode levar minutos).
-- [ ] **6.5** Recurso «Visita 3D» na Aula 2 e na Aula 3: link https://discover.matterport.com/space/R1sZEUzLrz9, com a nota «opcional». O quiz nunca depende dele. ★
+- [x] **6.5** Recurso «Visita 3D» na Aula 2 e na Aula 3: link https://discover.matterport.com/space/R1sZEUzLrz9, com a nota «opcional». O quiz nunca depende dele. ★
 - [ ] **6.6** Pré-visualizar como aluno, no computador **e** no telemóvel (app Udemy). ★
   - Ordem das aulas certa? Os 3 vídeos têm som? O link 3D abre? O Teste 1 mostra o feedback?
   - **Confirmar se o Teste 1 aparece aos alunos num curso grátis.** Se não aparecer → avisar o grupo já: o quiz passa para o Google Forms (link na aula) em todas as lições.
@@ -145,6 +215,12 @@ O enunciado pede: MOOC completo · MOOC-choice e MOOC Template finais · Gantt f
 ### Correções (qua 04/11 → sex 06/11)
 - [ ] **8.1** Corrigir os problemas da L1, primeiro os de gravidade alta. Se mexer na narração: guião, notas do `.pptx`, gravar de novo só esse diapositivo e voltar a exportar e carregar o vídeo. ★
 - [ ] **8.2** Registar cada correção: problema → o que mudou → onde. Vai para o relatório. ★
+- [ ] **8.3** Estender a L1 para **≈ 8 min de vídeo**: o **dobro do conteúdo**. O que já está gravado (Aulas 1, 2 e síntese, 4:00) **fica como está** (a professora disse que não é preciso regravar); só se gravam 2 vídeos novos, diap. 11–17 no fim do `.pptx`. Narração no guião §2 (cenas 6–12). ★
+  - **Aula 3 · Quatro crises, a mesma pessoa** (diap. 11–14, ≈ 2:10): incêndio, cheia/tempestade, pandemia, deslocação por conflito → `L1_Aula3_Crises.mp4`.
+  - **Aula 4 · Sinais a que estar atento** (diap. 15–17, ≈ 2:05): sinais na pessoa (azul), em quem cuida (laranja), quando pedir ajuda (112, SNS 24) → `L1_Aula4_Sinais.mp4`.
+  - Reutilizar as ilustrações Storyset e os ícones do diap. 4. Gravar com 1 s de silêncio no início (evita o estalo do microfone).
+  - Udemy: Aula 1 → Aula 2 → **Aula 3 (nova)** → **Aula 4 (nova)** → Teste 1 → Aula 5 Síntese (era a 4, mesmo ficheiro). A Aula 3 «O que dá segurança?» sai.
+  - Total ≈ 0:56 + 2:44 + 2:10 + 2:05 + 0:20 ≈ **8:15**. Somar no Currículo; o curso tem de chegar aos 30 min.
 
 ### Documentos (sáb 07/11 → dom 08/11)
 - [ ] **8.4** [G] MOOC completo na Udemy, 5 lições, todas com as correções. ★
@@ -173,8 +249,8 @@ O enunciado pede: MOOC completo · MOOC-choice e MOOC Template finais · Gantt f
 | dom 01/11 | Grupo: secções, página do curso, acesso dos testadores, Gantt | 6.8–6.12 |
 | seg 02/11 | Documento do S6 · preparar os testes | 6.13, 7.1–7.3 |
 | ter 03/11 | Submeter o S6 antes da PL · testes na PL · S7 até às 20:00 | 6.14, 7.4–7.9 |
-| qua 04 → sex 06/11 | Correções da L1 | 8.1–8.3 |
-| sáb 07 → dom 08/11 | Documentos finais | 8.4–8.9 |
+| qua 04 → sex 06/11 | 2 vídeos novos da L1 + Udemy da L1 | M.5–M.14 (8.1–8.3) |
+| sáb 07 → dom 08/11 | Publicar (submeter para revisão sáb 07/11) · documentos finais | M.15–M.20, 8.4–8.9 |
 | seg 09/11 | Ensaio da apresentação | 8.10–8.11 |
 | ter 10/11 | Entrega final e apresentação | 8.12 |
 | ter 24/11 | P2 | — |
@@ -212,6 +288,6 @@ O enunciado pede: MOOC completo · MOOC-choice e MOOC Template finais · Gantt f
 | Um colega não tem a secção pronta a 03/11 | Perguntar dom 01/11; avisar a professora antes da aula |
 | Curso por publicar → os outros grupos não entram | Plano B: o nosso portátil em «Pré-visualizar como aluno» (6.10) |
 | Quiz não aparece num curso grátis | Ver na pré-visualização (6.6); plano B Google Forms |
-| Vídeos de todas as lições < 30 min → Udemy não publica | Explicar no S8 (8.7); demonstração pela pré-visualização |
+| Vídeos de todas as lições < 30 min → Udemy não publica (03/11: 18 min, 4 lições) | **Tem de ser publicado** (professora, 03/11): todos estendem a sua lição; L1 → ≈ 8 min de vídeo, 2 vídeos novos (8.3). Submeter para revisão com tempo: a revisão da Udemy pode demorar dias |
 | Exportação do vídeo parada nos 0 MB | Desativar a aceleração de gráficos (6.3) |
 | Lições diferentes entre si | Revisão cruzada (6.11) |

@@ -12,11 +12,16 @@ Decisões: o incêndio é **só o exemplo** do gancho (a lição vale para qualq
 |---|---|---|---|
 | Aula 1 · Crise, demência e quem cuida | Vídeo (gancho) | ≈ 1:05 | 1–4 |
 | Aula 2 · A pessoa, quem cuida e os 3 passos | Vídeo (conteúdo) | ≈ 3:15 | 5–8 |
-| Aula 3 · O que dá segurança? | Texto (reflexão) | 2 min | — |
+| **Aula 3 · Quatro crises, a mesma pessoa** *(nova, 03/11)* | Vídeo | ≈ 2:10 | 11–14 |
+| **Aula 4 · Sinais a que estar atento** *(nova, 03/11)* | Vídeo | ≈ 2:05 | 15–17 |
 | Teste 1 · Teste a compreensão | Quiz (4 perguntas) | 1,5 min | — |
-| Aula 4 · Síntese e próxima lição | Vídeo | ≈ 0:25 | 9–10 |
+| Aula 5 · Síntese e próxima lição *(era a Aula 4; o ficheiro mantém o nome `L1_Aula4_Sintese.mp4`)* | Vídeo | ≈ 0:20 | 9–10 |
 
-Para exportar cada vídeo à parte (Aulas 1, 2 e 4): ocultar os outros diapositivos antes de «Exportar → Criar um vídeo».
+**03/11 (S7):** o curso tem de ser publicado (≥ 30 min de vídeo) → a L1 passa a ≈ 8 min de **vídeo**: o dobro do conteúdo. Os diap. 1–10 ficam como estão (já gravados, a professora disse que não é preciso regravar); os diap. 11–17 são novos, no fim do `.pptx`, para não mudar a numeração.
+
+A antiga Aula 3 «O que dá segurança?» (atividade em texto, §4) **sai** a 03/11.
+
+Para exportar cada vídeo à parte (Aulas 1, 2, 3, 4 e 5): ocultar os outros diapositivos antes de «Exportar → Criar um vídeo».
 
 ---
 
@@ -35,10 +40,17 @@ Ritmo calmo ≈ 130 palavras/min. «[pausa]» = 1 s de silêncio.
 | **4 · Os 3 passos** | 8 | 2:23–3:13 | Então, o que se pode fazer? Há uma forma simples de ajudar nestes momentos: os primeiros socorros psicológicos. Não são terapia e não é preciso ser profissional. São três passos. [pausa] Primeiro, observar: ver se há perigo, do que a pessoa precisa e como está a reagir. E como está você. [pausa] Depois, escutar: aproximar-se com calma, ouvir sem pressa, ajudar a acalmar. [pausa] Por fim, encaminhar: responder às necessidades básicas e saber a quem pedir ajuda. [pausa] Neste curso, vai aplicar estes três passos à pessoa de quem cuida, e a si. | Infografia em 3 cartões, um por clique: Observar (olho) → Escutar (orelha) → Encaminhar (placa de direções). | Música calma. |
 | **5 · Síntese** | 9 | 0:00–0:12 *(Aula 4)* | Em resumo: numa crise, a pessoa com demência perde as suas referências, e quem cuida fica sob pressão. Observar, escutar e encaminhar ajuda os dois. | Síntese em 2 linhas (azul e laranja) + os 3 passos. | Música calma, desde o início (diap. 9–10). |
 | **Ponte** | 10 | 0:12–0:25 | Mas há muito que pode fazer antes de a crise chegar. É isso que vamos ver na próxima lição: preparar antes. | Mapa das 5 lições com a L2 em destaque. Créditos em baixo: Storyset e música. | A música vai baixando até acabar. |
+| **6 · Incêndio** | 11 | 0:00–0:35 *(Aula 3)* | Vamos olhar com mais atenção para quatro crises. Em cada uma, a D. Rosa perde coisas diferentes. [pausa] Num incêndio, tudo acontece depressa. Há fumo, sirenes e ordens para sair. Não há tempo para explicar. A D. Rosa pode não perceber o perigo e agarrar-se ao que conhece: o sofá, a casa. Para ela, sair é o que mais assusta. | Título «Quatro crises, a mesma pessoa». Ícone da chama (diap. 4) + ilustração do alerta (diap. 3). | Música calma, desde o início (diap. 11–14). |
+| **7 · Cheia ou tempestade** | 12 | 0:35–1:05 | Numa cheia ou numa tempestade, a família pode ter de passar dias fora de casa, num pavilhão ou em casa de familiares. Há luzes acesas, barulho, muita gente. As horas das refeições e do sono mudam. Sem a rotina, a D. Rosa pode ficar agitada à noite e pedir, vezes sem conta, para ir para casa. | Ícone das ondas + ilustração da D. Rosa confusa (diap. 5). Palavras, uma por clique: fora de casa · barulho · sem rotina. | Música calma. |
+| **8 · Pandemia** | 13 | 1:05–1:35 | Numa pandemia, a crise é silenciosa. A casa fica igual, mas o resto desaparece: o centro de dia fecha, as visitas param, as pessoas usam máscara. A D. Rosa pode não perceber porque é que ninguém vem. Pode ficar mais triste, mais parada, mais desorientada. E a Ana passa a cuidar sozinha, a tempo inteiro. | Ícone do vírus + ilustração da Ana cansada (diap. 7). Palavras: centro de dia fechado · sem visitas · cuidar sozinha. | Música calma. |
+| **9 · Deslocação** | 14 | 1:35–2:10 | Por fim, ter de fugir de uma guerra ou de um conflito. A família deixa a casa sem saber quando volta. Viaja durante horas e chega a um centro de acolhimento, por vezes noutro país, com outra língua. Para a D. Rosa, nada é familiar. [pausa] Quatro crises diferentes, a mesma ideia: o que muda à volta muda também por dentro. | Ícone da pessoa com mala. No fim, os 4 ícones lado a lado (como no diap. 4). | A música vai baixando até acabar. |
+| **10 · Sinais na pessoa** | 15 | 0:00–0:45 *(Aula 4)* | Como saber se a crise está a afetar a pessoa de quem cuida? Observe as mudanças. [pausa] Mais confusão do que o habitual. Agitação, andar de um lado para o outro. Perguntar a mesma coisa muitas vezes. Recusar comer, beber ou tomar a medicação. Dormir mal. Ou, ao contrário, ficar calada e fechada em si. [pausa] Estes sinais não são caprichos. São a forma de a pessoa dizer que tem medo. | Título «Sinais a que estar atento». Metade azul: D. Rosa confusa. Palavras, uma por clique: confusão · agitação · repetição · recusa · sono · silêncio. | Música calma, desde o início (diap. 15–17). |
+| **11 · Sinais em quem cuida** | 16 | 0:45–1:25 | E em si? Também há sinais. [pausa] Cansaço que não passa, mesmo depois de dormir. Irritação fácil. Dificuldade em decidir. Esquecer-se de comer ou de tomar os seus medicamentos. A sensação de estar a fazer tudo sem ajuda. [pausa] Reconhecer estes sinais não é fraqueza. É o primeiro passo para pedir ajuda. | Metade laranja: quem cuida, cansado (diap. 7). Palavras: cansaço · irritação · indecisão · sozinho. | Música calma. |
+| **12 · Quando pedir ajuda** | 17 | 1:25–2:05 | Há momentos em que é preciso pedir ajuda logo. [pausa] Se houver perigo imediato, ligue 112. Se a pessoa não come nem bebe há muito tempo, se está muito agitada ou se magoa, ou se você já não consegue aguentar, ligue para o SNS 24: 808 24 24 24. [pausa] Pedir ajuda faz parte de cuidar. Vamos ver como fazê-lo nas próximas lições. | 2 cartões grandes: «112 · perigo imediato» e «SNS 24 · 808 24 24 24 · aconselhamento». | A música vai baixando até acabar. |
 
 **Música:** «High Class», Benjamin Andrews (Biblioteca de Áudio do YouTube), volume baixo. Entra nos diap. 1, 4, 5 e 9 e recomeça sempre do início: o diap. 3 corta-a, e cada vídeo (Aulas 1, 2 e 4) exporta-se à parte. **Ilustrações:** Storyset, estilo Amico.
 
-**Narração:** ≈ 420 palavras → Aula 1 ≈ 1:05 + Aula 2 ≈ 3:15 (incluindo 58 s de visita 3D); Aula 4 ≈ 25 s. Com a atividade (2 min) e o quiz (1,5 min), a lição tem ≈ 8 min. Se a voz sair mais rápida, alongar a visita 3D, não a narração.
+**Narração (diap. 1–10):** ≈ 420 palavras → Aula 1 ≈ 1:05 + Aula 2 ≈ 3:15 (incluindo 58 s de visita 3D); Aula 4 ≈ 25 s. **Diap. 11–17 (03/11):** ≈ 420 palavras (o dobro) → Aula 3 ≈ 2:10 + Aula 4 ≈ 2:05. Vídeo total da L1 ≈ 0:56 + 2:44 + 2:10 + 2:05 + 0:20 ≈ **8:15**. Se a voz sair mais rápida, alongar a visita 3D, não a narração.
 
 **Fontes:** OMS (2011) *Psychological First Aid* — os 3 passos (*look, listen, link*) · ADI (2019) *Forgotten in a Crisis* — pessoas com demência esquecidas nos planos de emergência · ADI (2022) *Advice for carers… during times of crisis* — reações do cuidador e perda de apoio.
 
@@ -92,7 +104,7 @@ O espaço não tem fotografias nem relógio na cozinha: as fotografias passaram 
 
 ---
 
-## 4. Atividade (Aula 3, texto)
+## 4. Atividade (antiga Aula 3, texto) · retirada a 03/11, fica só como registo
 
 > **O que dá segurança?**
 > Pense na pessoa de quem cuida. Que três coisas a fazem sentir-se segura em casa? Pode ser um objeto, um hábito, uma pessoa, uma música… Se tivessem de sair de casa de repente, por um incêndio, uma cheia ou uma guerra, o que levaria consigo?
