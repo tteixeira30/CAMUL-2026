@@ -24,7 +24,7 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `S1_Analise_Plataformas.md`, `S1_Plataformas_Grupo1.xlsx` | S1 — análise de plataformas | Histórico |
 | `S1_Abordagens.md` | S1 — escolha Udemy + Google Forms | Histórico; as decisões posteriores prevalecem |
 | `S2_MOOC-choice_planning_Grupo1.docx` | S2 — tema, enquadramento, público, objetivo, plataforma, Gantt da equipa | Reentregue após o feedback; atualizado a partir do `P1_Tema_Matterport.md` |
-| `S2_Gantt_Grupo1.xlsx` | S2 — Gantt da equipa (folha «Gantt») | Tem de bater certo com o Gantt do S2 |
+| `S2_Gantt_Grupo1.xlsx` | S2 — Gantt da equipa (folha «Gantt»), atualizado a 03/11 com as datas reais e a coluna M «Estado a 03/11» | Tem de bater certo com o Gantt do S2 (no `.docx`, numa página só, com a mesma coluna «Estado») |
 | `P1_Tema_Matterport.md` | Rascunho de trabalho do tema reescrito para crise + estudo do Matterport | **Fonte para atualizar o S2** |
 | `S3_MOOC_Template_Grupo1.xlsx` | S3 — MOOC Template (folhas «Enquadramento» e «Lições») | Versão mais detalhada das 5 lições |
 | `P1_Modelo_Licoes.pptx` | Modelo visual comum das 5 lições (guia oculto + 1 diapositivo de cada tipo) | Partilhado com o grupo; geral |
