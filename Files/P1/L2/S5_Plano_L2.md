@@ -81,7 +81,7 @@ Tags da L2 com o feedback do S3: as 8 do S4, com crises em 3 delas (✱).
 - Se o espaço não tiver o objeto (ex.: telefone), a etiqueta fica na zona onde estaria.
 - Gravar (Xbox Game Bar `Win+Alt+R`, 1080p) → etiquetas no Clipchamp → diap. 6 → exportar a Aula 6.
 - Link «Visita 3D» (espaço do Discover) na Aula 7. Opcional, nunca preciso para o quiz.
-- **Atualizar as tags também no guião** (`S4_Guiao_L2.md`, §5) e no `P1_Tema_Matterport.md` (§5, L2: «Caminho livre» e as crises).
+- **Atualizar as tags também no guião** (`Guiao_L2.md`, §5) e no `P1_Tema_Matterport.md` (§5, L2: «Caminho livre» e as crises).
 
 ### 4.4 Avaliação
 - **Atividade (Aula 7):** o início passa a referir crises. Texto novo do primeiro parágrafo:
@@ -148,6 +148,6 @@ Igual à L1.
 ## Fontes
 
 - `Files/P1/P1_Enunciado.pdf` — Semana 5
-- `Files/P1/L2/S4_Plano_L2.md`, `S4_Guiao_L2.md`, `S4_Evidencias_L2_Grupo1.docx` — o que ficou para o S5
+- `Files/P1/L2/S4_Plano_L2.md`, `Guiao_L2.md`, `S4_Evidencias_L2_Grupo1.docx` — o que ficou para o S5
 - `Files/P1_Plano_Bruno.md`, `Files/S5_Plano_Semana_Bruno.md` — decisões de 23/10 e formato (coerência)
 - `Files/P1/P1_Tema_Matterport.md` — §5 (L2), §7 (Udemy), §8 (fluxo de trabalho)

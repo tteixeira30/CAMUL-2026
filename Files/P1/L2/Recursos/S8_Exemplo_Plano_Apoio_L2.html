@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<title>Exemplo · Plano de apoio</title>
+<link rel="stylesheet" href="recursos.css">
+<style>
+  .op { margin-right: 6mm; white-space: nowrap; }
+  .op .box { margin-right: 1.5mm; }
+  .uteis td { height: 9mm; }
+</style>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  .mao { font-family: "Caveat", "Segoe Print", "Comic Sans MS", cursive; font-style: normal; font-weight: 600; color: #1F3F73; font-size: 15pt; line-height: 1; padding-left: 1.5mm; white-space: nowrap; }
+  .campo .l, .linhas .l { display: flex; align-items: flex-end; padding-bottom: .6mm; }
+  td .mao { padding-left: 0; }
+  .box.ok { position: relative; }
+  .box.ok::after { content: "✓"; position: absolute; left: .2mm; top: -2.6mm; font-family: "Caveat", "Segoe Print", cursive; font-weight: 600; font-size: 17pt; color: #1F3F73; }
+  .exemplo { display: inline-block; margin-left: 3mm; padding: .6mm 2.5mm; border-radius: 1.5mm; background: #ECEAE6; color: var(--escuro); font-size: 9.5pt; font-weight: 600; vertical-align: 1.5mm; }
+</style>
+</head>
+<body>
+<header>
+  <div class="curso">Cuidar em Crise · L2 Preparar antes</div>
+  <h1>Plano de apoio<span class="exemplo">Exemplo · D. Rosa e Ana (dados fictícios)</span></h1>
+  <p class="sub">Para quem cuida. Se eu não puder, quem pode?</p>
+</header>
+
+<h2 class="cuidador">A minha rede: 3 pessoas a quem posso ligar</h2>
+<table>
+  <tr><th style="width:32%">Nome</th><th style="width:24%">Telefone</th><th>O que pode fazer <span style="font-weight:400;color:var(--cinza)">(ficar com a pessoa, transporte, alojamento…)</span></th></tr>
+  <tr><td><i class="mao">Rui (irmão)</i></td><td><i class="mao">9XX XXX XXX</i></td><td><i class="mao">Transporte · alojamento em casa dele</i></td></tr>
+  <tr><td><i class="mao">D. Lurdes (vizinha)</i></td><td><i class="mao">9XX XXX XXX</i></td><td><i class="mao">Fica com a D. Rosa umas horas</i></td></tr>
+  <tr><td><i class="mao">Marta (amiga)</i></td><td><i class="mao">9XX XXX XXX</i></td><td><i class="mao">Fica no meu lugar se eu não puder</i></td></tr>
+</table>
+
+<h2 class="cuidador">Quem fica com a pessoa se eu não puder</h2>
+<div class="cols">
+  <div class="campo"><b>Nome</b><span class="l"><i class="mao">Marta (amiga)</i></span></div>
+  <div class="campo"><b>Telefone</b><span class="l"><i class="mao">9XX XXX XXX</i></span></div>
+</div>
+<div class="campo" style="margin-top:2mm">
+  <span class="op"><span class="box ok"></span>Já combinámos</span>
+  <span class="op"><span class="box ok"></span>Tem uma cópia da ficha da pessoa</span>
+  <span class="op"><span class="box ok"></span>Sabe onde está o kit</span>
+</div>
+
+<h2 class="cuidador">Documentos</h2>
+<div class="campo"><b>As cópias estão em</b><span class="l"><i class="mao">Saco do kit, numa bolsa de plástico</i></span></div>
+<p style="margin:2mm 0 1mm">Tenho fotografias no telemóvel de:</p>
+<div class="campo">
+  <span class="op"><span class="box ok"></span>Cartão de cidadão</span>
+  <span class="op"><span class="box ok"></span>Cartão de utente</span>
+  <span class="op"><span class="box ok"></span>Receitas</span>
+  <span class="op"><span class="box ok"></span>Ficha da pessoa</span>
+</div>
+
+<h2 class="neutro">Números úteis</h2>
+<table class="uteis">
+  <tr><td style="width:40%"><span class="num">112</span></td><td>Emergência: perigo para a vida, incêndio, acidente</td></tr>
+  <tr><td><span class="num">808 24 24 24</span></td><td>SNS 24: dúvidas de saúde, a qualquer hora</td></tr>
+  <tr><td><b>Junta de freguesia</b></td><td><i class="mao">2XX XXX XXX</i></td></tr>
+  <tr><td><b>Proteção civil do município</b></td><td><i class="mao">2XX XXX XXX</i></td></tr>
+</table>
+
+<h2 class="neutro">Ficar ou sair</h2>
+<div class="cols">
+  <div>
+    <p style="margin:0 0 1mm"><b>Se ficar, tenho em casa:</b></p>
+    <div class="campo">
+      <span class="op"><span class="box ok"></span>Água</span>
+      <span class="op"><span class="box ok"></span>Comida</span>
+      <span class="op"><span class="box ok"></span>Lanterna</span>
+      <span class="op"><span class="box ok"></span>Medicação</span>
+    </div>
+  </div>
+  <div>
+    <p style="margin:0 0 1mm"><b>Se tiver de sair:</b></p>
+    <div class="campo"><b>Vou para</b><span class="l"><i class="mao">Casa do Rui (irmão)</i></span></div>
+    <div class="campo"><b>Vou de</b><span class="l"><i class="mao">Carro do Rui</i></span></div>
+  </div>
+</div>
+
+<div class="dica">Pedir ajuda também faz parte do plano.</div>
+
+<footer><span>Cuidar em Crise · Primeiros socorros psicológicos para cuidadores de pessoas com demência</span><span>L2 · Exemplo (dados fictícios)</span></footer>
+</body>
+</html>

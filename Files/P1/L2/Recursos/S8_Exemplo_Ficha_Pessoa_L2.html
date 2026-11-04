@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<title>Exemplo · Ficha da pessoa</title>
+<link rel="stylesheet" href="recursos.css">
+<style>
+  body { font-size: 10.5pt; }
+  header { margin-bottom: 3.5mm; }
+  .campo { margin: 1.6mm 0; }
+  .linhas .l { height: 6.5mm; }
+  .topo { display: flex; gap: 6mm; }
+  .topo .dados { flex: 1; }
+  .foto { width: 32mm; height: 38mm; border: .4mm dashed var(--cinza); border-radius: 2mm; display: flex; align-items: center; justify-content: center; text-align: center; color: var(--cinza); font-size: 9pt; flex: none; }
+  .op { margin-right: 5mm; white-space: nowrap; }
+  .op .box { margin-right: 1.5mm; }
+  td { height: 6.8mm; }
+  h2 { margin: 3mm 0 1.5mm; font-size: 12pt; padding: 1mm 3mm; }
+  .foto { height: 33mm; }
+</style>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  .mao { font-family: "Caveat", "Segoe Print", "Comic Sans MS", cursive; font-style: normal; font-weight: 600; color: #1F3F73; font-size: 15pt; line-height: 1; padding-left: 1.5mm; white-space: nowrap; }
+  .campo .l, .linhas .l { display: flex; align-items: flex-end; padding-bottom: .6mm; }
+  td .mao { padding-left: 0; }
+  .box.ok { position: relative; }
+  .box.ok::after { content: "✓"; position: absolute; left: .2mm; top: -2.6mm; font-family: "Caveat", "Segoe Print", cursive; font-weight: 600; font-size: 17pt; color: #1F3F73; }
+  .exemplo { display: inline-block; margin-left: 3mm; padding: .6mm 2.5mm; border-radius: 1.5mm; background: #ECEAE6; color: var(--escuro); font-size: 9.5pt; font-weight: 600; vertical-align: 1.5mm; }
+</style>
+</head>
+<body>
+<header>
+  <div class="curso">Cuidar em Crise · L2 Preparar antes</div>
+  <h1>Ficha da pessoa<span class="exemplo">Exemplo · D. Rosa e Ana (dados fictícios)</span></h1>
+  <p class="sub">O que outra pessoa precisa de saber para cuidar dela numa crise. Cópia no frigorífico e no kit.</p>
+</header>
+
+<div class="topo">
+  <div class="dados">
+    <div class="campo"><b>Nome</b><span class="l"><i class="mao">Rosa</i></span></div>
+    <div class="campo"><b>Como gosta de ser tratada</b><span class="l"><i class="mao">«D. Rosa»</i></span></div>
+    <div class="campo"><b>Diagnóstico</b><span class="l"><i class="mao">Demência (doença de Alzheimer), fase moderada</i></span></div>
+    <div class="campo"><b>Alergias</b><span class="l"><i class="mao">Penicilina</i></span></div>
+  </div>
+  <div class="foto" style="border-style:solid;border-color:var(--linha);background:#fff url(../S5_Ilustracao_Rosa_Inquieta_L2.png) no-repeat 62.8% 43.6%/454% auto"></div>
+</div>
+
+<h2 class="pessoa">Medicação</h2>
+<table>
+  <tr><th style="width:45%">Medicamento</th><th style="width:20%">Dose</th><th>Horas</th></tr>
+  <tr><td><i class="mao">Medicamento A (memória)</i></td><td><i class="mao">1 comprimido</i></td><td><i class="mao">9:00</i></td></tr>
+  <tr><td><i class="mao">Medicamento B (tensão)</i></td><td><i class="mao">1 comprimido</i></td><td><i class="mao">9:00 e 21:00</i></td></tr>
+  <tr><td><i class="mao"></i></td><td><i class="mao"></i></td><td><i class="mao"></i></td></tr>
+  <tr><td><i class="mao"></i></td><td><i class="mao"></i></td><td><i class="mao"></i></td></tr>
+</table>
+
+<h2 class="pessoa">Como comunica</h2>
+<div class="campo" style="margin-top:1mm">
+  <span class="op"><b>Ouve bem?</b>&nbsp; <span class="box"></span>sim <span class="box ok" style="margin-left:3mm"></span>não <i class="mao" style="font-size:13pt">(mal do lado esquerdo)</i></span>
+  <span class="op"><span class="box ok"></span>usa óculos</span>
+  <span class="op"><span class="box"></span>usa aparelho auditivo</span>
+</div>
+<div class="campo"><b>Percebe melhor quando</b><span class="l"><i class="mao">lhe falam de frente, devagar, uma coisa de cada vez</i></span></div>
+<div class="campo"><b>Outras notas</b><span class="l"><i class="mao">Fica mais confusa ao fim da tarde</i></span></div>
+
+<div class="cols">
+  <div>
+    <h2 class="pessoa">O que a acalma</h2>
+    <div class="linhas"><div class="l"><i class="mao">A manta azul do sofá</i></div><div class="l"><i class="mao">Fados antigos, baixinho</i></div><div class="l"><i class="mao">Falar do jardim · dar-lhe a mão</i></div></div>
+  </div>
+  <div>
+    <h2 class="pessoa">O que a perturba</h2>
+    <div class="linhas"><div class="l"><i class="mao">Barulho e muita gente</i></div><div class="l"><i class="mao">Ser apressada</i></div><div class="l"><i class="mao">Televisão com notícias</i></div></div>
+  </div>
+</div>
+
+<h2 class="pessoa">Rotina (horas)</h2>
+<div class="cols" style="gap:3mm">
+  <div class="campo"><b>Acorda</b><span class="l"><i class="mao">8:00</i></span></div>
+  <div class="campo"><b>Almoço</b><span class="l"><i class="mao">12:30</i></span></div>
+  <div class="campo"><b>Jantar</b><span class="l"><i class="mao">19:30</i></span></div>
+  <div class="campo"><b>Deita-se</b><span class="l"><i class="mao">21:30</i></span></div>
+</div>
+<div class="campo"><b>Outros hábitos</b> <span style="color:var(--cinza);font-size:9pt">(sesta, lanche, passeio…)</span><span class="l"><i class="mao">Sesta depois do almoço · chá às 16:00 · passeio curto</i></span></div>
+
+<h2 class="cuidador">Contactos</h2>
+<table>
+  <tr><th style="width:32%"></th><th style="width:38%">Nome</th><th>Telefone</th></tr>
+  <tr><td><b>Quem cuida</b></td><td><i class="mao">Ana (filha)</i></td><td><i class="mao">9XX XXX XXX</i></td></tr>
+  <tr><td><b>Quem fica no lugar</b></td><td><i class="mao">Marta (amiga)</i></td><td><i class="mao">9XX XXX XXX</i></td></tr>
+  <tr><td><b>Médico de família</b></td><td><i class="mao">Dr.ª Inês (centro de saúde)</i></td><td><i class="mao">2XX XXX XXX</i></td></tr>
+</table>
+
+<footer><span>Cuidar em Crise · Primeiros socorros psicológicos para cuidadores de pessoas com demência</span><span>L2 · Exemplo (dados fictícios)</span></footer>
+</body>
+</html>

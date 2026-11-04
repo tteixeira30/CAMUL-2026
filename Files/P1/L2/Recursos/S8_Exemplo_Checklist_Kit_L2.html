@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<title>Exemplo · Checklist do kit</title>
+<link rel="stylesheet" href="recursos.css">
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  .mao { font-family: "Caveat", "Segoe Print", "Comic Sans MS", cursive; font-style: normal; font-weight: 600; color: #1F3F73; font-size: 15pt; line-height: 1; padding-left: 1.5mm; white-space: nowrap; }
+  .campo .l, .linhas .l { display: flex; align-items: flex-end; padding-bottom: .6mm; }
+  td .mao { padding-left: 0; }
+  .box.ok { position: relative; }
+  .box.ok::after { content: "✓"; position: absolute; left: .2mm; top: -2.6mm; font-family: "Caveat", "Segoe Print", cursive; font-weight: 600; font-size: 17pt; color: #1F3F73; }
+  .exemplo { display: inline-block; margin-left: 3mm; padding: .6mm 2.5mm; border-radius: 1.5mm; background: #ECEAE6; color: var(--escuro); font-size: 9.5pt; font-weight: 600; vertical-align: 1.5mm; }
+  ul.check li { padding: .85mm 0; }
+  h2 { margin: 3.5mm 0 1.5mm; }
+</style>
+</head>
+<body>
+<header>
+  <div class="curso">Cuidar em Crise · L2 Preparar antes</div>
+  <h1>Checklist do kit<span class="exemplo">Exemplo · D. Rosa e Ana (dados fictícios)</span></h1>
+  <p class="sub">Um saco leve, sempre no mesmo sítio, junto à porta de saída.</p>
+</header>
+
+<h2 class="pessoa">O que vai no kit</h2>
+<ul class="check">
+  <li><span class="box ok"></span>Medicação para alguns dias</li>
+  <li><span class="box ok"></span>Receitas ou lista da medicação</li>
+  <li><span class="box ok"></span>Cartão com o diagnóstico e o contacto de quem cuida</li>
+  <li><span class="box ok"></span>Fotografia recente da pessoa<small>para o caso de se perder</small></li>
+  <li><span class="box ok"></span>Muda de roupa e calçado confortável</li>
+  <li><span class="box ok"></span>Óculos ou aparelho auditivo de reserva</li>
+  <li><span class="box ok"></span>Cópia da ficha da pessoa</li>
+  <li><span class="box ok"></span>O que a acalma<small>as 3 coisas que lhe dão segurança (lição 1)</small></li>
+</ul>
+<div class="cols" style="margin-top:1mm">
+  <div class="campo"><b>1.</b><span class="l"><i class="mao">A manta azul do sofá</i></span></div>
+  <div class="campo"><b>2.</b><span class="l"><i class="mao">Fados antigos (no telemóvel)</i></span></div>
+  <div class="campo"><b>3.</b><span class="l"><i class="mao">Fotografia da família</i></span></div>
+</div>
+
+<h2 class="neutro">Se ficar em casa</h2>
+<ul class="check">
+  <li><span class="box ok"></span>Água e comida para alguns dias</li>
+  <li><span class="box ok"></span>Lanterna</li>
+  <li><span class="box ok"></span>Medicação à mão</li>
+  <li><span class="box ok"></span>Refeições, medicamentos e sono às mesmas horas</li>
+</ul>
+
+<h2 class="neutro">Respostas da atividade «Complete o kit»</h2>
+<p style="margin:0 0 2mm">Vão para o kit: <b>1, 2, 3, 5, 7, 9, 11 e 12</b>. Os outros quatro não:</p>
+<table>
+  <tr><th style="width:42%">Item</th><th>Porque não</th></tr>
+  <tr><td>4 · Toda a medicação que há em casa</td><td>Só a medicação da pessoa, para alguns dias: o saco tem de ser leve.</td></tr>
+  <tr><td>6 · A pasta com todos os papéis da casa</td><td>Bastam cópias ou fotografias dos documentos importantes.</td></tr>
+  <tr><td>8 · Um objeto novo, para a distrair</td><td>Num sítio estranho, acalma o que é familiar, não o que é novo.</td></tr>
+  <tr><td>10 · O álbum de fotografias da família</td><td>Uma ou duas fotografias chegam; o álbum pesa e pode perder-se.</td></tr>
+</table>
+
+<div class="dica">Reveja o kit sempre que a medicação mudar e confirme as validades.</div>
+
+<footer><span>Cuidar em Crise · Primeiros socorros psicológicos para cuidadores de pessoas com demência</span><span>L2 · Exemplo (dados fictícios)</span></footer>
+</body>
+</html>

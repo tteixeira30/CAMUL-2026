@@ -16,7 +16,7 @@
 
 **Legenda:** ★ = mínimo para entregar o S5. Se o dia apertar, corta-se pela ordem do §3.
 
-Ficheiros que vais usar: `Files/P1/L2/S4_Guiao_L2.md` (narração exata, atividade, tags) · `Files/P1/L2/S4_Video_L2.pptx` · `Files/P1/L2/S5_Plano_L2.md` (decisões, tags com crises, §6 estrutura do PDF) · `Files/Teoricas/ComposicaoVisual_Regras_Tiago.md` (guião do avatar) · `Files/Teoricas/ComposicaoVisual_Tutorial_DID_Bruno.md` (avatar, passos 1–7).
+Ficheiros que vais usar: `Files/P1/L2/Guiao_L2.md` (narração exata, atividade, tags) · `Files/P1/L2/S4_Video_L2.pptx` · `Files/P1/L2/S5_Plano_L2.md` (decisões, tags com crises, §6 estrutura do PDF) · `Files/Teoricas/ComposicaoVisual_Regras_Tiago.md` (guião do avatar) · `Files/Teoricas/ComposicaoVisual_Tutorial_DID_Bruno.md` (avatar, passos 1–7).
 
 ---
 
@@ -36,10 +36,10 @@ O estilo e a música são os da L1; o espaço escolho eu e a L1 usa o mesmo.
 ## 1. Domingo 25/10, passo a passo
 
 ### Bloco 1 · O que dizer (09:00, 1 h 15) ★
-- [ ] **1.1** Abrir: `S4_Video_L2.pptx`, `S4_Guiao_L2.md`, `S5_Plano_L2.md`, a Udemy (secção 2) e este plano. Telemóvel a carregar (câmara dos planos de pormenor e do avatar).
+- [ ] **1.1** Abrir: `S4_Video_L2.pptx`, `Guiao_L2.md`, `S5_Plano_L2.md`, a Udemy (secção 2) e este plano. Telemóvel a carregar (câmara dos planos de pormenor e do avatar).
 - [x] **1.2** Ver se o Bruno respondeu (espaço, estilo, música). ★ → decisões de 25/10, no topo.
 - [x] **1.3** Guião §7, tarefa 5: o gancho são os diapositivos **1–3** (não 1–4), como no §1.
-- [x] **1.4** Feedback do S3 no guião (`S4_Guiao_L2.md`): ★
+- [x] **1.4** Feedback do S3 no guião (`Guiao_L2.md`): ★
   - §3, atividade: o primeiro parágrafo passa a «Uma cheia, um incêndio ou um conflito armado podem obrigar a sair de casa em poucos minutos. A Ana tem dois minutos para preparar o saco da mãe. Destes 12 itens, quais vão para o kit? Escolha 8 e escreva os números num papel.»
   - §5, tags: trocar o texto de «Rede de apoio», «O kit» e «Caminho livre» pelo do `S5_Plano_L2.md`, §4.3 (com cheia, incêndio, guerra).
   - `P1_Tema_Matterport.md`, §5 (L2): acrescentar que as tags da porta, do corredor e da rede de apoio referem as crises.

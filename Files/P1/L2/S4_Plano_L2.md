@@ -13,7 +13,7 @@ A partir do S4 o trabalho é individual: este plano cobre só a L2. Segue o mesm
 | # | Evidência pedida | O que é, na L2 |
 |---|---|---|
 | 1 | Conteúdos em produção | Texto final do conteúdo: kit (pessoa), ficha da pessoa (pessoa), plano de apoio (cuidador), ficar vs. sair |
-| 2 | Guião/storyboard desenvolvido | Guião completo com narração + storyboard cena a cena (`S4_Guiao_L2.md`) |
+| 2 | Guião/storyboard desenvolvido | Guião completo com narração + storyboard cena a cena (`Guiao_L2.md`) |
 | 3 | Primeiros recursos multimédia | Diapositivos no modelo comum, checklist do kit, ficha da pessoa e plano de apoio (PDF). Planos de pormenor, ilustrações, voz e MP4 do gancho no S5 |
 | 4 | Componente Matterport iniciada | Tabela das tags da L2 + roteiro da «Caça ao kit» (captura e gravação no S5) |
 | 5 | Atividade/questões em desenvolvimento | Atividade «Complete o kit» + 4 perguntas do quiz com feedback, já na Udemy |
@@ -62,7 +62,7 @@ A partir do S3 (linha da Lição 2):
 - Só fontes que já temos: Alzheimer's Association — *In a Disaster* (lista do kit), ADI (2022), Peterson et al. (2023), Donohoe et al. (2023).
 
 ### 4.2 Guião + storyboard
-- **Guião:** tabela `Cena | Diap. | Tempo | Narração (texto exato) | Imagem | Som` em `S4_Guiao_L2.md`.
+- **Guião:** tabela `Cena | Diap. | Tempo | Narração (texto exato) | Imagem | Som` em `Guiao_L2.md`.
 - **Storyboard:** as 4 cenas do S3 (planos de pormenor dos itens → a Ana a preencher a ficha → checklist animada → chamada para a rede de apoio), alargadas a 11 diapositivos.
 - Abertura já escrita no S3: «Numa emergência não há tempo para procurar a receita ou lembrar o que acalma a sua mãe. Isso prepara-se hoje.»
 
@@ -75,7 +75,7 @@ A partir do S3 (linha da Lição 2):
 - Teste de áudio de 20 s antes de gravar tudo; música calma da Biblioteca de Áudio do YouTube.
 
 ### 4.4 Matterport iniciado
-- **Tabela das tags da L2** (formato comum do `P1_Tema_Matterport.md`, §8): ver `S4_Guiao_L2.md`, §5.
+- **Tabela das tags da L2** (formato comum do `P1_Tema_Matterport.md`, §8): ver `Guiao_L2.md`, §5.
 - **Roteiro da visita guiada «Caça ao kit»:** 6 paragens, da cozinha até à porta de saída.
 - **Se não houver casa:** escolher um espaço do Matterport Discover, gravar 20–30 s (Xbox Game Bar `Win+Alt+R` ou OBS, 1080p) e mostrar em capturas anotadas onde ficariam as tags. → Não usado: decidido a 20/10 passar a gravação para o S5.
 - Criar conta grátis no Matterport (1 espaço ativo) para estar pronto quando houver casa.
@@ -94,7 +94,7 @@ O prazo está apertado. Decidido a 20/10: no S4 entram o guião, o vídeo em Pow
 
 | Dia | Tarefas |
 |---|---|
-| Dom 18/10 | Este plano · guião e quiz (`S4_Guiao_L2.md`) · conta Matterport · procurar espaço Discover |
+| Dom 18/10 | Este plano · guião e quiz (`Guiao_L2.md`) · conta Matterport · procurar espaço Discover |
 | Seg 19/10 | Filmar os planos de pormenor · diapositivos do gancho no modelo comum · gravar voz e exportar MP4 · quiz e atividade na Udemy · gravação Discover · modelo da ficha da pessoa |
 | Ter 20/10 | Atividade e quiz na Udemy (secção 2) · PDF de evidências atualizado · submeter no Moodle **antes da PL** |
 
