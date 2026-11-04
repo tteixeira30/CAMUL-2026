@@ -7,7 +7,7 @@
 - **Matterport gravado por nós, com tags dentro do espaço** (professora, 03/11): L1 = a minha casa (iPhone 17 Pro); L2 = casa do Tiago. O Discover «La Tarasca» sai.
 - **Regravar a voz toda** (S7: estalo do microfone, música alta, voz abafada). Música a 8 %.
 - **L1 na Udemy (7 itens):** Aula 1 Gancho · Aula 2 Conteúdo · Aula 3 Quatro crises (nova) · Aula 4 Sinais (nova) · Aula 5 O que dá segurança? (texto) · Teste 1 · Aula 6 Síntese.
-- O quiz aparece num curso grátis (confirmado a 03/11). Ninguém usa avatar. Ilustrações Storyset (Amico), azul #2F6DB5 = pessoa, laranja #E07B2E = quem cuida.
+- **Câmara ligada ao regravar** (professora, S7: um membro do grupo tem de aparecer no vídeo); avisar o grupo, as 5 lições iguais. Teste 1 com as opções reescritas (a certa já não é a mais longa). O quiz aparece num curso grátis (confirmado a 03/11). Ninguém usa avatar. Ilustrações Storyset (Amico), azul #2F6DB5 = pessoa, laranja #E07B2E = quem cuida.
 
 **Legenda:** ★ = obrigatório. **[G]** = tarefa de grupo. Cada tarefa tem os passos por baixo: segue-os por ordem. Ficheiros: `Files/P1/L1/S4_Video_L1.pptx` (17 diapositivos) · `Files/P1/L1/Guiao_L1.md` (narração, tags, atividade, quiz).
 
@@ -115,7 +115,7 @@
   - Sítio calado, porta fechada, telemóvel em silêncio. **Auscultadores postos.**
   - Microfone a **15–20 cm** da boca, **ao lado** (não à frente: evita os «p» e os sopros).
   - Windows: Definições → Sistema → Som → Entrada → escolher o microfone → volume **80–90 %**.
-  - PowerPoint: selecionar o diap. 1 → separador **Gravar** → **Do diapositivo atual** → no menu do microfone (canto) escolher o microfone certo; câmara **desligada**.
+  - PowerPoint: selecionar o diap. 1 → separador **Gravar** → **Do diapositivo atual** → no menu do microfone (canto) escolher o microfone certo e a **câmara ligada** (pedido da professora, S7: um membro do grupo tem de aparecer no vídeo). A cara aparece num canto de cada diapositivo: confirmar que não tapa texto nem ilustrações. Luz de frente (janela ou candeeiro atrás do portátil), fundo neutro, olhar para a câmara.
   - Carregar no botão vermelho, **esperar 1 s em silêncio** (evita o estalo), ler o diap. 1, parar com `Esc`.
   - Ouvir: diap. 1 → `Shift+F5`. A voz ouve-se bem por cima da música? Não há estalo no início?
   - Se a música ainda abafa: clicar no ícone de som do diap. (1, 4, 5, 9, 11, 15) → **Reprodução → Volume → Baixo**. Se a voz está baixa: aproximar o microfone.
@@ -124,7 +124,7 @@
 - [ ] **C3** Gravar a parte 1: diap. 1–10 (≈ 30 min com repetições). ★
   - Selecionar o diap. 1 → **Gravar → Do diapositivo atual** → botão vermelho.
   - Em cada diapositivo: **esperar 1 s**, ler as notas devagar, fazer os cliques da tabela abaixo nos sítios marcados `[→ 1/3]`, esperar 1 s, avançar (seta →).
-  - **Diap. 6:** não falar, não tocar no rato; avança sozinho no fim do vídeo.
+  - **Diap. 6:** não falar, não tocar no rato; avança sozinho no fim do vídeo. **Câmara desligada** neste diapositivo (botão da câmara antes de chegar ao 6; voltar a ligar no 7): a visita ocupa o ecrã todo.
   - No fim do diap. 10: `Esc`.
 - [ ] **C4** Gravar a parte 2: diap. 11–17 (≈ 20 min). ★
   - Selecionar o diap. 11 → **Gravar → Do diapositivo atual** → botão vermelho. Mesmas regras.
@@ -294,7 +294,6 @@
 |---|---|
 | Todas as secções na Udemy até sexta às 18:00? O curso todo chega aos 30 min de vídeo? | sex 06/11 (F0, P1) |
 | Prefixo do .zip: `CAMUL2627` (ano letivo) ou `CAMUL2526` (como no exemplo)? | sáb 07/11 |
-| Quem junta o relatório, o .zip e a apresentação | sáb 07/11 |
 
 ---
 

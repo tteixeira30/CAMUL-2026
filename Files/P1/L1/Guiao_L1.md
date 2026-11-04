@@ -144,24 +144,26 @@ Registo pessoal, sem correção. Ponte natural para a L2 (kit de emergência com
 Escolha múltipla, uma resposta certa. A Udemy deixa escrever uma explicação para cada opção → feedback «Certo, porque…» / «Ainda não: …». ✔ = certa.
 
 **P1 · Incêndio.** Chega a ordem para sair de casa por causa de um incêndio. A D. Rosa senta-se no sofá e recusa-se a sair. Qual é a explicação mais provável?
-- A) Quer contrariar a filha. → *Ainda não: a recusa não é teimosia; é a doença a reagir a algo que a pessoa não compreende.*
-- B) ✔ Não percebe o que se passa, e a casa é o que lhe dá segurança. → *Certo, porque a pessoa com demência pode não perceber o perigo, e sair é perder as suas referências.*
-- C) Não ouviu o alerta. → *Ainda não: mesmo ouvindo o alerta, pode não perceber o que significa.*
+- A) ✔ Não percebe o perigo, e a casa é o que lhe dá segurança. → *Certo, porque a pessoa com demência pode não perceber o perigo, e sair é perder as suas referências.*
+- B) Quer contrariar a filha e mostrar que ainda decide sozinha. → *Ainda não: a recusa não é teimosia; é a doença a reagir a algo que a pessoa não compreende.*
+- C) Não ouviu o alerta, porque o rádio e a televisão estavam desligados. → *Ainda não: mesmo ouvindo o alerta, pode não perceber o que significa.*
 
 **P2 · Cheia.** A família passa a noite num pavilhão por causa de uma cheia. A D. Rosa anda de um lado para o outro e pede para ir para casa. O que está a acontecer?
-- A) ✔ O sítio novo, o ruído e as caras desconhecidas deixam-na confusa e com medo. → *Certo, porque a agitação é muitas vezes uma reação a um ambiente que deixou de fazer sentido.*
-- B) Está só a fazer birra. → *Ainda não: a agitação tem uma causa — o medo e a confusão.*
-- C) Já não há nada a fazer. → *Ainda não: há muito que pode fazer para a acalmar. Vamos vê-lo na L3.*
+- A) Está a fazer birra, porque não gosta de dormir fora de casa. → *Ainda não: a agitação tem uma causa — o medo e a confusão.*
+- B) Já não há nada a fazer, a não ser esperar que se canse. → *Ainda não: há muito que pode fazer para a acalmar. Vamos vê-lo na L3.*
+- C) ✔ O sítio novo e o ruído deixam-na confusa e com medo. → *Certo, porque a agitação é muitas vezes uma reação a um ambiente que deixou de fazer sentido.*
 
 **P3 · Pandemia.** Durante um confinamento, o centro de dia fecha e as visitas param. O que é mais provável acontecer à D. Rosa?
-- A) Nada, porque fica em casa, em segurança. → *Ainda não: estar em casa não chega se a rotina e o contacto com os outros desaparecem.*
-- B) ✔ Perder a rotina e o contacto com os outros e ficar mais desorientada e triste. → *Certo, porque a rotina é uma das suas principais referências.*
-- C) Ficar mais autónoma, porque tem mais tempo livre. → *Ainda não: sem rotina, a pessoa com demência tende a ficar mais desorientada.*
+- A) Nada muda, porque fica em casa e está em segurança. → *Ainda não: estar em casa não chega se a rotina e o contacto com os outros desaparecem.*
+- B) ✔ Perde a rotina e as visitas e fica mais desorientada. → *Certo, porque a rotina é uma das suas principais referências.*
+- C) Fica mais autónoma, porque passa a ter mais tempo livre para si. → *Ainda não: sem rotina, a pessoa com demência tende a ficar mais desorientada.*
 
 **P4 · Deslocação forçada (quem cuida).** A família fugiu de um conflito armado e está há uma semana num centro de acolhimento, longe de casa. A Ana sente-se irritada e cansada e não consegue pensar com clareza. O que significa?
-- A) Que não é boa cuidadora. → *Ainda não: sentir isto não diz nada sobre o seu valor como cuidadora.*
-- B) Nada, isto passa sozinho. → *Ainda não: estas reações merecem atenção; quem cuida também precisa de apoio.*
-- C) ✔ São reações normais ao stress, e ela também precisa de cuidar de si. → *Certo, porque o cuidador também é afetado pela crise; sem cuidar de si, não consegue cuidar do outro.*
+- A) ✔ São reações normais ao stress; ela também precisa de cuidar de si. → *Certo, porque o cuidador também é afetado pela crise; sem cuidar de si, não consegue cuidar do outro.*
+- B) Mostra que não é boa cuidadora para a mãe. → *Ainda não: sentir isto não diz nada sobre o seu valor como cuidadora.*
+- C) Não quer dizer nada: é só o cansaço da viagem e vai passar sozinho. → *Ainda não: estas reações merecem atenção; quem cuida também precisa de apoio.*
+
+**04/11 (testes do S7):** a resposta certa era sempre a mais longa e adivinhava-se. Opções reescritas: a certa é a mais curta (P1, P2) ou a do meio (P3, P4) e muda de posição (A, C, B, A).
 
 P1–P3 cobrem o objetivo 1 (impacto na pessoa) com 3 crises diferentes; a P4 cobre o objetivo 2 (reações do cuidador) e fica, embora o S3 só fale do impacto na pessoa (decidido a 15/10). O objetivo 3 (os 3 passos) volta a aparecer nas L3–L4.
 

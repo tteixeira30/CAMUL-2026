@@ -36,7 +36,8 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `L1/S4_Evidencias_L1_Grupo1.docx` | S4 — entrega: primeiras evidências de produção (5 evidências do enunciado) | Atualizado a 19/10; exportar para PDF antes de submeter. Quiz e reflexão já na Udemy (rever no S5); Matterport, voz e vídeos no S5 |
 | `L1/Legendas/S6_Legenda_Aula{1,2,4}_L1.vtt` | S6 — legendas em português dos 3 vídeos da L1 (15 + 34 + 7) · a Aula 4 (síntese) passa a Aula 5 no S8 | Texto = notas do `.pptx`; tempos tirados da voz gravada no `.pptx`, alinhada com os MP4 (03/11). Diap. 6 sem legenda. Se a narração mudar, refazer |
 | `L1/S6_Integracao_L1_Grupo1.docx`, `.pdf` | S6 — entrega da L1: versão integrada (6 páginas, capturas da Udemy em `L1/Capturas/S6_*_L1.png`) | Feito a 03/11; submeter o PDF no Moodle antes da PL |
-| `L1/S7_Notas_Testes_L1.md` | S7 — notas da PL de 03/11: Alfa, Beta, observação dos testadores, problemas → correções | Nota de trabalho; alimenta o documento do S7 e as correções do S8 |
+| `L1/S7_Notas_Testes_L1.md` | S7 — resultados da folha de testes (03/11): Alfa, Beta, o que os outros grupos disseram do curso, problemas → correções | Nota de trabalho (preenchida a 04/11); alimenta o documento do S7 e o 8.6 |
+| `L1/S8_Relatorio_L1.md` | S8 — rascunho da parte da L1 no relatório final (8.2) e dos testes e melhorias (8.6) | Nota de trabalho (04/11); o que só se fecha na sexta está marcado «(sexta)» |
 | `L2/` | Tudo o que é só da L2 (Tiago); ramo `s5-l2` | Mesma estrutura da L1 |
 | `L2/S4_Plano_L2.md` | S4 — plano da L2: evidências, decisões, calendário, estrutura do PDF | Nota de trabalho |
 | `L2/S5_Plano_L2.md` | S5 — plano da L2: protótipo (vídeos com voz, planos de pormenor, Matterport no mesmo espaço Discover da L1, Udemy), tags e atividade com as crises (feedback do S3), estrutura do PDF | Nota de trabalho |
@@ -107,7 +108,7 @@ Padrão de cada lição (S3): Gancho 1 min → Vídeo 3 min → Atividade 2 min 
 
 **Feedback do S3 (20/10/2026): etapa validada.** Recomendação: os cenários de crise pedidos (guerras e conflitos armados, catástrofes naturais, calamidades, deslocações forçadas) têm de continuar presentes **nas atividades e no Matterport** de cada lição, não só no vídeo.
 
-**Consistência entre lições (aviso da professora):** os media e o formato têm de ser iguais nas 5 lições. Se um elemento usar avatar com áudio, todos usam. Decisão atual: cada um grava a sua voz, **sem avatar** (o avatar D-ID é só da teórica). Mudar isto é decisão do grupo, nunca de um só.
+**Consistência entre lições (aviso da professora):** os media e o formato têm de ser iguais nas 5 lições. Se um elemento usar avatar com áudio, todos usam. Decisão atual: cada um grava a sua voz, **sem avatar** (o avatar D-ID é só da teórica). **S7 (03/11, professora): um membro do grupo tem de aparecer no vídeo** → na regravação do S8, câmara ligada no PowerPoint (cara num canto, desligada na visita 3D); as 5 lições fazem o mesmo. Mudar isto é decisão do grupo, nunca de um só.
 
 **A partir do S4 (13/10/2026) o trabalho é individual:** cada um trata da sua lição. **P2: 24/11/2026.**
 
