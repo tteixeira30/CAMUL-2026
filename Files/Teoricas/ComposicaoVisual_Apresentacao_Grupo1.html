@@ -130,37 +130,39 @@ a.cartao:hover { border-color: var(--azul); }
 .janela iframe { position: absolute; top: 0; left: 0; width: 1440px; height: 810px; border: 0; transform: scale(var(--k)); transform-origin: 0 0; }
 .na-pagina .janela { border-color: var(--azul); box-shadow: 0 0 0 3px var(--azul); }
 
-/* 5–9 · Avatares */
-.slide.avatar.ativo { display: grid; grid-template-columns: auto 1fr; column-gap: 64px; align-items: center; }
-/* As 5 caixas são iguais (3:4, recorte ao centro): os vídeos do D-ID são 16:9 com a pessoa a meio */
-.av { display: flex; flex-direction: column; gap: 12px; }
+/* 5–9 · Avatares: a captura da página (só com os marcadores da pessoa) ao centro, o avatar ao lado */
+.slide.avatar { padding-top: 48px; }
+.slide.avatar.ativo { display: grid; grid-template-columns: 1fr 330px; column-gap: 48px; align-items: center; }
+.av-centro { display: flex; flex-direction: column; align-items: center; gap: 24px; min-width: 0; }
+.cap { display: flex; justify-content: center; align-items: center; width: 100%; height: 610px; }
+.cap img { display: block; max-width: 100%; max-height: 610px; width: auto; height: auto; border: 1px solid var(--linha); border-radius: 10px; box-shadow: 0 2px 16px rgba(30, 42, 58, .12); background: var(--areia); }
+.av-centro .regras { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; width: 100%; }
+.regras li { display: flex; gap: 16px; align-items: flex-start; }
+.regras .n {
+  flex: none; width: 44px; height: 44px; border-radius: 50%; background: var(--texto); color: var(--branco);
+  font-size: 21px; line-height: 44px; text-align: center; margin-top: 2px;
+}
+.regras h3 { font-size: 26px; margin-bottom: 4px; }
+.regras p { font-size: 21px; line-height: 1.4; }
+.av-lado { display: flex; flex-direction: column; min-width: 0; }
+.av-lado h2 { font-size: 44px; margin-bottom: 24px; }
+/* As 5 caixas são iguais (3:4, recorte ao centro): os vídeos do D-ID têm a pessoa a meio */
+.av { display: flex; flex-direction: column; gap: 10px; }
 .av-caixa {
-  position: relative; width: 510px; height: 680px;
+  position: relative; width: 330px; height: 440px;
   border-radius: 12px; overflow: hidden; background: #E9EEF4; box-shadow: 0 2px 16px rgba(30, 42, 58, .12);
 }
 .av video { position: absolute; inset: 0; width: 100%; height: 100%; display: block; object-fit: cover; object-position: 50% 50%; background: #000; }
 .av figcaption { font-size: 20px; }
 .av-falta {
   display: none; position: absolute; inset: 0; flex-direction: column; justify-content: center; gap: 20px;
-  padding: 36px; background: var(--branco); border: 3px dashed var(--azul); border-radius: 12px;
+  padding: 28px; background: var(--branco); border: 3px dashed var(--azul); border-radius: 12px;
 }
-.av-falta strong { font-size: 36px; line-height: 1.2; }
-.av-falta p { font-size: 21px; line-height: 1.45; }
-.av-falta .guiao { border-left: 4px solid var(--linha); padding-left: 16px; }
+.av-falta strong { font-size: 30px; line-height: 1.2; }
 .sem-video video, .sem-video figcaption { display: none; }
 .sem-video .av-falta { display: flex; }
-.av-texto { min-width: 0; }
-.av-texto h2 { margin-bottom: 40px; }
-.regras { display: grid; gap: 32px; }
-.regras li { display: flex; gap: 20px; align-items: flex-start; }
-.regras .n {
-  flex: none; width: 52px; height: 52px; border-radius: 50%; background: var(--texto); color: var(--branco);
-  font-size: 24px; line-height: 52px; text-align: center; margin-top: 2px;
-}
-.regras h3 { margin-bottom: 6px; }
-.regras p { font-size: 28px; line-height: 1.4; }
-.av-texto .nota { margin-top: 40px; color: var(--azul); font-weight: 700; }
-.sem-video ~ .av-texto .tocar { display: none; }
+.av-lado .nota { margin-top: 16px; font-size: 20px; color: var(--azul); font-weight: 700; }
+.sem-video ~ .tocar { display: none; }
 
 /* 10 · Paleta e acessibilidade */
 .duas { display: grid; grid-template-columns: 520px 1fr; gap: 56px; align-items: start; }
@@ -291,116 +293,131 @@ function semVideo(el) {
 
   <!-- 5 · Bruno -->
   <section class="slide avatar" data-pessoa="Bruno" aria-label="Bruno Lopes: regras 1 e 2">
-    <figure class="av">
-      <div class="av-caixa">
-        <video controls preload="metadata" playsinline aria-label="Avatar do Bruno Lopes">
-          <source src="Avatares/BrunoAvatar.mp4" type="video/mp4">
-          <source src="Avatares/BrunoAvatar.webm" type="video/webm" onerror="semVideo(this)">
-        </video>
-        <div class="av-falta"><strong>Avatar por gravar</strong></div>
-      </div>
-      <figcaption>Avatar D-ID<span class="dur"></span></figcaption>
-    </figure>
-    <div class="av-texto">
-      <p class="eyebrow">Regras 1 e 2</p>
-      <h2>Bruno Lopes</h2>
+    <div class="av-centro">
+      <figure class="cap"><img src="Capturas/ComposicaoVisual_Captura_Bruno.webp" alt="A abertura da página com as regras 1 e 2: as linhas dos terços e o percurso em Z da foto até ao botão."></figure>
       <ol class="regras">
         <li><b class="n">1</b><div><h3>Regra dos terços</h3><p>O título e o botão estão nos pontos fortes do terço direito.</p></div></li>
         <li><b class="n">2</b><div><h3>Direção e movimento</h3><p>As pessoas da foto olham para o título e o olhar segue em Z até ao botão.</p></div></li>
       </ol>
-      <p class="nota tocar">▶ Clique no vídeo ou carregue em Enter.</p>
+    </div>
+    <div class="av-lado">
+      <p class="eyebrow">Regras 1 e 2</p>
+      <h2>Bruno Lopes</h2>
+      <figure class="av">
+        <div class="av-caixa">
+          <video controls preload="metadata" playsinline aria-label="Avatar do Bruno Lopes">
+            <source src="Avatares/BrunoAvatar.mp4" type="video/mp4">
+            <source src="Avatares/BrunoAvatar.webm" type="video/webm" onerror="semVideo(this)">
+          </video>
+          <div class="av-falta"><strong>Avatar por gravar</strong></div>
+        </div>
+        <figcaption>Avatar D-ID<span class="dur"></span></figcaption>
+      </figure>
+      <p class="nota tocar">▶ Clique no vídeo ou Enter.</p>
     </div>
   </section>
 
   <!-- 6 · Evandro -->
   <section class="slide avatar" data-pessoa="Evandro" aria-label="Evandro Carvalho: regras 3 e 4">
-    <figure class="av">
-      <div class="av-caixa">
-        <video controls preload="metadata" playsinline aria-label="Avatar do Evandro Carvalho">
-          <source src="Avatares/EvandroAvatar.mp4" type="video/mp4">
-          <source src="Avatares/EvandroAvatar.webm" type="video/webm" onerror="semVideo(this)">
-        </video>
-        <div class="av-falta"><strong>Avatar por gravar</strong></div>
-      </div>
-      <figcaption>Avatar D-ID<span class="dur"></span></figcaption>
-    </figure>
-    <div class="av-texto">
-      <p class="eyebrow">Regras 3 e 4</p>
-      <h2>Evandro Carvalho</h2>
+    <div class="av-centro">
+      <figure class="cap"><img src="Capturas/ComposicaoVisual_Captura_Evandro.webp" alt="Dois recortes da página com as regras 3 e 4: o título, a promessa e o botão; e o texto de «Para quem é»."></figure>
       <ol class="regras">
         <li><b class="n">3</b><div><h3>Hierarquia visual</h3><p>Título 40 px &gt; promessa 24 px &gt; corpo 18 px &gt; rodapé 14 px.</p></div></li>
         <li><b class="n">4</b><div><h3>Tipografia</h3><p>Uma só família sem serifa, 2 pesos, corpo de 18 px e linhas até 70 caracteres.</p></div></li>
       </ol>
-      <p class="nota tocar">▶ Clique no vídeo ou carregue em Enter.</p>
+    </div>
+    <div class="av-lado">
+      <p class="eyebrow">Regras 3 e 4</p>
+      <h2>Evandro Carvalho</h2>
+      <figure class="av">
+        <div class="av-caixa">
+          <video controls preload="metadata" playsinline aria-label="Avatar do Evandro Carvalho">
+            <source src="Avatares/EvandroAvatar.mp4" type="video/mp4">
+            <source src="Avatares/EvandroAvatar.webm" type="video/webm" onerror="semVideo(this)">
+          </video>
+          <div class="av-falta"><strong>Avatar por gravar</strong></div>
+        </div>
+        <figcaption>Avatar D-ID<span class="dur"></span></figcaption>
+      </figure>
+      <p class="nota tocar">▶ Clique no vídeo ou Enter.</p>
     </div>
   </section>
 
   <!-- 7 · Rodrigo -->
   <section class="slide avatar" data-pessoa="Rodrigo" aria-label="Rodrigo Silva: regras 5 e 6">
-    <figure class="av">
-      <div class="av-caixa">
-        <video controls preload="metadata" playsinline aria-label="Avatar do Rodrigo Silva">
-          <source src="Avatares/RodrigoAvatar.mp4" type="video/mp4">
-          <source src="Avatares/RodrigoAvatar.webm" type="video/webm" onerror="semVideo(this)">
-        </video>
-        <div class="av-falta"><strong>Avatar por gravar</strong></div>
-      </div>
-      <figcaption>Avatar D-ID<span class="dur"></span></figcaption>
-    </figure>
-    <div class="av-texto">
-      <p class="eyebrow">Regras 5 e 6</p>
-      <h2>Rodrigo Silva</h2>
+    <div class="av-centro">
+      <figure class="cap"><img src="Capturas/ComposicaoVisual_Captura_Rodrigo.webp" alt="A abertura e os 5 cartões das lições com as regras 5 e 6 e a grelha de 12 colunas."></figure>
       <ol class="regras">
         <li><b class="n">5</b><div><h3>Equilíbrio assimétrico</h3><p>A foto, que pesa mais, equilibra-se com o texto e o espaço vazio.</p></div></li>
         <li><b class="n">6</b><div><h3>Unidade, padrão e proporção</h3><p>5 cartões iguais (ícone, título, duração) e foto:texto ≈ 2:1.</p></div></li>
       </ol>
-      <p class="nota tocar">▶ Clique no vídeo ou carregue em Enter.</p>
+    </div>
+    <div class="av-lado">
+      <p class="eyebrow">Regras 5 e 6</p>
+      <h2>Rodrigo Silva</h2>
+      <figure class="av">
+        <div class="av-caixa">
+          <video controls preload="metadata" playsinline aria-label="Avatar do Rodrigo Silva">
+            <source src="Avatares/RodrigoAvatar.mp4" type="video/mp4">
+            <source src="Avatares/RodrigoAvatar.webm" type="video/webm" onerror="semVideo(this)">
+          </video>
+          <div class="av-falta"><strong>Avatar por gravar</strong></div>
+        </div>
+        <figcaption>Avatar D-ID<span class="dur"></span></figcaption>
+      </figure>
+      <p class="nota tocar">▶ Clique no vídeo ou Enter.</p>
     </div>
   </section>
 
   <!-- 8 · Ricardo -->
   <section class="slide avatar" data-pessoa="Ricardo" aria-label="Ricardo Ferreira: regras 7 e 8">
-    <figure class="av">
-      <div class="av-caixa">
-        <video controls preload="metadata" playsinline aria-label="Avatar do Ricardo Ferreira">
-          <source src="Avatares/RicardoAvatar.mp4" type="video/mp4">
-          <source src="Avatares/RicardoAvatar.webm" type="video/webm" onerror="semVideo(this)">
-        </video>
-        <div class="av-falta"><strong>Avatar por gravar</strong></div>
-      </div>
-      <figcaption>Avatar D-ID<span class="dur"></span></figcaption>
-    </figure>
-    <div class="av-texto">
-      <p class="eyebrow">Regras 7 e 8</p>
-      <h2>Ricardo Ferreira</h2>
+    <div class="av-centro">
+      <figure class="cap"><img src="Capturas/ComposicaoVisual_Captura_Ricardo.webp" alt="A página com as regras 7 e 8: a grelha de 12 colunas, a margem lateral, o eixo comum e o intervalo de 64 px."></figure>
       <ol class="regras">
         <li><b class="n">7</b><div><h3>Alinhamento</h3><p>Grelha de 12 colunas, eixo comum à esquerda e margens laterais iguais.</p></div></li>
         <li><b class="n">8</b><div><h3>Espaço negativo</h3><p>Margem lateral de 48 px e intervalo de 64 px entre blocos.</p></div></li>
       </ol>
-      <p class="nota tocar">▶ Clique no vídeo ou carregue em Enter.</p>
+    </div>
+    <div class="av-lado">
+      <p class="eyebrow">Regras 7 e 8</p>
+      <h2>Ricardo Ferreira</h2>
+      <figure class="av">
+        <div class="av-caixa">
+          <video controls preload="metadata" playsinline aria-label="Avatar do Ricardo Ferreira">
+            <source src="Avatares/RicardoAvatar.mp4" type="video/mp4">
+            <source src="Avatares/RicardoAvatar.webm" type="video/webm" onerror="semVideo(this)">
+          </video>
+          <div class="av-falta"><strong>Avatar por gravar</strong></div>
+        </div>
+        <figcaption>Avatar D-ID<span class="dur"></span></figcaption>
+      </figure>
+      <p class="nota tocar">▶ Clique no vídeo ou Enter.</p>
     </div>
   </section>
 
   <!-- 9 · Tiago -->
   <section class="slide avatar" data-pessoa="Tiago" aria-label="Tiago Teixeira: regras 9 e 10">
-    <figure class="av">
-      <div class="av-caixa">
-        <video controls preload="metadata" playsinline aria-label="Avatar do Tiago Teixeira">
-          <source src="Avatares/TiagoAvatar.mp4" type="video/mp4">
-          <source src="Avatares/TiagoAvatar.webm" type="video/webm" onerror="semVideo(this)">
-        </video>
-        <div class="av-falta"><strong>Avatar por gravar</strong></div>
-      </div>
-      <figcaption>Avatar D-ID<span class="dur"></span></figcaption>
-    </figure>
-    <div class="av-texto">
-      <p class="eyebrow">Regras 9 e 10</p>
-      <h2>Tiago Teixeira</h2>
+    <div class="av-centro">
+      <figure class="cap"><img src="Capturas/ComposicaoVisual_Captura_Tiago.webp" alt="Três recortes da página com as regras 9 e 10: o título e o botão âmbar, o texto de «Para quem é» e os cartões com os números L1–L5 a âmbar."></figure>
       <ol class="regras">
         <li><b class="n">9</b><div><h3>Contraste</h3><p>O texto tem 12,9:1 com o fundo, acima dos 4,5:1 da WCAG AA.</p></div></li>
         <li><b class="n">10</b><div><h3>Ênfase</h3><p>O âmbar é a única cor de destaque, só no botão e nos números das lições.</p></div></li>
       </ol>
-      <p class="nota tocar">▶ Clique no vídeo ou carregue em Enter.</p>
+    </div>
+    <div class="av-lado">
+      <p class="eyebrow">Regras 9 e 10</p>
+      <h2>Tiago Teixeira</h2>
+      <figure class="av">
+        <div class="av-caixa">
+          <video controls preload="metadata" playsinline aria-label="Avatar do Tiago Teixeira">
+            <source src="Avatares/TiagoAvatar.mp4" type="video/mp4">
+            <source src="Avatares/TiagoAvatar.webm" type="video/webm" onerror="semVideo(this)">
+          </video>
+          <div class="av-falta"><strong>Avatar por gravar</strong></div>
+        </div>
+        <figcaption>Avatar D-ID<span class="dur"></span></figcaption>
+      </figure>
+      <p class="nota tocar">▶ Clique no vídeo ou Enter.</p>
     </div>
   </section>
 
