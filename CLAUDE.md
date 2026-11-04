@@ -96,7 +96,7 @@ Aula 3: o tema da S2 tem de evoluir para um **contexto de crise/emergência/cat�
 - **Contexto:** em casa (antes e no momento da crise) e num espaço de acolhimento (se for preciso sair).
 - **Objetivo geral:** no fim do curso, o cuidador é capaz de se preparar para uma situação de crise e de prestar primeiros socorros psicológicos (PSP) à pessoa com demência e a si próprio: acalmar, responder às necessidades imediatas, manter a rotina possível e reconhecer quando procurar ajuda especializada.
 - **Diferenciação:** os cursos de PSP são gerais e em inglês; os cursos portugueses para cuidadores tratam o dia a dia e não a crise. O nosso é curto (≈ 40 min), gratuito, em português e aplica os PSP à dupla cuidador–pessoa com demência.
-- **Plataforma:** **Udemy** (≥ 30 min de vídeo, ≥ 5 aulas, vídeo HD, grátis < 2 h, revisão de qualidade). Sem iframes → o Matterport entra como 1–2 min de vídeo gravado da visita em cada lição + link «Visita 3D» nos recursos (opcional, nunca obrigatório para o quiz). Avaliação externa (análise de público, SUS, pré/pós-teste) no Google Forms.
+- **Plataforma:** **Udemy** (≥ 30 min de vídeo, ≥ 5 aulas, vídeo HD, grátis < 2 h, revisão de qualidade). Sem iframes → o Matterport entra como 1–2 min de vídeo gravado da visita em cada lição + link «Visita 3D» nos recursos (opcional, nunca obrigatório para o quiz). A avaliação externa no Google Forms (pré/pós-teste, SUS) prevista no S1 **foi cortada a 04/11**: a avaliação do curso são os testes Alfa e Beta da PL do S7.
 
 ### Lições (5 × ≈ 8 min, sequência temporal)
 

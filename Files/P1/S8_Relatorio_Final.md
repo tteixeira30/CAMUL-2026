@@ -25,7 +25,7 @@ Curso na Udemy: «Socorros psicológicos: cuidador de demência em crise» · li
 
 | Etapa | Entrega | O que se decidiu ou fez |
 |---|---|---|
-| S1 (29/09) | Análise de plataformas | Udemy, Moodle + H5P e Open edX comparados; escolhida a Udemy (+ Google Forms para a avaliação externa) |
+| S1 (29/09) | Análise de plataformas | Udemy, Moodle + H5P e Open edX comparados; escolhida a Udemy (o Google Forms para a avaliação externa ficou de fora: a avaliação são os testes Alfa e Beta do S7) |
 | S2 (06/10) | MOOC-choice + planning | Tema, público, objetivo, Gantt da equipa; reescrito para um contexto de crise depois da Aula 3 (5 elementos: público, situação, contexto, decisões, Matterport) |
 | S3 (13/10) | MOOC Template | As 5 lições em sequência temporal, padrão comum (gancho → vídeo → atividade → teste → síntese); validado a 20/10, com o pedido de pôr as crises também nas atividades e no Matterport |
 | S4 (20/10) | Primeiras evidências | Trabalho individual: guião, storyboard, modelo visual comum, atividade e teste na Udemy |

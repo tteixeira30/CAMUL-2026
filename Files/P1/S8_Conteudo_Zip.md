@@ -10,7 +10,7 @@ Nota de trabalho (04/11). Quem junta: Bruno. Na **segunda 09/11** monta-se o .zi
 | `01_MOOC` | `Seccao_1_L1.png` … `Seccao_5_L5.png` (vista de aluno) | capturas de cada um | **(sexta)** **[todos]** |
 | `02_Relatorio` | `S8_Relatorio_Final_Grupo1.pdf` | `S8_Relatorio_Final.md` + `L{1..5}/S8_Relatorio_L{n}.md` | esqueleto 04/11; lições até dom 08/11 **[todos]** |
 | `03_Gantt_Navegacao` | `S2_Gantt_Grupo1.xlsx` (e PDF) | `S2_Gantt_Grupo1.xlsx` (datas reais até 10/11) | **por atualizar** (sáb 07/11) |
-| `03_Gantt_Navegacao` | `S8_Navegacao_Curso_Grupo1.png` | `S8_Navegacao_Curso.html` → PNG | feito 04/11 (rever o pré/pós-teste) |
+| `03_Gantt_Navegacao` | `S8_Navegacao_Curso_Grupo1.png` | `S8_Navegacao_Curso.html` → PNG | feito 04/11 |
 | `04_Guioes` | `S8_Guiao_L1_Grupo1.pdf` … `S8_Guiao_L5_Grupo1.pdf` | `L{n}/Guiao_L{n}.md` (L3: **[Rodrigo]**) | depois da gravação **[todos]** |
 | `05_Regras_Udemy` | `S8_Regras_Udemy_Grupo1.pdf` | `S8_Regras_Udemy.md` | rascunho 04/11; números na sexta |
 | `06_Testes_Melhorias` | `S8_Testes_Melhorias_Grupo1.pdf` | relatório §9 + `L{n}/S7_Notas_Testes_L{n}.md` + folha do Moodle | L1 feita 04/11 **[outros]** |

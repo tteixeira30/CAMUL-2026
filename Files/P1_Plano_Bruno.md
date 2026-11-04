@@ -243,7 +243,7 @@
   - Quem fez o quê (uma lição por pessoa + tarefas de grupo).
   - Pasta: `02_Relatorio` (PDF).
 - [ ] **8.3** [G] *04/11: esquema feito (`P1/S8_Navegacao_Curso_Grupo1.png`, fonte `.html`); falta o Gantt.* **Gantt final** (`S2_Gantt_Grupo1.xlsx` e o do `.docx`, iguais, com as datas reais) + **esquema de navegação** do curso. ★
-  - Esquema (diagrama): página do curso → pré-teste (Google Forms) → secções L1–L5 → em cada uma: vídeos → atividade → teste → síntese → pós-teste + SUS no fim; link «Visita 3D» nas aulas com Matterport.
+  - Esquema (diagrama): página do curso → inscrição → secções L1–L5 → em cada uma: vídeos → atividade → teste → síntese; link «Visita 3D» nas aulas com Matterport. (Sem Google Forms: cortado a 04/11.)
   - Pasta: `03_Gantt_Navegacao`.
 - [ ] **8.4** [G] **Guiões finais de todas as lições.** O da L1: `Guiao_L1.md` → `S8_Guiao_L1_Grupo1.pdf` (com a narração final, as 9 tags e a atividade). ★
   - Pasta: `04_Guioes` (um PDF por lição).
