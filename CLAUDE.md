@@ -28,6 +28,7 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `P1_Tema_Matterport.md` | Rascunho de trabalho do tema reescrito para crise + estudo do Matterport | **Fonte para atualizar o S2** |
 | `S3_MOOC_Template_Grupo1.xlsx` | S3 — MOOC Template (folhas «Enquadramento» e «Lições») | Versão mais detalhada das 5 lições |
 | `P1_Modelo_Licoes.pptx` | Modelo visual comum das 5 lições (guia oculto + 1 diapositivo de cada tipo) | Partilhado com o grupo; geral |
+| `P1_Pagina_Udemy.md`, `P1_Imagem_Curso_Udemy.png` | Textos da página do curso na Udemy (título, subtítulo, descrição, objetivos, requisitos, público) e imagem do curso 750 × 422, sem texto (04/11) | Fonte dos textos colados na Udemy (P2, P3 do plano do Bruno); serve para o relatório do S8 |
 | `L1/` | Tudo o que é só da L1 (Bruno) | Ver abaixo |
 | `L1/S4_Plano_L1.md` | S4 — plano da L1: evidências, calendário, estrutura do PDF | Nota de trabalho |
 | `L1/Guiao_L1.md` | Guião da L1, do S4 ao S8 (narração exata por cena), atividade, quiz com feedback, próximos passos | **Fonte da narração**: as notas do `.pptx` e o guião do `.docx` vêm daqui |

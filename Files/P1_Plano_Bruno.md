@@ -23,7 +23,7 @@
   - Ou pedir ao Claude: «faz pull».
 
 ### Parte A · Matterport na tua casa (manhã, ≈ 2 h + espera)
-- [ ] **A1** Instalar a app e criar a conta (10 min). ★
+- [x] **A1** Instalar a app e criar a conta (10 min). ★ Feito a 04/11 (plano Free: tem tags, só 1 espaço ativo).
   - No iPhone: **App Store** → procurar **«Matterport Capture»** → Obter.
   - Abrir a app → **Sign up** (criar conta) com o teu email → abrir o email da Matterport e confirmar → voltar à app e entrar.
   - Escolher o plano **Free** (grátis). Chega para 1 espaço.
@@ -60,7 +60,7 @@
   - **Title:** colar o título. **Description:** colar a descrição.
   - **Cor:** abrir a cor da tag → personalizada → escrever **#2F6DB5** (azul, pessoa) ou **#E07B2E** (laranja, quem cuida; só a tag 5).
   - **Done/Save** (guardar). Repetir para as 9.
-  - Se o plano grátis **não deixar pôr tags**: conta → *Subscription* → **Starter** (≈ 10 $), 1 mês; cancelar depois de 10/11.
+  - O plano Free deixa pôr tags (confirmado a 04/11). Só tem **1 espaço ativo**: não criar outro espaço nesta conta.
 - [ ] **A6** Visita guiada para quem abrir o link (*Highlight Reel*, 15 min).
   - No editor: **Highlight Reel** (barra em baixo).
   - Andar até cada paragem, enquadrar a tag e carregar em **Add highlight**, por esta ordem: entrada → quadros → sofá → janela → cozinha → quarto → porta.
@@ -96,12 +96,12 @@
 | 9 | Um objeto do dia a dia (caneca, livro, almofada) | L1 · Atividade · Objeto preferido | Um objeto de todos os dias lembra-lhe quem é e onde pertence. Cabe num saco pequeno. | azul | não |
 
 ### Parte B · PowerPoint (≈ 30 min)
-- [ ] **B1** Abrir `Files\P1\L1\S4_Video_L1.pptx`. Tem **17 diapositivos**. ★
+- [x] **B1** Abrir `Files\P1\L1\S4_Video_L1.pptx`. Tem **17 diapositivos**. ★
   - O que mudou (04/11, feito pelo Claude): diap. 11–14 «Quatro crises, a mesma pessoa» (Aula 3), 15–17 «Sinais a que estar atento» (Aula 4), notas com a narração e os cliques, música a **8 %** em todos, diap. 6 sem a visita antiga (retângulo tracejado), síntese (diap. 9) com texto mais longo nas notas, créditos com «Visita 3D: Matterport».
-- [ ] **B2** Ler as notas dos diap. 11–17 em voz alta, uma vez (≈ 10 min). ★
+- [x] **B2** Ler as notas dos diap. 11–17 em voz alta, uma vez (≈ 10 min). Revistas a 04/11, sem mudanças. ★
   - Modo de apresentação a partir do 11: selecionar o diap. 11 → **`Shift+F5`**. As notas aparecem na Vista de Apresentador.
   - Se alguma frase não soar a ti, muda-a **nas notas** e diz ao Claude para acertar o guião.
-- [ ] **B3** Guardar (`Ctrl+S`). A visita entra depois (B4). ★
+- [x] **B3** Guardar (`Ctrl+S`). A visita entra depois (B4). ★
 - [ ] **B4** **Depois de A8:** pôr o vídeo novo no diap. 6 (10 min). ★
   - Diap. 6 → clicar no **retângulo tracejado** → `Delete`.
   - **Inserir → Vídeo → Este dispositivo** → `Files\P1\L1\L1_Visita3D.mp4`.
@@ -157,7 +157,7 @@
 | 17 | 3 | No fim: Esc |
 
 ### Parte D · Exportar os 5 vídeos (≈ 1 h, quase tudo espera)
-- [ ] **D1** Desligar a aceleração gráfica (senão a exportação fica nos 0 MB). ★
+- [x] **D1** Desligar a aceleração gráfica (senão a exportação fica nos 0 MB). ★
   - **Ficheiro → Opções → Avançadas → Ecrã** → marcar **«Desativar a aceleração de gráficos de hardware da apresentação de diapositivos»** → OK.
 - [ ] **D2** Exportar cada vídeo da tabela abaixo, um de cada vez. ★
   - No painel da esquerda: `Ctrl+A` → botão direito → **Ocultar diapositivo** (ficam todos ocultos).
@@ -188,10 +188,10 @@
 - [ ] **E3** Criar as 2 aulas novas. ★
   - Em baixo da Aula 2: **+ Item do currículo → Aula** → título `Aula 3 · Quatro crises, a mesma pessoa` → **Adicionar aula** → **+ Conteúdo → Vídeo** → carregar `L1_Aula3_Crises.mp4`.
   - Igual para `Aula 4 · Sinais a que estar atento` → `L1_Aula4_Sinais.mp4`.
-- [ ] **E4** Pôr a ordem e os títulos da tabela abaixo. ★
+- [ ] **E4** **04/11: títulos das Aulas 5 e 6 já mudados.** Na sexta falta só arrastar as Aulas 3 e 4 novas para o sítio. Pôr a ordem e os títulos da tabela abaixo. ★
   - Arrastar cada item pelo ícone ≡ (aparece ao passar o rato).
   - Mudar os títulos antigos com o lápis ao lado do título: «Aula 3 · O que dá segurança?» → **Aula 5 · O que dá segurança?**; «Aula 4 · Síntese…» → **Aula 6 · Síntese e próxima lição**.
-- [ ] **E5** Aula 5 (atividade): trocar o texto e o link da visita 3D. ★
+- [ ] **E5** **04/11: texto já trocado.** Na sexta falta só o link nos Recursos. Aula 5 (atividade): trocar o texto e o link da visita 3D. ★
   - Abrir a Aula 5 → **Editar conteúdo** → trocar o parágrafo da Visita 3D por: *«Visita 3D (opcional): abra a casa da D. Rosa e procure as 3 etiquetas «Atividade»: são exemplos de coisas que dão segurança e que levaria numa saída de emergência. Que outras escolheria?»* → Guardar.
   - **Recursos** da Aula 5 e da Aula 2: apagar o link antigo (Discover) → **+ Recursos → Link externo** → Título `Visita 3D (opcional) · A casa da D. Rosa` → URL = link do A7 → Adicionar.
 - [ ] **E6** Legendas dos 5 vídeos. ★
@@ -219,9 +219,9 @@
 - [ ] **F0** [G] De manhã, mensagem no grupo: **todas as secções na Udemy até às 18:00 de sexta**, porque o curso tem de ficar publicado nesse dia. ★
 - [ ] **P1** [G] Somar no Currículo a duração de vídeo das 5 secções: **≥ 30 min** (e < 2 h). ★
   - Se faltar: dizer a cada um quanto falta. Não submeter antes.
-- [ ] **P2** [G] Página de destino: título, subtítulo, descrição (≈ 200 palavras ou mais, a partir do S2), categoria Saúde e Fitness → Saúde mental, nível, idioma Português, imagem do curso **750 × 422 px**. ★
-  - Vídeo promocional: opcional (pode ser o `L1_Aula1_Gancho.mp4`).
-- [ ] **P3** [G] Alunos-alvo: pelo menos **4 objetivos**, requisitos («nenhum»), para quem é (cuidadores de pessoas com demência). ★
+- [x] **P2** [G] Página de destino: título, subtítulo, descrição (≈ 200 palavras ou mais, a partir do S2), categoria Saúde e Fitness → Saúde mental, nível, idioma Português, imagem do curso **750 × 422 px**. ★
+  - Feito a 04/11: textos e imagem (`P1/P1_Imagem_Curso_Udemy.png`). **Vídeo promocional: na sexta, depois do D2**, carregar o `L1_Aula1_Gancho.mp4` novo (opcional).
+- [x] **P3** [G] Alunos-alvo: pelo menos **4 objetivos**, requisitos («nenhum»), para quem é (cuidadores de pessoas com demência). ★ Feito (04/11).
 - [ ] **P4** Perfil de instrutor: foto e biografia (≈ 50 palavras ou mais). Preço: **Grátis**. ★
 - [ ] **P5** [G] **Submeter para revisão — sexta, assim que as 5 secções estiverem prontas.** ★
   - Se a Udemy recusar, mostra a lista do que falta: corrigir e voltar a submeter. Os números acima confirmam-se nessa lista.
@@ -293,7 +293,6 @@
 | Questão | Quando |
 |---|---|
 | Todas as secções na Udemy até sexta às 18:00? O curso todo chega aos 30 min de vídeo? | sex 06/11 (F0, P1) |
-| O plano grátis da Matterport deixa pôr tags? (senão, Starter) | sex 06/11 (A5) |
 | Prefixo do .zip: `CAMUL2627` (ano letivo) ou `CAMUL2526` (como no exemplo)? | sáb 07/11 |
 | Quem junta o relatório, o .zip e a apresentação | sáb 07/11 |
 
