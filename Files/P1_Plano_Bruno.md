@@ -237,23 +237,23 @@
 ### Conteúdos do .zip (sáb 07 → seg 09/11)
 - [ ] **8.1** [G] **MOOC completo:** link público do curso + 1 captura de cada secção (5) + a duração total de vídeo. ★
   - Pasta do .zip: `01_MOOC` com um `Link_MOOC.txt` e as capturas.
-- [ ] **8.2** [G] **Relatório final do processo** (um só, do grupo). A parte da L1 é minha. ★
+- [ ] **8.2** [G] *04/11: esqueleto em `P1/S8_Relatorio_Final.md` (cada um preenche a sua lição até dom 08/11); a parte da L1 em `P1/L1/S8_Relatorio_L1.md`.* **Relatório final do processo** (um só, do grupo). A parte da L1 é minha. ★
   - Do S1 ao S8: plataforma, tema, lições, produção, testes, publicação.
   - Decisões que mudaram: Discover → casas próprias com tags; L1 de 4 para ≈ 9 min de vídeo; regravação; publicação obrigatória.
   - Quem fez o quê (uma lição por pessoa + tarefas de grupo).
   - Pasta: `02_Relatorio` (PDF).
-- [ ] **8.3** [G] **Gantt final** (`S2_Gantt_Grupo1.xlsx` e o do `.docx`, iguais, com as datas reais) + **esquema de navegação** do curso. ★
+- [ ] **8.3** [G] *04/11: esquema feito (`P1/S8_Navegacao_Curso_Grupo1.png`, fonte `.html`); falta o Gantt.* **Gantt final** (`S2_Gantt_Grupo1.xlsx` e o do `.docx`, iguais, com as datas reais) + **esquema de navegação** do curso. ★
   - Esquema (diagrama): página do curso → pré-teste (Google Forms) → secções L1–L5 → em cada uma: vídeos → atividade → teste → síntese → pós-teste + SUS no fim; link «Visita 3D» nas aulas com Matterport.
   - Pasta: `03_Gantt_Navegacao`.
 - [ ] **8.4** [G] **Guiões finais de todas as lições.** O da L1: `Guiao_L1.md` → `S8_Guiao_L1_Grupo1.pdf` (com a narração final, as 9 tags e a atividade). ★
   - Pasta: `04_Guioes` (um PDF por lição).
-- [ ] **8.5** [G] **Análise das regras e diretrizes da Udemy** e como o curso as cumpre. ★
+- [ ] **8.5** [G] *04/11: rascunho em `P1/S8_Regras_Udemy.md`; números na sexta.* **Análise das regras e diretrizes da Udemy** e como o curso as cumpre. ★
   - ≥ 30 min de vídeo, ≥ 5 aulas, vídeo HD, grátis < 2 h, página do curso completa, revisão de qualidade, quiz num curso grátis (confirmado), sem iframes (Matterport por vídeo + link).
   - Pasta: `05_Regras_Udemy`.
-- [ ] **8.6** [G] **Resultados dos testes e melhorias.** ★
+- [ ] **8.6** [G] *04/11: L1 feita (`P1/L1/S8_Relatorio_L1.md`, Parte 8.6); resumo do grupo no relatório §9.* **Resultados dos testes e melhorias.** ★
   - Testes do S7 (Alfa e Beta, folha do Moodle) e o que se mudou por causa deles. Na L1: estalo e voz abafada → regravação; música → 8 %; legendas revistas; Matterport → casa própria com tags; vídeo de 4 para ≈ 9 min. Fonte: `L1/S7_Notas_Testes_L1.md`.
   - Pasta: `06_Testes_Melhorias`.
-- [ ] **8.7** [G] **Montar e verificar o .zip** (seg 09/11). ★
+- [ ] **8.7** [G] *Lista do que entra em cada pasta: `P1/S8_Conteudo_Zip.md`.* **Montar e verificar o .zip** (seg 09/11). ★
   - Pastas `01`–`06` acima. Nome exato do ficheiro (ver a nota no topo desta secção).
   - Abrir o .zip noutro computador e confirmar que todos os PDFs abrem e o link do MOOC funciona.
 

@@ -29,6 +29,10 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `S3_MOOC_Template_Grupo1.xlsx` | S3 — MOOC Template (folhas «Enquadramento» e «Lições») | Versão mais detalhada das 5 lições |
 | `P1_Modelo_Licoes.pptx` | Modelo visual comum das 5 lições (guia oculto + 1 diapositivo de cada tipo) | Partilhado com o grupo; geral |
 | `P1_Pagina_Udemy.md`, `P1_Imagem_Curso_Udemy.png` | Textos da página do curso na Udemy (título, subtítulo, descrição, objetivos, requisitos, público) e imagem do curso 750 × 422, sem texto (04/11) | Fonte dos textos colados na Udemy (P2, P3 do plano do Bruno); serve para o relatório do S8 |
+| `S8_Relatorio_Final.md` | S8 — esqueleto do relatório final do grupo (capa, processo S1–S8, decisões, lições, Matterport, Udemy, navegação, Gantt, testes, quem fez o quê) | Nota de trabalho (04/11); cada um preenche a sua lição até 08/11; o Bruno junta e exporta para PDF |
+| `S8_Regras_Udemy.md` | S8 — regras e diretrizes da Udemy e como o curso as cumpre (8.5) | Nota de trabalho (04/11); números finais na sexta 06/11 |
+| `S8_Navegacao_Curso.html`, `S8_Navegacao_Curso_Grupo1.png` | S8 — esquema de navegação do curso (8.3), 1600 × 900 | O `.html` é a fonte; o PNG exporta-se com o Edge (`--headless --screenshot --window-size=1600,900`) |
+| `S8_Conteudo_Zip.md` | S8 — o que entra em cada pasta do .zip, de onde vem e o estado | Nota de trabalho; o .zip monta-se a partir daqui na seg 09/11 |
 | `L1/` | Tudo o que é só da L1 (Bruno) | Ver abaixo |
 | `L1/S4_Plano_L1.md` | S4 — plano da L1: evidências, calendário, estrutura do PDF | Nota de trabalho |
 | `L1/Guiao_L1.md` | Guião da L1, do S4 ao S8 (narração exata por cena), atividade, quiz com feedback, próximos passos | **Fonte da narração**: as notas do `.pptx` e o guião do `.docx` vêm daqui |
