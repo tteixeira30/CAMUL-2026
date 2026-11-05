@@ -139,6 +139,18 @@ Padrão de cada lição (S3): Gancho 1 min → Vídeo 3 min → Atividade 2 min 
 - **Imagem:** `ComposicaoVisual_Foto.webp` (ilustração adaptada de Susa Monteiro para o Diário do Alentejo: fundo verde-salva, sem roxo nem laranja, 1448 × 1086, 4:3; os dois virados para a direita; créditos no fim da página); a ilustração SVG só aparece se a imagem não carregar.
 - **Por fazer:** no `ComposicaoVisual_Regras_Evandro.md`, a linha 4 diz «Regras do Ricardo» (deve ser «do Evandro») e «max-width: 65inch» (a página usa `65ch`): o Tiago avisa o Evandro.
 
+### QEF do Grupo 2 (entrega sex 06/11/2026)
+
+- `ComposicaoVisual_QEF_Avaliacao_Grupo2.xlsx` (era `QEF_Visual_Composition.xlsx`): QEF da professora (3 dimensões, 9 fatores, 24 critérios, pesos dados) para avaliar a página do Grupo 2 (https://camul-composicao-visual-g2.netlify.app). Só se preenche a coluna J (%, escala 0/25/50/75/100 das folhas de cada dimensão); a coluna K tem a justificação, acrescentada por nós.
+- Preenchido a 05/11: q ≈ 0,69. Avatares só num vídeo à parte, depois da apresentação, e faltou um (TA1 = TA2 = 25); TP1 = 75 e TP2 = 75, confirmados por quem viu a apresentação.
+
+### Plataforma multimédia na Web (projeto da teórica)
+
+- Site que «aloja» o MOOC, a partir da página da composição visual (publicada em https://timely-tanuki-231d93.netlify.app).
+- Modelo: `Scope document 26-27.docx` (o objetivo do modelo ainda fala em sustentabilidade, sobra do ano passado).
+- Entregas: Gantt, estrutura e organização 11/11 · QEF (Usabilidade, Funcionalidade, Estética) 16/11 · Storyboard 16/11 (no Moodle está 2025, por confirmar) · Plano de marketing 18/11.
+- Plano, dúvidas e email à professora em `Plataforma_Plano.md`.
+
 ## Regras de coerência
 
 Os mesmos factos aparecem em vários ficheiros. Quando um muda, atualizar todos:
