@@ -249,19 +249,19 @@ Na Udemy os títulos ficam sem «Aula N ·» (a Udemy numera: «Lecture 1:» …
 > **O que se entrega (S8, Moodle):** MOOC completo (todas as lições) · relatório/documentação final do processo · Gantt final e esquema de funcionamento/navegação do curso · conteúdos/guiões finais de todas as lições · análise das regras e diretrizes da Udemy · resultados dos testes/avaliação e melhorias. **Um só ficheiro:** `CAMUL2627_P1_G1_1240441_1240493_1221391_1220901_1200929.zip` (o exemplo do enunciado é `CAMUL2526_P1_G1_1111111_2222222_3333333.zip`; confirmar se o prefixo é o do ano letivo, 2627).
 
 ### Sábado 07/11 · Começar por aqui
-- [ ] **S1** [G] **Publicar o curso** (ficou de sexta). ★
+- [ ] **S1** [G] **Publicar o curso** (ficou de sexta). ★ **07/11: o Ricardo ainda não pôs a secção 4.**
   - Ver se a **secção 4** (L4, Ricardo) já tem vídeos. A 06/11 estava vazia e o curso tinha **25 min**. Se não tiver, falar com o Ricardo logo de manhã.
   - Somar no Currículo: **≥ 30 min** (P1) → **Submeter para revisão** (P5). Copiar o link público para o relatório quando for aprovado.
   - Se a revisão ainda não acabou na terça, levar uma captura do estado «Em revisão».
-- [ ] **S2** Udemy: apagar a cópia «Unpublished lecture: Quatro crises, a mesma pessoa» no fim da secção 5, se ainda lá estiver.
-- [ ] **S3** Capturas do S8 (A9 e E7, tiradas a 06/11): **não estão no repositório**. Copiá-las para `Files\P1\L1\Capturas\` como `S8_Tag_1_L1.png` … `S8_Tag_9_L1.png` e `S8_<O que é>_L1.png` → pedir ao Claude o commit.
-- [ ] **S4** Guião da L1 em PDF (8.4): pedir ao Claude «exporta o Guiao_L1 para S8_Guiao_L1_Grupo1.pdf».
+- [x] **S2** Udemy: apagar a cópia «Unpublished lecture: Quatro crises, a mesma pessoa» no fim da secção 5, se ainda lá estiver. Feito (07/11).
+- [ ] **S3** Capturas do S8 (A9 e E7, tiradas a 06/11): **não estão no repositório**. Copiá-las para `Files\P1\L1\Capturas\` como `S8_Tag_1_L1.png` … `S8_Tag_9_L1.png` e `S8_<O que é>_L1.png` → pedir ao Claude o commit. **07/11: não há capturas novas no PC (procurado em Imagens, Transferências, Ambiente de trabalho, Documentos e OneDrive): ou estão no telemóvel ou não ficaram guardadas → tirar de novo na Udemy e no link do Matterport.**
+- [x] **S4** Guião da L1 em PDF (8.4): pedir ao Claude «exporta o Guiao_L1 para S8_Guiao_L1_Grupo1.pdf». Feito (07/11): guião passado à v3 final (durações reais, tempos de cada diapositivo, música a 4 %, visita na casa do Bruno, Discover resumido como histórico) → `P1/L1/S8_Guiao_L1_Grupo1.pdf` (7 páginas A4 ao baixo).
 - [ ] **S5** [G] Lembrar o grupo: cada um preenche a sua lição no `S8_Relatorio_Final.md` até **dom 08/11**.
 
 ### Conteúdos do .zip (sáb 07 → seg 09/11)
 - [ ] **8.1** [G] **MOOC completo:** link público do curso + 1 captura de cada secção (5) + a duração total de vídeo. ★
   - Pasta do .zip: `01_MOOC` com um `Link_MOOC.txt` e as capturas.
-- [ ] **8.2** [G] *04/11: esqueleto em `P1/S8_Relatorio_Final.md` (cada um preenche a sua lição até dom 08/11); a parte da L1 em `P1/L1/S8_Relatorio_L1.md`.* **Relatório final do processo** (um só, do grupo). A parte da L1 é minha. ★
+- [ ] **8.2** [G] *04/11: esqueleto em `P1/S8_Relatorio_Final.md` (cada um preenche a sua lição até dom 08/11); a parte da L1 em `P1/L1/S8_Relatorio_L1.md`.* **Relatório final do processo** (um só, do grupo). A parte da L1 é minha. ★ **07/11: a parte da L1 já está colada na secção 4.1.**
   - Do S1 ao S8: plataforma, tema, lições, produção, testes, publicação.
   - Decisões que mudaram: Discover → casas próprias com tags; L1 de 4 para ≈ 9 min de vídeo; regravação; publicação obrigatória.
   - Quem fez o quê (uma lição por pessoa + tarefas de grupo).
@@ -269,7 +269,7 @@ Na Udemy os títulos ficam sem «Aula N ·» (a Udemy numera: «Lecture 1:» …
 - [ ] **8.3** [G] *04/11: esquema feito (`P1/S8_Navegacao_Curso_Grupo1.png`, fonte `.html`); falta o Gantt.* **Gantt final** (`S2_Gantt_Grupo1.xlsx` e o do `.docx`, iguais, com as datas reais) + **esquema de navegação** do curso. ★
   - Esquema (diagrama): página do curso → inscrição → secções L1–L5 → em cada uma: vídeos → atividade → teste → síntese; link «Visita 3D» nas aulas com Matterport. (Sem Google Forms: cortado a 04/11.)
   - Pasta: `03_Gantt_Navegacao`.
-- [ ] **8.4** [G] **Guiões finais de todas as lições.** O da L1: `Guiao_L1.md` → `S8_Guiao_L1_Grupo1.pdf` (com a narração final, as 9 tags e a atividade). ★
+- [ ] **8.4** [G] **Guiões finais de todas as lições.** O da L1: `Guiao_L1.md` → `S8_Guiao_L1_Grupo1.pdf` (com a narração final, as 9 tags e a atividade). ★ **L1 feita (07/11).**
   - Pasta: `04_Guioes` (um PDF por lição).
 - [ ] **8.5** [G] *04/11: rascunho em `P1/S8_Regras_Udemy.md`; números na sexta.* **Análise das regras e diretrizes da Udemy** e como o curso as cumpre. ★
   - ≥ 30 min de vídeo, ≥ 5 aulas, vídeo HD, grátis < 2 h, página do curso completa, revisão de qualidade, quiz num curso grátis (confirmado), sem iframes (Matterport por vídeo + link).

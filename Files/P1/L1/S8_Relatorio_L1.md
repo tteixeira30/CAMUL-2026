@@ -1,6 +1,6 @@
 # S8 — Rascunho do relatório final: parte da L1
 
-Nota de trabalho (04/11). Texto para o relatório do grupo (8.2, pasta `02_Relatorio`) e para os resultados dos testes (8.6, pasta `06_Testes_Melhorias`). Números finais da L1 preenchidos a 06/11; o que ainda depende da publicação do curso está marcado **(publicação)**.
+Nota de trabalho (04/11). Texto para o relatório do grupo (8.2, pasta `02_Relatorio`) e para os resultados dos testes (8.6, pasta `06_Testes_Melhorias`). Números finais da L1 preenchidos a 06/11; o que ainda depende da publicação do curso está marcado **(publicação)**. A Parte 8.2 já está colada na secção 4.1 do `S8_Relatorio_Final.md` (07/11): se mudar aqui, mudar lá.
 
 ---
 
