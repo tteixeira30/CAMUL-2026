@@ -51,7 +51,7 @@ Cada lição tem uma componente para a pessoa (azul) e outra para quem cuida (la
 
 - **Vídeo:** PowerPoint → vídeo Full HD 1080p, com a narração e os tempos gravados; um vídeo por aula.
 - **Ilustrações:** Storyset (storyset.com), estilo Amico, com atribuição.
-- **Música:** «High Class», Benjamin Andrews (Biblioteca de Áudio do YouTube), a 8 %.
+- **Música:** «High Class», Benjamin Andrews (Biblioteca de Áudio do YouTube), a 4 %.
 - **Visita 3D:** Matterport, casa capturada pelo grupo; link «Visita 3D (opcional)» nos recursos das Aulas 2 e 5 **(sexta: link)**.
 - **Fontes do conteúdo:** OMS (2011) *Psychological First Aid*; ADI (2019) *Forgotten in a Crisis*; ADI (2022) *Advice for carers… during times of crisis*.
 - **Acessibilidade:** legendas em português (pt-PT) em todos os vídeos, feitas a partir do guião; texto curto; cores com contraste; azul = pessoa, laranja = quem cuida em todo o lado.
@@ -73,7 +73,7 @@ Cada lição tem uma componente para a pessoa (azul) e outra para quem cuida (la
 | 1 | Só ≈ 4 min de vídeo na L1 | Beta + professora | alta | 2 aulas novas em vídeo, narração mais longa → ≈ 9 min | **(sexta)** |
 | 2 | Matterport de um espaço público, sem tags | Beta + professora | alta | Casa própria capturada, 9 tags no Matterport | **(sexta)** |
 | 3 | Estalo do microfone no início dos vídeos | Alfa | média | Voz toda regravada, 1 s de silêncio antes de falar | **(sexta)** |
-| 4 | Música alta, voz abafada | Beta | média | Música a 8 %; microfone ao lado da boca, a 15–20 cm | **(sexta)** |
+| 4 | Música alta, voz abafada | Beta | média | Música a 4 %; microfone ao lado da boca, a 15–20 cm | **(sexta)** |
 | 5 | A resposta certa do teste é sempre a mais longa | Beta | média | Opções reescritas: a certa é a mais curta ou a do meio, em posições diferentes (A, C, B, A) | feito (04/11) |
 | 8 | Nenhum membro do grupo aparece no vídeo | Beta + professora | alta | Voz regravada com a câmara ligada | **(sexta)** |
 | 6 | Visita 3D quase sem narração | Alfa | baixa | O texto passa a estar nas tags, dentro da visita | **(sexta)** |

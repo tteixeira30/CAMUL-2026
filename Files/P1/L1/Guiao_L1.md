@@ -71,7 +71,7 @@ Critérios do espaço: entrada, sala com janela, cozinha e quarto; mobília comu
 
 ### Roteiro e tags · casa do Bruno (04/11)
 
-Espaço capturado pelo Bruno com o iPhone 17 Pro (app Matterport Capture), «não listado». Link: *(pôr aqui depois da captura)*. As tags estão **dentro do Matterport** (já não são etiquetas do PowerPoint). Título com o prefixo «L1 ·»; **azul #2F6DB5 = pessoa**, **laranja #E07B2E = quem cuida**.
+Espaço capturado pelo Bruno com o iPhone 17 Pro (app Matterport Capture), «não listado». Link: https://my.matterport.com/show/?m=byVsURgSaSF. As tags estão **dentro do Matterport** (já não são etiquetas do PowerPoint). Título com o prefixo «L1 ·»; **azul #2F6DB5 = pessoa**, **laranja #E07B2E = quem cuida**.
 
 | # | Onde | Título da tag | Texto da tag | Cor | No vídeo (diap. 6)? |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@ O espaço não tem fotografias nem relógio na cozinha: as fotografias passaram 
 > Pense na pessoa de quem cuida. Que três coisas a fazem sentir-se segura em casa? Pode ser um objeto, um hábito, uma pessoa, uma música… Se tivessem de sair de casa de repente, por um incêndio, uma cheia ou uma guerra, o que levaria consigo?
 > Escreva-as num papel ou no telemóvel e guarde a lista. Vai precisar dela na próxima lição, para preparar a saída.
 >
-> *Visita 3D (opcional):* abra a casa da D. Rosa e procure as 3 etiquetas «Atividade»: são exemplos de coisas que dão segurança e que levaria numa saída de emergência. Que outras escolheria? *(link novo da casa do Bruno, depois da captura)*
+> *Visita 3D (opcional):* abra a casa da D. Rosa e procure as 3 etiquetas «Atividade»: são exemplos de coisas que dão segurança e que levaria numa saída de emergência. Que outras escolheria? https://my.matterport.com/show/?m=byVsURgSaSF
 
 Registo pessoal, sem correção. Ponte natural para a L2 (kit de emergência com objetos de conforto).
 

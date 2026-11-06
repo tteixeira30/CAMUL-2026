@@ -21,7 +21,7 @@ Gratuita, sem servidor para manter, com regras oficiais e explícitas e uma revi
 | R5 | **Áudio** claro, nos dois canais, sincronizado com a imagem, sem ruído que distraia | Voz regravada depois dos testes do S7 (estalo, voz abafada); música baixa (8 % na L1); teste de áudio antes de gravar | **(sexta)** |
 | R6 | **Página do curso** completa: título, subtítulo, descrição, idioma, nível, categoria, imagem | Título (52/60 caracteres), subtítulo (115/120), descrição ≈ 230 palavras, Português, Todos os níveis, Saúde e Fitness → Saúde mental, imagem 750 × 422 sem texto (`P1_Pagina_Udemy.md`) | ✔ (04/11) |
 | R7 | **Alunos-alvo:** pelo menos 4 objetivos de aprendizagem, requisitos, para quem é (público concreto, não «todos») | 5 objetivos (um por lição), requisitos «nenhum», 3 públicos concretos (cuidadores informais, familiares, voluntários e técnicos) | ✔ (04/11) |
-| R8 | **Perfil do instrutor** com fotografia e biografia (confirmar o mínimo de palavras) | Perfil do Bruno (instrutor principal) | **(sexta: confirmar)** |
+| R8 | **Perfil do instrutor** com fotografia e biografia (confirmar o mínimo de palavras) | Perfil do Bruno (instrutor principal): foto, título e biografia com ≈ 120 palavras (a Udemy pede pelo menos 50) | ✔ (06/11) |
 | R9 | **Preço** definido | Grátis | ✔ |
 | R10 | **Revisão de qualidade** antes de publicar (≈ 2 dias úteis) | Submetido na sexta 06/11 | **(sexta)** |
 
