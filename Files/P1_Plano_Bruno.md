@@ -141,7 +141,7 @@
 - [x] **C5** Ouvir e corrigir (≈ 20 min). ★
   - Ver os 17 diapositivos com `F5`.
   - Se um correu mal: selecioná-lo → **Gravar → Limpar → Limpar gravação no diapositivo atual** → **Gravar → Do diapositivo atual** → gravar só esse → `Esc`.
-  - `Ctrl+S`. Pedir ao Claude: «commit do pptx».
+  - `Ctrl+S`. Pedir ao Claude: «commit do pptx». **Feito a 06/11: com a câmara o pptx passou a 121 MB (o GitHub recusa > 100 MB) → Ficheiro → Informações → Comprimir multimédia → 49 MB, no git.**
 
 **Cliques por diapositivo (C3–C4)**
 
