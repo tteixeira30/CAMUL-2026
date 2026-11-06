@@ -68,12 +68,12 @@ Cada lição: papel no curso e objetivos · estrutura final na Udemy (aulas, tip
 
 | Lição | Aulas de vídeo | Vídeo (min) | Atividade | Teste | Matterport (casa, n.º de tags) |
 |---|---|---|---|---|---|
-| L1 | 5 | ≈ 9:05 **(sexta)** | O que dá segurança? | Teste 1 (4) | casa do Bruno, 9 |
+| L1 | 5 | 8:33 | O que dá segurança? | Teste 1 (4) | casa do Bruno, 9 |
 | L2 | 4 | ≈ 8:50 **(sexta)** | Complete o kit (+ 3 PDFs) | Teste 2 (4) | casa do Tiago, 10 |
 | L3 | **[Rodrigo]** | | | | |
 | L4 | **[Ricardo]** | | | | |
 | L5 | **[Evandro]** | | | | |
-| **Total** | | **≥ 30 min (sexta)** | | | |
+| **Total** | | **≥ 30 min** (06/11: 25 min na Udemy, falta a secção 4) | | | |
 
 ## 5. Matterport
 

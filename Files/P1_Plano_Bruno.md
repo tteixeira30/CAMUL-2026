@@ -1,6 +1,6 @@
 # Plano do P1 — Bruno (04/11 → 10/11/2026)
 
-**O que falta:** a L1 com ≈ 8 min de vídeo e a visita 3D na minha casa, e o **curso publicado na Udemy até sexta 06/11 (obrigatório)** · sábado 07 → terça 10/11: juntar a entrega final (.zip) e preparar a apresentação · S8 e apresentação na terça 10/11. Depois vem o P2 (24/11).
+**06/11: a L1 está pronta e na Udemy (8:33 de vídeo, visita 3D na minha casa com 9 tags).** **O que falta:** o **curso publicado** (≥ 30 min; a 06/11 tinha 25, falta a secção 4) → ver «Sábado 07/11 · Começar por aqui» · sábado 07 → terça 10/11: juntar a entrega final (.zip) e preparar a apresentação · S8 e apresentação na terça 10/11. Depois vem o P2 (24/11).
 
 **Decisões em vigor:**
 - **O curso tem de estar publicado na Udemy até sexta 06/11** (obrigatório): ≥ 30 min de vídeo no total → a L1 passa de 4 para ≈ 9 min de vídeo. **Sábado a terça** ficam só para juntar a entrega final e preparar a apresentação.
@@ -247,6 +247,16 @@ Na Udemy os títulos ficam sem «Aula N ·» (a Udemy numera: «Lecture 1:» …
 ## Sábado 07/11 → terça 10/11 · Juntar a entrega final (S8) e preparar a apresentação
 
 > **O que se entrega (S8, Moodle):** MOOC completo (todas as lições) · relatório/documentação final do processo · Gantt final e esquema de funcionamento/navegação do curso · conteúdos/guiões finais de todas as lições · análise das regras e diretrizes da Udemy · resultados dos testes/avaliação e melhorias. **Um só ficheiro:** `CAMUL2627_P1_G1_1240441_1240493_1221391_1220901_1200929.zip` (o exemplo do enunciado é `CAMUL2526_P1_G1_1111111_2222222_3333333.zip`; confirmar se o prefixo é o do ano letivo, 2627).
+
+### Sábado 07/11 · Começar por aqui
+- [ ] **S1** [G] **Publicar o curso** (ficou de sexta). ★
+  - Ver se a **secção 4** (L4, Ricardo) já tem vídeos. A 06/11 estava vazia e o curso tinha **25 min**. Se não tiver, falar com o Ricardo logo de manhã.
+  - Somar no Currículo: **≥ 30 min** (P1) → **Submeter para revisão** (P5). Copiar o link público para o relatório quando for aprovado.
+  - Se a revisão ainda não acabou na terça, levar uma captura do estado «Em revisão».
+- [ ] **S2** Udemy: apagar a cópia «Unpublished lecture: Quatro crises, a mesma pessoa» no fim da secção 5, se ainda lá estiver.
+- [ ] **S3** Capturas do S8 (A9 e E7, tiradas a 06/11): **não estão no repositório**. Copiá-las para `Files\P1\L1\Capturas\` como `S8_Tag_1_L1.png` … `S8_Tag_9_L1.png` e `S8_<O que é>_L1.png` → pedir ao Claude o commit.
+- [ ] **S4** Guião da L1 em PDF (8.4): pedir ao Claude «exporta o Guiao_L1 para S8_Guiao_L1_Grupo1.pdf».
+- [ ] **S5** [G] Lembrar o grupo: cada um preenche a sua lição no `S8_Relatorio_Final.md` até **dom 08/11**.
 
 ### Conteúdos do .zip (sáb 07 → seg 09/11)
 - [ ] **8.1** [G] **MOOC completo:** link público do curso + 1 captura de cada secção (5) + a duração total de vídeo. ★
