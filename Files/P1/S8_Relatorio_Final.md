@@ -1,6 +1,6 @@
 # S8 — Relatório final do P1 (esqueleto)
 
-Nota de trabalho (04/11). Fonte do `S8_Relatorio_Final_Grupo1.pdf` (pasta `02_Relatorio` do .zip). Quem junta: Bruno. **Cada um preenche a secção 4 da sua lição** com os mesmos títulos da L1 (modelo: `L1/S8_Relatorio_L1.md`) até **dom 08/11**. O que só se fecha na sexta 06/11 está marcado **(sexta)**; o que falta de cada um, **[Nome]**.
+Nota de trabalho (04/11; atualizada a 08/11). Fonte do `S8_Relatorio_Final_Grupo1.pdf` (pasta `02_Relatorio` do .zip). Quem junta: Bruno. **Cada um preenche a secção 4 da sua lição** com os mesmos títulos da L1 (modelo: `L1/S8_Relatorio_L1.md`) até **dom 08/11**. O que só se fecha na terça 10/11 (link público, capturas) está marcado **(terça)**; o que falta de cada um, **[Nome]**.
 
 ---
 
@@ -9,7 +9,7 @@ Nota de trabalho (04/11). Fonte do `S8_Relatorio_Final_Grupo1.pdf` (pasta `02_Re
 **Cuidar em Crise — Primeiros socorros psicológicos para cuidadores de pessoas com demência**
 CAMUL 2026/2027 · ISEP · P1 · Grupo 1
 Bruno Lopes (1240441) · Tiago Teixeira (1240493) · Rodrigo Silva (1221391) · Ricardo Ferreira (1220901) · Evandro Carvalho (1200929)
-Curso na Udemy: «Socorros psicológicos: cuidador de demência em crise» · link público **(sexta)** · 10/11/2026
+Curso na Udemy: «Socorros psicológicos: cuidador de demência em crise» · link público **(terça)** · 10/11/2026
 
 ## 1. O curso em resumo
 
@@ -32,7 +32,7 @@ Curso na Udemy: «Socorros psicológicos: cuidador de demência em crise» · li
 | S5 (27/10) | Protótipo | Ilustrações Storyset, música comum, vídeos em PowerPoint, Matterport em plano B (espaço do Discover) |
 | S6 (03/11) | Versão integrada | Voz, vídeos Full HD, legendas, as 5 secções no mesmo curso, Gantt com o progresso real |
 | S7 (03/11) | Testes e validação | Alfa (cada autor a sua lição) e Beta (outros grupos); ver secção 9 |
-| S8 (10/11) | Entrega final | ≈ 8 min de vídeo por lição, Matterport nas nossas casas com tags, voz regravada com a câmara ligada, curso publicado **(sexta)** |
+| S8 (10/11) | Entrega final | ≈ 8 min de vídeo por lição, Matterport nas nossas casas com tags, voz regravada com a câmara ligada, curso submetido para revisão a 07/11 |
 
 ## 3. Decisões que mudaram o projeto
 
@@ -42,6 +42,7 @@ Curso na Udemy: «Socorros psicológicos: cuidador de demência em crise» · li
 | 4 → 5 lições | Aula 3 | O grupo tem 5 elementos: uma lição cada |
 | Discover → casas próprias com tags | 03/11 | Professora e testes Beta: o espaço tem de ser nosso e ter tags |
 | ≈ 4 → ≈ 8 min de vídeo por lição | 03/11 | Só os vídeos contam; a Udemy exige ≥ 30 min para publicar |
+| Curso submetido para revisão na Udemy | 07/11 | Publicação obrigatória para a entrega final; a Udemy revê o curso antes de o publicar |
 | Voz sem cara → câmara ligada | 03/11 | Professora: um membro do grupo tem de aparecer no vídeo |
 | Sem avatar | S4 | Igual nas 5 lições; o avatar D-ID ficou só na teórica |
 
@@ -80,7 +81,7 @@ Cada lição tem uma componente para a pessoa (azul) e outra para quem cuida (la
 | **S5 (27/10)** · protótipo | Ilustrações Storyset (estilo Amico), ícones das 4 crises, infografia dos 3 passos, música («High Class», Benjamin Andrews) e sons (relógio, sirene). Matterport em plano B: espaço público do Discover («La Tarasca», Zamora), gravado em vídeo (58 s) com 6 etiquetas feitas no PowerPoint por cima do vídeo |
 | **S6 (03/11)** · versão integrada | Voz gravada no PowerPoint; 3 vídeos exportados em Full HD (Aula 1 0:56 · Aula 2 2:44 · síntese 0:20); secção 1 montada na Udemy (5 itens); legendas `.vtt` em português feitas a partir da narração; link «Visita 3D» nos recursos |
 | **S7 (03/11)** · testes | Teste Alfa da L1 e Beta de 3 cursos de outros grupos; o nosso curso foi testado por outros grupos (ver Parte 8.6) |
-| **S8 (10/11)** · versão final | L1 com 8:33 de vídeo (2 aulas novas, 17 diapositivos), visita 3D numa casa real capturada com o iPhone e 9 tags dentro do Matterport, voz toda regravada, música mais baixa, legendas novas (5 `.vtt`), curso publicado **(publicação)** |
+| **S8 (10/11)** · versão final | L1 com 8:33 de vídeo (2 aulas novas, 17 diapositivos), visita 3D numa casa real capturada com o iPhone e 9 tags dentro do Matterport, voz toda regravada, música mais baixa, legendas novas (5 `.vtt`), curso submetido para revisão a 07/11 |
 
 #### Decisões que mudaram e porquê
 
@@ -90,7 +91,7 @@ Cada lição tem uma componente para a pessoa (azul) e outra para quem cuida (la
 | L1 com ≈ 4 min de vídeo (3 vídeos) | 8:33 (5 vídeos): Aula 3 «Quatro crises, a mesma pessoa» e Aula 4 «Sinais a que estar atento» | Só os vídeos contam para os ≈ 8 min da lição, e a Udemy só publica um curso grátis com ≥ 30 min de vídeo |
 | As crises só no gancho (o incêndio como exemplo) | Uma crise por diapositivo na Aula 3 e nas tags (janela, cozinha, porta) e nas 4 perguntas do teste | Feedback do S3: os cenários de crise também nas atividades e no Matterport |
 | Voz do S6, sem cara | Voz toda regravada **com a câmara ligada** (o autor num canto de cada diapositivo, menos na visita 3D), música de 15 % para 4 % | Testes do S7: estalo do microfone, música alta, voz abafada; um membro do grupo tem de aparecer no vídeo (professora) |
-| Curso só em pré-visualização | Curso publicado na Udemy até 06/11 | Requisito da entrega final |
+| Curso só em pré-visualização | Curso submetido para revisão na Udemy a 07/11 | Requisito da entrega final |
 
 #### Multimédia e créditos
 
@@ -118,11 +119,11 @@ Cada lição tem uma componente para a pessoa (azul) e outra para quem cuida (la
 | Lição | Aulas de vídeo | Vídeo (min) | Atividade | Teste | Matterport (casa, n.º de tags) |
 |---|---|---|---|---|---|
 | L1 | 5 | 8:33 | O que dá segurança? | Teste 1 (4) | casa do Bruno, 9 |
-| L2 | 4 | ≈ 8:50 **(sexta)** | Complete o kit (+ 3 PDFs) | Teste 2 (4) | casa do Tiago, 10 |
+| L2 | 4 | ≈ 8:50 **[Tiago]** | Complete o kit (+ 3 PDFs) | Teste 2 (4) | casa do Tiago, 10 |
 | L3 | **[Rodrigo]** | | | | |
 | L4 | **[Ricardo]** | | | | |
 | L5 | **[Evandro]** | | | | |
-| **Total** | | **≥ 30 min** (06/11: 25 min na Udemy, falta a secção 4) | | | |
+| **Total** | | **≥ 30 min** (a Udemy aceitou a submissão a 07/11; total exato **(terça)**) | | | |
 
 ## 5. Matterport
 
@@ -130,19 +131,30 @@ Cada lição tem uma componente para a pessoa (azul) e outra para quem cuida (la
 - **Tags:** azul = pessoa com demência, laranja = quem cuida; título com o prefixo da lição (ex.: «L1 · Sofá»); as crises aparecem nas tags (feedback do S3).
 - **Na Udemy:** a Udemy não aceita iframes → vídeo gravado da visita dentro da aula + link «Visita 3D (opcional)» nos recursos; nenhum teste depende do link.
 - **Privacidade:** espaços «não listados»; casas preparadas antes da captura (sem fotografias de família, documentos, morada); ninguém nas divisões capturadas; nunca uma pessoa com demência real.
-- Capturas das tags: anexo **(sexta)**.
+- Capturas das tags: anexo **(terça)**.
 
 ## 6. Integração com a Udemy
 
-→ Resumo do `S8_Regras_Udemy.md` (o documento completo vai na pasta `05_Regras_Udemy`).
+A Udemy foi escolhida no S1 por ser gratuita, sem servidor e por ter regras oficiais e uma revisão de qualidade antes de publicar. O curso cumpre as regras para publicar: 5 secções com várias aulas, ≥ 30 min de vídeo (e menos de 2 h, por ser grátis), vídeo Full HD, áudio regravado depois do S7, página do curso completa (título, subtítulo, descrição, categoria Saúde e Fitness → Saúde mental, imagem 750 × 422), 5 objetivos de aprendizagem, público concreto, perfil do instrutor e preço Grátis. Foi submetido para revisão a 07/11 de manhã; estado final **(terça)**.
+
+Segue também as recomendações: uma atividade e um teste com feedback em cada secção, aulas curtas com uma ideia cada, legendas em português feitas a partir do guião e recursos para descarregar (PDFs da L2, links «Visita 3D»).
+
+O maior limite é a Udemy não aceitar iframes: o Matterport entra como vídeo gravado da visita, com as tags, dentro da aula, e como link «Visita 3D (opcional)» nos recursos; nenhum teste depende do link. Detalhe e fontes no `S8_Regras_Udemy` (pasta `05_Regras_Udemy`).
 
 ## 7. Navegação do curso
+
+O aluno entra pela página do curso, inscreve-se (grátis) e segue as 5 secções por ordem: L1 Compreender → L2 Antes → L3 Durante → L4 Durante (casa ou fora) → L5 Depois. Em cada secção: vídeos (gancho, conteúdo, aprofundamento) → atividade → teste → síntese com a ponte para a lição seguinte. Nas aulas com Matterport há um link «Visita 3D (opcional)» nos recursos. A Udemy guarda o progresso e deixa voltar a qualquer aula.
 
 → Imagem `S8_Navegacao_Curso_Grupo1.png` (também na pasta `03_Gantt_Navegacao`).
 
 ## 8. Gantt final
 
-→ `S2_Gantt_Grupo1.xlsx` atualizado com as datas reais até 10/11 (imagem aqui; o .xlsx na pasta `03_Gantt_Navegacao`). Tem de bater certo com o Gantt do S2 (.docx).
+O Gantt da equipa do S2 foi mantido até ao fim, com a coluna «Estado final (08/11)» (`S2_Gantt_Grupo1.xlsx`, igual ao do `S2_MOOC-choice_planning_Grupo1.docx`; imagem aqui, o .xlsx na pasta `03_Gantt_Navegacao`). O que mudou face ao plano:
+
+- **Matterport:** previsto para S3–S5; no S5 ficou em plano B (Discover) e, depois do pedido de 03/11, cada lição capturou a sua casa com tags (03/11 → 06/11).
+- **Vídeos:** previstos até ao S6; depois dos testes do S7 foram alargados para ≈ 8 min por lição e regravados.
+- **Teste com o público (SUS):** passou para os testes Alfa e Beta da PL de 03/11; o Google Forms foi cortado a 04/11.
+- **Revisão da Udemy:** prevista para S6–S7; o curso foi submetido a 07/11, quando chegou aos 30 min de vídeo.
 
 ## 9. Testes e melhorias (S7)
 
@@ -172,7 +184,7 @@ Cada lição tem uma componente para a pessoa (azul) e outra para quem cuida (la
 
 ## 11. O que aprendemos
 
-**[Grupo, 3–5 frases]** Ex.: testar cedo com outros grupos mostrou problemas que o autor não vê; uma regra da plataforma (30 min) mudou o desenho das lições; um modelo comum poupou tempo e deu coerência.
+**(Proposta, rever no grupo.)** Testar com outros grupos mostrou problemas que o autor não vê na sua própria lição: o estalo do microfone, a música alta, a resposta certa ser sempre a mais longa. Uma regra da plataforma (≥ 30 min de vídeo para publicar) mudou o desenho das lições na última semana: convém ler as regras de publicação logo no início. O modelo comum (diapositivos, ilustrações, cores azul/laranja, música) poupou tempo e deu coerência a 5 lições feitas por 5 pessoas. Capturar um espaço no Matterport pede preparação: planear os pontos de captura e tirar da casa tudo o que identifica quem lá vive.
 
 ## 12. Créditos e fontes
 

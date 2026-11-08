@@ -24,7 +24,7 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `S1_Analise_Plataformas.md`, `S1_Plataformas_Grupo1.xlsx` | S1 — análise de plataformas | Histórico |
 | `S1_Abordagens.md` | S1 — escolha Udemy + Google Forms | Histórico; as decisões posteriores prevalecem |
 | `S2_MOOC-choice_planning_Grupo1.docx` | S2 — tema, enquadramento, público, objetivo, plataforma, Gantt da equipa | Reentregue após o feedback; atualizado a partir do `P1_Tema_Matterport.md` |
-| `S2_Gantt_Grupo1.xlsx` | S2 — Gantt da equipa (folha «Gantt»), atualizado a 03/11 com as datas reais e a coluna M «Estado a 03/11» | Tem de bater certo com o Gantt do S2 (no `.docx`, numa página só, com a mesma coluna «Estado») |
+| `S2_Gantt_Grupo1.xlsx` | S2 — Gantt da equipa (folha «Gantt»), versão final a 08/11 com as datas reais e a coluna M «Estado final (08/11)» | Tem de bater certo com o Gantt do S2 (no `.docx`, numa página só, com a mesma coluna «Estado») |
 | `P1_Tema_Matterport.md` | Rascunho de trabalho do tema reescrito para crise + estudo do Matterport | **Fonte para atualizar o S2** |
 | `S3_MOOC_Template_Grupo1.xlsx` | S3 — MOOC Template (folhas «Enquadramento» e «Lições») | Versão mais detalhada das 5 lições |
 | `P1_Modelo_Licoes.pptx` | Modelo visual comum das 5 lições (guia oculto + 1 diapositivo de cada tipo) | Partilhado com o grupo; geral |
@@ -83,7 +83,7 @@ Cada lição tem a sua pasta `Files/P1/L<n>/`; o que é geral fica em `Files/P1/
 | S7 | 03/11 | 03/11 | Testes e validação (feitos na PL: Alfa = o autor testa a sua lição, Beta = outros grupos testam o nosso MOOC) |
 | S8 | 10/11 | 10/11 | Entrega final + apresentação presencial |
 
-**Fim do P1 (decidido a 04/11):** o MOOC tem de estar **publicado na Udemy até sex 06/11** (obrigatório); sáb 07 → ter 10/11 só para juntar a entrega e preparar a apresentação. O S8 entrega-se num só `.zip` (`CAMUL2627_P1_G1_1240441_1240493_1221391_1220901_1200929.zip`; o exemplo do enunciado usa `CAMUL2526_…`, confirmar o prefixo) com: MOOC completo (todas as lições) · relatório final do processo · Gantt final e esquema de funcionamento/navegação · guiões finais de todas as lições · análise das regras e diretrizes da Udemy · resultados dos testes e melhorias.
+**Fim do P1 (decidido a 04/11):** o MOOC tinha de estar **publicado na Udemy até sex 06/11** (obrigatório); **submetido para revisão a sáb 07/11 de manhã**, à espera da aprovação; sáb 07 → ter 10/11 só para juntar a entrega e preparar a apresentação. O S8 entrega-se num só `.zip` (`CAMUL2627_P1_G1_1240441_1240493_1221391_1220901_1200929.zip`; o exemplo do enunciado usa `CAMUL2526_…`, confirmar o prefixo) com: MOOC completo (todas as lições) · relatório final do processo · Gantt final e esquema de funcionamento/navegação · guiões finais de todas as lições · análise das regras e diretrizes da Udemy · resultados dos testes e melhorias.
 
 Aula 3: o tema da S2 tem de evoluir para um **contexto de crise/emergência/catástrofe/deslocação/conflito**, com 5 elementos diferenciadores: público específico, situação concreta, contexto real, decisões, contributo do Matterport.
 

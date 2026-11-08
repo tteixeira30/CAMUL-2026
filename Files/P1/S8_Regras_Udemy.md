@@ -1,6 +1,6 @@
 # S8 — Regras e diretrizes da Udemy: como o curso as cumpre (8.5)
 
-Nota de trabalho (04/11), para a pasta `05_Regras_Udemy` do .zip (exportar para PDF). Curso: «Socorros psicológicos: cuidador de demência em crise». Atualizado a 06/11; o que ainda falta está marcado **(falta)**.
+Nota de trabalho (04/11), para a pasta `05_Regras_Udemy` do .zip (exportar para PDF). Curso: «Socorros psicológicos: cuidador de demência em crise». Atualizado a 08/11: curso submetido para revisão a 07/11 (manhã). O que só se fecha na terça 10/11 está marcado **(terça)**.
 
 **Fontes:** centro de ajuda da Udemy para instrutores (*Course quality checklist*, *The Free Course Experience*, *Audio Standards*, *Describing your intended learners*, *Practice Activities: Quality Standards*), já usadas no S1 (`S1_Analise_Plataformas.md`). As regras que não estão nestas páginas confirmam-se na lista que a Udemy mostra ao «Enviar para revisão» (marcadas com «confirmar»).
 
@@ -15,15 +15,15 @@ Gratuita, sem servidor para manter, com regras oficiais e explícitas e uma revi
 | # | Regra da Udemy | Como o nosso curso cumpre | Estado |
 |---|---|---|---|
 | R1 | Pelo menos **5 aulas** | 5 secções (uma por lição), cada uma com 4–6 aulas + 1 teste | ✔ |
-| R2 | Pelo menos **30 min de vídeo** | 5 lições × ≈ 8–9 min de vídeo (L1 8:33, L2 ≈ 8:50). No Currículo, a 06/11: 25 min (a secção 4 ainda vazia) | **(falta)** |
+| R2 | Pelo menos **30 min de vídeo** | 5 lições × ≈ 8–9 min de vídeo (L1 8:33, L2 ≈ 8:50). A Udemy só deixa submeter com ≥ 30 min: submetido a 07/11. Duração exata do Currículo **(terça)** | ✔ (07/11) |
 | R3 | Curso **grátis: no máximo 2 h** de vídeo | ≈ 45 min | ✔ |
 | R4 | Vídeo em **HD** (720p ou mais) | Exportado do PowerPoint em Full HD 1080p | ✔ |
 | R5 | **Áudio** claro, nos dois canais, sincronizado com a imagem, sem ruído que distraia | Voz regravada depois dos testes do S7 (estalo, voz abafada); música baixa (4 % na L1); teste de áudio antes de gravar | ✔ L1 (06/11) |
 | R6 | **Página do curso** completa: título, subtítulo, descrição, idioma, nível, categoria, imagem | Título (52/60 caracteres), subtítulo (115/120), descrição ≈ 230 palavras, Português, Todos os níveis, Saúde e Fitness → Saúde mental, imagem 750 × 422 sem texto (`P1_Pagina_Udemy.md`) | ✔ (04/11) |
 | R7 | **Alunos-alvo:** pelo menos 4 objetivos de aprendizagem, requisitos, para quem é (público concreto, não «todos») | 5 objetivos (um por lição), requisitos «nenhum», 3 públicos concretos (cuidadores informais, familiares, voluntários e técnicos) | ✔ (04/11) |
-| R8 | **Perfil do instrutor** com fotografia e biografia (confirmar o mínimo de palavras) | Perfil do Bruno (instrutor principal): foto, título e biografia com ≈ 120 palavras (a Udemy pede pelo menos 50) | ✔ (06/11) |
+| R8 | **Perfil do instrutor** com fotografia e biografia (confirmar o mínimo de palavras) | Perfil do instrutor com foto, título e biografia (a Udemy pede pelo menos 50 palavras); sem isto a Udemy não deixa submeter | ✔ (07/11) |
 | R9 | **Preço** definido | Grátis | ✔ |
-| R10 | **Revisão de qualidade** antes de publicar (≈ 2 dias úteis) | Submeter assim que houver ≥ 30 min (a 06/11 ainda não submetido) | **(falta)** |
+| R10 | **Revisão de qualidade** antes de publicar (≈ 2 dias úteis) | Submetido a 07/11 (manhã); à espera da aprovação. Estado final **(terça)** | em revisão |
 
 ## 3. Recomendações da Udemy que seguimos
 
@@ -43,9 +43,9 @@ Gratuita, sem servidor para manter, com regras oficiais e explícitas e uma revi
 | **Sem iframes:** o Matterport não pode ficar dentro da aula | A visita entra de duas formas: (1) vídeo gravado da visita, com as tags, dentro do vídeo da aula; (2) link «Visita 3D (opcional)» nos recursos. O teste nunca depende do link |
 | **Curso grátis:** a Udemy limita as funcionalidades extra (confirmar: certificado, perguntas e respostas, mensagens) | O que importa para a aprendizagem (vídeo, artigos, recursos, testes) funciona. Testado: o teste aparece aos alunos num curso grátis (15/10 e 03/11) |
 | **Avaliação nativa só de escolha múltipla** | Testes da Udemy com feedback; atividades de reflexão em artigo, sem correção automática |
-| **Revisão fora do nosso controlo** | Submeter cedo (sexta de manhã); se a Udemy pedir correções, corrigir e voltar a submeter. Se não houver aprovação até 10/11, mostra-se a pré-visualização de aluno e a captura do estado «Em revisão» |
+| **Revisão fora do nosso controlo** | Submetido a 07/11 de manhã; se a Udemy pedir correções, corrige-se e volta-se a submeter. Se não houver aprovação até 10/11, mostra-se a pré-visualização de aluno e a captura do estado «Em revisão» |
 
-## 5. Evidências (capturas para o PDF, sexta)
+## 5. Evidências (capturas para o PDF, terça 10/11)
 
 - Currículo com a duração total de vídeo (≥ 30 min).
 - Página do curso publicada (vista de aluno).

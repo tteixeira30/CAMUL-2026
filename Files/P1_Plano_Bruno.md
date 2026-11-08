@@ -1,6 +1,6 @@
 # Plano do P1 — Bruno (04/11 → 10/11/2026)
 
-**06/11: a L1 está pronta e na Udemy (8:33 de vídeo, visita 3D na minha casa com 9 tags).** **O que falta:** o **curso publicado** (≥ 30 min; a 06/11 tinha 25, falta a secção 4) → ver «Sábado 07/11 · Começar por aqui» · sábado 07 → terça 10/11: juntar a entrega final (.zip) e preparar a apresentação · S8 e apresentação na terça 10/11. Depois vem o P2 (24/11).
+**06/11: a L1 está pronta e na Udemy (8:33 de vídeo, visita 3D na minha casa com 9 tags).** **07/11 (manhã): o curso foi submetido para revisão na Udemy** (o curso original do grupo; a cópia na conta do Bruno já não é precisa e a conta foi apagada). **O que falta:** a aprovação da Udemy e o link público · sábado 07 → terça 10/11: juntar a entrega final (.zip) e preparar a apresentação · S8 e apresentação na terça 10/11. Depois vem o P2 (24/11).
 
 **Decisões em vigor:**
 - **O curso tem de estar publicado na Udemy até sexta 06/11** (obrigatório): ≥ 30 min de vídeo no total → a L1 passa de 4 para ≈ 9 min de vídeo. **Sábado a terça** ficam só para juntar a entrega final e preparar a apresentação.
@@ -230,14 +230,14 @@ Na Udemy os títulos ficam sem «Aula N ·» (a Udemy numera: «Lecture 1:» …
 > **Ponto da situação (06/11, tarde):** a L1 tem **8:33 de vídeo** (1:10 · 3:12 · 1:47 · 1:51 · 0:33; na Udemy o curso passou de 20 para 25 min, o que bate certo): **passa os 8 min**. O curso tem **25 min** de vídeo (faltam ≈ 5 min para os 30; a secção 4 tem as 4 aulas vazias). Matterport: visita de 69 s com 6 tags no vídeo da Aula 2 + link «Visita 3D» nas Aulas 2 e 5 + atividade da Aula 5 com as 3 tags «Atividade»; crises nas tags (janela: incêndio/bombardeamento · refeições: confinamento · porta: cheia/incêndio/guerra). **Feito depois (06/11, fim da tarde):** E6, E7, E8, A9 e D3 (pelo Bruno) · P4 (já estava completo) · A6 saltado. **A parte do Bruno está feita.** **Falta (grupo):** secção 4 vazia · P1 ≥ 30 min (o curso tem 25) · P5 submeter. Confirmar que a cópia «Unpublished lecture: Quatro crises, a mesma pessoa» saiu do fim da secção 5 (a 06/11 ainda aparecia).
 
 ### Parte F · Publicar o curso (grupo, sexta até ao fim do dia: obrigatório)
-- [ ] **F0** [G] De manhã, mensagem no grupo: **todas as secções na Udemy até às 18:00 de sexta**, porque o curso tem de ficar publicado nesse dia. ★
-- [ ] **P1** [G] Somar no Currículo a duração de vídeo das 5 secções: **≥ 30 min** (e < 2 h). ★
+- [x] **F0** [G] De manhã, mensagem no grupo: **todas as secções na Udemy até às 18:00 de sexta**, porque o curso tem de ficar publicado nesse dia. ★
+- [x] **P1** [G] Somar no Currículo a duração de vídeo das 5 secções: **≥ 30 min** (e < 2 h). ★
   - Se faltar: dizer a cada um quanto falta. Não submeter antes.
 - [x] **P2** [G] Página de destino: título, subtítulo, descrição (≈ 200 palavras ou mais, a partir do S2), categoria Saúde e Fitness → Saúde mental, nível, idioma Português, imagem do curso **750 × 422 px**. ★
   - Feito a 04/11: textos e imagem (`P1/P1_Imagem_Curso_Udemy.png`). **Vídeo promocional: na sexta, depois do D2**, carregar o `L1_Aula1_Gancho.mp4` novo (opcional).
 - [x] **P3** [G] Alunos-alvo: pelo menos **4 objetivos**, requisitos («nenhum»), para quem é (cuidadores de pessoas com demência). ★ Feito (04/11).
 - [x] **P4** Perfil de instrutor: foto e biografia (≈ 50 palavras ou mais). Preço: **Grátis**. ★ Feito (confirmado a 06/11): preço Grátis, foto, título «Estudante no ISEP · Criador do curso «Cuidar em Crise»» e biografia com ≈ 120 palavras.
-- [ ] **P5** [G] **Submeter para revisão — sexta, assim que as 5 secções estiverem prontas.** ★
+- [x] **P5** [G] **Submeter para revisão — sexta, assim que as 5 secções estiverem prontas.** ★ Feito (07/11, manhã): submetido para revisão.
   - Se a Udemy recusar, mostra a lista do que falta: corrigir e voltar a submeter. Os números acima confirmam-se nessa lista.
   - A revisão da Udemy pode demorar: quanto mais cedo na sexta, melhor. Se na sexta à noite o curso ainda estiver «Em revisão», tirar uma captura desse estado e avisar a professora.
   - Quando for aprovado: copiar o **link público** para o relatório e para a apresentação.
@@ -249,29 +249,29 @@ Na Udemy os títulos ficam sem «Aula N ·» (a Udemy numera: «Lecture 1:» …
 > **O que se entrega (S8, Moodle):** MOOC completo (todas as lições) · relatório/documentação final do processo · Gantt final e esquema de funcionamento/navegação do curso · conteúdos/guiões finais de todas as lições · análise das regras e diretrizes da Udemy · resultados dos testes/avaliação e melhorias. **Um só ficheiro:** `CAMUL2627_P1_G1_1240441_1240493_1221391_1220901_1200929.zip` (o exemplo do enunciado é `CAMUL2526_P1_G1_1111111_2222222_3333333.zip`; confirmar se o prefixo é o do ano letivo, 2627).
 
 ### Sábado 07/11 · Começar por aqui
-- [ ] **S1** [G] **Publicar o curso** (ficou de sexta). ★ **07/11: o Ricardo ainda não pôs a secção 4.**
-  - Ver se a **secção 4** (L4, Ricardo) já tem vídeos. A 06/11 estava vazia e o curso tinha **25 min**. Se não tiver, falar com o Ricardo logo de manhã.
-  - Somar no Currículo: **≥ 30 min** (P1) → **Submeter para revisão** (P5). Copiar o link público para o relatório quando for aprovado.
+- [x] **S1** [G] **Submeter o curso para revisão** (ficou de sexta). ★ **Feito (07/11, manhã).**
+  - Quando for aprovado: copiar o **link público** para o relatório (8.1) e para a apresentação.
   - Se a revisão ainda não acabou na terça, levar uma captura do estado «Em revisão».
 - [x] **S2** Udemy: apagar a cópia «Unpublished lecture: Quatro crises, a mesma pessoa» no fim da secção 5, se ainda lá estiver. Feito (07/11).
-- [ ] **S3** Capturas do S8 (A9 e E7, tiradas a 06/11): **não estão no repositório**. Copiá-las para `Files\P1\L1\Capturas\` como `S8_Tag_1_L1.png` … `S8_Tag_9_L1.png` e `S8_<O que é>_L1.png` → pedir ao Claude o commit. **07/11: não há capturas novas no PC (procurado em Imagens, Transferências, Ambiente de trabalho, Documentos e OneDrive): ou estão no telemóvel ou não ficaram guardadas → tirar de novo na Udemy e no link do Matterport.**
+- [ ] **S3** Capturas do S8 (A9 e E7, tiradas a 06/11): **não estão no repositório**. Copiá-las para `Files\P1\L1\Capturas\` como `S8_Tag_1_L1.png` … `S8_Tag_9_L1.png` e `S8_<O que é>_L1.png` → pedir ao Claude o commit. **07/11: não há capturas novas no PC (procurado em Imagens, Transferências, Ambiente de trabalho, Documentos e OneDrive): ou estão no telemóvel ou não ficaram guardadas → tirar de novo na Udemy e no link do Matterport.** **Tirar na terça 10/11** (antes da aula), no curso e no link do Matterport.
 - [x] **S4** Guião da L1 em PDF (8.4): pedir ao Claude «exporta o Guiao_L1 para S8_Guiao_L1_Grupo1.pdf». Feito (07/11): guião passado à v3 final (durações reais, tempos de cada diapositivo, música a 4 %, visita na casa do Bruno, Discover resumido como histórico) → `P1/L1/S8_Guiao_L1_Grupo1.pdf` (7 páginas A4 ao baixo).
 - [ ] **S5** [G] Lembrar o grupo: cada um preenche a sua lição no `S8_Relatorio_Final.md` até **dom 08/11**.
+- [x] **S6** Cópia do curso na conta do Bruno (ID 7414731, feita a 07/11 quando a conta do Ricardo não passava a verificação de identidade): **já não é precisa**, o curso submetido é o original. Não submeter a cópia; apagá-la na Udemy ou deixá-la como rascunho. Feito (08/11): o Bruno apagou a conta (e a cópia com ela).
 
 ### Conteúdos do .zip (sáb 07 → seg 09/11)
 - [ ] **8.1** [G] **MOOC completo:** link público do curso + 1 captura de cada secção (5) + a duração total de vídeo. ★
   - Pasta do .zip: `01_MOOC` com um `Link_MOOC.txt` e as capturas.
-- [ ] **8.2** [G] *04/11: esqueleto em `P1/S8_Relatorio_Final.md` (cada um preenche a sua lição até dom 08/11); a parte da L1 em `P1/L1/S8_Relatorio_L1.md`.* **Relatório final do processo** (um só, do grupo). A parte da L1 é minha. ★ **07/11: a parte da L1 já está colada na secção 4.1.**
+- [ ] **8.2** [G] *04/11: esqueleto em `P1/S8_Relatorio_Final.md` (cada um preenche a sua lição até dom 08/11); a parte da L1 em `P1/L1/S8_Relatorio_L1.md`.* **Relatório final do processo** (um só, do grupo). A parte da L1 é minha. ★ **07/11: a parte da L1 já está colada na secção 4.1.** **08/11: o Claude escreveu as secções 2, 3, 6, 7, 8 e 11 (proposta, rever no grupo); faltam 4.2–4.5 e 10 (colegas) e o link público (terça).**
   - Do S1 ao S8: plataforma, tema, lições, produção, testes, publicação.
   - Decisões que mudaram: Discover → casas próprias com tags; L1 de 4 para ≈ 9 min de vídeo; regravação; publicação obrigatória.
   - Quem fez o quê (uma lição por pessoa + tarefas de grupo).
   - Pasta: `02_Relatorio` (PDF).
-- [ ] **8.3** [G] *04/11: esquema feito (`P1/S8_Navegacao_Curso_Grupo1.png`, fonte `.html`); falta o Gantt.* **Gantt final** (`S2_Gantt_Grupo1.xlsx` e o do `.docx`, iguais, com as datas reais) + **esquema de navegação** do curso. ★
+- [x] **8.3** [G] *04/11: esquema feito (`P1/S8_Navegacao_Curso_Grupo1.png`, fonte `.html`); falta o Gantt.* **Gantt final** (`S2_Gantt_Grupo1.xlsx` e o do `.docx`, iguais, com as datas reais) + **esquema de navegação** do curso. ★ **Feito (08/11):** Gantt final no `.xlsx` e no `.docx` do S2, iguais, com a coluna «Estado final (08/11)».
   - Esquema (diagrama): página do curso → inscrição → secções L1–L5 → em cada uma: vídeos → atividade → teste → síntese; link «Visita 3D» nas aulas com Matterport. (Sem Google Forms: cortado a 04/11.)
   - Pasta: `03_Gantt_Navegacao`.
 - [ ] **8.4** [G] **Guiões finais de todas as lições.** O da L1: `Guiao_L1.md` → `S8_Guiao_L1_Grupo1.pdf` (com a narração final, as 9 tags e a atividade). ★ **L1 feita (07/11).**
   - Pasta: `04_Guioes` (um PDF por lição).
-- [ ] **8.5** [G] *04/11: rascunho em `P1/S8_Regras_Udemy.md`; números na sexta.* **Análise das regras e diretrizes da Udemy** e como o curso as cumpre. ★
+- [ ] **8.5** [G] *04/11: rascunho em `P1/S8_Regras_Udemy.md`; números na sexta.* **Análise das regras e diretrizes da Udemy** e como o curso as cumpre. ★ **08/11: atualizado com a submissão de 07/11; a duração exata e as capturas ficam para terça.**
   - ≥ 30 min de vídeo, ≥ 5 aulas, vídeo HD, grátis < 2 h, página do curso completa, revisão de qualidade, quiz num curso grátis (confirmado), sem iframes (Matterport por vídeo + link).
   - Pasta: `05_Regras_Udemy`.
 - [ ] **8.6** [G] *04/11: L1 feita (`P1/L1/S8_Relatorio_L1.md`, Parte 8.6); resumo do grupo no relatório §9.* **Resultados dos testes e melhorias.** ★
@@ -316,7 +316,7 @@ Na Udemy os títulos ficam sem «Aula N ·» (a Udemy numera: «Lecture 1:» …
 
 | Questão | Quando |
 |---|---|
-| Todas as secções na Udemy até sexta às 18:00? O curso todo chega aos 30 min de vídeo? | sex 06/11 (F0, P1) |
+| A Udemy aprova o curso até ter 10/11? (submetido a 07/11) | ter 10/11 (S1) |
 | Prefixo do .zip: `CAMUL2627` (ano letivo) ou `CAMUL2526` (como no exemplo)? | sáb 07/11 |
 
 ---
@@ -325,14 +325,13 @@ Na Udemy os títulos ficam sem «Aula N ·» (a Udemy numera: «Lecture 1:» …
 
 | Risco | O que fazer |
 |---|---|
-| A revisão da Udemy não acaba até sexta | Submeter o mais cedo possível na sexta (P5); se ficar «Em revisão», captura do estado e avisar a professora |
+| A revisão da Udemy não acaba até ter 10/11 | Captura do estado «Em revisão» para o .zip e a apresentação; demonstração pela pré-visualização; avisar a professora |
 | Um colega não tem a secção pronta na sexta | Mensagem de manhã (F0); limite 18:00 |
 | A Matterport demora a processar o espaço | Capturar cedo; fazer B e C enquanto espera; se passar das 18:00, publicar com a Aula 2 antiga e substituí-la no sábado (A4) |
 | Erros de alinhamento na captura | Pontos mais perto (1,5 m), luz igual, portas abertas; repetir o ponto |
 | Algo pessoal aparece no 3D | Rever a visita antes de partilhar; voltar a capturar a divisão ou cobrir com uma tag |
 | Vídeo da L1 < 8 min | Falar mais devagar; visita mais longa (D3) |
 | Exportação parada nos 0 MB | Desativar a aceleração gráfica (D1) |
-| A revisão da Udemy demora | Submeter no sábado (P5); demonstração pela pré-visualização |
 
 ---
 

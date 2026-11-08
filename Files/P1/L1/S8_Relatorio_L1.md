@@ -35,7 +35,7 @@ Cada lição tem uma componente para a pessoa (azul) e outra para quem cuida (la
 | **S5 (27/10)** · protótipo | Ilustrações Storyset (estilo Amico), ícones das 4 crises, infografia dos 3 passos, música («High Class», Benjamin Andrews) e sons (relógio, sirene). Matterport em plano B: espaço público do Discover («La Tarasca», Zamora), gravado em vídeo (58 s) com 6 etiquetas feitas no PowerPoint por cima do vídeo |
 | **S6 (03/11)** · versão integrada | Voz gravada no PowerPoint; 3 vídeos exportados em Full HD (Aula 1 0:56 · Aula 2 2:44 · síntese 0:20); secção 1 montada na Udemy (5 itens); legendas `.vtt` em português feitas a partir da narração; link «Visita 3D» nos recursos |
 | **S7 (03/11)** · testes | Teste Alfa da L1 e Beta de 3 cursos de outros grupos; o nosso curso foi testado por outros grupos (ver Parte 8.6) |
-| **S8 (10/11)** · versão final | L1 com 8:33 de vídeo (2 aulas novas, 17 diapositivos), visita 3D numa casa real capturada com o iPhone e 9 tags dentro do Matterport, voz toda regravada, música mais baixa, legendas novas (5 `.vtt`), curso publicado **(publicação)** |
+| **S8 (10/11)** · versão final | L1 com 8:33 de vídeo (2 aulas novas, 17 diapositivos), visita 3D numa casa real capturada com o iPhone e 9 tags dentro do Matterport, voz toda regravada, música mais baixa, legendas novas (5 `.vtt`), curso submetido para revisão a 07/11 |
 
 ### Decisões que mudaram e porquê
 
@@ -45,7 +45,7 @@ Cada lição tem uma componente para a pessoa (azul) e outra para quem cuida (la
 | L1 com ≈ 4 min de vídeo (3 vídeos) | 8:33 (5 vídeos): Aula 3 «Quatro crises, a mesma pessoa» e Aula 4 «Sinais a que estar atento» | Só os vídeos contam para os ≈ 8 min da lição, e a Udemy só publica um curso grátis com ≥ 30 min de vídeo |
 | As crises só no gancho (o incêndio como exemplo) | Uma crise por diapositivo na Aula 3 e nas tags (janela, cozinha, porta) e nas 4 perguntas do teste | Feedback do S3: os cenários de crise também nas atividades e no Matterport |
 | Voz do S6, sem cara | Voz toda regravada **com a câmara ligada** (o autor num canto de cada diapositivo, menos na visita 3D), música de 15 % para 4 % | Testes do S7: estalo do microfone, música alta, voz abafada; um membro do grupo tem de aparecer no vídeo (professora) |
-| Curso só em pré-visualização | Curso publicado na Udemy até 06/11 | Requisito da entrega final |
+| Curso só em pré-visualização | Curso submetido para revisão na Udemy a 07/11 | Requisito da entrega final |
 
 ### Multimédia e créditos
 
@@ -81,4 +81,4 @@ Cada lição tem uma componente para a pessoa (azul) e outra para quem cuida (la
 
 **O que funcionou bem:** navegação e ordem das aulas, feedback do teste em todas as opções, artigo da atividade («muito rico em recursos complementares», Beta).
 
-**Capturas para o .zip (tiradas a 06/11; passar para `L1/Capturas/S8_*_L1.png`):** a secção 1 publicada, uma tag do Matterport, o Teste 1 com feedback, um vídeo com legendas.
+**Capturas para o .zip (tirar na terça 10/11 → `L1/Capturas/S8_*_L1.png`):** a secção 1 publicada, uma tag do Matterport, o Teste 1 com feedback, um vídeo com legendas.
