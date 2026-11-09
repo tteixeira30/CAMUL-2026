@@ -161,7 +161,55 @@ Componente para a pessoa (azul): o kit e a ficha da pessoa. Componente para quem
 **[Ricardo]** Base: `L4/Guiao_L4.md`.
 
 ### 4.5 L5 · Depois da crise (Evandro Carvalho)
-**[Evandro]** Base: `L5/Guiao_L5.md`.
+
+#### Papel da lição no curso
+
+A L5 é a lição «Depois»: fecha o percurso do MOOC a seguir à L4. Mostra como gerir o regresso a casa e o reajuste gradual após uma crise, dando atenção especial à exaustão acumulada do cuidador e aplicando a tríade de primeiros socorros psicológicos (Observar, Escutar, Encaminhar) para recuperar o equilíbrio e garantir o apoio de que ambos precisam.
+
+Objetivos: (1) compreender que o reajuste pós-crise exige tempo, paciência e a retoma gradual das rotinas; (2) reconhecer que o cansaço e a exaustão do cuidador se prolongam e requerem atenção ativa e autocuidado; (3) aplicar os 3 passos para recuperar a estabilidade emocional e comunitária.
+
+#### Estrutura final na Udemy (secção 5)
+
+| # | Item | Tipo | Duração |
+|---|---|---|---|
+| 1 | Aula 19 | O regresso a casa: Retomar, Vigiar e Apoiar | 1:12 |
+| 2 | Aula 20 | Depois da crise: Relembrar a casa da D. Rosa | 2:18 |
+| 3 | Aula 21 | O regresso e o reajuste | 1:55 |
+| 4 | Teste 5 | Teste a compreensão | 1,5 min |
+| 5 | Aula 22 | Síntese e conclusão do MOOC | 1:15 |
+| | **Total de vídeo** | | **8:10** |
+
+Cada lição tem uma componente para a pessoa (azul) e outra para quem cuida (laranja): na L5, a Aula 20 divide-se explicitamente entre a previsibilidade/rotina gradual para a D. Rosa (azul) e a exaustão acumulada e o pedido de ajuda para a Ana (laranja).
+
+#### Percurso, etapa a etapa
+
+| Etapa | O que se fez na L5 |
+|---|---|
+| **S4 (20/10)** · primeiras evidências | Plano da lição, guião com a narração exata por cena e storyboard, modelo visual comum aplicado ao PowerPoint, estrutura da visita 3D e Teste 5 (4 perguntas de escolha múltipla com feedback) criado na Udemy |
+| **S5 (27/10)** · protótipo |Ilustrações Storyset (estilo Amico), infografia dos pilares de regresso, música («High Class», Benjamin Andrews). Matterport em plano B: espaço do Discover («La Tarasca», Zamora), integrado com a visita gravada e etiquetas criadas no PowerPoint alusivas ao pós-crise (reconhecimento de referências, retoma de rotinas de refeição, descanso do cuidador) |
+| **S6 (03/11)** · versão integrada | Voz gravada no PowerPoint; vídeos exportados em Full HD; secção 5 montada na Udemy; legendas .vtt em português criadas a partir do guião e sincronizadas com as pausas da voz |
+| **S7 (03/11)** · testes |Teste Alfa da L5 e Beta cruzado com outros grupos (revisão de aspetos de áudio e clareza das opções de teste) |
+| **S8 (10/11)** · versão final | Otimização dos tempos de vídeo para cumprir a meta global da lição (≈ 8 min), regravação pontual de voz com a câmara ligada (conforme diretriz pós-testes), validação das legendas e curso submetido para revisão na Udemy a 07/11 |
+
+#### Decisões que mudaram e porquê
+
+| Antes | Depois | Porquê |
+|---|---|---|
+| L5 focada apenas numa síntese muito rápida e sem aprofundar o pós-crise | Aprofundamento estruturado em 4 pilares (regresso, rotina, vigilância, apoio) e aplicação prática dos 3 passos | Garantir simetria pedagógica com as lições anteriores e dar relevo ao desgaste invisível do cuidador no pós-crise |
+| Matterport com foco genérico no espaço | Visita guiada focada especificamente no pós-crise (espaço familiar, retoma de horários de refeição, espaço de descanso do cuidador) | Alinhamento com o feedback do S3 para que as temáticas da lição se reflitam diretamente no espaço 3D |
+| Voz do S6 sem imagem do autor | IRegravação parcial/total da locução com a câmara ligada num canto do diapositivo | Decisão pedagógica do grupo para cumprir os requisitos de presença visual do instrutor validados nos testes Beta |
+| Teste 5 com opções iniciais muito desequilibradas | Refinamento das 4 perguntas e respetivos feedbacks detalhados em cada alínea («Certo, porque…» / «Ainda não:…») | Assegurar que o teste funciona como ferramenta de aprendizagem autónoma na Udemy |
+
+#### Multimédia e créditos
+
+- **Vídeo:** PowerPoint (modelo comum, 21 diapositivos) → vídeo Full HD 1080p, com a narração, a câmara e os tempos gravados; um vídeo por aula.
+- **Ilustrações:** Storyset (storyset.com), estilo Amico, recoloridas (azul = D. Rosa, laranja = Ana), com atribuição. **Planos de pormenor** filmados com o telemóvel (só mãos e objetos, sem nomes nem dados reais).
+- **Música e sons:** «High Class», Benjamin Andrews (Biblioteca de Áudio do YouTube), a mesma da L1; sirene e relógio da L1 no gancho.
+- **Visita 3D:** Matterport, espaço «Casa D. Rosa» (o mesmo da L1, «não listado»), visita «Caça ao kit» de 1:39 dentro da Aula 8, 8 paragens com o balão da tag aberto; link «Visita 3D (opcional)» na Aula 9; nenhum teste depende do link.
+- **Recursos:** 3 PDFs A4 para descarregar (checklist do kit, ficha da pessoa, plano de apoio); no vídeo da atividade, a ficha e o plano aparecem preenchidos com dados fictícios da D. Rosa e da Ana.
+- **Fontes do conteúdo:** Alzheimer's Association, *In a Disaster* (lista do kit); ADI (2022) *Advice for carers… during times of crisis*; Peterson et al. (2023) e Donohoe et al. (2023), preparação para catástrofes de quem cuida de pessoas com demência.
+- **Acessibilidade:** legendas em português (pt-PT) nos 4 vídeos (8 + 61 + 32 + 6), com o texto do guião e os tempos medidos na fala; azul = pessoa, laranja = quem cuida.
+
 
 ### Tabela comum (para a secção 6: soma dos 30 min)
 
@@ -171,8 +219,7 @@ Componente para a pessoa (azul): o kit e a ficha da pessoa. Componente para quem
 | L2 | 4 | 8:10 | Complete o kit (vídeo + 3 PDFs) | Teste 2 (4) | casa do Bruno (o mesmo espaço da L1), 8 |
 | L3 | **[Rodrigo]** | | | | |
 | L4 | **[Ricardo]** | | | | |
-| L5 | **[Evandro]** | | | | |
-| **Total** | | **≥ 30 min** (a Udemy aceitou a submissão a 07/11; total exato **(terça)**) | | | |
+| L5 | 5 | 8:00 | Atividade: Reflexão guiada / Leituras | Teste: Teste 5 (4) | Matterport: Espaço Discover («La Tarasca»), 5 tags |
 
 ## 5. Matterport
 
