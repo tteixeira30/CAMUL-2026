@@ -8,20 +8,21 @@ Nota de trabalho (05/11/2026, atualizada a 09/11). Projeto da teórica: site que
 |---|---|---|
 | QEF do Grupo 2 (composição visual) | sex 06/11 | Preenchido a 05/11 (`ComposicaoVisual_QEF_Avaliacao_Grupo2.xlsx`, q ≈ 0,69). Entregue a 06/11 |
 | Scope document · Gantt, estrutura e organização | qua 11/11, 23:55 | v1 feita a 09/11 (`Plataforma_Scope_Document_Grupo1.docx` + `.pdf`, 5 páginas): todas as secções preenchidas. Falta o grupo rever e confirmar os responsáveis do Gantt; exportar o PDF de novo e submeter |
-| Scope document · QEF (Usabilidade, Funcionalidade, Estética) | seg 16/11, 23:55 (o Moodle diz «dom»: 16/11 era domingo em 2025, ano errado como no storyboard) | Por fazer. Base: `ComposicaoVisual_QEF_Grupo1.xlsx` e `Exemplos/QEF_PlataformaMOOC G1 final.xlsx` |
-| Scope document · Storyboard | «16/11/2025» no Moodle → ano errado, perguntado à professora | Por fazer |
+| Scope document · QEF (Usabilidade, Funcionalidade, Estética) | seg 16/11, 23:55 (o Moodle diz «dom»: 16/11 era domingo em 2025) | Por fazer. É uma **proposta** de cenário de qualidade para a nossa plataforma (critérios e parâmetros); a professora valida-a e depois usa-a para avaliar o site. Base: o exemplo do portfólio da professora (`Exemplos/QEF_Final_MOOC_Portfolio 26-27.xlsx`), `ComposicaoVisual_QEF_Grupo1.xlsx` e `Exemplos/QEF_PlataformaMOOC G1 final.xlsx` |
+| Scope document · Storyboard | qua 18/11 (confirmado no Moodle a 09/11) | Por fazer |
 | Scope document · Plano de marketing | qua 18/11, 23:55 | Por fazer. Modelos em `Exemplos/Marketing_Plan_*.pdf` |
-| Produto final + testes Alfa, Beta, Gama | ? (o plano da UC tem «Entrega Apres. P2» na semana de 30/11) | Perguntado à professora |
+| Produto final + testes Alfa e Beta | **qua 25/11** | Alfa = o grupo testa o seu site antes · Beta = a equipa adversária, no dia da apresentação. Sem teste Gama |
 
 ## O Scope document (`Scope document 26-27.docx` → `Plataforma_Scope_Document_Grupo1.docx`)
 
-O modelo da professora fica intacto; o nosso é `Plataforma_Scope_Document_Grupo1.docx`, em português, com os títulos do modelo traduzidos. **Decisão provisória (09/11), enquanto a professora não responde:** é um só documento que cresce: cada entrega acrescenta uma secção (QEF, storyboard, marketing) e submete-se o PDF da versão atual. Se a professora pedir documentos separados, cada secção sai para o seu ficheiro. A partir da v1, edita-se o `.docx` diretamente no Word.
+O modelo da professora fica intacto; o nosso é `Plataforma_Scope_Document_Grupo1.docx`, em português, com os títulos do modelo traduzidos. **Confirmado pela professora (09/11):** é um só documento que cresce: cada entrega acrescenta uma secção (QEF, storyboard, marketing) e submete-se o PDF da versão atual. A partir da v1, edita-se o `.docx` diretamente no Word.
 
 
 Secções: título · problema · objetivo · plano · público-alvo · entregáveis · referências.
 - O objetivo do modelo fala em «sustainability and/or energy transition» (sobra do ano passado) → o nosso é alojar o MOOC «Cuidar em Crise».
 - Problema, objetivo e público → reutilizar do S2 e do `P1_Tema_Matterport.md`.
-- Entregáveis do modelo: avatar D-ID (✅ os 5 da composição visual), Scope document, plano + Gantt, storyboard/mockups/ecrãs-chave, plano de marketing, plano de testes Alfa/Beta/Gama, inquérito + resultados Alfa, inquérito + resultados Beta, produto final.
+- Entregáveis do modelo: avatar D-ID (✅ os 5 da composição visual), Scope document, plano + Gantt, storyboard/mockups/ecrãs-chave, plano de marketing, plano de testes Alfa/Beta (o Gama do modelo ignora-se), inquérito + resultados Alfa, inquérito + resultados Beta, produto final.
+- Integração com a Udemy: não é obrigatória (professora, 09/11); podemos seguir a estrutura proposta.
 - Vantagem do site sobre a Udemy: o Matterport entra em iframe; os vídeos e os quizzes podem estar no site, com ligação para o curso na Udemy.
 - Ponto de partida: a página da composição visual (publicada em https://timely-tanuki-231d93.netlify.app).
 
@@ -29,18 +30,29 @@ Secções: título · problema · objetivo · plano · público-alvo · entregá
 
 | Quando | O quê |
 |---|---|
-| Seg 09/11 | Sem resposta da professora → email reenviado (resposta ao primeiro: datas a seg 16/11, documento único em PDF, tema) · Scope document v1 feita (rascunho) · o grupo confirma a divisão |
+| Seg 09/11 | Resposta da professora (ver no fim) · antes: sem resposta da professora → email reenviado (resposta ao primeiro: datas a seg 16/11, documento único em PDF, tema) · Scope document v1 feita (rascunho) · o grupo confirma a divisão |
 | Qui 05/11 | Email à professora · QEF do G2 preenchido; o grupo revê à noite |
 | Sex 06/11 | Entregar o QEF do G2 · resto do dia para a Udemy (P1) |
 | Sáb 07 → ter 10/11 | Prioridade ao P1 (S8 a 10/11). Só copiar para o Scope document os textos que já existem |
 | Qua 11/11 | Scope document v1: plano, Gantt, estrutura (mapa do site: Início → Curso → Lição 1–5 com vídeo, Matterport e quiz → Sobre nós com os avatares → Contactos), organização |
-| 12 → dom 16/11 | QEF da plataforma · storyboard dos ecrãs-chave (início, lista de lições, página de lição, quiz, equipa) |
+| 12 → seg 16/11 | QEF da plataforma (proposta) |
+| 12 → qua 18/11 | Storyboard dos ecrãs-chave (início, lista de lições, página de lição, quiz, equipa) |
 | Qua 18/11 | Plano de marketing (missão, recursos, ambiente, 7P, SWOT, ciclo de vida, ações, orçamento, calendário) |
-| Depois | Construir o site · plano de testes · testes Alfa, Beta, Gama · entrega final |
+| 16 → qua 25/11 | Construir o site · plano de testes · teste Alfa · entrega final a 25/11 (Beta no dia da apresentação) |
 
 Divisão proposta (a decidir pelo grupo; a 09/11 ainda não decidida, está no Gantt da v1 como proposta): Bruno → Gantt e estrutura · Tiago + Rodrigo → storyboard · Ricardo + Evandro → marketing · QEF → quem fez o da composição visual.
 
-## Email à professora (rascunho)
+## Resposta da professora (09/11)
+
+1. **Storyboard:** **18/11/2026** (o nosso Moodle já está certo).
+2. **Formato:** as entregas são versões sucessivas do Scope document, com as novas secções acrescentadas.
+3. **Udemy:** não é preciso integrar o site com a Udemy; podemos seguir a estrutura que propusemos.
+4. **QEF:** proposta de cenário de qualidade para a nossa plataforma (critérios e parâmetros relevantes). Todos os cenários são analisados e validados e depois servem para avaliar a plataforma. Exemplo no Moodle: cenário de qualidade da plataforma do portfólio.
+5. **Testes:** Alfa = a própria equipa; Beta = a equipa adversária, no dia da apresentação da plataforma.
+
+Confirmado depois (09/11): o tema é o «Cuidar em Crise»; o avatar D-ID da composição visual serve; a entrega final é a **25/11**; o teste Gama ignora-se.
+
+## Email à professora (enviado a 05/11, reenviado a 09/11)
 
 **Assunto:** CAMUL – Grupo 1 – Dúvidas sobre o projeto da plataforma (Scope document)
 

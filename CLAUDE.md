@@ -150,9 +150,10 @@ Padrão de cada lição (S3): Gancho 1 min → Vídeo 3 min → Atividade 2 min 
 
 - Site que «aloja» o MOOC, a partir da página da composição visual (publicada em https://timely-tanuki-231d93.netlify.app).
 - Modelo: `Scope document 26-27.docx` (o objetivo do modelo ainda fala em sustentabilidade, sobra do ano passado).
-- `Plataforma_Scope_Document_Grupo1.docx`, `.pdf`: o nosso Scope document, v1 a 09/11 (5 páginas: título, problema, objetivo, plano com Gantt, estrutura do site, organização e riscos, público, entregáveis, referências). Um só documento que cresce a cada entrega (decisão provisória); edita-se no Word. O QEF e o storyboard são a **seg** 16/11 (o Moodle tem o ano de 2025).
-- Entregas: Gantt, estrutura e organização 11/11 · QEF (Usabilidade, Funcionalidade, Estética) 16/11 · Storyboard 16/11 (no Moodle está 2025, por confirmar) · Plano de marketing 18/11.
-- Plano, dúvidas e email à professora em `Plataforma_Plano.md`.
+- `Plataforma_Scope_Document_Grupo1.docx`, `.pdf`: o nosso Scope document, v1 a 09/11 (5 páginas: título, problema, objetivo, plano com Gantt, estrutura do site, organização e riscos, público, entregáveis, referências). Um só documento que cresce a cada entrega (confirmado pela professora a 09/11); edita-se no Word.
+- Entregas: Gantt, estrutura e organização 11/11 · QEF 16/11 (proposta de cenário de qualidade da nossa plataforma; a professora valida e usa-o para avaliar; exemplo da professora: `Exemplos/QEF_Final_MOOC_Portfolio 26-27.xlsx`) · Storyboard 18/11 · Plano de marketing 18/11 · **Entrega final 25/11**.
+- Integração com a Udemy não é obrigatória. Testes: Alfa = o grupo, Beta = a equipa adversária no dia da apresentação; o Gama do modelo ignora-se. Tema: «Cuidar em Crise» (confirmado); os avatares D-ID da composição visual servem de vídeo de apresentação.
+- Plano, email e resposta da professora (09/11) em `Plataforma_Plano.md`.
 
 ## Regras de coerência
 
