@@ -155,7 +155,55 @@ Componente para a pessoa (azul): o kit e a ficha da pessoa. Componente para quem
 - **Acessibilidade:** legendas em português (pt-PT) nos 4 vídeos (8 + 61 + 32 + 6), com o texto do guião e os tempos medidos na fala; azul = pessoa, laranja = quem cuida.
 
 ### 4.3 L3 · Primeiro contacto: acalmar (Rodrigo Silva)
-**[Rodrigo]**
+
+#### Papel da lição no curso
+
+A L3 é a lição «Durante» (primeiro contacto): vem a seguir à L2, que prepara a casa e a dupla, e mostra o que fazer nos primeiros minutos da crise. Retoma a D. Rosa e a Ana na casa da D. Rosa e responde à pergunta «como falo com alguém em pânico?». Mostra a mesma cena duas vezes (a versão errada e a certa) para o aluno ver que o tom pesa mais do que as palavras e que a calma começa em quem cuida. Resume-se no acrónimo P.A.R.A.R.: Pausa, Aproximar-se, Reduzir estímulos, Acolher, Reconfortar.
+
+**Objetivos:** (1) reconhecer os sinais de angústia da pessoa e os sinais de stress em quem cuida; (2) acalmar-se antes de falar (pausa de 10 s, inspirar contando até 4, expirar contando até 6); (3) aproximar-se e falar de forma que acalme (frases que agravam vs frases que acalmam, uma ideia por frase); (4) reduzir os estímulos da casa (televisão, janelas, portas, espelhos) e criar um canto calmo com um objeto de conforto.
+
+#### Estrutura final na Udemy (secção 3)
+
+| # | Item | Tipo | Duração |
+|---|---|---|---|
+| 1 | Aula 11 · Quando a pessoa entra em pânico | Vídeo (gancho) | 0:35 |
+| 2 | Aula 12 · Certo vs Errado: o que fazer | Vídeo, com a visita 3D | 4:56 |
+| 3 | Aula 13 · Visita 3D | Texto (artigo) com o link «Visita 3D» | - |
+| 4 | Aula 14 · Acalmar-se para acalmar: respiração guiada | Vídeo (atividade) | 1:53 |
+| 5 | Teste 3 · Teste a compreensão | Quiz, 4 perguntas com feedback | 1,5 min |
+| 6 | Aula 15 · Síntese e próxima lição | Vídeo (ponte para a L4) | 0:38 |
+| | **Total de vídeo** | | **8:02** |
+
+Componente para a pessoa (azul): reduzir estímulos e o canto calmo. Componente para quem cuida (laranja): reconhecer os sinais em si e respirar antes de falar. No Matterport há 11 tags, 10 azuis e 1 laranja.
+
+#### Percurso, etapa a etapa
+
+| Etapa | O que se fez na L3 |
+|---|---|
+| **S4 (20/10)** · primeiras evidências | Plano da lição, guião com a narração por cena, `.pptx` no modelo comum (10 diapositivos), atividade «Respiração guiada» e Teste 3 (4 perguntas com feedback) na Udemy |
+| **S5 (27/10)** · protótipo | Matterport em plano B: espaço público do Discover («La Tarasca»), visita à sala gravada e incluída no vídeo, com 5 pontos destacados |
+| **S6 (03/11)** · versão integrada | Voz gravada no PowerPoint, Secção 3 montada na Udemy com as 5 secções do curso |
+| **S7 (03/11)** · testes | Teste Alfa da L3 (ver secção 9): voz com nível diferente, sem legendas, ≈ 4 min de vídeo |
+| **S8 (10/11)** · versão final | L3 com 8:02 de vídeo (4 vídeos, 13 diapositivos), 3 diapositivos novos (sinais de angústia em quem cuida, frases que agravam vs frases que acalmam, «E se a pessoa continua a recusar?»), respiração guiada alargada para 1:53, captura do matterport, visita 3D na casa da D. Rosa com 11 tags, voz regravada, legendas novas (3 `.vtt`) |
+
+#### Decisões que mudaram e porquê
+
+| Antes | Depois | Porquê |
+|---|---|---|
+| L3 com ≈ 4 min de vídeo | 8:02 (4 vídeos): 3 diapositivos novos e a respiração guiada alargada | Só os vídeos contam para os ≈ 8 min, e a Udemy só publica um curso grátis com ≥ 30 min de vídeo. Os blocos novos aprofundam o que já estava (sinais, frases, recusa) |
+| Matterport: espaço do Discover, etiquetas no PowerPoint | Sala da D. Rosa, com 11 tags dentro do Matterport | Pedido da professora (03/11) e testes Beta: o espaço tem de ser nosso e ter tags |
+| Sem legendas | Legendas `.vtt` em português (pt-PT) nos 3 vídeos com fala | Teste Alfa: faltavam legendas |
+| Voz com nível diferente, música alta | Voz regravada e música mais baixa | Teste Alfa e Beta |
+| Voz sem cara | Câmara ligada na regravação exceto nos diapositivos de versão certa e versão errada | Um membro do grupo tem de aparecer no vídeo (professora, 03/11) |
+
+#### Multimédia e créditos
+
+- **Vídeo:** PowerPoint (modelo comum, 13 diapositivos) → vídeo Full HD 1080p, com a narração e os tempos gravados; um vídeo por aula.
+- **Ilustrações:** originais, criadas para a lição no modelo visual comum, com apoio de IA.
+- **Música:** «High Class», Benjamin Andrews (Biblioteca de Áudio do YouTube), a mesma das outras lições.
+- **Visita 3D:** Matterport, sala da D. Rosa, 11 tags, vídeo da visita dentro da Aula 12; link «Visita 3D (opcional)» na Aula 13; nenhum teste depende do link.
+- **Fontes do conteúdo:** OMS (2011) *Psychological First Aid*; ADI (2022) *Advice for carers… during times of crisis*.
+- **Acessibilidade:** legendas em português (pt-PT) nos 3 vídeos com fala (Gancho, Certo vs Errado, Síntese); azul = pessoa, laranja = quem cuida.
 
 ### 4.4 L4 · Necessidades e encaminhamento (Ricardo Ferreira)
 **[Ricardo]** Base: `L4/Guiao_L4.md`.
@@ -217,13 +265,13 @@ Cada lição tem uma componente para a pessoa (azul) e outra para quem cuida (la
 |---|---|---|---|---|---|
 | L1 | 5 | 8:33 | O que dá segurança? | Teste 1 (4) | casa do Bruno, 9 |
 | L2 | 4 | 8:10 | Complete o kit (vídeo + 3 PDFs) | Teste 2 (4) | casa do Bruno (o mesmo espaço da L1), 8 |
-| L3 | **[Rodrigo]** | | | | |
+| L3 | 4 | 8:02 | Respiração Guiada | Teste 3 (4) | Sala do Rodrigo, 11 |
 | L4 | **[Ricardo]** | | | | |
 | L5 | 5 | 8:00 | Atividade: Reflexão guiada / Leituras | Teste: Teste 5 (4) | Matterport: Espaço Discover («La Tarasca»), 5 tags |
 
 ## 5. Matterport
 
-- Cada lição usa uma casa capturada pelo grupo com a app Matterport Capture, apresentada como a casa fictícia da D. Rosa e da Ana (L1 e L2: casa do Bruno, o mesmo espaço «Casa D. Rosa», cada lição com as suas tags; **[L3–L5]**).
+- Cada lição usa uma casa capturada pelo grupo com a app Matterport Capture, apresentada como a casa fictícia da D. Rosa e da Ana (L1 e L2: casa do Bruno, o mesmo espaço «Casa D. Rosa», cada lição com as suas tags; L3: sala do Rodrigo, representa a «Sala da D. Rosa», 11 tags; **[L4–L5]**).
 - **Tags:** azul = pessoa com demência, laranja = quem cuida; título com o prefixo da lição (ex.: «L1 · Sofá»); as crises aparecem nas tags (feedback do S3).
 - **Na Udemy:** a Udemy não aceita iframes → vídeo gravado da visita dentro da aula + link «Visita 3D (opcional)» nos recursos; nenhum teste depende do link.
 - **Privacidade:** espaços «não listados»; casas preparadas antes da captura (sem fotografias de família, documentos, morada); ninguém nas divisões capturadas; nunca uma pessoa com demência real.
@@ -266,7 +314,7 @@ O Gantt da equipa do S2 foi mantido até ao fim, com a coluna «Estado final (08
 | Nenhum membro do grupo no vídeo | todas | Câmara ligada na regravação |
 | A resposta certa do teste é a mais longa | L1, L2 | Opções reescritas (já na Udemy) |
 
-**Alfa, por lição:** L1 → `L1/S8_Relatorio_L1.md`, Parte 8.6 · L2: posição das certas no Teste 2 (passam a A, C, B, C), nota «opcional» no link 3D, crises nas tags, PDFs com nomes para os alunos (06/11); mais as melhorias comuns da tabela acima (8:10 de vídeo, tags no Matterport, câmara ligada) · **[Rodrigo]** L3: voz com nível diferente, sem legendas, ≈ 4 min de vídeo · **[Ricardo]** L4: narração em falta, sem legendas · **[Evandro]** L5: microfone abafado, sem legendas.
+**Alfa, por lição:** L1 → `L1/S8_Relatorio_L1.md`, Parte 8.6 · L2: posição das certas no Teste 2 (passam a A, C, B, C), nota «opcional» no link 3D, crises nas tags, PDFs com nomes para os alunos (06/11); mais as melhorias comuns da tabela acima (8:10 de vídeo, tags no Matterport, câmara ligada) · L3: voz com nível diferente, sem legendas, ≈ 4 min de vídeo; melhorias: 8:02 de vídeo, legendas `.vtt`, voz e música regravadas · **[Ricardo]** L4: narração em falta, sem legendas · **[Evandro]** L5: microfone abafado, sem legendas.
 
 ## 10. Quem fez o quê
 
@@ -274,7 +322,7 @@ O Gantt da equipa do S2 foi mantido até ao fim, com a coluna «Estado final (08
 |---|---|---|
 | Bruno Lopes | L1 | Modelo visual comum, página do curso na Udemy, esquema de navegação, regras da Udemy, relatório e .zip |
 | Tiago Teixeira | L2 | Repositório GitHub do grupo (criado a 10/10, ramos por lição, Git LFS para os `.pptx` com vídeo a 06/11), recursos comuns do S5 (ilustrações Storyset, estilo Amico, e música «High Class»), curso na Udemy |
-| Rodrigo Silva | L3 | **[Rodrigo]** |
+| Rodrigo Silva | L3 | Guião, Vídeos, Quiz e Legendas da L3 |
 | Ricardo Ferreira | L4 | **[Ricardo]** |
 | Evandro Carvalho | L5 | **[Evandro]** |
 
