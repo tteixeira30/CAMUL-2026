@@ -9,7 +9,7 @@ Nota de trabalho (04/11; atualizada a 08/11). Fonte do `S8_Relatorio_Final_Grupo
 **Cuidar em Crise — Primeiros socorros psicológicos para cuidadores de pessoas com demência**
 CAMUL 2026/2027 · ISEP · P1 · Grupo 1
 Bruno Lopes (1240441) · Tiago Teixeira (1240493) · Rodrigo Silva (1221391) · Ricardo Ferreira (1220901) · Evandro Carvalho (1200929)
-Curso na Udemy: «Socorros psicológicos: cuidador de demência em crise» · link público **(terça)** · 10/11/2026
+Curso na Udemy: «Socorros psicológicos: cuidador de demência em crise» · https://www.udemy.com/course/socorros-psicologicos-cuidador-de-demencia-em-crise/ · 10/11/2026
 
 ## 1. O curso em resumo
 
@@ -135,7 +135,7 @@ Cada lição tem uma componente para a pessoa (azul) e outra para quem cuida (la
 
 ## 6. Integração com a Udemy
 
-A Udemy foi escolhida no S1 por ser gratuita, sem servidor e por ter regras oficiais e uma revisão de qualidade antes de publicar. O curso cumpre as regras para publicar: 5 secções com várias aulas, ≥ 30 min de vídeo (e menos de 2 h, por ser grátis), vídeo Full HD, áudio regravado depois do S7, página do curso completa (título, subtítulo, descrição, categoria Saúde e Fitness → Saúde mental, imagem 750 × 422), 5 objetivos de aprendizagem, público concreto, perfil do instrutor e preço Grátis. Foi submetido para revisão a 07/11 de manhã; estado final **(terça)**.
+A Udemy foi escolhida no S1 por ser gratuita, sem servidor e por ter regras oficiais e uma revisão de qualidade antes de publicar. O curso cumpre as regras para publicar: 5 secções com várias aulas, ≥ 30 min de vídeo (e menos de 2 h, por ser grátis), vídeo Full HD, áudio regravado depois do S7, página do curso completa (título, subtítulo, descrição, categoria Saúde e Fitness → Saúde mental, imagem 750 × 422), 5 objetivos de aprendizagem, público concreto, perfil do instrutor e preço Grátis. Foi submetido para revisão a 07/11 de manhã, aprovado e publicado (https://www.udemy.com/course/socorros-psicologicos-cuidador-de-demencia-em-crise/).
 
 Segue também as recomendações: uma atividade e um teste com feedback em cada secção, aulas curtas com uma ideia cada, legendas em português feitas a partir do guião e recursos para descarregar (PDFs da L2, links «Visita 3D»).
 

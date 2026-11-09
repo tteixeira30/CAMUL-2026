@@ -33,6 +33,7 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `S8_Regras_Udemy.md` | S8 — regras e diretrizes da Udemy e como o curso as cumpre (8.5) | Nota de trabalho (04/11); números finais na sexta 06/11 |
 | `S8_Navegacao_Curso.html`, `S8_Navegacao_Curso_Grupo1.png` | S8 — esquema de navegação do curso (8.3), 1600 × 900 | O `.html` é a fonte; o PNG exporta-se com o Edge (`--headless --screenshot --window-size=1600,900`) |
 | `S8_Conteudo_Zip.md` | S8 — o que entra em cada pasta do .zip, de onde vem e o estado | Nota de trabalho; o .zip monta-se a partir daqui na seg 09/11 |
+| `S8_Apresentacao_Grupo1.html` | S8 — apresentação final (8.8), ≈ 20 min, 17 diapositivos 16:9 que abrem no browser: «vender o MOOC» (abertura no escuro com a sirene, números, a Ana, concorrência, produto a 0 €, 5 lições, pergunta do Teste 1 à plateia, demonstração ao vivo, testes, Udemy, processo, QR code para a inscrição) | Feita a 09/11. → / espaço / clique = seguinte (revela os passos primeiro), F = ecrã inteiro, **T = modo ensaio** (quem fala, cronómetro e tempo-alvo de cada diapositivo em `data-t`). Quem fala é proposta; os diap. 9–11 (L3–L5) confirmam-se com o Rodrigo, o Ricardo e o Evandro. O QR code precisa de internet (cdnjs) |
 | `L1/` | Tudo o que é só da L1 (Bruno) | Ver abaixo |
 | `L1/S4_Plano_L1.md` | S4 — plano da L1: evidências, calendário, estrutura do PDF | Nota de trabalho |
 | `L1/Guiao_L1.md`, `L1/S8_Guiao_L1_Grupo1.pdf` | Guião da L1, do S4 ao S8 (narração exata por cena, com os tempos gravados), Matterport (9 tags, visita), atividade, quiz com feedback, percurso S4 → S8. v3 final a 07/11 | **Fonte da narração**: as notas do `.pptx` e o guião do `.docx` vêm daqui. O PDF (8.4, 7 páginas A4 ao baixo) gera-se do `.md` com o pacote npm `marked` (instalado numa pasta temporária) + Edge `--headless --print-to-pdf` |
@@ -83,7 +84,7 @@ Cada lição tem a sua pasta `Files/P1/L<n>/`; o que é geral fica em `Files/P1/
 | S7 | 03/11 | 03/11 | Testes e validação (feitos na PL: Alfa = o autor testa a sua lição, Beta = outros grupos testam o nosso MOOC) |
 | S8 | 10/11 | 10/11 | Entrega final + apresentação presencial |
 
-**Fim do P1 (decidido a 04/11):** o MOOC tinha de estar **publicado na Udemy até sex 06/11** (obrigatório); **submetido para revisão a sáb 07/11 de manhã**, à espera da aprovação; sáb 07 → ter 10/11 só para juntar a entrega e preparar a apresentação. O S8 entrega-se num só `.zip` (`CAMUL2627_P1_G1_1240441_1240493_1221391_1220901_1200929.zip`; o exemplo do enunciado usa `CAMUL2526_…`, confirmar o prefixo) com: MOOC completo (todas as lições) · relatório final do processo · Gantt final e esquema de funcionamento/navegação · guiões finais de todas as lições · análise das regras e diretrizes da Udemy · resultados dos testes e melhorias.
+**Fim do P1 (decidido a 04/11):** o MOOC tinha de estar **publicado na Udemy até sex 06/11** (obrigatório); **submetido para revisão a sáb 07/11 de manhã, aprovado e publicado** (https://www.udemy.com/course/socorros-psicologicos-cuidador-de-demencia-em-crise/); sáb 07 → ter 10/11 só para juntar a entrega e preparar a apresentação. O S8 entrega-se num só `.zip` (`CAMUL2627_P1_G1_1240441_1240493_1221391_1220901_1200929.zip`, prefixo confirmado a 09/11) com: MOOC completo (todas as lições) · relatório final do processo · Gantt final e esquema de funcionamento/navegação · guiões finais de todas as lições · análise das regras e diretrizes da Udemy · resultados dos testes e melhorias.
 
 Aula 3: o tema da S2 tem de evoluir para um **contexto de crise/emergência/catástrofe/deslocação/conflito**, com 5 elementos diferenciadores: público específico, situação concreta, contexto real, decisões, contributo do Matterport.
 
@@ -149,6 +150,7 @@ Padrão de cada lição (S3): Gancho 1 min → Vídeo 3 min → Atividade 2 min 
 
 - Site que «aloja» o MOOC, a partir da página da composição visual (publicada em https://timely-tanuki-231d93.netlify.app).
 - Modelo: `Scope document 26-27.docx` (o objetivo do modelo ainda fala em sustentabilidade, sobra do ano passado).
+- `Plataforma_Scope_Document_Grupo1.docx`, `.pdf`: o nosso Scope document, v1 a 09/11 (5 páginas: título, problema, objetivo, plano com Gantt, estrutura do site, organização e riscos, público, entregáveis, referências). Um só documento que cresce a cada entrega (decisão provisória); edita-se no Word. O QEF e o storyboard são a **seg** 16/11 (o Moodle tem o ano de 2025).
 - Entregas: Gantt, estrutura e organização 11/11 · QEF (Usabilidade, Funcionalidade, Estética) 16/11 · Storyboard 16/11 (no Moodle está 2025, por confirmar) · Plano de marketing 18/11.
 - Plano, dúvidas e email à professora em `Plataforma_Plano.md`.
 

@@ -23,7 +23,7 @@ Gratuita, sem servidor para manter, com regras oficiais e explícitas e uma revi
 | R7 | **Alunos-alvo:** pelo menos 4 objetivos de aprendizagem, requisitos, para quem é (público concreto, não «todos») | 5 objetivos (um por lição), requisitos «nenhum», 3 públicos concretos (cuidadores informais, familiares, voluntários e técnicos) | ✔ (04/11) |
 | R8 | **Perfil do instrutor** com fotografia e biografia (confirmar o mínimo de palavras) | Perfil do instrutor com foto, título e biografia (a Udemy pede pelo menos 50 palavras); sem isto a Udemy não deixa submeter | ✔ (07/11) |
 | R9 | **Preço** definido | Grátis | ✔ |
-| R10 | **Revisão de qualidade** antes de publicar (≈ 2 dias úteis) | Submetido a 07/11 (manhã); à espera da aprovação. Estado final **(terça)** | em revisão |
+| R10 | **Revisão de qualidade** antes de publicar (≈ 2 dias úteis) | Submetido a 07/11 (manhã); aprovado e publicado: https://www.udemy.com/course/socorros-psicologicos-cuidador-de-demencia-em-crise/ | ✔ |
 
 ## 3. Recomendações da Udemy que seguimos
 

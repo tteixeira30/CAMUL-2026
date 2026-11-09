@@ -1,6 +1,6 @@
 # Plano do P1 — Bruno (04/11 → 10/11/2026)
 
-**06/11: a L1 está pronta e na Udemy (8:33 de vídeo, visita 3D na minha casa com 9 tags).** **07/11 (manhã): o curso foi submetido para revisão na Udemy** (o curso original do grupo; a cópia na conta do Bruno já não é precisa e a conta foi apagada). **O que falta:** a aprovação da Udemy e o link público · sábado 07 → terça 10/11: juntar a entrega final (.zip) e preparar a apresentação · S8 e apresentação na terça 10/11. Depois vem o P2 (24/11).
+**06/11: a L1 está pronta e na Udemy (8:33 de vídeo, visita 3D na minha casa com 9 tags).** **07/11 (manhã): o curso foi submetido para revisão na Udemy** (o curso original do grupo; a cópia na conta do Bruno já não é precisa e a conta foi apagada). **09/11: aprovado e publicado** (https://www.udemy.com/course/socorros-psicologicos-cuidador-de-demencia-em-crise/). **O que falta:** sábado 07 → terça 10/11: juntar a entrega final (.zip) e preparar a apresentação · S8 e apresentação na terça 10/11. Depois vem o P2 (24/11).
 
 **Decisões em vigor:**
 - **O curso tem de estar publicado na Udemy até sexta 06/11** (obrigatório): ≥ 30 min de vídeo no total → a L1 passa de 4 para ≈ 9 min de vídeo. **Sábado a terça** ficam só para juntar a entrega final e preparar a apresentação.
@@ -249,7 +249,7 @@ Na Udemy os títulos ficam sem «Aula N ·» (a Udemy numera: «Lecture 1:» …
 > **O que se entrega (S8, Moodle):** MOOC completo (todas as lições) · relatório/documentação final do processo · Gantt final e esquema de funcionamento/navegação do curso · conteúdos/guiões finais de todas as lições · análise das regras e diretrizes da Udemy · resultados dos testes/avaliação e melhorias. **Um só ficheiro:** `CAMUL2627_P1_G1_1240441_1240493_1221391_1220901_1200929.zip` (o exemplo do enunciado é `CAMUL2526_P1_G1_1111111_2222222_3333333.zip`; confirmar se o prefixo é o do ano letivo, 2627).
 
 ### Sábado 07/11 · Começar por aqui
-- [x] **S1** [G] **Submeter o curso para revisão** (ficou de sexta). ★ **Feito (07/11, manhã).**
+- [x] **S1** [G] **Submeter o curso para revisão** (ficou de sexta). ★ **Feito (07/11, manhã). Aprovado e publicado (09/11): https://www.udemy.com/course/socorros-psicologicos-cuidador-de-demencia-em-crise/**
   - Quando for aprovado: copiar o **link público** para o relatório (8.1) e para a apresentação.
   - Se a revisão ainda não acabou na terça, levar uma captura do estado «Em revisão».
 - [x] **S2** Udemy: apagar a cópia «Unpublished lecture: Quatro crises, a mesma pessoa» no fim da secção 5, se ainda lá estiver. Feito (07/11).

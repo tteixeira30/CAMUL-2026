@@ -1,19 +1,22 @@
 # Plataforma multimédia na Web — plano das teóricas (Grupo 1)
 
-Nota de trabalho (05/11/2026). Projeto da teórica: site que «aloja» o MOOC «Cuidar em Crise», com as regras de composição visual. Professora: Paula Escudeiro. Aulas teóricas à quarta.
+Nota de trabalho (05/11/2026, atualizada a 09/11). Projeto da teórica: site que «aloja» o MOOC «Cuidar em Crise», com as regras de composição visual. Professora: Paula Escudeiro. Aulas teóricas à quarta.
 
 ## Entregas
 
 | Entrega | Data limite | Estado |
 |---|---|---|
-| QEF do Grupo 2 (composição visual) | sex 06/11 | Preenchido a 05/11 (`ComposicaoVisual_QEF_Avaliacao_Grupo2.xlsx`, q ≈ 0,69), com os critérios da apresentação confirmados; pronto a entregar |
-| Scope document · Gantt, estrutura e organização | qua 11/11, 23:55 | Por fazer |
-| Scope document · QEF (Usabilidade, Funcionalidade, Estética) | dom 16/11, 23:55 | Por fazer. Base: `ComposicaoVisual_QEF_Grupo1.xlsx` e `Exemplos/QEF_PlataformaMOOC G1 final.xlsx` |
+| QEF do Grupo 2 (composição visual) | sex 06/11 | Preenchido a 05/11 (`ComposicaoVisual_QEF_Avaliacao_Grupo2.xlsx`, q ≈ 0,69). Entregue a 06/11 |
+| Scope document · Gantt, estrutura e organização | qua 11/11, 23:55 | v1 feita a 09/11 (`Plataforma_Scope_Document_Grupo1.docx` + `.pdf`, 5 páginas): todas as secções preenchidas. Falta o grupo rever e confirmar os responsáveis do Gantt; exportar o PDF de novo e submeter |
+| Scope document · QEF (Usabilidade, Funcionalidade, Estética) | seg 16/11, 23:55 (o Moodle diz «dom»: 16/11 era domingo em 2025, ano errado como no storyboard) | Por fazer. Base: `ComposicaoVisual_QEF_Grupo1.xlsx` e `Exemplos/QEF_PlataformaMOOC G1 final.xlsx` |
 | Scope document · Storyboard | «16/11/2025» no Moodle → ano errado, perguntado à professora | Por fazer |
 | Scope document · Plano de marketing | qua 18/11, 23:55 | Por fazer. Modelos em `Exemplos/Marketing_Plan_*.pdf` |
 | Produto final + testes Alfa, Beta, Gama | ? (o plano da UC tem «Entrega Apres. P2» na semana de 30/11) | Perguntado à professora |
 
-## O Scope document (`Scope document 26-27.docx`)
+## O Scope document (`Scope document 26-27.docx` → `Plataforma_Scope_Document_Grupo1.docx`)
+
+O modelo da professora fica intacto; o nosso é `Plataforma_Scope_Document_Grupo1.docx`, em português, com os títulos do modelo traduzidos. **Decisão provisória (09/11), enquanto a professora não responde:** é um só documento que cresce: cada entrega acrescenta uma secção (QEF, storyboard, marketing) e submete-se o PDF da versão atual. Se a professora pedir documentos separados, cada secção sai para o seu ficheiro. A partir da v1, edita-se o `.docx` diretamente no Word.
+
 
 Secções: título · problema · objetivo · plano · público-alvo · entregáveis · referências.
 - O objetivo do modelo fala em «sustainability and/or energy transition» (sobra do ano passado) → o nosso é alojar o MOOC «Cuidar em Crise».
@@ -26,6 +29,7 @@ Secções: título · problema · objetivo · plano · público-alvo · entregá
 
 | Quando | O quê |
 |---|---|
+| Seg 09/11 | Sem resposta da professora → reenviar o email · Scope document v1 feita (rascunho) · o grupo confirma a divisão |
 | Qui 05/11 | Email à professora · QEF do G2 preenchido; o grupo revê à noite |
 | Sex 06/11 | Entregar o QEF do G2 · resto do dia para a Udemy (P1) |
 | Sáb 07 → ter 10/11 | Prioridade ao P1 (S8 a 10/11). Só copiar para o Scope document os textos que já existem |
@@ -34,7 +38,7 @@ Secções: título · problema · objetivo · plano · público-alvo · entregá
 | Qua 18/11 | Plano de marketing (missão, recursos, ambiente, 7P, SWOT, ciclo de vida, ações, orçamento, calendário) |
 | Depois | Construir o site · plano de testes · testes Alfa, Beta, Gama · entrega final |
 
-Divisão proposta (a decidir pelo grupo): Bruno → Gantt e estrutura · Tiago + Rodrigo → storyboard · Ricardo + Evandro → marketing · QEF → quem fez o da composição visual.
+Divisão proposta (a decidir pelo grupo; a 09/11 ainda não decidida, está no Gantt da v1 como proposta): Bruno → Gantt e estrutura · Tiago + Rodrigo → storyboard · Ricardo + Evandro → marketing · QEF → quem fez o da composição visual.
 
 ## Email à professora (rascunho)
 
