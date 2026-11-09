@@ -29,7 +29,7 @@ Secções: título · problema · objetivo · plano · público-alvo · entregá
 
 | Quando | O quê |
 |---|---|
-| Seg 09/11 | Sem resposta da professora → reenviar o email · Scope document v1 feita (rascunho) · o grupo confirma a divisão |
+| Seg 09/11 | Sem resposta da professora → email reenviado (resposta ao primeiro: datas a seg 16/11, documento único em PDF, tema) · Scope document v1 feita (rascunho) · o grupo confirma a divisão |
 | Qui 05/11 | Email à professora · QEF do G2 preenchido; o grupo revê à noite |
 | Sex 06/11 | Entregar o QEF do G2 · resto do dia para a Udemy (P1) |
 | Sáb 07 → ter 10/11 | Prioridade ao P1 (S8 a 10/11). Só copiar para o Scope document os textos que já existem |
