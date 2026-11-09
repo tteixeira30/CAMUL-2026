@@ -7,7 +7,7 @@ Nota de trabalho (05/11/2026, atualizada a 09/11). Projeto da teórica: site que
 | Entrega | Data limite | Estado |
 |---|---|---|
 | QEF do Grupo 2 (composição visual) | sex 06/11 | Preenchido a 05/11 (`ComposicaoVisual_QEF_Avaliacao_Grupo2.xlsx`, q ≈ 0,69). Entregue a 06/11 |
-| Scope document · Gantt, estrutura e organização | qua 11/11, 23:55 | v1 feita a 09/11 (`Plataforma_Scope_Document_Grupo1.docx` + `.pdf`, 5 páginas): todas as secções preenchidas. Falta o grupo rever e confirmar os responsáveis do Gantt; exportar o PDF de novo e submeter |
+| Scope document · Gantt, estrutura e organização | qua 11/11, 23:55 | v1 feita a 09/11 (`Plataforma_Scope_Document_Grupo1.docx` + `.pdf`, 5 páginas): todas as secções preenchidas. Gantt só com datas (09/11); só as páginas das lições têm responsável. Falta o grupo rever e submeter o PDF |
 | Scope document · QEF (Usabilidade, Funcionalidade, Estética) | seg 16/11, 23:55 (o Moodle diz «dom»: 16/11 era domingo em 2025) | Por fazer. É uma **proposta** de cenário de qualidade para a nossa plataforma (critérios e parâmetros); a professora valida-a e depois usa-a para avaliar o site. Base: o exemplo do portfólio da professora (`Exemplos/QEF_Final_MOOC_Portfolio 26-27.xlsx`), `ComposicaoVisual_QEF_Grupo1.xlsx` e `Exemplos/QEF_PlataformaMOOC G1 final.xlsx` |
 | Scope document · Storyboard | qua 18/11 (confirmado no Moodle a 09/11) | Por fazer |
 | Scope document · Plano de marketing | qua 18/11, 23:55 | Por fazer. Modelos em `Exemplos/Marketing_Plan_*.pdf` |
@@ -40,7 +40,7 @@ Secções: título · problema · objetivo · plano · público-alvo · entregá
 | Qua 18/11 | Plano de marketing (missão, recursos, ambiente, 7P, SWOT, ciclo de vida, ações, orçamento, calendário) |
 | 16 → qua 25/11 | Construir o site · plano de testes · teste Alfa · entrega final a 25/11 (Beta no dia da apresentação) |
 
-Divisão proposta (a decidir pelo grupo; a 09/11 ainda não decidida, está no Gantt da v1 como proposta): Bruno → Gantt e estrutura · Tiago + Rodrigo → storyboard · Ricardo + Evandro → marketing · QEF → quem fez o da composição visual.
+Divisão (decidida a 09/11): o trabalho é feito em grupo, exceto as páginas das lições, que ficam com o autor da lição no P1 (L1 Bruno, L2 Tiago, L3 Rodrigo, L4 Ricardo, L5 Evandro). O Gantt do Scope document tem as datas de início e de fim de cada tarefa, sem coluna de responsáveis.
 
 ## Resposta da professora (09/11)
 
