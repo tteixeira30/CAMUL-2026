@@ -103,7 +103,56 @@ Cada lição tem uma componente para a pessoa (azul) e outra para quem cuida (la
 - **Acessibilidade:** legendas em português (pt-PT) em todos os vídeos, feitas a partir do guião; texto curto; cores com contraste; azul = pessoa, laranja = quem cuida em todo o lado.
 
 ### 4.2 L2 · Preparar antes (Tiago Teixeira)
-**[Tiago]** Base: `L2/Guiao_L2.md`, `L2/S6_Integracao_L2_Grupo1.docx`.
+
+#### Papel da lição no curso
+
+A L2 é a lição «Antes»: vem a seguir à L1 (compreender) e prepara a casa e a dupla para a crise, antes de ela chegar. Continua a história da L1: o mesmo alerta de incêndio, agora visto por quem **não** estava preparado (a Ana corre de gaveta em gaveta e a D. Rosa fica cada vez mais agitada). Daí parte para três coisas que se preparam hoje.
+
+**Objetivos:** (1) montar um kit de emergência adaptado à pessoa com demência; (2) preencher a ficha da pessoa (medicação, como comunica, o que a acalma, o que a perturba, contactos); (3) definir um plano de apoio para quem cuida (rede de contactos e quem a substitui).
+
+#### Estrutura final na Udemy (secção 2)
+
+| # | Item | Tipo | Duração |
+|---|---|---|---|
+| 1 | Aula 7 · O dia em que nada estava pronto | Vídeo (gancho) | 0:30 |
+| 2 | Aula 8 · Preparar antes | Vídeo: kit, visita 3D, ficha da pessoa, plano de apoio, ficar ou sair, «Três crises, o mesmo kit» | 4:42 |
+| 3 | Aula 9 · Atividade: complete o kit | Vídeo (atividade) + texto + 3 PDFs (`Checklist_Kit`, `Ficha_Pessoa`, `Plano_Apoio`) + link «Visita 3D» | 2:27 |
+| 4 | Teste 2 · Quiz | Quiz, 4 perguntas com feedback | 1,5 min |
+| 5 | Aula 10 · Síntese e próximo passo | Vídeo (ponte para a L3) | 0:31 |
+| | **Total de vídeo** | | **8:10** |
+
+Componente para a pessoa (azul): o kit e a ficha da pessoa. Componente para quem cuida (laranja): o plano de apoio. No Matterport há 7 tags azuis e 1 laranja.
+
+#### Percurso, etapa a etapa
+
+| Etapa | O que se fez na L2 |
+|---|---|
+| **S4 (20/10)** · primeiras evidências | Plano da lição, guião com a narração exata por cena e storyboard, `.pptx` no modelo comum, 3 recursos em PDF (checklist do kit, ficha da pessoa, plano de apoio), secção 2 criada na Udemy com a atividade «Complete o kit» e o Teste 2 (4 perguntas com feedback) |
+| **S5 (27/10)** · protótipo | Crises na atividade e nas tags (feedback do S3). Ilustrações Storyset (estilo Amico) recoloridas, planos de pormenor dos objetos do kit filmados com o telemóvel, música e sons da L1, voz gravada no PowerPoint. Matterport em plano B: o espaço do Discover «La Tarasca», o mesmo da L1, com a visita «Caça ao kit» gravada (66 s) e 8 etiquetas feitas no PowerPoint por cima do vídeo |
+| **S6 (03/11)** · versão integrada | Legendas `.vtt` em português nos 3 vídeos (publicadas a 27/10); secção 2 verificada como aluno, já com as 5 secções no curso; 3:54 de vídeo (Aula 5 0:33 · Aula 6 2:59 · síntese 0:22) |
+| **S7 (03/11)** · testes | Teste Alfa da L2 e Beta de cursos de outros grupos; o nosso curso foi testado por outros grupos (ver secção 9) |
+| **S8 (10/11)** · versão final | L2 com 8:10 de vídeo (4 vídeos, 21 diapositivos), voz toda regravada com a câmara ligada, visita 3D regravada na casa da D. Rosa com 8 tags dentro do Matterport, atividade também em vídeo, bloco novo «Três crises, o mesmo kit», legendas novas (4 `.vtt`), Teste 2 com as certas noutras posições |
+
+#### Decisões que mudaram e porquê
+
+| Antes | Depois | Porquê |
+|---|---|---|
+| Matterport: espaço público do Discover, etiquetas no PowerPoint | Espaço «Casa D. Rosa» (casa do Bruno, capturada a 06/11, o mesmo da L1) com **8 tags da L2 dentro do Matterport** (3 com as crises: caminho livre, rede de apoio, o kit); visita regravada (1:39) com o balão de cada tag aberto | Pedido da professora (03/11) e testes Beta: o espaço tem de ser nosso e ter tags. A mesma casa nas duas lições mantém a casa da D. Rosa igual para o aluno; cada lição tem as suas tags |
+| L2 com 3:54 de vídeo (3 vídeos) | 8:10 (4 vídeos): a atividade passou a vídeo («Complete o kit», 2:27) e a Aula 8 ganhou o bloco «Três crises, o mesmo kit» | Só os vídeos contam para os ≈ 8 min, e a Udemy só publica um curso grátis com ≥ 30 min de vídeo. Os blocos novos não trazem matéria nova: passam para vídeo a atividade e as crises do teste e das tags. Uma proposta de 04/11 (casa do Tiago, aula nova «Os três documentos») ficou de fora |
+| As crises só no gancho (o incêndio) | Incêndio, cheia e conflito armado na atividade, em 3 tags e no bloco «Três crises, o mesmo kit» (o que pesa mais em cada crise) | Feedback do S3: os cenários de crise também nas atividades e no Matterport |
+| Voz do S5, sem cara | Voz toda regravada **com a câmara ligada** (o autor num canto, longe dos balões das tags na visita 3D), música mais baixa e em todos os diapositivos | Um membro do grupo tem de aparecer no vídeo (professora, 03/11) |
+| Teste 2 com a certa em B, B, A, B (e a mais longa) | Certas em A, C, B, C | Testes do S7: a resposta certa era fácil de adivinhar |
+| PDFs `S4_*_L2.pdf` | `Checklist_Kit.pdf`, `Ficha_Pessoa.pdf`, `Plano_Apoio.pdf` | A Udemy mostra o nome do ficheiro aos alunos |
+
+#### Multimédia e créditos
+
+- **Vídeo:** PowerPoint (modelo comum, 21 diapositivos) → vídeo Full HD 1080p, com a narração, a câmara e os tempos gravados; um vídeo por aula.
+- **Ilustrações:** Storyset (storyset.com), estilo Amico, recoloridas (azul = D. Rosa, laranja = Ana), com atribuição. **Planos de pormenor** filmados com o telemóvel (só mãos e objetos, sem nomes nem dados reais).
+- **Música e sons:** «High Class», Benjamin Andrews (Biblioteca de Áudio do YouTube), a mesma da L1; sirene e relógio da L1 no gancho.
+- **Visita 3D:** Matterport, espaço «Casa D. Rosa» (o mesmo da L1, «não listado»), visita «Caça ao kit» de 1:39 dentro da Aula 8, 8 paragens com o balão da tag aberto; link «Visita 3D (opcional)» na Aula 9; nenhum teste depende do link.
+- **Recursos:** 3 PDFs A4 para descarregar (checklist do kit, ficha da pessoa, plano de apoio); no vídeo da atividade, a ficha e o plano aparecem preenchidos com dados fictícios da D. Rosa e da Ana.
+- **Fontes do conteúdo:** Alzheimer's Association, *In a Disaster* (lista do kit); ADI (2022) *Advice for carers… during times of crisis*; Peterson et al. (2023) e Donohoe et al. (2023), preparação para catástrofes de quem cuida de pessoas com demência.
+- **Acessibilidade:** legendas em português (pt-PT) nos 4 vídeos (8 + 61 + 32 + 6), com o texto do guião e os tempos medidos na fala; azul = pessoa, laranja = quem cuida.
 
 ### 4.3 L3 · Primeiro contacto: acalmar (Rodrigo Silva)
 **[Rodrigo]**
@@ -119,7 +168,7 @@ Cada lição tem uma componente para a pessoa (azul) e outra para quem cuida (la
 | Lição | Aulas de vídeo | Vídeo (min) | Atividade | Teste | Matterport (casa, n.º de tags) |
 |---|---|---|---|---|---|
 | L1 | 5 | 8:33 | O que dá segurança? | Teste 1 (4) | casa do Bruno, 9 |
-| L2 | 4 | ≈ 8:50 **[Tiago]** | Complete o kit (+ 3 PDFs) | Teste 2 (4) | casa do Tiago, 10 |
+| L2 | 4 | 8:10 | Complete o kit (vídeo + 3 PDFs) | Teste 2 (4) | casa do Bruno (o mesmo espaço da L1), 8 |
 | L3 | **[Rodrigo]** | | | | |
 | L4 | **[Ricardo]** | | | | |
 | L5 | **[Evandro]** | | | | |
@@ -127,7 +176,7 @@ Cada lição tem uma componente para a pessoa (azul) e outra para quem cuida (la
 
 ## 5. Matterport
 
-- Cada lição usa uma casa capturada pelo grupo com a app Matterport Capture, apresentada como a casa fictícia da D. Rosa e da Ana (L1 casa do Bruno, L2 casa do Tiago; **[L3–L5]**).
+- Cada lição usa uma casa capturada pelo grupo com a app Matterport Capture, apresentada como a casa fictícia da D. Rosa e da Ana (L1 e L2: casa do Bruno, o mesmo espaço «Casa D. Rosa», cada lição com as suas tags; **[L3–L5]**).
 - **Tags:** azul = pessoa com demência, laranja = quem cuida; título com o prefixo da lição (ex.: «L1 · Sofá»); as crises aparecem nas tags (feedback do S3).
 - **Na Udemy:** a Udemy não aceita iframes → vídeo gravado da visita dentro da aula + link «Visita 3D (opcional)» nos recursos; nenhum teste depende do link.
 - **Privacidade:** espaços «não listados»; casas preparadas antes da captura (sem fotografias de família, documentos, morada); ninguém nas divisões capturadas; nunca uma pessoa com demência real.
@@ -170,14 +219,14 @@ O Gantt da equipa do S2 foi mantido até ao fim, com a coluna «Estado final (08
 | Nenhum membro do grupo no vídeo | todas | Câmara ligada na regravação |
 | A resposta certa do teste é a mais longa | L1, L2 | Opções reescritas (já na Udemy) |
 
-**Alfa, por lição:** L1 → `L1/S8_Relatorio_L1.md`, Parte 8.6 · **[Tiago]** L2: nomes dos PDFs, nota no link 3D, crises e posição das certas no Teste 2 (corrigido a 03/11) · **[Rodrigo]** L3: voz com nível diferente, sem legendas, ≈ 4 min de vídeo · **[Ricardo]** L4: narração em falta, sem legendas · **[Evandro]** L5: microfone abafado, sem legendas.
+**Alfa, por lição:** L1 → `L1/S8_Relatorio_L1.md`, Parte 8.6 · L2: posição das certas no Teste 2 (passam a A, C, B, C), nota «opcional» no link 3D, crises nas tags, PDFs com nomes para os alunos (06/11); mais as melhorias comuns da tabela acima (8:10 de vídeo, tags no Matterport, câmara ligada) · **[Rodrigo]** L3: voz com nível diferente, sem legendas, ≈ 4 min de vídeo · **[Ricardo]** L4: narração em falta, sem legendas · **[Evandro]** L5: microfone abafado, sem legendas.
 
 ## 10. Quem fez o quê
 
 | Elemento | Lição | Tarefas de grupo |
 |---|---|---|
 | Bruno Lopes | L1 | Modelo visual comum, página do curso na Udemy, esquema de navegação, regras da Udemy, relatório e .zip |
-| Tiago Teixeira | L2 | **[Tiago]** |
+| Tiago Teixeira | L2 | Repositório GitHub do grupo (criado a 10/10, ramos por lição, Git LFS para os `.pptx` com vídeo a 06/11), recursos comuns do S5 (ilustrações Storyset, estilo Amico, e música «High Class»), curso na Udemy |
 | Rodrigo Silva | L3 | **[Rodrigo]** |
 | Ricardo Ferreira | L4 | **[Ricardo]** |
 | Evandro Carvalho | L5 | **[Evandro]** |
@@ -189,4 +238,4 @@ O Gantt da equipa do S2 foi mantido até ao fim, com a coluna «Estado final (08
 ## 12. Créditos e fontes
 
 - Ilustrações: Storyset (storyset.com), estilo Amico · Música: «High Class», Benjamin Andrews (Biblioteca de Áudio do YouTube) · Visitas 3D: Matterport, casas capturadas pelo grupo.
-- Conteúdo: OMS (2011) *Psychological First Aid* · ADI (2019) *Forgotten in a Crisis* · ADI (2022) *Advice for carers… during times of crisis* · Alzheimer Portugal · OCDE (2017) · ISS (out. 2025) · Lei n.º 100/2019 (Estatuto do Cuidador Informal).
+- Conteúdo: OMS (2011) *Psychological First Aid* · Alzheimer's Association *In a Disaster* · ADI (2019) *Forgotten in a Crisis* · ADI (2022) *Advice for carers… during times of crisis* · Alzheimer Portugal · OCDE (2017) · ISS (out. 2025) · Lei n.º 100/2019 (Estatuto do Cuidador Informal).

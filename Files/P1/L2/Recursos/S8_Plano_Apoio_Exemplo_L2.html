@@ -1,0 +1,71 @@
+﻿<!doctype html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<title>Plano de apoio · exemplo da Ana</title>
+<link rel="stylesheet" href="recursos.css">
+<style>
+  /* Versão horizontal e preenchida, para o diapositivo A6 do vídeo da atividade. Dados fictícios (os mesmos contactos do diap. 8). */
+  html, body { width: 1600px; height: 600px; overflow: hidden; }
+  body { font-size: 19px; padding: 28px 36px; background: #fff; }
+  header { margin-bottom: 14px; padding-bottom: 10px; border-bottom-width: 6px; }
+  header .curso { font-size: 15px; }
+  h1 { font-size: 36px; }
+  header .sub { font-size: 19px; }
+  .grid { display: grid; grid-template-columns: 1.25fr 1fr; gap: 34px; }
+  h2 { font-size: 21px; margin: 12px 0 6px; padding: 4px 10px; border-radius: 6px; }
+  .campo { margin: 7px 0; }
+  .campo .l { height: auto; min-height: 28px; }
+  .v { font-family: "Segoe Print", "Segoe UI", sans-serif; color: #9C4A0E; font-size: 19px; line-height: 1.2; }
+  .campo .l.v { padding: 0 4px 2px; }
+  table { margin: 4px 0 6px; }
+  th { font-size: 16px; padding: 4px 6px; }
+  td { height: auto; padding: 6px 6px; font-size: 19px; }
+  .marca { color: #9C4A0E; font-weight: 700; margin-right: 6px; }
+  .op { margin-right: 16px; white-space: nowrap; }
+  .num { font-size: 22px; }
+  .dica { font-size: 18px; margin-top: 12px; padding: 6px 12px; border-left-width: 5px; }
+  .exemplo { position: absolute; right: 36px; top: 34px; font-size: 15px; color: var(--cinza); border: 1.5px solid var(--linha); border-radius: 6px; padding: 3px 10px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="curso">Cuidar em Crise · L2 Preparar antes</div>
+  <h1>Plano de apoio</h1>
+  <p class="sub">Para quem cuida. Se eu não puder, quem pode?</p>
+</header>
+<div class="exemplo">Exemplo · dados fictícios</div>
+
+<div class="grid">
+  <div>
+    <h2 class="cuidador" style="margin-top:0">A minha rede: 3 pessoas a quem posso ligar</h2>
+    <table>
+      <tr><th style="width:34%">Nome</th><th>O que pode fazer</th></tr>
+      <tr><td class="v">Paulo (irmão)</td><td class="v">leva-nos de carro</td></tr>
+      <tr><td class="v">Graça (vizinha)</td><td class="v">fica com a mãe umas horas</td></tr>
+      <tr><td class="v">Teresa (amiga)</td><td class="v">fica com a mãe se eu não puder</td></tr>
+    </table>
+    <h2 class="cuidador">Quem fica com a pessoa se eu não puder</h2>
+    <div class="campo"><b>Nome</b><span class="l v">Teresa</span></div>
+    <div class="campo"><span class="op"><span class="marca">✓</span>Já combinámos</span><span class="op"><span class="marca">✓</span>Tem uma cópia da ficha</span><span class="op"><span class="marca">✓</span>Sabe onde está o kit</span></div>
+    <h2 class="cuidador">Documentos</h2>
+    <div class="campo"><b>As cópias estão em</b><span class="l v">no kit e no telemóvel</span></div>
+    <div class="campo"><span class="op"><span class="marca">✓</span>Cartão de cidadão</span><span class="op"><span class="marca">✓</span>Cartão de utente</span><span class="op"><span class="marca">✓</span>Receitas</span><span class="op"><span class="marca">✓</span>Ficha</span></div>
+  </div>
+
+  <div>
+    <h2 class="neutro" style="margin-top:0">Números úteis</h2>
+    <table>
+      <tr><td style="width:40%"><span class="num">112</span></td><td>Emergência</td></tr>
+      <tr><td><span class="num">808 24 24 24</span></td><td>SNS 24</td></tr>
+    </table>
+    <h2 class="neutro">Ficar ou sair</h2>
+    <div class="campo"><b>Se ficar:</b><span class="op" style="margin-left:8px"><span class="marca">✓</span>Água</span><span class="op"><span class="marca">✓</span>Comida</span><span class="op"><span class="marca">✓</span>Lanterna</span></div>
+    <div class="campo"><span class="op"><span class="marca">✓</span>Medicação</span></div>
+    <div class="campo"><b>Se sair, vou para</b><span class="l v">casa do Paulo</span></div>
+    <div class="campo"><b>Vou de</b><span class="l v">carro, com o Paulo</span></div>
+    <div class="dica">Pedir ajuda também faz parte do plano.</div>
+  </div>
+</div>
+</body>
+</html>

@@ -11,7 +11,7 @@ Nota de trabalho (04/11). Quem junta: Bruno. Na **segunda 09/11** monta-se o .zi
 | `02_Relatorio` | `S8_Relatorio_Final_Grupo1.pdf` | `S8_Relatorio_Final.md` + `L{1..5}/S8_Relatorio_L{n}.md` | esqueleto 04/11; lições até dom 08/11 **[todos]** |
 | `03_Gantt_Navegacao` | `S2_Gantt_Grupo1.xlsx` (e PDF) | `S2_Gantt_Grupo1.xlsx` (datas reais até 10/11) | feito 08/11 (igual ao do `.docx`) |
 | `03_Gantt_Navegacao` | `S8_Navegacao_Curso_Grupo1.png` | `S8_Navegacao_Curso.html` → PNG | feito 04/11 |
-| `04_Guioes` | `S8_Guiao_L1_Grupo1.pdf` … `S8_Guiao_L5_Grupo1.pdf` | `L{n}/Guiao_L{n}.md` (L3: **[Rodrigo]**) | depois da gravação **[todos]** |
+| `04_Guioes` | `S8_Guiao_L1_Grupo1.pdf` … `S8_Guiao_L5_Grupo1.pdf` | `L{n}/Guiao_L{n}.md` (L3: **[Rodrigo]**) | L1 feito 07/11 · L2 feito 09/11 (`L2/S8_Guiao_L2_Grupo1.pdf`, 9 páginas A4 ao baixo) · L3–L5 **[outros]** |
 | `05_Regras_Udemy` | `S8_Regras_Udemy_Grupo1.pdf` | `S8_Regras_Udemy.md` | atualizado 08/11; duração exata e capturas na terça |
 | `06_Testes_Melhorias` | `S8_Testes_Melhorias_Grupo1.pdf` | relatório §9 + `L{n}/S7_Notas_Testes_L{n}.md` + folha do Moodle | L1 feita 04/11 **[outros]** |
 

@@ -75,7 +75,7 @@ Fio condutor: **é sempre a mesma casa da D. Rosa e da Ana**. Duas cores de tags
 - Medir o corredor até à porta: o caminho de saída está livre?
 - Tag laranja no telefone/agenda: rede de 3 contactos e quem substitui o cuidador.
 - Feedback do S3 (20/10): as tags da porta («O kit»), do corredor («Caminho livre») e da rede de apoio referem as crises (incêndio, cheia, guerra). Texto das tags em `L2/Guiao_L2.md`, §5.
-- **03/11 (professora): casa do Tiago**, capturada por ele, com as tags dentro do espaço (o Discover sai). 10 tags: as 8 anteriores + «Se ficar em casa» (tempestade, apagão, confinamento) e «O seu saco» (laranja). Tabela, roteiro (≈ 100 s) e passos em `L2/Guiao_L2.md`, §5.
+- **03/11 (professora):** tags dentro do espaço (o Discover sai). Plano de 04/11: casa do Tiago com 10 tags. **Feito a 06/11:** a L2 usa o espaço «Casa D. Rosa» (o mesmo da L1, captura do Bruno), com as 8 tags da L2 (prefixo «L2 ·»); visita regravada (1:39), tabela e roteiro em `L2/Guiao_L2.md`, §5.
 
 **L3 — Primeiro contacto: acalmar (Rodrigo)**
 - «Reduzir estímulos»: na sala onde a cena acontece, tags nas fontes de estímulo (TV/rádio com notícias, janela com luzes de emergência, espelho, porta da rua) e no «canto calmo».

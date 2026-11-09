@@ -38,7 +38,7 @@ As mesmas da L1 (23/10), para as lições baterem certo.
 
 | Tema | Decisão |
 |---|---|
-| Voz | A minha voz, gravada no PowerPoint, câmara desligada. Sem avatar (igual à L1) |
+| Voz | A minha voz, gravada no PowerPoint. Sem avatar (igual à L1). **06/11: câmara ligada** nas 5 lições (decisão do grupo); os vídeos das Aulas 5, 6 e 8 são regravados |
 | Estrutura na Udemy | Já está como a L1 passa a ter: Aula 5 gancho (diap. 1–3, ≈ 45 s) · Aula 6 conteúdo (4–9, ≈ 3:55) · Aula 7 atividade · Teste 2 · Aula 8 síntese (10–11, ≈ 0:30) |
 | Ilustrações | **Storyset**, estilo **Amico** (o mesmo da L1, 25/10), recoloridas a azul/laranja; guardar as licenças |
 | Planos de pormenor | Filmados com o telemóvel (só a L2): objetos do kit em fundo liso, sem pessoas nem dados reais. Juntos num só clipe no Clipchamp, para o diap. 5 |
@@ -126,10 +126,10 @@ Igual à L1.
 | Questão | Impacto na L2 |
 |---|---|
 | O mesmo espaço Discover nas outras lições (L1 e L2: escolho eu, 25/10) | Sem isso, deixa de ser «a casa da D. Rosa» |
-| «Tens de aparecer e falar no vídeo»: vale só para quem usa avatar? | Se valer para todos, as 5 lições mudam (câmara ligada) |
+| «Tens de aparecer e falar no vídeo»: vale só para quem usa avatar? | ☑ 06/11: vale para todos → câmara ligada nas 5 lições; falta combinar o canto e o tamanho da janela da câmara |
 | Mesmo estilo Storyset e mesma música nas outras 3 lições (L1 e L2: Amico e «High Class», 25/10) | Unidade visual e sonora |
 | Planos de pormenor filmados (só a L2) | Não destoam se tiverem fundo liso e as cores do modelo |
-| Quando se captura a casa da D. Rosa (S6) | Eu coordeno o Matterport (`P1_Tema_Matterport.md`, §8) |
+| Quando se captura a casa da D. Rosa (S6) | ☑ 06/11: espaço «Casa D. Rosa» no Matterport, com as tags da L1 e da L2; visita da L2 regravada (`Guiao_L2.md`, §5) |
 | Atualizar o Gantt (S5–S8) | Pedido do enunciado «se necessário» |
 | Alguém já recebeu o feedback do S4? | Registar no §2 |
 
