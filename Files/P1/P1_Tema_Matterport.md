@@ -58,7 +58,7 @@ Os primeiros socorros psicológicos dependem muito do espaço: o que acalma ou p
 | **C. Sala da escola encenada como espaço de acolhimento** (catres/cadeiras, balcão de registo, sinalética) | L4 | Sob o nosso controlo; dá para pôr tags | Menos realista; exige montar o cenário |
 | **D. Espaço público do Matterport Discover** | L4 (ou plano B para tudo) | Sem captura, sem custos | Sem tags nossas; só por vídeo gravado; pode não ser português |
 
-**Recomendação: A + C** (casa capturada por nós como espaço principal + sala encenada para a L4), cada um numa conta grátis diferente. **Plano B: A + D** se não houver tempo/autorização para montar a sala. Se só for possível um espaço, fica a **casa (A)** e a L4 usa a visita da casa para a parte «decidir ficar ou sair» e preparar a saída (kit junto à porta, percurso de saída).
+**Recomendação: A + C** (casa capturada por nós como espaço principal + sala encenada para a L4), cada um numa conta grátis diferente. **Plano B: A + D** se não houver tempo/autorização para montar a sala. Se só for possível um espaço, fica a **casa (A)** e a L4 usa a visita da casa para representar uma crise em curso, com alterações seguras e decisões de resposta e encaminhamento.
 
 ### 5. Ideias de uso por lição
 Fio condutor: **é sempre a mesma casa da D. Rosa e da Ana**. Duas cores de tags em todas as lições, para respeitar a regra «cada lição tem componente para a pessoa e para o cuidador»: **azul = pessoa com demência**, **laranja = cuidador**. Títulos das tags com prefixo da lição (ex.: «L2 · Medicação»).
@@ -84,10 +84,10 @@ Fio condutor: **é sempre a mesma casa da D. Rosa e da Ana**. Duas cores de tags
 - Tag laranja: «Pausa de 10 segundos» num sítio onde a Ana pode respirar antes de intervir (ex.: à porta da sala).
 
 **L4 — Necessidades e encaminhamento (Ricardo)**
-- Visita ao espaço de acolhimento **antes de lá chegar**: balcão de registo (onde sinalizar a demência), zona de descanso, casa de banho, saídas.
-- Atividade de decisão: «Escolha o melhor lugar para a D. Rosa ficar» (longe da saída e do ruído, perto da casa de banho, com o objeto de conforto) → quiz com feedback por opção.
-- Tags com sinais de alarme e contactos (112, SNS 24) e o cartão de bolso em PDF.
-- Se for só a casa: decisão «ficar ou sair» percorrendo a casa (o que verificar em cada divisão).
+- Visita ao **apartamento do Ricardo**, capturada por ele, identificado como a nova casa de familiares ou amigos que acolhem temporariamente a D. Rosa e a Ana depois de a casa original ficar inadequada.
+- O percurso ensina a orientar a pessoa, escolher uma referência, mostrar os caminhos, adaptar perigos desconhecidos e comunicar à família anfitriã como ajudar.
+- Atividade de decisão: «Como adaptar a nova localização?» → necessidades básicas, perigos, informação a transmitir e momento de encaminhar para 112, SNS 24 ou equipa responsável.
+- Tags com lugar de referência, água, casa de banho, perigos da nova casa, encaminhamento e apoio ao cuidador; o cartão de bolso inclui 112 e SNS 24.
 
 **L5 — Depois da crise (Evandro)**
 - «Regresso a casa»: a mesma casa, agora com tags de «repor» (kit reposto, rotina, objetos de volta ao sítio, calendário à vista).

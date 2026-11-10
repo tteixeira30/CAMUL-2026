@@ -14,7 +14,7 @@ A L4 ainda não tinha pasta no repositório. O ponto de partida é o rascunho da
 |---|---|---|---|
 | 1 | Estrutura e conteúdos já concretizados | Secção 4 da Udemy planeada (Aulas 13–16 + Teste 4), com textos finais no guião | Textos feitos; aulas ainda não criadas na Udemy |
 | 2 | Recursos multimédia principais | 3 vídeos em MP4 1080p com voz, ilustrações e música | Ilustrações feitas; PowerPoint, voz e MP4 no S6 |
-| 3 | Matterport funcional ou em fase avançada | Visita «O melhor lugar» (6 tags) num espaço de acolhimento | Tags e roteiro escritos; gravação no S6 |
+| 3 | Matterport funcional ou em fase avançada | Visita «Nova localização» (6 tags) no apartamento do Ricardo | Tags e roteiro escritos; captura e gravação a fazer |
 | 4 | Atividades/questões de avaliação | Atividade com crise + quiz de 4 perguntas com feedback + cartão de bolso | Textos feitos; criar na Udemy no S6 |
 | 5 | Atualização do Gantt, se necessária | Do grupo (S5–S8: trabalho individual por lição) | Por decidir |
 
@@ -24,7 +24,7 @@ A L4 ainda não tinha pasta no repositório. O ponto de partida é o rascunho da
 
 ## 2. Feedback a incorporar
 
-- **S3 (20/10):** os cenários de crise têm de estar nas **atividades e no Matterport**, não só no vídeo. → A atividade começa por cheia / incêndio / conflito armado. Duas etiquetas da visita referem pavilhão/ZCAP/deslocados e o 112.
+- **S3 (20/10):** os cenários de crise têm de estar nas **atividades e no Matterport**, não só no vídeo. → A atividade começa por cheia / incêndio / conflito armado. As tags mostram a adaptação da casa de acolhimento depois da deslocação.
 - **Aviso da professora:** media iguais em todas as lições. → Voz própria, sem avatar, como a L1 e a L2. Storyset estilo Amico. Música «High Class».
 - **S4:** a L4 não entregou evidências próprias; este S5 cobre o conteúdo que o S4 pedia (guião, avaliação, Matterport iniciado) e o que o S5 pede (protótipo visível).
 
@@ -36,11 +36,11 @@ As mesmas da L1 e da L2, para as lições baterem certo.
 
 | Tema | Decisão |
 |---|---|
-| Voz | A minha voz, gravada no PowerPoint, câmara desligada. Sem avatar |
+| Voz | A minha voz, gravada no PowerPoint, com a câmara ligada e o rosto num canto. Sem avatar; câmara desligada só durante o ecrã do Matterport |
 | Estrutura na Udemy | Aula 13 gancho · Aula 14 conteúdo (com visita 3D) · Aula 15 atividade · Teste 4 · Aula 16 síntese |
 | Ilustrações | Estilo **Amico** (o mesmo da L1), azul #2F6DB5 / laranja #E07B2E |
 | Música | **«High Class», de Benjamin Andrews** (`Files/P1/P1_Musica_High_Class_Benjamin_Andrews.mp3`) |
-| Matterport | **Plano B:** espaço Discover de acolhimento (pavilhão/salão), gravado, etiquetas no vídeo. A sala da escola encenada fica para o S6 se o grupo a montar. Não reutilizar a casa «La Tarasca» como se fosse o acolhimento |
+| Matterport | **Apartamento do Ricardo**, capturado por ele, identificado como nova casa de acolhimento, com tags dentro do espaço. A L4 mostra adaptação, necessidades, perigos e encaminhamento |
 | Entrega | 1 PDF: `S5_Prototipo_L4_Grupo1.pdf` |
 
 ---
@@ -49,16 +49,24 @@ As mesmas da L1 e da L2, para as lições baterem certo.
 
 ### 4.1 Estrutura e conteúdos
 - Passar o rascunho da Udemy para o formato do grupo: narração por cena, «você» implícito, D. Rosa e Ana, pausas, tempos.
-- Abertura do S3: «Fora de casa, ninguém conhece a sua mãe como você…»
+- Reforçar a contagem: pelo menos 8:00 de MP4, sem contar a atividade nem o quiz.
 
 ### 4.2 Recursos multimédia
-- Ilustrações: chegada · necessidades (água, manta, medicação) · balcão de registo · Ana a pedir ajuda. Vista geral do acolhimento já existia.
+- Ilustrações: chegada · necessidades (água, manta, medicação) · balcão de registo · Ana a pedir ajuda. A visita real é o apartamento do Ricardo.
 - Grafismo no PowerPoint (S6): 4 ícones do título · 3 cartões de alarme · 112 e SNS 24.
 - Voz e exportação: S6.
 
 ### 4.3 Matterport
-- Tags e roteiro no `Guiao_L4.md`, §5, e no `P1_Tema_Matterport.md`.
-- Escolher o Discover e gravar no S6.
+- Capturar o apartamento do Ricardo com a app Matterport Capture.
+- Identificar o apartamento como «Nova localização: casa de acolhimento».
+- Preparar objetos seguros: lugar de referência, água, caminho livre,
+  iluminação adequada e telefone.
+- Colocar as seis tags da L4 dentro do espaço: lugar de referência,
+  necessidades, caminho seguro, perigos desconhecidos, encaminhamento e apoio
+  à cuidadora.
+- Gravar um percurso de ≈ 1:40–2:00, como se a família tivesse acabado de chegar.
+- Publicar como «não listado» e colocar o link na Aula 15 como recurso
+  opcional. O vídeo da visita contém toda a informação essencial.
 
 ### 4.4 Avaliação
 - Atividade com as 4 perguntas do rascunho, agora com crise no início e link 3D opcional.
@@ -74,7 +82,7 @@ O S5 entrega-se a 27/10 com o que está feito. O domingo seguinte é o dia da vo
 | Dia | Tarefas |
 |---|---|
 | Ter 27/10 | Este plano · guião · ilustrações · cartão · PDF do protótipo → Moodle **antes da PL** |
-| Qua–sáb 28–31/10 | PowerPoint no modelo comum · escolher o espaço Discover · ensaiar a narração em voz alta |
+| Qua–sáb 28–31/10 | PowerPoint no modelo comum · preparar o apartamento · ensaiar a narração em voz alta |
 | Dom 01/11 | Gravar a visita · etiquetas · teste de áudio · gravar a voz · exportar os 3 vídeos |
 | Seg 02/11 | Udemy secção 4 · quiz · atividade · «Pré-visualizar como aluno» |
 | Ter 03/11 | Evidências do S6 · submeter |
@@ -100,7 +108,7 @@ Igual à L2, com o que existe (sem fotogramas de vídeo nem capturas da Udemy).
 
 | Questão | Impacto na L4 |
 |---|---|
-| Espaço de acolhimento: sala da escola, Discover ou só a casa | Sem um sítio que não seja casa, a L4 perde o «fora» |
+| Matterport no apartamento ou espaço externo | O apartamento do Ricardo é a nova casa temporária de familiares ou amigos; não é necessário um espaço externo |
 | O mesmo estilo Storyset e a mesma música (L1 e L2 já combinaram Amico e «High Class») | Unidade visual e sonora |
 | Atualizar o Gantt (S5–S8) | Pedido do enunciado «se necessário» |
 | A L3 já tem números de aula na Udemy? | A L4 assume Aulas 13–16; se a L3 mudar, muda a numeração |
@@ -110,7 +118,7 @@ Igual à L2, com o que existe (sem fotogramas de vídeo nem capturas da Udemy).
 | Risco | Mitigação |
 |---|---|
 | Sem vídeos no S5 | O PDF mostra guião + ilustrações + avaliação; a L1 também passou a voz para o S6 |
-| Sem espaço de acolhimento | Plano B Discover; último recurso: a casa, só para «ficar ou sair» (pior) |
+| Sem espaço de acolhimento | A L4 usa o apartamento do Ricardo como nova casa de acolhimento e treina adaptação, necessidades e encaminhamento |
 | Ilustrações geradas, não Storyset original | Estilo Amico alinhado à L1; no S6 pode trocar-se por Storyset com atribuição |
 | A Udemy ainda não tem a secção 4 | Criar no S6 com os textos já fechados |
 
