@@ -1,0 +1,426 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Guião da apresentação</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+/* Guião da apresentação final do P1 (S8, ter 10/11/2026), ≈ 18 min, 17 diapositivos.
+   Acompanha o S8_Apresentacao_Grupo1.html. Os tempos de cada diapositivo são os data-t dessa apresentação
+   (somam 18:00); quem fala segue a divisão combinada pelo grupo a 10/11. */
+:root {
+  --areia: #F5F1E8;
+  --texto: #1E2A3A;
+  --suave: #5A6575;
+  --azul: #3A6EA5;
+  --ambar: #A8600F;
+  --branco: #FFFFFF;
+  --linha: #E2DACA;
+  --aviso: #FFF4E0;
+  --rodrigo: #3A6EA5;
+  --ricardo: #2E7D4F;
+  --bruno: #A8600F;
+  --tiago: #6B4C9A;
+  --evandro: #9A3B30;
+  --fonte: "Atkinson Hyperlegible", "Segoe UI", Roboto, Arial, sans-serif;
+  color-scheme: light;
+}
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--areia); color: var(--texto); font-family: var(--fonte); font-size: 18px; line-height: 1.5; }
+h1, h2, h3, p, ul, ol { margin: 0; padding: 0; }
+ul, ol { list-style: none; }
+h1, h2 { text-wrap: balance; line-height: 1.15; }
+a { color: var(--azul); }
+code { font-size: .9em; background: var(--branco); border: 1px solid var(--linha); border-radius: 4px; padding: 0 4px; }
+:focus-visible { outline: 3px solid var(--azul); outline-offset: 2px; }
+
+.pagina { max-width: 1000px; margin: 0 auto; padding: 48px 16px 80px; }
+.eyebrow { color: var(--azul); font-weight: 700; font-size: 16px; letter-spacing: .5px; text-transform: uppercase; }
+h1 { font-size: 44px; margin: 8px 0 12px; }
+.lead { font-size: 21px; max-width: 760px; }
+section.bloco { margin-top: 56px; }
+h2 { font-size: 28px; margin-bottom: 18px; }
+.cartao { background: var(--branco); border: 1px solid var(--linha); border-radius: 12px; padding: 20px 22px; min-width: 0; }
+
+/* Linha do tempo */
+.tempo { margin-top: 32px; }
+.barra { display: flex; height: 56px; border-radius: 10px; overflow: hidden; border: 1px solid var(--linha); background: var(--branco); }
+.barra button {
+  border: 0; border-right: 2px solid var(--areia); padding: 0; min-width: 0; cursor: pointer;
+  color: #fff; font: 700 15px/1 var(--fonte); display: flex; align-items: center; justify-content: center;
+  transition: opacity .2s;
+}
+.barra button:last-child { border-right: 0; }
+.filtrado .barra button:not(.meu) { opacity: .25; }
+.reguas { position: relative; height: 22px; margin-top: 6px; font-size: 14px; color: var(--suave); font-variant-numeric: tabular-nums; }
+.reguas span { position: absolute; transform: translateX(-50%); }
+.reguas span:first-child { transform: none; }
+.reguas span:last-child { transform: translateX(-100%); }
+
+/* Pessoas */
+.pessoas { display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; margin-top: 28px; }
+.pessoa {
+  text-align: left; cursor: pointer; font-family: inherit; color: inherit; background: var(--branco);
+  border: 2px solid var(--linha); border-top: 6px solid var(--cor); border-radius: 12px; padding: 14px 16px; min-width: 0;
+}
+.pessoa[aria-pressed="true"] { border-color: var(--cor); box-shadow: 0 0 0 2px var(--cor) inset; }
+.pessoa b { display: block; font-size: 19px; }
+.pessoa .total { font-size: 30px; font-weight: 700; color: var(--cor); font-variant-numeric: tabular-nums; line-height: 1.2; }
+.pessoa small { display: block; font-size: 14px; color: var(--suave); line-height: 1.4; }
+.filtro-info { margin-top: 14px; font-size: 16px; color: var(--suave); min-height: 24px; }
+.filtro-info button { font: inherit; color: var(--azul); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; }
+
+/* Antes de começar */
+.lista { display: grid; gap: 10px; }
+.lista label { display: flex; gap: 12px; align-items: flex-start; cursor: pointer; }
+.lista input { width: 22px; height: 22px; margin: 2px 0 0; flex: none; accent-color: var(--ricardo); }
+.lista input:checked + span { color: var(--suave); text-decoration: line-through; }
+.regras-gerais { display: grid; grid-template-columns: 1fr 1fr; gap: 12px 28px; }
+.regras-gerais li { padding-left: 26px; position: relative; }
+.regras-gerais li::before { content: "→"; position: absolute; left: 0; color: var(--ambar); font-weight: 700; }
+
+/* Diapositivos */
+.diaps { display: grid; gap: 18px; }
+.diap { display: grid; grid-template-columns: 150px 1fr; gap: 24px; border-left: 6px solid var(--cor); scroll-margin-top: 16px; }
+.diap[hidden] { display: none; }
+.lado { display: flex; flex-direction: column; gap: 8px; }
+.lado .num { font-size: 44px; font-weight: 700; line-height: 1; color: var(--cor); }
+.lado .quem { display: inline-block; align-self: flex-start; background: var(--cor); color: #fff; font-weight: 700; font-size: 15px; padding: 4px 12px; border-radius: 14px; }
+.lado .janela { font-size: 15px; color: var(--suave); font-variant-numeric: tabular-nums; line-height: 1.35; }
+.lado .janela b { color: var(--texto); font-size: 17px; }
+.corpo { min-width: 0; display: grid; gap: 12px; }
+.corpo h3 { font-size: 23px; line-height: 1.25; }
+.deixa { background: var(--areia); border-radius: 8px; padding: 10px 14px; font-size: 16px; }
+.deixa b { color: var(--cor); }
+.ecra { font-size: 16px; color: var(--suave); }
+.ecra b { color: var(--texto); }
+.fala { font-size: 19px; line-height: 1.6; border-left: 3px solid var(--linha); padding-left: 16px; }
+.fala .clique { display: inline-block; font-size: 13px; font-weight: 700; line-height: 1; padding: 4px 8px; border-radius: 6px; background: var(--texto); color: #fff; vertical-align: 2px; white-space: nowrap; }
+.fala .pausa { color: var(--suave); font-style: italic; font-size: 16px; }
+.passagem { font-size: 17px; }
+.passagem b { color: var(--cor); }
+.atencao { background: var(--aviso); border: 1px solid #EBC995; border-radius: 8px; padding: 10px 14px; font-size: 16px; }
+.atencao b { color: #7A4508; }
+.palavras { font-size: 13px; color: var(--suave); }
+
+/* Perguntas */
+.perguntas { display: grid; gap: 12px; }
+.perguntas details { background: var(--branco); border: 1px solid var(--linha); border-radius: 12px; padding: 14px 18px; }
+.perguntas summary { cursor: pointer; font-weight: 700; font-size: 18px; }
+.perguntas summary span { font-weight: 400; color: var(--suave); font-size: 15px; }
+.perguntas details p { margin-top: 10px; }
+
+footer { margin-top: 56px; font-size: 15px; color: var(--suave); border-top: 1px solid var(--linha); padding-top: 18px; }
+
+@media (max-width: 820px) {
+  h1 { font-size: 34px; }
+  .pessoas { grid-template-columns: repeat(2, 1fr); }
+  .regras-gerais { grid-template-columns: 1fr; }
+  .diap { grid-template-columns: 1fr; gap: 14px; }
+  .lado { flex-direction: row; flex-wrap: wrap; align-items: center; gap: 10px 14px; }
+  .lado .num { font-size: 34px; }
+  .barra button { font-size: 12px; }
+}
+@media print {
+  body { background: #fff; font-size: 12pt; }
+  .pagina { padding: 0; max-width: none; }
+  .filtro-info, .pessoa { box-shadow: none !important; }
+  .diap { break-inside: avoid; }
+  .diap[hidden] { display: grid; }
+  .perguntas details { break-inside: avoid; }
+  section.bloco { margin-top: 28px; }
+}
+</style>
+</head>
+<body>
+<main class="pagina" id="topo">
+
+  <header>
+    <p class="eyebrow">CAMUL · P1 · S8 · terça 10/11/2026</p>
+    <h1>Guião da apresentação final</h1>
+    <p class="lead">≈ 18 min · 17 diapositivos · 5 pessoas. O que aparece no ecrã, o que dizer, quando clicar e a quem passar a palavra. O texto é uma proposta: digam-no com as vossas palavras, sem ler.</p>
+  </header>
+
+  <div class="tempo" id="tempo">
+    <div class="barra" id="barra" role="group" aria-label="Linha do tempo da apresentação"></div>
+    <div class="reguas" id="reguas" aria-hidden="true"></div>
+  </div>
+
+  <div class="pessoas" id="pessoas" role="group" aria-label="Ver só os diapositivos de uma pessoa"></div>
+  <p class="filtro-info" id="filtro-info" aria-live="polite"></p>
+
+  <section class="bloco" aria-labelledby="t-antes">
+    <h2 id="t-antes">Antes de começar</h2>
+    <div class="cartao">
+      <ul class="lista" id="lista">
+        <li><label><input type="checkbox" data-k="abrir"><span>Abrir <code>Files/P1/S8_Apresentacao_Grupo1.html</code> no Edge, a partir da pasta do repositório (as imagens, a sirene e o vídeo do plano B são caminhos relativos). <b>F</b> = ecrã inteiro.</span></label></li>
+        <li><label><input type="checkbox" data-k="som"><span>Som do computador ligado e testado: a sirene toca no 1.º clique do diapositivo 1.</span></label></li>
+        <li><label><input type="checkbox" data-k="rede"><span>Internet a funcionar: o QR code do diapositivo 17 vem da internet (sem rede fica só o endereço) e a demonstração do 13 é na Udemy.</span></label></li>
+        <li><label><input type="checkbox" data-k="bruno"><span><b>Bruno:</b> noutros separadores, a Udemy com a sessão iniciada e já dentro do curso, e a visita 3D aberta. Plano B: o vídeo da Aula 1 no próprio diapositivo 13.</span></label></li>
+        <li><label><input type="checkbox" data-k="quem"><span>Combinar quem passa os diapositivos (→, espaço ou clique). Proposta: quem fala passa os seus. Os diapositivos 1 e 12 têm cliques que revelam texto: quem fala tem de estar ao computador.</span></label></li>
+        <li><label><input type="checkbox" data-k="ensaio"><span>Ensaiar uma vez com a tecla <b>T</b> (modo ensaio): mostra o cronómetro e o tempo-alvo de cada diapositivo, e quem fala, que batem certo com este guião.</span></label></li>
+        <li><label><input type="checkbox" data-k="luz"><span>Se der, baixar a luz da sala no diapositivo 1 (abre no escuro) e voltar a ligá-la no 2.</span></label></li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="bloco" aria-labelledby="t-regras">
+    <h2 id="t-regras">Regras para todos</h2>
+    <ul class="regras-gerais">
+      <li>Falar para a plateia, não para o ecrã. O ecrã já tem os pontos: não os ler, contá-los.</li>
+      <li>Cada um termina com a frase de passagem, diz o nome de quem vem a seguir e dá um passo atrás.</li>
+      <li>Nas lições (7 a 11), falar na 1.ª pessoa: «a minha lição…». Os números da ficha estão no ecrã; se faltar tempo, saltam-se.</li>
+      <li>Se o grupo se atrasar, corta-se nas lições e no processo (16), nunca na pergunta à plateia (12) nem na demonstração (13).</li>
+      <li>Pausas de 1–2 s depois do relógio (1), da citação da Ana (3), do «0 €» (5) e antes de revelar a resposta (12).</li>
+      <li>≈ 130 palavras por minuto. Cada fala tem a contagem por baixo: se passar muito, encurtar.</li>
+    </ul>
+  </section>
+
+  <section class="bloco" aria-labelledby="t-diaps">
+    <h2 id="t-diaps">Diapositivo a diapositivo</h2>
+    <div class="diaps" id="diaps"></div>
+  </section>
+
+  <section class="bloco" aria-labelledby="t-perguntas">
+    <h2 id="t-perguntas">Perguntas prováveis da professora</h2>
+    <div class="perguntas">
+      <details><summary>Porque escolheram a Udemy? <span>· responde o Tiago</span></summary>
+        <p>No S1 comparámos a Udemy, o Moodle com H5P e o Open edX. A Udemy é gratuita, não tem servidor para manter, tem regras oficiais e explícitas e uma revisão de qualidade antes de publicar: responde à integração com a plataforma (20 % da nota). O preço a pagar: não aceita iframes, por isso o Matterport não fica dentro da página.</p></details>
+      <details><summary>Como entra o Matterport, se a Udemy não aceita iframes? <span>· responde o Bruno</span></summary>
+        <p>A visita é gravada em vídeo e entra dentro da aula, com os balões das tags abertos. Nos recursos há um link «Visita 3D», opcional: nunca é preciso para o teste. As tags estão dentro do Matterport: azul = pessoa com demência, laranja = cuidador, e o título começa pela lição (ex.: «L2 · Medicação»).</p></details>
+      <details><summary>Como garantiram que as 5 lições são coerentes? <span>· responde o Ricardo</span></summary>
+        <p>Um modelo comum (<code>P1_Modelo_Licoes.pptx</code>): os mesmos diapositivos, ilustrações, cores e música. O mesmo padrão em todas: gancho → vídeo → atividade → teste → síntese que liga à seguinte. Sempre duas partes, a pessoa e quem cuida. E todos gravámos com a câmara ligada, no mesmo canto e com o mesmo tamanho.</p></details>
+      <details><summary>Onde estão os cenários de crise nas atividades e no Matterport? (feedback do S3) <span>· cada um a sua lição</span></summary>
+        <p>L1: a mesma pessoa em quatro crises (incêndio, cheia, pandemia, guerra). L2: três tags falam das crises (incêndio, cheia, guerra), a atividade em vídeo tem o bloco «Três crises, o mesmo kit» e o teste tem um centro de acolhimento num conflito. L3, L4 e L5: cada um diz os seus exemplos (combinar antes).</p></details>
+      <details><summary>A casa é real? E os dados pessoais? <span>· responde o Bruno</span></summary>
+        <p>A casa foi capturada pelo grupo com a app Matterport Capture, com o consentimento do proprietário, num espaço «não listado» e sem dados pessoais. A D. Rosa e a Ana são fictícias: nunca se filmou uma pessoa com demência real. Os documentos de exemplo da L2 usam dados fictícios.</p></details>
+      <details><summary>Quanto vídeo tem o curso? <span>· responde o Tiago</span></summary>
+        <p>Pelo menos 30 minutos, que é o mínimo da Udemy para publicar, e menos de 2 horas, por ser grátis. Cada lição tem ≈ 8 min de vídeo (L1 8:33, L2 8:10). O total exato está no currículo da página do curso: ver antes da apresentação.</p></details>
+      <details><summary>Como sabem que o curso funciona? <span>· responde o Tiago</span></summary>
+        <p>Pelos testes da PL de 3/11: Alfa (cada autor fez a sua lição do princípio ao fim) e Beta (alunos de outros grupos fizeram o nosso curso). Cada problema que encontraram tem uma correção (diapositivo 14). Dentro do curso, cada secção tem um teste com feedback em todas as opções. O pré/pós-teste no Google Forms previsto no S1 foi cortado a 04/11.</p></details>
+    </div>
+  </section>
+
+  <footer>
+    Fonte: <code>S8_Apresentacao_Grupo1.html</code> (diapositivos e tempos), guiões das lições e notas dos testes do S7. Grupo 1 · Bruno Lopes · Tiago Teixeira · Rodrigo Silva · Ricardo Ferreira · Evandro Carvalho.
+  </footer>
+</main>
+
+<script>
+/* Quem fala e a cor de cada um */
+const PESSOAS = {
+  Rodrigo: "var(--rodrigo)", Ricardo: "var(--ricardo)", Bruno: "var(--bruno)", Tiago: "var(--tiago)", Evandro: "var(--evandro)"
+};
+
+/* Os 17 diapositivos. dur em segundos (= data-t da apresentação). Na fala: [clique] e (pausa …) ficam marcados. */
+const DIAPS = [
+  { n: 1, titulo: "Abertura no escuro", quem: "Rodrigo", dur: 45,
+    ecra: "Fundo escuro, relógio <b>03:12</b> a piscar e «Cheira a fumo.». 3 cliques: o 1.º toca a sirene.",
+    fala: "(pausa de 2 s, em silêncio) São três e doze da manhã. Cheira a fumo. [clique · sirene] Chega a ordem para sair de casa. [clique] A D. Rosa, que tem demência, senta-se no sofá e recusa-se a sair. [clique] A filha, a Ana, tem poucos minutos para decidir. E ninguém a preparou para isto. (pausa) Olá a todos. Somos o Grupo 1, e o nosso curso foi feito para este momento.",
+    passagem: null,
+    atencao: "Não dizer a frase antes do clique: o texto aparece com a voz. Deixar a sirene tocar 2–3 s antes de falar." },
+  { n: 2, titulo: "O problema", quem: "Rodrigo", dur: 60,
+    ecra: "Três números: <b>182 500</b> pessoas com demência · <b>84 %</b> mulheres, 57 anos · <b>60,5 %</b> em sobrecarga.",
+    fala: "A D. Rosa e a Ana são fictícias, mas não são uma exceção. Em Portugal há cerca de 182 500 pessoas com demência: somos o 4.º país da OCDE em casos por mil habitantes. Quem cuida delas é quase sempre uma mulher: 84 % dos cuidadores com Estatuto são mulheres, com 57 anos em média. E 60,5 % dos cuidadores avaliados já estão em sobrecarga, antes de qualquer crise. Agora juntem uma crise: um incêndio, uma cheia, uma pandemia, uma guerra. A pessoa com demência perde a rotina e as referências. E quem cuida perde a rede de apoio.",
+    passagem: null,
+    atencao: "As fontes estão no ecrã (Alzheimer Portugal, OCDE 2017, ISS out. 2025, ADI 2019): não é preciso lê-las." },
+  { n: 3, titulo: "Para quem é: a Ana", quem: "Rodrigo", dur: 45,
+    ecra: "Ilustração da Ana com pressa, ficha (quem é, onde está, tempo, precisa de) e a citação.",
+    fala: "Por isso, o nosso curso é para uma pessoa concreta: a Ana. É filha e cuidadora informal da mãe, que tem demência ligeira a moderada. Vive em casa, em Portugal. Não tem tempo: aprende no telemóvel, aos bocados. E precisa de uma coisa: saber o que fazer quando tudo falha. Como ela diz: «Sei cuidar da minha mãe num dia normal. Num incêndio, não sei.» (pausa)",
+    passagem: "O que é que a Ana já encontra por aí? O Ricardo." },
+  { n: 4, titulo: "A concorrência", quem: "Ricardo", dur: 45,
+    ecra: "Tabela: cursos para cuidadores · cursos de primeiros socorros psicológicos · o nosso (coluna destacada).",
+    fala: "Fomos ver o que a Ana já encontra. Há cursos para cuidadores em português, como o iSupport ou os da NAU, mas duram de 14 a 51 horas e tratam o dia a dia. Há cursos de primeiros socorros psicológicos, mas são gerais e quase todos em inglês. Nenhum junta as duas coisas: a crise e a dupla pessoa–cuidador. O nosso dura cerca de 40 minutos, é em português, trata o antes, o durante e o depois, e tem prática numa casa em 3D. Não substitui estes cursos: completa-os, e a última lição encaminha para eles.",
+    passagem: null },
+  { n: 5, titulo: "O produto", quem: "Ricardo", dur: 45,
+    ecra: "Título do curso, 5 vantagens, a imagem do curso e a etiqueta <b>0 €</b>.",
+    fala: "O produto é este: «Socorros psicológicos: cuidador de demência em crise». Cinco lições de cerca de 8 minutos, uma por cada momento da crise. Vê-se no telemóvel, ao ritmo de cada um, em português. Em cada lição há uma visita 3D à casa da D. Rosa, uma atividade e um teste com feedback. Está publicado na Udemy e passou a revisão de qualidade. E custa… (pausa) zero euros.",
+    passagem: null,
+    atencao: "Apontar para a etiqueta no «zero euros»." },
+  { n: 6, titulo: "As 5 lições", quem: "Ricardo", dur: 30,
+    ecra: "Linha do tempo: Compreender · Antes · Durante (L3 e L4) · Depois, com o nome de cada autor.",
+    fala: "Cada lição é um momento da crise: compreender, preparar antes, acalmar e tratar das necessidades durante, e recuperar depois. Todas seguem o mesmo padrão: gancho, vídeo, atividade, teste e uma síntese que liga à seguinte. E todas têm duas partes: a pessoa, a azul, e quem cuida, a laranja. Cada um de nós fez uma.",
+    passagem: "Começa o Bruno, com a primeira." },
+  { n: 7, titulo: "L1 · Crise, demência e quem cuida", quem: "Bruno", dur: 75,
+    ecra: "4 pontos, a ilustração da D. Rosa confusa e a ficha: vídeo 8:33 · 3D casa do Bruno, 9 tags · atividade «O que dá segurança?» · teste de 4 perguntas.",
+    fala: "A minha lição é a primeira: compreender. Começa com a cena que viram: porque é que a D. Rosa se recusa a sair? Porque, para ela, a casa é a segurança. Depois mostro que a mesma pessoa reage de forma parecida em quatro crises: incêndio, cheia, pandemia e guerra. Do lado da Ana, explico que o stress de quem cuida também é normal. E fecho com os três passos dos primeiros socorros psicológicos: observar, escutar e encaminhar, que as outras lições vão usar. São 8 minutos e meio de vídeo, uma visita 3D com 9 tags, gravada na minha casa, a atividade «O que dá segurança?» e um teste de 4 perguntas.",
+    passagem: "Mas, antes da crise, a Ana pode preparar-se. É a lição do Tiago." },
+  { n: 8, titulo: "L2 · Preparar antes", quem: "Tiago", dur: 75,
+    ecra: "4 pontos (kit de conforto, ficha da pessoa, plano de apoio, «Caça ao kit»), a ilustração da Ana a preencher a ficha e a ficha da lição.",
+    fala: "A minha lição é a segunda: preparar antes. A pergunta é simples: se a Ana tiver de sair em cinco minutos, o que leva? Respondo com três coisas. O kit de conforto: não é um kit de emergência qualquer, é o que acalma a D. Rosa fora de casa, como a manta do sofá ou os óculos de reserva. A ficha da pessoa: uma folha que diz quem ela é a quem não a conhece, por exemplo a um voluntário num centro de acolhimento. E o plano de apoio: quem fica com a D. Rosa se a Ana não puder. Na visita 3D, a «Caça ao kit», o aluno percorre a casa da D. Rosa e encontra os objetos em 8 tags. Na atividade, escolhe 8 de 12 itens e leva os três documentos em PDF para preencher em casa. São 8 minutos e 10 de vídeo e um teste de 4 perguntas.",
+    passagem: "Com o kit pronto, chega a crise. O Rodrigo mostra como acalmar.",
+    atencao: "A fala é a mais apertada (≈ 165 palavras em 1:15). Se faltar tempo, saltar a frase da atividade: está na ficha do ecrã." },
+  { n: 9, titulo: "L3 · Primeiro contacto: acalmar", quem: "Rodrigo", dur: 75,
+    ecra: "4 pontos e a ilustração da Ana junto da D. Rosa. Ficha: vídeo ≈ 8 min · 3D com tags · atividade + teste com feedback.",
+    fala: "A terceira lição é o durante: o primeiro contacto. A D. Rosa está agitada e recusa-se a sair. O que faz a Ana? Primeiro, aproxima-se com calma, para não a assustar. Depois fala com frases curtas e reduz os estímulos à volta: o barulho, a televisão, as pessoas. Aprende a reconhecer os sinais de angústia e de agitação. E, do lado dela, aprende uma coisa que parece estranha: acalmar-se a si primeiro, porque só assim consegue acalmar a mãe. Como nas outras lições, há vídeo, uma visita 3D com tags, uma atividade e um teste com feedback.",
+    passagem: "Quando a D. Rosa está mais calma, é preciso tratar do resto. O Ricardo.",
+    atencao: "Rodrigo: a ficha no ecrã ainda não tem números (duração do vídeo, n.º de tags, nome da atividade). Acrescentar os teus na fala." },
+  { n: 10, titulo: "L4 · Necessidades e encaminhamento", quem: "Ricardo", dur: 75,
+    ecra: "4 pontos e a ilustração do espaço de acolhimento. Ficha: 3D «O melhor lugar» · atividade «O que faria nesta situação?» + cartão de bolso · teste de 4 perguntas.",
+    fala: "A quarta lição continua no durante, mas pode ser fora de casa. A D. Rosa e a Ana chegam a um espaço de acolhimento: um sítio estranho, com barulho e gente. O que se atende primeiro? Como evitar que a pessoa se perca? A lição mostra os sinais de alarme, os que dizem que é altura de pedir ajuda especializada. E, do lado da Ana, aceitar ajuda: aqui voltam a ficha da pessoa e o plano de apoio da L2. A visita 3D chama-se «O melhor lugar». A atividade é «O que faria nesta situação?», com um cartão de bolso para levar, e há um teste de 4 perguntas.",
+    passagem: "E depois, quando a crise passa? O Evandro." },
+  { n: 11, titulo: "L5 · Depois da crise", quem: "Evandro", dur: 75,
+    ecra: "4 pontos e 3 ícones: Retomar · Vigiar · Apoiar. Ficha: 3D «Relembrar a casa da D. Rosa» · teste de 4 perguntas.",
+    fala: "A última lição é o depois. A crise passou, mas não acabou. Primeiro, o regresso a casa: retomar a rotina aos poucos. Depois, vigiar os sinais das semanas seguintes, na D. Rosa e na Ana. Porque quem cuida acumula exaustão, e muitas vezes só vai abaixo depois. Por isso, a lição termina com onde pedir apoio psicológico, para os dois, e encaminha para os cursos que já existem. Na visita 3D, o aluno relembra a casa da D. Rosa, e há um teste de 4 perguntas. Três palavras: retomar, vigiar, apoiar.",
+    passagem: "E agora, vamos ver se a primeira cena ficou." },
+  { n: 12, titulo: "A plateia responde (Teste 1, pergunta 1)", quem: "Evandro", dur: 75,
+    ecra: "A pergunta e as opções A, B, C. 1 clique revela a certa (A, a verde) e o feedback.",
+    fala: "Agora são vocês. Esta é a pergunta 1 do Teste 1, tal e qual está no curso. (ler a pergunta devagar) Chega a ordem para sair de casa por causa de um incêndio. A D. Rosa senta-se no sofá e recusa-se a sair. Qual é a explicação mais provável? Levantem a mão: quem diz A? (pausa) B? (pausa) C? (comentar o resultado) [clique · revela] É a A: a pessoa com demência pode não perceber o perigo, e sair de casa é perder as suas referências. E no curso, cada opção errada também explica porquê: não dizemos só «errado», dizemos o motivo.",
+    passagem: "Mas isto é só uma pergunta. O Bruno vai mostrar o curso a sério.",
+    atencao: "Não revelar antes de as mãos subirem. Se ninguém levantar a mão, perguntar à primeira fila." },
+  { n: 13, titulo: "Demonstração ao vivo na Udemy", quem: "Bruno", dur: 150,
+    ecra: "4 passos, botões «Abrir o curso ↗» e «Visita 3D · L1 ↗», e o vídeo da Aula 1 (plano B).",
+    fala: "[1 · página do curso, ≈ 0:30] Este é o curso, publicado na Udemy. Qualquer pessoa se inscreve de graça, aqui. [2 · secção 1, ≈ 0:40] Esta é a primeira secção. Abro o gancho e salto para a visita: o Matterport entra dentro do vídeo, porque a Udemy não aceita iframes. [3 · visita 3D aberta, ≈ 0:50] E esta é a visita aberta, a mesma casa. As tags azuis falam da pessoa, as laranja de quem cuida. Abro uma de cada. [4 · teste, ≈ 0:30] Por fim, um teste. Escolho a errada de propósito, e o curso explica porquê.",
+    passagem: "Antes de publicar, testámos. O Tiago conta como.",
+    atencao: "Ter os separadores prontos antes de começar. Voltar à apresentação com Alt+Tab e carregar F de novo. Se a rede falhar: tocar o vídeo do plano B no diapositivo (1:10) e explicar por cima." },
+  { n: 14, titulo: "Testes e melhorias", quem: "Tiago", dur: 60,
+    ecra: "Tabela: o que nos disseram · lições · o que mudou (5 linhas). Por baixo, o que foi o Alfa e o Beta.",
+    fala: "Testámos em duas fases, na PL de 3 de novembro. No Alfa, cada autor fez a sua lição do princípio ao fim. No Beta, alunos de outros grupos fizeram o nosso curso. E disseram-nos cinco coisas. Pouco vídeo: agora cada lição tem cerca de 8 minutos. Matterport de um espaço público, sem tags nossas: agora são casas nossas, com as tags dentro do Matterport. Música alta e voz abafada: regravámos a voz e baixámos a música. Ninguém do grupo aparecia: regravámos tudo com a câmara ligada. E a resposta certa era sempre a mais longa: reescrevemos as opções e mudámos a certa de posição.",
+    passagem: null,
+    atencao: "Ler a tabela em diagonal: problema → o que mudou. Não ler a coluna das lições." },
+  { n: 15, titulo: "Aprovado pela Udemy", quem: "Tiago", dur: 60,
+    ecra: "Selo «PUBLICADO» e 9 regras da Udemy (8 cumpridas, 1 limite: sem iframes).",
+    fala: "A integração com a plataforma vale 20 % da nota, e escolhemos a Udemy por isso: tem regras explícitas e uma revisão de qualidade antes de publicar. Submetemos o curso a 7 de novembro, e a Udemy aprovou-o e publicou-o. Para isso, cumprimos as regras: pelo menos 30 minutos de vídeo e menos de 2 horas, por ser grátis; 5 secções com várias aulas; vídeo Full HD; legendas em português; a página completa; um teste em cada secção; e recursos para descarregar, como os PDFs da L2. A única regra que nos limitou: a Udemy não aceita iframes. Por isso, o Matterport entra como vídeo na aula e como link «Visita 3D».",
+    passagem: "O Evandro fecha com o processo." },
+  { n: 16, titulo: "O processo", quem: "Evandro", dur: 60,
+    ecra: "8 etapas, S1 a S8, com as datas, e 3 lições aprendidas.",
+    fala: "Fizemos isto em 8 semanas, 5 pessoas. Na S1 comparámos plataformas. Na S2, o tema foi reescrito para a crise. Na S3 definimos as 5 lições com um padrão comum. Depois vieram os guiões e o modelo visual, o protótipo, o curso integrado, os testes e, esta semana, a regravação e a publicação. Aprendemos três coisas. Um modelo comum deu coerência a cinco lições de cinco autores. Uma regra da plataforma, os 30 minutos para publicar, mudou o desenho das lições na última semana. E testar com outros mostrou o que nós não víamos: o estalo do microfone, a música alta, a resposta mais longa.",
+    passagem: null },
+  { n: 17, titulo: "Fecho com o QR code", quem: "Evandro", dur: 30,
+    ecra: "«Inscrevam-se agora. É grátis.», o QR code do curso e os nomes do grupo.",
+    fala: "Voltemos às três e doze. Com este curso, a Ana já sabe o que fazer. (pausa) Inscrevam-se agora: é grátis. Apontem a câmara do telemóvel ao código, e passem o curso a quem cuida de alguém. Obrigado. Perguntas?",
+    passagem: null,
+    atencao: "Deixar o QR code 10 s no ecrã antes das perguntas. Todos à frente, lado a lado." }
+];
+
+const mmss = s => Math.floor(s / 60) + ":" + String(s % 60).padStart(2, "0");
+const total = DIAPS.reduce((t, d) => t + d.dur, 0);
+const esc = s => s;  /* o texto é nosso: pode levar <b> */
+
+/* Início de cada diapositivo e totais por pessoa */
+let acc = 0;
+DIAPS.forEach(d => { d.inicio = acc; acc += d.dur; });
+const porPessoa = {};
+Object.keys(PESSOAS).forEach(p => porPessoa[p] = { total: 0, diaps: [] });
+DIAPS.forEach(d => { porPessoa[d.quem].total += d.dur; porPessoa[d.quem].diaps.push(d); });
+
+/* Juntar diapositivos seguidos da mesma pessoa em blocos (para a barra e para «entra aos») */
+const blocos = [];
+DIAPS.forEach(d => {
+  const ult = blocos[blocos.length - 1];
+  if (ult && ult.quem === d.quem) { ult.ate = d.n; ult.dur += d.dur; }
+  else blocos.push({ quem: d.quem, de: d.n, ate: d.n, inicio: d.inicio, dur: d.dur });
+});
+const rotulo = b => b.de === b.ate ? String(b.de) : b.de + "–" + b.ate;
+
+/* Barra do tempo */
+const barra = document.getElementById("barra");
+blocos.forEach(b => {
+  const bt = document.createElement("button");
+  bt.type = "button";
+  bt.style.flex = b.dur;
+  bt.style.background = PESSOAS[b.quem];
+  bt.dataset.quem = b.quem;
+  bt.textContent = rotulo(b);
+  bt.title = b.quem + " · diap. " + rotulo(b) + " · " + mmss(b.inicio) + "–" + mmss(b.inicio + b.dur);
+  bt.setAttribute("aria-label", bt.title);
+  bt.addEventListener("click", () => document.getElementById("d" + b.de).scrollIntoView({ behavior: "smooth" }));
+  barra.appendChild(bt);
+});
+const reguas = document.getElementById("reguas");
+for (let m = 0; m <= total / 60; m += 3) {
+  const s = document.createElement("span");
+  s.style.left = (m * 60 / total * 100) + "%";
+  s.textContent = m + ":00";
+  reguas.appendChild(s);
+}
+
+/* Cartões das pessoas (servem de filtro) */
+const pessoas = document.getElementById("pessoas");
+Object.keys(PESSOAS).forEach(p => {
+  const info = porPessoa[p];
+  const seus = blocos.filter(b => b.quem === p);
+  const bt = document.createElement("button");
+  bt.type = "button";
+  bt.className = "pessoa";
+  bt.style.setProperty("--cor", PESSOAS[p]);
+  bt.dataset.quem = p;
+  bt.setAttribute("aria-pressed", "false");
+  bt.innerHTML = "<b>" + p + "</b><span class=\"total\">" + mmss(info.total) + "</span>" +
+    "<small>diap. " + seus.map(rotulo).join(" · ") + "</small>" +
+    "<small>entra aos " + seus.map(b => mmss(b.inicio)).join(" e ") + "</small>";
+  bt.addEventListener("click", () => filtrar(filtro === p ? null : p));
+  pessoas.appendChild(bt);
+});
+
+/* Diapositivos */
+const palavras = t => t.replace(/\[[^\]]*\]|\([^)]*\)/g, "").split(/\s+/).filter(Boolean).length;
+function formatarFala(t) {
+  return esc(t)
+    .replace(/\[([^\]]+)\]/g, "<span class=\"clique\">$1</span>")
+    .replace(/\(([^)]+)\)/g, "<span class=\"pausa\">($1)</span>");
+}
+const diaps = document.getElementById("diaps");
+DIAPS.forEach((d, i) => {
+  const ant = DIAPS[i - 1];
+  const el = document.createElement("article");
+  el.className = "diap cartao";
+  el.id = "d" + d.n;
+  el.dataset.quem = d.quem;
+  el.style.setProperty("--cor", PESSOAS[d.quem]);
+
+  let deixa = "";
+  if (!ant) deixa = "<p class=\"deixa\"><b>Começa a apresentação.</b> Diapositivo 1 já no ecrã, em ecrã inteiro, antes de a turma se calar.</p>";
+  else if (ant.quem !== d.quem) {
+    const frase = ant.passagem || "…";
+    deixa = "<p class=\"deixa\">Entras depois de <b>" + ant.quem + "</b>, quando diz: «" + frase + "»</p>";
+  }
+  const n = palavras(d.fala);
+  const ritmo = Math.round(n / (d.dur / 60));
+  el.innerHTML =
+    "<div class=\"lado\"><span class=\"num\">" + d.n + "</span><span class=\"quem\">" + d.quem + "</span>" +
+      "<span class=\"janela\"><b>" + mmss(d.dur) + "</b><br>" + mmss(d.inicio) + " → " + mmss(d.inicio + d.dur) + "</span></div>" +
+    "<div class=\"corpo\">" +
+      "<h3>" + d.titulo + "</h3>" + deixa +
+      "<p class=\"ecra\"><b>No ecrã:</b> " + d.ecra + "</p>" +
+      "<p class=\"fala\">" + formatarFala(d.fala) + "</p>" +
+      "<p class=\"palavras\">≈ " + n + " palavras · ≈ " + ritmo + " palavras/min" + (d.n === 13 ? " (o resto do tempo é a mexer no curso)" : "") + "</p>" +
+      (d.passagem ? "<p class=\"passagem\"><b>Passagem →</b> «" + d.passagem + "»</p>" : "") +
+      (d.atencao ? "<p class=\"atencao\"><b>Atenção:</b> " + d.atencao + "</p>" : "") +
+    "</div>";
+  diaps.appendChild(el);
+});
+
+/* Filtro por pessoa (lembrado neste browser) */
+let filtro = null;
+const info = document.getElementById("filtro-info");
+function filtrar(p) {
+  filtro = p;
+  document.body.classList.toggle("filtrado", !!p);
+  barra.querySelectorAll("button").forEach(b => b.classList.toggle("meu", b.dataset.quem === p));
+  pessoas.querySelectorAll(".pessoa").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.quem === p)));
+  diaps.querySelectorAll(".diap").forEach(a => a.hidden = !!p && a.dataset.quem !== p);
+  info.innerHTML = p
+    ? "A ver só os diapositivos do " + p + " (" + mmss(porPessoa[p].total) + "). <button type=\"button\" id=\"todos\">Ver todos</button>"
+    : "Clique num nome para ver só os diapositivos dessa pessoa.";
+  const t = document.getElementById("todos");
+  if (t) t.addEventListener("click", () => filtrar(null));
+  try { p ? localStorage.setItem("guiao-filtro", p) : localStorage.removeItem("guiao-filtro"); } catch (e) {}
+}
+let guardado = null;
+try { guardado = localStorage.getItem("guiao-filtro"); } catch (e) {}
+filtrar(PESSOAS[guardado] ? guardado : null);
+
+/* Lista «Antes de começar» (lembrada neste browser) */
+document.querySelectorAll("#lista input").forEach(cb => {
+  const k = "guiao-" + cb.dataset.k;
+  try { cb.checked = localStorage.getItem(k) === "1"; } catch (e) {}
+  cb.addEventListener("change", () => { try { localStorage.setItem(k, cb.checked ? "1" : "0"); } catch (e) {} });
+});
+</script>
+</body>
+</html>
