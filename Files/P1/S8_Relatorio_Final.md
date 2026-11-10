@@ -218,7 +218,7 @@ O cartão de bolso apoia a aplicação dos conteúdos; o quiz permite verificar 
 | **S5 (27/10)** · protótipo | Guião e storyboard, ilustrações, cartão de bolso, proposta de visita 3D e quiz; entrega do protótipo |
 | **S6 (03/11)** · versão integrada | Integração da lição na Udemy, com um pequeno atraso; no teste de 03/11 ainda faltavam a narração e as legendas |
 | **S7 (03/11)** · testes | Teste Alfa aos vídeos, ao quiz e às legendas; o quiz funcionou, mas faltavam a narração e as legendas |
-| **S8 (10/11)** · versão final | Estrutura final com 3 vídeos e 8:35 de vídeo na Udemy, cartão de bolso, quiz, legendas e visita Matterport no apartamento do Ricardo, com 7 tags |
+| **S8 (10/11)** · versão final | Estrutura final com 3 vídeos e 8:35 de vídeo na Udemy, cartão de bolso, quiz e visita Matterport no apartamento do Ricardo, com 7 tags |
 
 #### Decisões que mudaram e porquê
 
@@ -226,7 +226,7 @@ O cartão de bolso apoia a aplicação dos conteúdos; o quiz permite verificar 
 |---|---|---|
 | Visita 3D num centro de acolhimento | Apartamento do Ricardo, apresentado como casa de familiares ou amigos que acolhem a D. Rosa e a Ana | A professora pediu que o espaço fosse capturado pelos estudantes; a casa permite trabalhar a chegada e a adaptação a um local desconhecido |
 | Estrutura anterior com dois vídeos de conteúdo | Um vídeo de conteúdo, entre o gancho e a síntese | A lição foi reorganizada durante a produção; a versão final reúne o conteúdo em «Necessidades e Encaminhamento» |
-| Vídeos sem narração e sem legendas no teste Alfa | Narração e legendas nos vídeos finais | Corrigir as falhas encontradas no teste e tornar os conteúdos acessíveis |
+| Vídeos sem narração e sem legendas no teste Alfa | Narração nos vídeos finais; as legendas ficaram por fazer | Corrigir a falha principal do teste Alfa |
 
 #### Multimédia e créditos
 
@@ -235,7 +235,7 @@ O cartão de bolso apoia a aplicação dos conteúdos; o quiz permite verificar 
 - **Visita 3D:** Matterport capturado no apartamento do Ricardo, com 7 tags; o espaço representa a casa de familiares ou amigos que acolhem temporariamente a D. Rosa e a Ana.
 - **Recurso:** cartão de bolso para consultar as necessidades, os sinais de alarme e os contactos de ajuda.
 - **Fontes do conteúdo:** OMS (2011) *Psychological First Aid*; ADI (2022) *Advice for carers during times of crisis*; Alzheimer's Association, *In a Disaster*.
-- **Acessibilidade:** legendas em português nos 3 vídeos.
+- **Acessibilidade:** azul = pessoa, laranja = quem cuida; os vídeos da L4 ficaram sem legendas.
 
 ### 3.5 L5 · Depois da crise (Evandro Carvalho)
 
@@ -359,7 +359,7 @@ O Gantt da equipa do S2 foi mantido até ao fim, com as datas reais. O que mudou
 
 **O que funcionou bem (Beta):** a navegação e a ordem das aulas, o feedback do teste em todas as opções, o artigo da atividade da L1 («muito rico em recursos complementares»).
 
-**Alfa, por lição:** L1: 7 de 7 tarefas funcionais; estalo do microfone no início dos vídeos, visita 3D quase sem narração, legendas automáticas diferentes da narração; melhorias: voz regravada com 1 s de silêncio antes de falar, o texto passou para as tags dentro da visita, legendas a partir do guião · L2: posição das certas no Teste 2 (passam a A, C, B, C), nota «opcional» no link 3D, crises nas tags, PDFs com nomes para os alunos (06/11); mais as melhorias comuns da tabela acima (8:11 de vídeo, tags no Matterport, câmara ligada) · L3: voz com nível diferente, sem legendas, ≈ 4 min de vídeo; melhorias: 8:02 de vídeo, legendas, voz e música regravadas · L4: a narração e as legendas faltavam nos vídeos; o quiz de 4 perguntas funcionava. Na versão final, os vídeos foram reorganizados, receberam narração e legendas e as falhas identificadas ficaram resolvidas · L5: microfone abafado, sem legendas; melhorias: 8:04 de vídeo, voz regravada com a câmara ligada, feedback em cada opção do Teste 5; as legendas ficaram por fazer.
+**Alfa, por lição:** L1: 7 de 7 tarefas funcionais; estalo do microfone no início dos vídeos, visita 3D quase sem narração, legendas automáticas diferentes da narração; melhorias: voz regravada com 1 s de silêncio antes de falar, o texto passou para as tags dentro da visita, legendas a partir do guião · L2: posição das certas no Teste 2 (passam a A, C, B, C), nota «opcional» no link 3D, crises nas tags, PDFs com nomes para os alunos (06/11); mais as melhorias comuns da tabela acima (8:11 de vídeo, tags no Matterport, câmara ligada) · L3: voz com nível diferente, sem legendas, ≈ 4 min de vídeo; melhorias: 8:02 de vídeo, legendas, voz e música regravadas · L4: a narração e as legendas faltavam nos vídeos; o quiz de 4 perguntas funcionava; melhorias: 8:35 de vídeo, vídeos reorganizados e com narração; as legendas ficaram por fazer · L5: microfone abafado, sem legendas; melhorias: 8:04 de vídeo, voz regravada com a câmara ligada, feedback em cada opção do Teste 5; as legendas ficaram por fazer.
 
 ## 9. Quem fez o quê
 
@@ -368,7 +368,7 @@ O Gantt da equipa do S2 foi mantido até ao fim, com as datas reais. O que mudou
 | Bruno Lopes | L1 | Modelo visual comum, página do curso na Udemy, esquema de navegação, regras da Udemy, relatório e .zip |
 | Tiago Teixeira | L2 | Repositório GitHub do grupo (criado a 10/10, ramos por lição, Git LFS para os PowerPoint com vídeo a 06/11), recursos comuns do S5 (ilustrações Storyset, estilo Amico, e música «High Class»), curso na Udemy |
 | Rodrigo Silva | L3 | Guião, vídeos, teste e legendas da L3 |
-| Ricardo Ferreira | L4 | Guião, vídeos, quiz e legendas da L4 |
+| Ricardo Ferreira | L4 | Guião, vídeos, visita 3D e quiz da L4 |
 | Evandro Carvalho | L5 | Guião, vídeos, visita 3D e Teste 5 da L5; síntese final do curso (Aula 22) |
 
 ## 10. O que aprendemos

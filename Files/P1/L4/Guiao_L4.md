@@ -127,16 +127,16 @@ certa e 2 erradas. O Ricardo completa as perguntas e opções:
 
 | # | Pergunta | Resposta certa | Respostas erradas |
 |---:|---|---|---|
-| 1 | A D. Rosa chega a um espaço de acolhimento temporário. Qual deve ser uma das primeiras prioridades? | Incentivá-la a explorar o espaço sozinha. | Verificar a segurança e as necessidades básicas, e identificar o apoio de que necessita. · Alterar os horários habituais para se adaptar rapidamente ao espaço. |
-| 2 | Como deve Ana ajudar a prevenir que a mãe se perca? | Deixá-la circular livremente para promover a autonomia. | Pedir-lhe que memorize a localização da saída. · Informar a família, manter supervisão adequada e identificar percursos seguros. |
+| 1 | A D. Rosa chega a um espaço de acolhimento temporário. Qual deve ser uma das primeiras prioridades? | Verificar a segurança e as necessidades básicas, e identificar o apoio de que necessita. | Incentivá-la a explorar o espaço sozinha. · Alterar os horários habituais para se adaptar rapidamente ao espaço. |
+| 2 | Como deve Ana ajudar a prevenir que a mãe se perca? | Informar a família, manter supervisão adequada e identificar percursos seguros. | Deixá-la circular livremente para promover a autonomia. · Pedir-lhe que memorize a localização da saída. |
 | 3 | A D. Rosa apresenta uma confusão muito intensa e súbita do que o habitual. O que deve Ana fazer? | Procurar avaliação médica urgente; ligar 112 se existir emergência. | Assumir que é uma evolução normal da demência. · Esperar até ao dia seguinte. |
-| 4 | A Ana está exausta e sente que já não consegue cuidar da mãe sozinha. Qual é a atitude mais adequada? | Esconder o cansaço para não preocupar a família. | Abandonar a casa sem informar ninguém. · Comunicar as suas necessidades, aceitar ajuda e pedir apoio à família ou aos serviços adequados. |
+| 4 | A Ana está exausta e sente que já não consegue cuidar da mãe sozinha. Qual é a atitude mais adequada? | Comunicar as suas necessidades, aceitar ajuda e pedir apoio à família ou aos serviços adequados. | Esconder o cansaço para não preocupar a família. · Abandonar a casa sem informar ninguém. |
 
 ## 6. Teste Alfa e versão final
 
 No teste Alfa de 03/11, faltavam a narração nos vídeos e as legendas; o quiz
 de 4 perguntas funcionava. Na versão final, os vídeos foram reorganizados,
-receberam narração e legendas e as falhas identificadas ficaram resolvidas.
+receberam narração; as legendas ficaram por fazer.
 
 Falta preencher as 7 tags e a redação final do quiz.
 
