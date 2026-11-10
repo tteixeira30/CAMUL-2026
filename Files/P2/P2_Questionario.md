@@ -114,7 +114,22 @@ D3 não está no plano (§4): acrescentada para a discussão (se houver lista de
 |---|---|---|---|---|
 | E1 | As 10 afirmações do SUS (abaixo), por esta ordem | Grelha | Linhas: as 10 afirmações · Colunas: 1 · 2 · 3 · 4 · 5 | Sim (todas as linhas) |
 
-**Versão portuguesa do SUS:** SUS_PENDENTE
+**Versão portuguesa do SUS:** Martins *et al.* (2015), validação do SUS para português europeu, *Procedia Computer Science*, vol. 67, pp. 293–300, doi: 10.1016/j.procs.2015.09.273 (`P2_Referencias.md` [19], DOI confirmado no Crossref a 10/11; acesso aberto).
+
+⚠ **Por copiar (Bruno, antes de 12/11):** a ScienceDirect bloqueia pedidos automáticos, por isso os itens ainda não estão aqui. Abrir https://doi.org/10.1016/j.procs.2015.09.273 no browser e colar as 10 afirmações **exatamente como estão publicadas**, pela ordem 1–10 (e as âncoras da escala, se o artigo as der). Não traduzir a partir do inglês nem adaptar: só assim se pode dizer que é a versão validada. Se o texto falar em «sistema», a descrição acima já explica que é a visita 3D.
+
+| # | Afirmação (Martins *et al.*, 2015) |
+|---|---|
+| 1 | *(copiar)* |
+| 2 | *(copiar)* |
+| 3 | *(copiar)* |
+| 4 | *(copiar)* |
+| 5 | *(copiar)* |
+| 6 | *(copiar)* |
+| 7 | *(copiar)* |
+| 8 | *(copiar)* |
+| 9 | *(copiar)* |
+| 10 | *(copiar)* |
 
 ## F. Preferência e comentários
 
