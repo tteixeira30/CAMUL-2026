@@ -192,7 +192,50 @@ Componente para a pessoa (azul): reduzir estímulos e o canto calmo. Componente 
 
 ### 3.4 L4 · Necessidades e encaminhamento (Ricardo Ferreira)
 
-**[Ricardo]**
+#### Papel da lição no curso
+
+A L4 é uma lição «Durante»: depois do primeiro contacto e de acalmar, mostra o que fazer quando a D. Rosa e a Ana chegam a um ambiente diferente do habitual. A casa onde são acolhidas serve para pensar na segurança, nas necessidades imediatas e no pedido de ajuda, tanto para a pessoa com demência como para quem cuida.
+
+**Objetivos:** (1) identificar necessidades e perigos no novo espaço; (2) comunicar o que a pessoa precisa e reconhecer quando encaminhar para ajuda adequada; (3) reconhecer as necessidades do cuidador e pedir apoio.
+
+#### Estrutura final na Udemy (secção 4)
+
+| # | Item | Tipo | Duração |
+|---|---|---|---|
+| 1 | Chegar a uma casa que não é a nossa | Vídeo (gancho) | 0:48 |
+| 2 | Necessidades e Encaminhamento | Vídeo + cartão de bolso | 6:42 |
+| 3 | Teste 4 | Quiz, 4 perguntas de escolha múltipla, com uma resposta certa e duas erradas | — |
+| 4 | Síntese e ponte | Vídeo (ponte para a L5) | 1:05 |
+| | **Total de vídeo** | | **8:35** |
+
+O cartão de bolso apoia a aplicação dos conteúdos; o quiz permite verificar a compreensão. Não contam para a duração de vídeo.
+
+#### Percurso, etapa a etapa
+
+| Etapa | O que se fez na L4 |
+|---|---|
+| **S4 (20/10)** · primeiras evidências | Definição da lição, do cenário de acolhimento, do guião e da avaliação; as evidências próprias da L4 foram reunidas no S5 |
+| **S5 (27/10)** · protótipo | Guião e storyboard, ilustrações, cartão de bolso, proposta de visita 3D e quiz; entrega do protótipo |
+| **S6 (03/11)** · versão integrada | Integração da lição na Udemy, com um pequeno atraso; no teste de 03/11 ainda faltavam a narração e as legendas |
+| **S7 (03/11)** · testes | Teste Alfa aos vídeos, ao quiz e às legendas; o quiz funcionou, mas faltavam a narração e as legendas |
+| **S8 (10/11)** · versão final | Estrutura final com 3 vídeos e 8:35 de vídeo na Udemy, cartão de bolso, quiz, legendas e visita Matterport no apartamento do Ricardo, com 7 tags |
+
+#### Decisões que mudaram e porquê
+
+| Antes | Depois | Porquê |
+|---|---|---|
+| Visita 3D num centro de acolhimento | Apartamento do Ricardo, apresentado como casa de familiares ou amigos que acolhem a D. Rosa e a Ana | A professora pediu que o espaço fosse capturado pelos estudantes; a casa permite trabalhar a chegada e a adaptação a um local desconhecido |
+| Estrutura anterior com dois vídeos de conteúdo | Um vídeo de conteúdo, entre o gancho e a síntese | A lição foi reorganizada durante a produção; a versão final reúne o conteúdo em «Necessidades e Encaminhamento» |
+| Vídeos sem narração e sem legendas no teste Alfa | Narração e legendas nos vídeos finais | Corrigir as falhas encontradas no teste e tornar os conteúdos acessíveis |
+
+#### Multimédia e créditos
+
+- **Vídeo:** 3 vídeos com a narração: gancho, conteúdo e síntese com a ponte para a L5.
+- **Ilustrações:** imagens da chegada, das necessidades e do pedido de ajuda, em estilo semelhante ao modelo visual comum.
+- **Visita 3D:** Matterport capturado no apartamento do Ricardo, com 7 tags; o espaço representa a casa de familiares ou amigos que acolhem temporariamente a D. Rosa e a Ana.
+- **Recurso:** cartão de bolso para consultar as necessidades, os sinais de alarme e os contactos de ajuda.
+- **Fontes do conteúdo:** OMS (2011) *Psychological First Aid*; ADI (2022) *Advice for carers during times of crisis*; Alzheimer's Association, *In a Disaster*.
+- **Acessibilidade:** legendas em português nos 3 vídeos.
 
 ### 3.5 L5 · Depois da crise (Evandro Carvalho)
 
@@ -250,13 +293,13 @@ Componente para a pessoa (azul): voltar às referências e à rotina das refeiç
 | L1 | 5 | 8:33 | O que dá segurança? | Teste 1 (4) | casa do Bruno, 9 |
 | L2 | 4 | 8:11 | Complete o kit (vídeo + 3 PDFs) | Teste 2 (4) | casa do Bruno (o mesmo espaço da L1), 8 |
 | L3 | 4 | 8:02 | Respiração guiada (vídeo) | Teste 3 (4) | sala do Rodrigo, 11 |
-| L4 | 3 | 8:35 | **[Ricardo]** | Teste 4 (4) | **[Ricardo]** |
+| L4 | 3 | 8:35 | Cartão de bolso (recurso) | Teste 4 (4) | apartamento do Ricardo, 7 |
 | L5 | 4 | 8:04 | — (só o teste) | Teste 5 (4) | Discover «La Tarasca» (plano B), 5 etiquetas no vídeo |
 | **Total** | **20** | **41 min** (Udemy: 5 secções · 22 aulas) | | | |
 
 ## 4. Matterport
 
-- Cada lição usa uma casa capturada pelo grupo com a app Matterport Capture, apresentada como a casa fictícia da D. Rosa e da Ana (L1 e L2: casa do Bruno, o mesmo espaço «Casa D. Rosa», cada lição com as suas tags; L3: sala do Rodrigo, representa a «Sala da D. Rosa», 11 tags; **[L4]**). A L5 ficou com o plano B do S5: o espaço público do Discover «La Tarasca», em vídeo, com 5 etiquetas feitas no PowerPoint.
+- Cada lição usa uma casa capturada pelo grupo com a app Matterport Capture, apresentada como a casa fictícia da D. Rosa e da Ana (L1 e L2: casa do Bruno, o mesmo espaço «Casa D. Rosa», cada lição com as suas tags; L3: sala do Rodrigo, representa a «Sala da D. Rosa», 11 tags; L4 usa o apartamento do Ricardo como casa de acolhimento temporário, com 7 tags). A L5 ficou com o plano B do S5: o espaço público do Discover «La Tarasca», em vídeo, com 5 etiquetas feitas no PowerPoint.
 - **Tags:** azul = pessoa com demência, laranja = quem cuida; título com o prefixo da lição (ex.: «L1 · Sofá»); as crises aparecem nas tags (feedback do S3).
 - **Na Udemy:** a Udemy não aceita iframes → vídeo gravado da visita dentro da aula + link «Visita 3D (opcional)» nos recursos; nenhum teste depende do link.
 - **Privacidade:** espaços «não listados»; casas preparadas antes da captura (sem fotografias de família, documentos, morada); ninguém nas divisões capturadas; nunca uma pessoa com demência real.
@@ -316,7 +359,7 @@ O Gantt da equipa do S2 foi mantido até ao fim, com as datas reais. O que mudou
 
 **O que funcionou bem (Beta):** a navegação e a ordem das aulas, o feedback do teste em todas as opções, o artigo da atividade da L1 («muito rico em recursos complementares»).
 
-**Alfa, por lição:** L1: 7 de 7 tarefas funcionais; estalo do microfone no início dos vídeos, visita 3D quase sem narração, legendas automáticas diferentes da narração; melhorias: voz regravada com 1 s de silêncio antes de falar, o texto passou para as tags dentro da visita, legendas a partir do guião · L2: posição das certas no Teste 2 (passam a A, C, B, C), nota «opcional» no link 3D, crises nas tags, PDFs com nomes para os alunos (06/11); mais as melhorias comuns da tabela acima (8:11 de vídeo, tags no Matterport, câmara ligada) · L3: voz com nível diferente, sem legendas, ≈ 4 min de vídeo; melhorias: 8:02 de vídeo, legendas, voz e música regravadas · **[Ricardo]** L4: narração em falta, sem legendas · L5: microfone abafado, sem legendas; melhorias: 8:04 de vídeo, voz regravada com a câmara ligada, feedback em cada opção do Teste 5; as legendas ficaram por fazer.
+**Alfa, por lição:** L1: 7 de 7 tarefas funcionais; estalo do microfone no início dos vídeos, visita 3D quase sem narração, legendas automáticas diferentes da narração; melhorias: voz regravada com 1 s de silêncio antes de falar, o texto passou para as tags dentro da visita, legendas a partir do guião · L2: posição das certas no Teste 2 (passam a A, C, B, C), nota «opcional» no link 3D, crises nas tags, PDFs com nomes para os alunos (06/11); mais as melhorias comuns da tabela acima (8:11 de vídeo, tags no Matterport, câmara ligada) · L3: voz com nível diferente, sem legendas, ≈ 4 min de vídeo; melhorias: 8:02 de vídeo, legendas, voz e música regravadas · L4: a narração e as legendas faltavam nos vídeos; o quiz de 4 perguntas funcionava. Na versão final, os vídeos foram reorganizados, receberam narração e legendas e as falhas identificadas ficaram resolvidas · L5: microfone abafado, sem legendas; melhorias: 8:04 de vídeo, voz regravada com a câmara ligada, feedback em cada opção do Teste 5; as legendas ficaram por fazer.
 
 ## 9. Quem fez o quê
 
@@ -325,7 +368,7 @@ O Gantt da equipa do S2 foi mantido até ao fim, com as datas reais. O que mudou
 | Bruno Lopes | L1 | Modelo visual comum, página do curso na Udemy, esquema de navegação, regras da Udemy, relatório e .zip |
 | Tiago Teixeira | L2 | Repositório GitHub do grupo (criado a 10/10, ramos por lição, Git LFS para os PowerPoint com vídeo a 06/11), recursos comuns do S5 (ilustrações Storyset, estilo Amico, e música «High Class»), curso na Udemy |
 | Rodrigo Silva | L3 | Guião, vídeos, teste e legendas da L3 |
-| Ricardo Ferreira | L4 | **[Ricardo]** |
+| Ricardo Ferreira | L4 | Guião, vídeos, quiz e legendas da L4 |
 | Evandro Carvalho | L5 | Guião, vídeos, visita 3D e Teste 5 da L5; síntese final do curso (Aula 22) |
 
 ## 10. O que aprendemos
