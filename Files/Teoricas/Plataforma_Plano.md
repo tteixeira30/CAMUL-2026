@@ -1,6 +1,6 @@
 # Plataforma multimédia na Web — plano das teóricas (Grupo 1)
 
-Nota de trabalho (05/11/2026, atualizada a 10/11: datas das 5 entregas do Moodle; v1 revista; QEF da plataforma). Projeto da teórica: site que «aloja» o MOOC «Cuidar em Crise», com as regras de composição visual. Professora: Paula Escudeiro. Aulas teóricas à quarta.
+Nota de trabalho (05/11/2026, atualizada a 10/11: datas das 5 entregas do Moodle; v1 revista; Gantt da plataforma por fases; QEF da plataforma). Projeto da teórica: site que «aloja» o MOOC «Cuidar em Crise», com as regras de composição visual. Professora: Paula Escudeiro. Aulas teóricas à quarta.
 
 ## Entregas
 
@@ -9,7 +9,7 @@ O Scope document é **um só documento que cresce**: cada entrega do Moodle rece
 | # | Entrega no Moodle | Data limite | O que se submete | Versão | Estado |
 |---|---|---|---|---|---|
 | — | QEF do Grupo 2 (composição visual) | sex 06/11 | `ComposicaoVisual_QEF_Avaliacao_Grupo2.xlsx` (q ≈ 0,69) | — | ✅ Entregue a 06/11 |
-| 1 | Scope document draft | **qua 11/11, 23:55** | PDF v1: título · problema · objetivo · plano (Gantt, estrutura, organização) · público-alvo · entregáveis · referências | v1 | Feito a 09/11 (5 páginas). Revisto a 10/11 contra o modelo: tem as 7 secções e os 9 entregáveis (sem o Gama); corrigidos a legenda do Gantt («Azul =», não «■ =») e o estado dos entregáveis (v1 e plano «Feito»). **Pronto.** Falta o grupo rever e submeter |
+| 1 | Scope document draft | **qua 11/11, 23:55** | PDF v1: título · problema · objetivo · plano (Gantt, estrutura, organização) · público-alvo · entregáveis · referências | v1 | Feito a 09/11 (5 páginas). Revisto a 10/11 contra o modelo: tem as 7 secções e os 9 entregáveis (sem o Gama); corrigidos a legenda do Gantt («Azul =», não «■ =») e o estado dos entregáveis (v1 e plano «Feito»). Gantt refeito a 10/11 para a **plataforma** (antes estava organizado como o MOOC, lição a lição): 6 fases (análise, design, desenvolvimento, conteúdos do P1, testes, lançamento), 24 tarefas, semanas de 19/10 a 23/11, coluna «Estado». Passou a 6 páginas. **Pronto.** Falta o grupo rever e submeter |
 | 2 | Scope document · Gantt, estrutura e organização da aplicação multimédia | **qua 11/11, 23:55** | O mesmo PDF v1 (o plano com o Gantt, a estrutura do site e a organização já está lá) | v1 | Igual à entrega 1 |
 | 3 | Scope document · QEF | **qua 18/11, 23:55** (abriu a 10/11) | PDF v2 (v1 + secção QEF) + o `.xlsx` do QEF | v2 | **Em curso.** `Plataforma_QEF_Grupo1.xlsx` feito a 10/11: 3 dimensões (Funcionalidade, Usabilidade, Estética), 10 fatores, 45 critérios (G/E), cada um com indicador numérico, 5 níveis, instrumento e esforço; folha «Notas» com a amostra (9 páginas + 404), o teste com utilizadores (4 tarefas, SUS) e o registo da validação; q = 1 − D/√3 como no exemplo (verificado: tudo a 100 → q = 1). Falta a secção QEF no `.docx`, **só depois de submeter a v1 a 11/11** (senão o `.docx` deixa de bater com o PDF v1). É uma **proposta** de cenário de qualidade para a nossa plataforma (Usabilidade, Funcionalidade, Estética: critérios e parâmetros); a professora valida-a e depois usa-a para avaliar o site. Base: `Exemplos/QEF_Final_MOOC_Portfolio 26-27.xlsx` (exemplo da professora), `ComposicaoVisual_QEF_Grupo1.xlsx` e `Exemplos/QEF_PlataformaMOOC G1 final.xlsx` |
 | 4 | Scope document · Storyboard | **qua 18/11, 23:55** | O mesmo PDF v2 (com a secção Storyboard: ecrãs-chave) | v2 | Por fazer |
@@ -29,6 +29,7 @@ Secções: título · problema · objetivo · plano · público-alvo · entregá
 - Entregáveis do modelo: avatar D-ID (✅ os 5 da composição visual), Scope document, plano + Gantt, storyboard/mockups/ecrãs-chave, plano de marketing, plano de testes Alfa/Beta (o Gama do modelo ignora-se), inquérito + resultados Alfa, inquérito + resultados Beta, produto final.
 - Integração com a Udemy: não é obrigatória (professora, 09/11); podemos seguir a estrutura proposta.
 - Vantagem do site sobre a Udemy: o Matterport entra em iframe; os vídeos e os quizzes podem estar no site, com ligação para o curso na Udemy.
+- Vídeos no próprio site (decidido a 10/11): MP4 a 720p no Netlify, cada um < 100 MB (limite do GitHub), com `<track>` .vtt; só descarregam ao carregar em reproduzir.
 - Ponto de partida: a página da composição visual (publicada em https://timely-tanuki-231d93.netlify.app).
 
 ## Plano
