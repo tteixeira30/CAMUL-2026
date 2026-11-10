@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Figure 2 — Matterport to Udemy workflow</title>
+<!-- Fonte da Figura2.png. Exportar (na pasta Files/P2/Figuras):
+     msedge --headless --disable-gpu --hide-scrollbars --force-device-scale-factor=2.5 --window-size=800,418 --screenshot=Figura2.png Figura2.html
+     → 2000 × 1045 px; numa coluna IEEE (8,5 cm) ≈ 600 dpi. -->
+<style>
+  * { box-sizing: border-box; margin: 0; }
+  html, body { width: 800px; height: 418px; background: #fff; }
+  body { font-family: "Segoe UI", Arial, sans-serif; color: #1E2A3A; padding: 14px 12px 10px; }
+  .cols { display: grid; grid-template-columns: 1fr 22px 1fr 22px 1fr; align-items: stretch; }
+  .stage { border: 2px solid #1E2A3A; border-radius: 10px; padding: 0 8px 8px; }
+  .stage h2 { font-size: 19px; text-align: center; margin: 0 -8px 8px; padding: 6px 4px; color: #fff; background: #1E2A3A; border-radius: 7px 7px 0 0; }
+  .stage h2 small { display: block; font-size: 14px; font-weight: 400; opacity: .85; }
+  .step { border: 1.5px solid #8A97A8; border-radius: 7px; padding: 6px 8px; background: #F4F6F9; }
+  .step b { display: block; font-size: 17px; }
+  .step > span { display: block; font-size: 14.5px; line-height: 1.25; }
+  .step + .step { margin-top: 20px; position: relative; }
+  .step + .step::before { content: "▼"; position: absolute; top: -19px; left: 50%; transform: translateX(-50%); font-size: 14px; color: #1E2A3A; }
+  .person { color: #2F6DB5; font-weight: 700; }
+  .carer { color: #C4621A; font-weight: 700; }
+  .arrow { display: flex; align-items: center; justify-content: center; font-size: 22px; font-weight: 700; }
+  .out { background: #fff; border-style: dashed; }
+  .planb { margin-top: 12px; border: 1.5px dashed #8A97A8; border-radius: 7px; padding: 5px 10px; font-size: 14.5px; text-align: center; }
+</style>
+</head>
+<body>
+<div class="cols">
+  <section class="stage">
+    <h2>1 · Matterport<small>student team</small></h2>
+    <div class="step"><b>Prepare the space</b><span>No people, photos, documents or address in view</span></div>
+    <div class="step"><b>Capture</b><span>iPhone with LiDAR, Matterport Capture app, free plan (one active space)</span></div>
+    <div class="step"><b>Add tags in the space</b><span><span class="person">Blue</span> = person with dementia, <span class="carer">orange</span> = caregiver; crisis cues</span></div>
+  </section>
+  <div class="arrow">▶</div>
+  <section class="stage">
+    <h2>2 · Lesson video<small>PowerPoint, common template</small></h2>
+    <div class="step"><b>Record the walkthrough</b><span>Screen recording from tag to tag, each balloon open</span></div>
+    <div class="step"><b>Insert in a slide</b><span>Narration and webcam recorded in the slides</span></div>
+    <div class="step"><b>Export</b><span>1080p MP4 per lecture, Portuguese captions</span></div>
+  </section>
+  <div class="arrow">▶</div>
+  <section class="stage">
+    <h2>3 · Udemy<small>no iframes</small></h2>
+    <div class="step"><b>Video lecture</b><span>The recorded walkthrough inside the lesson video</span></div>
+    <div class="step out"><b>Optional resource</b><span>Link to the unlisted interactive tour</span></div>
+    <div class="step"><b>Quiz</b><span>Never depends on opening the tour</span></div>
+  </section>
+</div>
+<div class="planb">Prototype (S5) and Lesson 5: public Matterport Discover space, labels overlaid in PowerPoint instead of tags</div>
+</body>
+</html>

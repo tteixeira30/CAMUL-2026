@@ -13,6 +13,7 @@ Repositório de trabalho da UC **CAMUL** (Conceção e Autoria Multimédia, ISEP
 | `Files/P1_Plano_Bruno.md`, `.html` | Plano do Bruno até ao fim do P1: tutorial passo a passo de sexta 06/11 (Matterport no iPhone, 9 tags, PowerPoint, voz, exportar, Udemy), publicar no sábado 07/11, S8 a 10/11; histórico até 03/11 no fim | Nota de trabalho; o .md e o .html geram-se juntos (o histórico não conta para o progresso) |
 | `Files/S5_Plano_Semana_Tiago.md`, `.html` | Plano do Tiago para dom 25/10 (e sáb 24/10 à noite): S5 da L2 e avatar D-ID da teórica, passo a passo por blocos | Nota de trabalho; ramo `s5-l2` |
 | `Files/P1/` | Entregas do P1 (MOOC) | Ver tabela abaixo |
+| `Files/P2/` | P2 (artigo IEEE): enunciado `CAMUL2025_2026_P2_UK.pdf`, `CAMUL_2025_2026_Guidelines.pdf`, nota do Moodle (`.txt`), modelo `conference-template-a4.docx`, `P2_Plano.md` (plano passo a passo, 10/11), `P2_Referencias.md` (referências confirmadas no Crossref), `P2_Tabelas.md` (Tabelas I e II em inglês, com campos «a pedir»), `P2_Questionario.md` (texto do Google Forms + convite), `P2_Mensagem_Grupo.md` (pedido das fichas Matterport), `Figuras/Figura<n>.html` → `.png` (Edge `--screenshot`, comando no topo de cada `.html`) | Ver secção «O P2 em resumo» |
 | `Files/Teoricas/` | Trabalho das teóricas: apresentação «A cor azul» (`CorAzul_*`) e composição visual (`ComposicaoVisual_*`, ver secção «Teóricas») | Independente do P1 |
 | `Aulas/` | Slides das aulas 2026/27 (`CAMUL_2026_2027_Aula{1,2,3}_TP_PL.pdf`), Composição visual (`Aula3_Composição Visual sn (audio).pdf`, Paula Escudeiro), QEF (`Aula3_QEF PBL Active Learning sn_EN.pdf`, artigo `QualityCritEducGames_ICST2012_Rev.docx`, modelo `QEF_Final.xlsx`), Masterclass «Da Comunidade ao MOOC» (Sara de Sousa, só imagem), aulas antigas (design, usabilidade, SUS, multimédia e aprendizagem, Mayer/Clark) | Só contexto |
 | `Exemplos/` | Trabalhos de anos anteriores: QEF (Excel de critérios de qualidade, ex.: critério FI02 «respeitar guidelines da plataforma»), `MOOC Template.xlsx` em branco, planos de marketing | Só contexto/modelos |
@@ -130,6 +131,13 @@ Padrão de cada lição (S3): Gancho 1 min → Vídeo 3 min → Atividade 2 min 
 - Restrições: plano grátis = 1 espaço ativo por conta (usar 2 contas ou 1 mês de Starter); espaços «não listados»; consentimento do proprietário, sem dados pessoais, nunca capturar uma pessoa com demência real.
 - Detalhe completo (ideias por lição, fluxo de trabalho, riscos) em `Files/P1/P1_Tema_Matterport.md`.
 
+## O P2 em resumo
+
+- Artigo científico **em inglês**, modelo IEEE A4, **4–6 páginas**, ligado ao P1; ≥ 13 referências de 2021+ (IEEE, ACM, Springer, Elsevier, MDPI). Secções fixas 1–6 (ver o plano). Entrega **ter 24/11/2026, antes da PL**: `CAMUL2627_P2_G1_1240441_1240493_1221391_1220901_1200929.zip` com Word + PDF + figuras em ficheiros separados e numerados + apresentação .pptx (10 min, todos falam).
+- **Decidido a 10/11:** foco **tecnologia (Matterport)**: espaços capturados pelos alunos num MOOC sem iframes (Udemy). Estudo de caso exploratório / DBR; dados do P1 + questionário novo no Google Forms (12–19/11, ≥ 25 respostas: vídeo da visita vs. visita interativa, tarefa de encontrar 3 tags, SUS).
+- **Imagens (professora, 10/11):** o artigo leva imagens, não só gráficos. Todas vão numa pasta `Figuras/` dentro do .zip, com os nomes `Figura1.png`, `Figura2.png`, … pela ordem do artigo, e as tabelas como `Tabela1.png`, … É uma exceção à convenção de nomes; se a ordem mudar, renumerar. Autores: ISEP, Porto, Portugal, com o email do ISEP de cada um.
+- Tudo em `Files/P2/P2_Plano.md` (RQs, dados D1–D6, figuras, orçamento de palavras, quem faz o quê, calendário). As referências só entram confirmadas (DOI), em `P2_Referencias.md`.
+
 ## Teóricas
 
 ### Composição visual (entrega 21/10/2026)
@@ -153,7 +161,7 @@ Padrão de cada lição (S3): Gancho 1 min → Vídeo 3 min → Atividade 2 min 
 - Site que «aloja» o MOOC, a partir da página da composição visual (publicada em https://timely-tanuki-231d93.netlify.app).
 - Modelo: `Scope document 26-27.docx` (o objetivo do modelo ainda fala em sustentabilidade, sobra do ano passado).
 - `Plataforma_Scope_Document_Grupo1.docx`, `.pdf`: o nosso Scope document, v1 a 09/11 (5 páginas: título, problema, objetivo, plano com Gantt, estrutura do site, organização e riscos, público, entregáveis, referências). Um só documento que cresce a cada entrega (confirmado pela professora a 09/11); edita-se no Word.
-- Entregas: Gantt, estrutura e organização 11/11 · QEF 16/11 (proposta de cenário de qualidade da nossa plataforma; a professora valida e usa-o para avaliar; exemplo da professora: `Exemplos/QEF_Final_MOOC_Portfolio 26-27.xlsx`) · Storyboard 18/11 · Plano de marketing 18/11 · **Entrega final 25/11**.
+- Entregas (Moodle, cada uma recebe o PDF da versão atual do Scope document): 1 draft + 2 Gantt, estrutura e organização → **qua 11/11, 23:55** (v1, o mesmo PDF nas duas) · 3 QEF + 4 Storyboard + 5 Plano de marketing → **qua 18/11, 23:55** (v2, o mesmo PDF nas três; o .xlsx do QEF na 3). QEF = proposta de cenário de qualidade da nossa plataforma; a professora valida e usa-o para avaliar; exemplo da professora: `Exemplos/QEF_Final_MOOC_Portfolio 26-27.xlsx`. **Entrega final 25/11** (v3 + site).
 - Integração com a Udemy não é obrigatória. Testes: Alfa = o grupo, Beta = a equipa adversária no dia da apresentação; o Gama do modelo ignora-se. Tema: «Cuidar em Crise» (confirmado); os avatares D-ID da composição visual servem de vídeo de apresentação.
 - Plano, email e resposta da professora (09/11) em `Plataforma_Plano.md`.
 
