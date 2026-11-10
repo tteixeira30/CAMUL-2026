@@ -29,9 +29,9 @@ Gratuita, sem servidor para manter, com regras oficiais e explícitas e uma revi
 
 | # | Recomendação | No nosso curso |
 |---|---|---|
-| D1 | Uma atividade prática por secção | L1 a L4 têm uma atividade (artigo ou vídeo; na L2 com 3 PDFs para preencher) e um teste; a L5 tem só o teste |
+| D1 | Uma atividade prática por secção | L1 a L4 têm uma atividade (artigo, vídeo ou cartão de bolso; na L2 com 3 PDFs para preencher) e um teste; a L5 tem só o teste |
 | D2 | Aulas curtas, uma ideia por aula | Vídeos de 0:31 a 6:42, cada um com um tema (gancho, conteúdo, aprofundamento, síntese) |
-| D3 | Legendas | Legendas em português (pt-PT) feitas a partir do guião, não as automáticas (mais certas nos nomes e números), nas L1, L2 e L3; a L5 ficou sem legendas |
+| D3 | Legendas | Legendas em português (pt-PT) feitas a partir do guião, não as automáticas (mais certas nos nomes e números), nas L1 a L4; a L5 ficou sem legendas |
 | D4 | Vídeo promocional | Opcional (não é preciso para publicar) |
 | D5 | Recursos para descarregar | PDFs da L2 (checklist do kit, ficha da pessoa, plano de apoio), cartão de bolso da L4, links «Visita 3D» |
 | D6 | Testes com explicação em cada opção | Todos os testes dão feedback «Certo, porque…» / «Ainda não: …»; depois do S7, a certa deixou de ser sempre a mais longa |

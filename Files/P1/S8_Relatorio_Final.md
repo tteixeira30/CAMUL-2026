@@ -202,10 +202,10 @@ A L4 é uma lição «Durante»: depois do primeiro contacto e de acalmar, mostr
 
 | # | Item | Tipo | Duração |
 |---|---|---|---|
-| 1 | Chegar a uma casa que não é a nossa | Vídeo (gancho) | 0:48 |
-| 2 | Necessidades e Encaminhamento | Vídeo + cartão de bolso | 6:42 |
+| 1 | Aula 16 · Chegar a uma casa que não é a nossa | Vídeo (gancho) | 0:48 |
+| 2 | Aula 17 · Necessidades e Encaminhamento | Vídeo + cartão de bolso | 6:42 |
 | 3 | Teste 4 | Quiz, 4 perguntas de escolha múltipla, com uma resposta certa e duas erradas | — |
-| 4 | Síntese e ponte | Vídeo (ponte para a L5) | 1:05 |
+| 4 | Aula 18 · Síntese e ponte | Vídeo (ponte para a L5) | 1:05 |
 | | **Total de vídeo** | | **8:35** |
 
 O cartão de bolso apoia a aplicação dos conteúdos; o quiz permite verificar a compreensão. Não contam para a duração de vídeo.
@@ -300,7 +300,7 @@ Componente para a pessoa (azul): voltar às referências e à rotina das refeiç
 ## 4. Matterport
 
 - Cada lição usa uma casa capturada pelo grupo com a app Matterport Capture, apresentada como a casa fictícia da D. Rosa e da Ana (L1 e L2: casa do Bruno, o mesmo espaço «Casa D. Rosa», cada lição com as suas tags; L3: sala do Rodrigo, representa a «Sala da D. Rosa», 11 tags; L4 usa o apartamento do Ricardo como casa de acolhimento temporário, com 7 tags). A L5 ficou com o plano B do S5: o espaço público do Discover «La Tarasca», em vídeo, com 5 etiquetas feitas no PowerPoint.
-- **Tags:** azul = pessoa com demência, laranja = quem cuida; título com o prefixo da lição (ex.: «L1 · Sofá»); as crises aparecem nas tags (feedback do S3).
+- **Tags:** azul = pessoa com demência, laranja = quem cuida; título com o prefixo da lição (ex.: «L1 · Sofá»); as crises aparecem nas tags (feedback do S3). A L4 usa cores por tipo de lugar (verde = referência e saída, vermelho = perigo).
 - **Na Udemy:** a Udemy não aceita iframes → vídeo gravado da visita dentro da aula + link «Visita 3D (opcional)» nos recursos; nenhum teste depende do link.
 - **Privacidade:** espaços «não listados»; casas preparadas antes da captura (sem fotografias de família, documentos, morada); ninguém nas divisões capturadas; nunca uma pessoa com demência real.
 
@@ -320,7 +320,7 @@ A Udemy foi escolhida no S1 por ser gratuita, sem servidor e por ter regras ofic
 | Preço | Grátis |
 | Revisão de qualidade | Submetido a 07/11 de manhã, aprovado e publicado a 09/11 |
 
-Segue também as recomendações: um teste com feedback em cada secção e uma atividade nas L1 a L4, aulas curtas com uma ideia cada, legendas em português feitas a partir do guião (L1, L2 e L3) e recursos para descarregar (PDFs da L2, links «Visita 3D»).
+Segue também as recomendações: um teste com feedback em cada secção e uma atividade nas L1 a L4, aulas curtas com uma ideia cada, legendas em português feitas a partir do guião (L1 a L4) e recursos para descarregar (PDFs da L2, cartão de bolso da L4, links «Visita 3D»).
 
 O maior limite é a Udemy não aceitar iframes: o Matterport entra como vídeo gravado da visita, com as tags, dentro da aula, e como link «Visita 3D (opcional)» nos recursos; nenhum teste depende do link.
 
