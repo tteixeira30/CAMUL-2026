@@ -15,10 +15,10 @@ Gratuita, sem servidor para manter, com regras oficiais e explícitas e uma revi
 | # | Regra da Udemy | Como o nosso curso cumpre | Estado |
 |---|---|---|---|
 | R1 | Pelo menos **5 aulas** | 5 secções (uma por lição), cada uma com 3–6 aulas + 1 teste; 22 aulas no total | ✔ |
-| R2 | Pelo menos **30 min de vídeo** | L1 8:33 · L2 8:10 · L3 8:02 · L4 8:35 · L5 8:04 → **41 min** de vídeo na página do curso (5 secções · 22 aulas). A Udemy só deixa submeter com ≥ 30 min | ✔ |
+| R2 | Pelo menos **30 min de vídeo** | L1 8:33 · L2 8:11 · L3 8:02 · L4 8:35 · L5 8:04 → **41 min** de vídeo na página do curso (5 secções · 22 aulas). A Udemy só deixa submeter com ≥ 30 min | ✔ |
 | R3 | Curso **grátis: no máximo 2 h** de vídeo | 41 min | ✔ |
 | R4 | Vídeo em **HD** (720p ou mais) | Exportado do PowerPoint em Full HD 1080p | ✔ |
-| R5 | **Áudio** claro, nos dois canais, sincronizado com a imagem, sem ruído que distraia | Voz regravada depois dos testes do S7 (estalo, voz abafada); música baixa (4 % na L1); teste de áudio antes de gravar | ✔ L1 (06/11) |
+| R5 | **Áudio** claro, nos dois canais, sincronizado com a imagem, sem ruído que distraia | Voz regravada depois dos testes do S7 (estalo, voz abafada); música baixa (4 % na L1); teste de áudio antes de gravar | ✔ (06/11) |
 | R6 | **Página do curso** completa: título, subtítulo, descrição, idioma, nível, categoria, imagem | Título (52/60 caracteres), subtítulo (115/120), descrição ≈ 230 palavras, Português, Todos os níveis, Saúde e Fitness → Saúde mental, imagem 750 × 422 sem texto | ✔ (04/11) |
 | R7 | **Alunos-alvo:** pelo menos 4 objetivos de aprendizagem, requisitos, para quem é (público concreto, não «todos») | 5 objetivos (um por lição), requisitos «nenhum», 3 públicos concretos (cuidadores informais, familiares, voluntários e técnicos) | ✔ (04/11) |
 | R8 | **Perfil do instrutor** com fotografia e biografia | Perfil do instrutor com foto, título e biografia (a Udemy pede pelo menos 50 palavras); sem isto a Udemy não deixa submeter | ✔ (07/11) |
@@ -30,7 +30,7 @@ Gratuita, sem servidor para manter, com regras oficiais e explícitas e uma revi
 | # | Recomendação | No nosso curso |
 |---|---|---|
 | D1 | Uma atividade prática por secção | L1 a L4 têm uma atividade (artigo ou vídeo; na L2 com 3 PDFs para preencher) e um teste; a L5 tem só o teste |
-| D2 | Aulas curtas, uma ideia por aula | Vídeos de 0:30 a ≈ 4:30, cada um com um tema (gancho, conteúdo, aprofundamento, síntese) |
+| D2 | Aulas curtas, uma ideia por aula | Vídeos de 0:31 a 6:42, cada um com um tema (gancho, conteúdo, aprofundamento, síntese) |
 | D3 | Legendas | Legendas em português (pt-PT) feitas a partir do guião, não as automáticas (mais certas nos nomes e números), nas L1, L2 e L3; a L5 ficou sem legendas |
 | D4 | Vídeo promocional | Opcional (não é preciso para publicar) |
 | D5 | Recursos para descarregar | PDFs da L2 (checklist do kit, ficha da pessoa, plano de apoio), cartão de bolso da L4, links «Visita 3D» |

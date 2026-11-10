@@ -1,6 +1,6 @@
 # Guião e storyboard da L2 «Preparar antes»
 
-**Responsável:** Tiago Teixeira (1240493) · **Versão:** 3, final (09/11/2026, entrega S8: gravada com a câmara a 06/11, 8:10 de vídeo, visita 3D na casa da D. Rosa) · v2 a 25/10 (feedback do S3 na atividade e nas tags) · v1 no S4 (20/10)
+**Responsável:** Tiago Teixeira (1240493) · **Versão:** 3, final (09/11/2026, entrega S8: gravada com a câmara a 06/11, 8:11 de vídeo, visita 3D na casa da D. Rosa) · v2 a 25/10 (feedback do S3 na atividade e nas tags) · v1 no S4 (20/10)
 
 Decisões: continua a história da L1 (o mesmo alerta de incêndio, agora visto por quem **não** estava preparado) · ilustração plana (azul = pessoa, laranja = cuidador) + planos de pormenor filmados dos objetos do kit · tratamento por «você» implícito · cada um grava a sua voz.
 
@@ -10,12 +10,12 @@ Decisões: continua a história da L1 (o mesmo alerta de incêndio, agora visto 
 
 | Aula (neste guião) | Na Udemy (curso publicado) | Tipo | Duração (MP4 final) | Diapositivos (`S4_Video_L2.pptx`) |
 |---|---|---|---|---|
-| Aula 5 · O dia em que nada estava pronto | Aula 7 | Vídeo (gancho) | 0:30 | 1–3 |
+| Aula 5 · O dia em que nada estava pronto | Aula 7 | Vídeo (gancho) | 0:31 | 1–3 |
 | Aula 6 · Preparar antes | Aula 8 | Vídeo (conteúdo, com a visita 3D) + bloco B «Três crises, o mesmo kit» no fim | 4:42 | 4–13 |
 | Aula 7 · Atividade: complete o kit | Aula 9 | Vídeo A «Complete o kit» + o texto do §3 na descrição + 3 PDFs para descarregar (checklist, ficha da pessoa, plano de apoio) + link «Visita 3D» | 2:27 | 16–21 |
 | Teste 2 · Quiz | Teste 2 | Quiz (4 perguntas de escolha múltipla) | 1,5 min (não conta como vídeo) | — |
 | Aula 8 · Síntese e próximo passo | Aula 10 | Vídeo (síntese + ponte para a L3) | 0:31 | 14–15 |
-| **Total de vídeo** | | | **8:10** | |
+| **Total de vídeo** | | | **8:11** | |
 
 Mesma estrutura da secção 1 (L1): gancho → conteúdo → atividade → quiz → síntese. A Udemy numera as aulas seguidas no curso todo: com as 6 aulas da L1, a secção 2 começa na Aula 7. Os nomes dos ficheiros (`L2_Aula5_Gancho.mp4`, `S8_Legenda_Aula5_L2.vtt`, …) mantêm a numeração deste guião. Para exportar cada vídeo à parte: ocultar os outros diapositivos antes de «Exportar → Criar um vídeo».
 
@@ -38,7 +38,7 @@ Ritmo calmo ≈ 130 palavras/min. «[pausa]» = 1 s de silêncio. «Plano de por
 | **4 · Síntese** | 14 | 0:00–0:21 *(Aula 8)* | Um kit junto à porta, a ficha da pessoa no frigorífico e um plano de apoio para si. O que prepara hoje poupa minutos, e medo, no dia da crise. [pausa] Esta semana, preencha a ficha da pessoa e o plano de apoio, e deixe o kit pronto junto à porta. | Os 3 ícones do título com um ✔ cada (azul, azul, laranja). | Música calma. |
 | **Ponte** | 15 | 0:21–0:32 | Mas, mesmo com tudo preparado, a crise pode deixar a pessoa em pânico. Na próxima lição, vamos ver o primeiro contacto: como a acalmar, e como se acalmar a si. | Mapa das 5 lições com a L3 em destaque. | Música sobe e termina. |
 
-**Narração:** ≈ 585 palavras nas cenas acima. Os tempos da tabela são os previstos; a voz foi toda regravada com a câmara a 06/11 e os vídeos finais medem: Aula 5 **0:30** · Aula 6 **4:42** (com o bloco B do §2.1 e 1:39 de visita 3D) · Aula 7 **2:27** (vídeo A do §2.1) · Aula 8 **0:31** → **8:10 de vídeo**. **A professora só conta o vídeo (06/11).**
+**Narração:** ≈ 585 palavras nas cenas acima. Os tempos da tabela são os previstos; a voz foi toda regravada com a câmara a 06/11 e os vídeos finais medem: Aula 5 **0:31** · Aula 6 **4:42** (com o bloco B do §2.1 e 1:39 de visita 3D) · Aula 7 **2:27** (vídeo A do §2.1) · Aula 8 **0:31** → **8:11 de vídeo**. **A professora só conta o vídeo (06/11).**
 
 **Ligações às outras lições:** o gancho reaproveita o alerta de incêndio da L1 · o kit recebe as «3 coisas que dão segurança» da reflexão da L1 · a ficha da pessoa e o plano de apoio voltam na L4 (sinalizar a demência e aceitar ajuda) · a ponte abre a L3.
 
@@ -70,7 +70,7 @@ A professora só conta o tempo de vídeo (06/11). Com as cenas acima, a L2 tem �
 
 **Aula 8 · síntese mais longa (+≈ 10 s).** Depois de «… no dia da crise.», acrescentar: *Esta semana, preencha a ficha da pessoa e o plano de apoio, e deixe o kit pronto junto à porta.*
 
-**Conta:** prevista ≈ 8 min 45 s (≈ 130 palavras/min); gravada a 06/11 com a câmara, a voz saiu mais rápida → **8:10 de vídeo** (Aula 5 0:30 · Aula 6 4:42 · Aula 7 2:27 · Aula 8 0:31), acima dos 8 min sem cortes.
+**Conta:** prevista ≈ 8 min 45 s (≈ 130 palavras/min); gravada a 06/11 com a câmara, a voz saiu mais rápida → **8:11 de vídeo** (Aula 5 0:31 · Aula 6 4:42 · Aula 7 2:27 · Aula 8 0:31), acima dos 8 min sem cortes.
 
 ---
 
@@ -209,4 +209,4 @@ Miniaturas: diapositivos de `S4_Video_L2.pptx` (modelo comum `P1_Modelo_Licoes.p
 | **S5 (27/10)** | Guião v2: crises na atividade e nas tags (feedback do S3). Ilustrações Storyset (Amico), planos de pormenor, música e sons, voz gravada no PowerPoint; Matterport em plano B (Discover «La Tarasca», 66 s, 8 etiquetas no PowerPoint); 3 vídeos na Udemy |
 | **S6 (03/11)** | Legendas em português (10 + 42 + 5); secção 2 verificada como aluno com as 5 secções; 3:54 de vídeo |
 | **S7 (03/11)** | Testes Alfa e Beta. Pedidos: ≈ 8 min de vídeo, Matterport com tags num espaço do grupo, um membro do grupo no vídeo; certas do Teste 2 noutras posições |
-| **S8 (06/11 → 10/11)** | Guião v3: visita regravada na casa da D. Rosa (8 tags no Matterport), bloco «Três crises, o mesmo kit» (diap. 10–13), atividade em vídeo (diap. 16–21), síntese com mais uma frase; voz toda regravada com a câmara; 4 vídeos = 8:10; legendas novas (8 + 61 + 32 + 6); Teste 2 com as certas em A, C, B, C; PDFs com nomes para os alunos. A proposta de 04/11 (casa do Tiago, aula «Os três documentos») não foi gravada e fica só no histórico do git |
+| **S8 (06/11 → 10/11)** | Guião v3: visita regravada na casa da D. Rosa (8 tags no Matterport), bloco «Três crises, o mesmo kit» (diap. 10–13), atividade em vídeo (diap. 16–21), síntese com mais uma frase; voz toda regravada com a câmara; 4 vídeos = 8:11; legendas novas (8 + 61 + 32 + 6); Teste 2 com as certas em A, C, B, C; PDFs com nomes para os alunos. A proposta de 04/11 (casa do Tiago, aula «Os três documentos») não foi gravada e fica só no histórico do git |

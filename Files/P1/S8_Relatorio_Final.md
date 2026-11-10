@@ -28,8 +28,8 @@ Udemy: «Socorros psicológicos: cuidador de demência em crise» · https://www
 | S4 (20/10) | Primeiras evidências | Trabalho individual: guião, storyboard, modelo visual comum, atividade e teste na Udemy |
 | S5 (27/10) | Protótipo | Ilustrações Storyset, música comum, vídeos em PowerPoint, Matterport em plano B (espaço do Discover) |
 | S6 (03/11) | Versão integrada | Voz, vídeos Full HD, legendas, as 5 secções no mesmo curso, Gantt com o progresso real |
-| S7 (03/11) | Testes e validação | Alfa (cada autor a sua lição) e Beta (outros grupos); ver secção 9 |
-| S8 (10/11) | Entrega final | ≈ 8 min de vídeo por lição, Matterport nas nossas casas com tags, voz regravada com a câmara ligada, curso submetido para revisão a 07/11 e publicado a 09/11 (41 min de vídeo) |
+| S7 (03/11) | Testes e validação | Alfa (cada autor a sua lição) e Beta (outros grupos); ver secção 8 |
+| S8 (10/11) | Entrega final | ≈ 8 min de vídeo por lição, Matterport nas nossas casas com tags (menos na L5), voz regravada com a câmara ligada, curso submetido para revisão a 07/11 e publicado a 09/11 (41 min de vídeo) |
 
 ## 3. As lições
 
@@ -99,12 +99,12 @@ A L2 é a lição «Antes»: vem a seguir à L1 (compreender) e prepara a casa e
 
 | # | Item | Tipo | Duração |
 |---|---|---|---|
-| 1 | Aula 7 · O dia em que nada estava pronto | Vídeo (gancho) | 0:30 |
+| 1 | Aula 7 · O dia em que nada estava pronto | Vídeo (gancho) | 0:31 |
 | 2 | Aula 8 · Preparar antes | Vídeo: kit, visita 3D, ficha da pessoa, plano de apoio, ficar ou sair, «Três crises, o mesmo kit» | 4:42 |
 | 3 | Aula 9 · Atividade: complete o kit | Vídeo (atividade) + texto + 3 PDFs (checklist do kit, ficha da pessoa, plano de apoio) + link «Visita 3D» | 2:27 |
 | 4 | Teste 2 · Quiz | Quiz, 4 perguntas com feedback | 1,5 min |
 | 5 | Aula 10 · Síntese e próximo passo | Vídeo (ponte para a L3) | 0:31 |
-| | **Total de vídeo** | | **8:10** |
+| | **Total de vídeo** | | **8:11** |
 
 Componente para a pessoa (azul): o kit e a ficha da pessoa. Componente para quem cuida (laranja): o plano de apoio. No Matterport há 7 tags azuis e 1 laranja.
 
@@ -116,14 +116,14 @@ Componente para a pessoa (azul): o kit e a ficha da pessoa. Componente para quem
 | **S5 (27/10)** · protótipo | Crises na atividade e nas tags (feedback do S3). Ilustrações Storyset (estilo Amico) recoloridas, planos de pormenor dos objetos do kit filmados com o telemóvel, música e sons da L1, voz gravada no PowerPoint. Matterport em plano B: o espaço do Discover «La Tarasca», o mesmo da L1, com a visita «Caça ao kit» gravada (66 s) e 8 etiquetas feitas no PowerPoint por cima do vídeo |
 | **S6 (03/11)** · versão integrada | Legendas em português nos 3 vídeos (publicadas a 27/10); secção 2 verificada como aluno, já com as 5 secções no curso; 3:54 de vídeo (Aula 5 0:33 · Aula 6 2:59 · síntese 0:22) |
 | **S7 (03/11)** · testes | Teste Alfa da L2 e Beta de cursos de outros grupos; o nosso curso foi testado por outros grupos (ver secção 8) |
-| **S8 (10/11)** · versão final | L2 com 8:10 de vídeo (4 vídeos, 21 diapositivos), voz toda regravada com a câmara ligada, visita 3D regravada na casa da D. Rosa com 8 tags dentro do Matterport, atividade também em vídeo, bloco novo «Três crises, o mesmo kit», legendas novas (4), Teste 2 com as certas noutras posições |
+| **S8 (10/11)** · versão final | L2 com 8:11 de vídeo (4 vídeos, 21 diapositivos), voz toda regravada com a câmara ligada, visita 3D regravada na casa da D. Rosa com 8 tags dentro do Matterport, atividade também em vídeo, bloco novo «Três crises, o mesmo kit», legendas novas (4), Teste 2 com as certas noutras posições |
 
 #### Decisões que mudaram e porquê
 
 | Antes | Depois | Porquê |
 |---|---|---|
 | Matterport: espaço público do Discover, etiquetas no PowerPoint | Espaço «Casa D. Rosa» (casa do Bruno, capturada a 06/11, o mesmo da L1) com **8 tags da L2 dentro do Matterport** (3 com as crises: caminho livre, rede de apoio, o kit); visita regravada (1:39) com o balão de cada tag aberto | Pedido da professora (03/11) e testes Beta: o espaço tem de ser nosso e ter tags. A mesma casa nas duas lições mantém a casa da D. Rosa igual para o aluno; cada lição tem as suas tags |
-| L2 com 3:54 de vídeo (3 vídeos) | 8:10 (4 vídeos): a atividade passou a vídeo («Complete o kit», 2:27) e a Aula 8 ganhou o bloco «Três crises, o mesmo kit» | Só os vídeos contam para os ≈ 8 min, e a Udemy só publica um curso grátis com ≥ 30 min de vídeo. Os blocos novos não trazem matéria nova: passam para vídeo a atividade e as crises do teste e das tags. Uma proposta de 04/11 (casa do Tiago, aula nova «Os três documentos») ficou de fora |
+| L2 com 3:54 de vídeo (3 vídeos) | 8:11 (4 vídeos): a atividade passou a vídeo («Complete o kit», 2:27) e a Aula 8 ganhou o bloco «Três crises, o mesmo kit» | Só os vídeos contam para os ≈ 8 min, e a Udemy só publica um curso grátis com ≥ 30 min de vídeo. Os blocos novos não trazem matéria nova: passam para vídeo a atividade e as crises do teste e das tags. Uma proposta de 04/11 (casa do Tiago, aula nova «Os três documentos») ficou de fora |
 | As crises só no gancho (o incêndio) | Incêndio, cheia e conflito armado na atividade, em 3 tags e no bloco «Três crises, o mesmo kit» (o que pesa mais em cada crise) | Feedback do S3: os cenários de crise também nas atividades e no Matterport |
 | Voz do S5, sem cara | Voz toda regravada **com a câmara ligada** (o autor num canto, longe dos balões das tags na visita 3D), música mais baixa e em todos os diapositivos | Um membro do grupo tem de aparecer no vídeo (professora, 03/11) |
 | Teste 2 com a certa em B, B, A, B (e a mais longa) | Certas em A, C, B, C | Testes do S7: a resposta certa era fácil de adivinhar |
@@ -167,9 +167,9 @@ Componente para a pessoa (azul): reduzir estímulos e o canto calmo. Componente 
 |---|---|
 | **S4 (20/10)** · primeiras evidências | Plano da lição, guião com a narração por cena, PowerPoint no modelo comum (10 diapositivos), atividade «Respiração guiada» e Teste 3 (4 perguntas com feedback) na Udemy |
 | **S5 (27/10)** · protótipo | Matterport em plano B: espaço público do Discover («La Tarasca»), visita à sala gravada e incluída no vídeo, com 5 pontos destacados |
-| **S6 (03/11)** · versão integrada | Voz gravada no PowerPoint, Secção 3 montada na Udemy com as 5 secções do curso |
+| **S6 (03/11)** · versão integrada | Voz gravada no PowerPoint, secção 3 montada na Udemy com as 5 secções do curso |
 | **S7 (03/11)** · testes | Teste Alfa da L3 (ver secção 8): voz com nível diferente, sem legendas, ≈ 4 min de vídeo |
-| **S8 (10/11)** · versão final | L3 com 8:02 de vídeo (4 vídeos, 13 diapositivos), 3 diapositivos novos (sinais de angústia em quem cuida, frases que agravam vs frases que acalmam, «E se a pessoa continua a recusar?»), respiração guiada alargada para 1:53, captura do matterport, visita 3D na casa da D. Rosa com 11 tags, voz regravada, legendas novas (3) |
+| **S8 (10/11)** · versão final | L3 com 8:02 de vídeo (4 vídeos, 13 diapositivos), 3 diapositivos novos (sinais de angústia em quem cuida, frases que agravam vs frases que acalmam, «E se a pessoa continua a recusar?»), respiração guiada alargada para 1:53, visita 3D na casa da D. Rosa com 11 tags, voz regravada, legendas novas (3) |
 
 #### Decisões que mudaram e porquê
 
@@ -191,6 +191,7 @@ Componente para a pessoa (azul): reduzir estímulos e o canto calmo. Componente 
 - **Acessibilidade:** legendas em português (pt-PT) nos 3 vídeos com fala (Gancho, Certo vs Errado, Síntese); azul = pessoa, laranja = quem cuida.
 
 ### 3.4 L4 · Necessidades e encaminhamento (Ricardo Ferreira)
+
 **[Ricardo]**
 
 ### 3.5 L5 · Depois da crise (Evandro Carvalho)
@@ -199,7 +200,7 @@ Componente para a pessoa (azul): reduzir estímulos e o canto calmo. Componente 
 
 A L5 é a lição «Depois»: fecha o percurso do MOOC a seguir à L4. Mostra como gerir o regresso a casa e o reajuste gradual após uma crise, dando atenção especial à exaustão acumulada do cuidador e aplicando a tríade de primeiros socorros psicológicos (Observar, Escutar, Encaminhar) para recuperar o equilíbrio e garantir o apoio de que ambos precisam.
 
-Objetivos: (1) compreender que o reajuste pós-crise exige tempo, paciência e a retoma gradual das rotinas; (2) reconhecer que o cansaço e a exaustão do cuidador se prolongam e requerem atenção ativa e autocuidado; (3) aplicar os 3 passos para recuperar a estabilidade emocional e comunitária.
+**Objetivos:** (1) compreender que o reajuste pós-crise exige tempo, paciência e a retoma gradual das rotinas; (2) reconhecer que o cansaço e a exaustão do cuidador se prolongam e requerem atenção ativa e autocuidado; (3) aplicar os 3 passos para recuperar a estabilidade emocional e comunitária.
 
 #### Estrutura final na Udemy (secção 5)
 
@@ -219,9 +220,9 @@ Componente para a pessoa (azul): voltar às referências e à rotina das refeiç
 | Etapa | O que se fez na L5 |
 |---|---|
 | **S4 (20/10)** · primeiras evidências | Plano da lição, guião com a narração exata por cena e storyboard, modelo visual comum aplicado ao PowerPoint, estrutura da visita 3D e Teste 5 (4 perguntas de escolha múltipla com feedback) criado na Udemy |
-| **S5 (27/10)** · protótipo |Ilustrações Storyset (estilo Amico), infografia dos pilares de regresso, música («High Class», Benjamin Andrews). Matterport em plano B: espaço do Discover («La Tarasca», Zamora), integrado com a visita gravada e etiquetas criadas no PowerPoint alusivas ao pós-crise (reconhecimento de referências, retoma de rotinas de refeição, descanso do cuidador) |
+| **S5 (27/10)** · protótipo | Ilustrações Storyset (estilo Amico), infografia dos pilares de regresso, música («High Class», Benjamin Andrews). Matterport em plano B: espaço do Discover («La Tarasca», Zamora), integrado com a visita gravada e etiquetas criadas no PowerPoint alusivas ao pós-crise (reconhecimento de referências, retoma de rotinas de refeição, descanso do cuidador) |
 | **S6 (03/11)** · versão integrada | Voz gravada no PowerPoint; vídeos exportados em Full HD; secção 5 montada na Udemy |
-| **S7 (03/11)** · testes |Teste Alfa da L5 e Beta cruzado com outros grupos (revisão de aspetos de áudio e clareza das opções de teste) |
+| **S7 (03/11)** · testes | Teste Alfa da L5 e Beta cruzado com outros grupos (revisão de aspetos de áudio e clareza das opções de teste) |
 | **S8 (10/11)** · versão final | L5 com 8:04 de vídeo (4 vídeos), voz regravada com a câmara ligada, Teste 5 com feedback em cada opção; a Aula 22 fecha o curso todo (as 5 lições) |
 
 #### Decisões que mudaram e porquê
@@ -247,8 +248,8 @@ Componente para a pessoa (azul): voltar às referências e à rotina das refeiç
 | Lição | Aulas de vídeo | Vídeo (min) | Atividade | Teste | Matterport (casa, n.º de tags) |
 |---|---|---|---|---|---|
 | L1 | 5 | 8:33 | O que dá segurança? | Teste 1 (4) | casa do Bruno, 9 |
-| L2 | 4 | 8:10 | Complete o kit (vídeo + 3 PDFs) | Teste 2 (4) | casa do Bruno (o mesmo espaço da L1), 8 |
-| L3 | 4 | 8:02 | Respiração Guiada | Teste 3 (4) | Sala do Rodrigo, 11 |
+| L2 | 4 | 8:11 | Complete o kit (vídeo + 3 PDFs) | Teste 2 (4) | casa do Bruno (o mesmo espaço da L1), 8 |
+| L3 | 4 | 8:02 | Respiração guiada (vídeo) | Teste 3 (4) | sala do Rodrigo, 11 |
 | L4 | 3 | 8:35 | **[Ricardo]** | Teste 4 (4) | **[Ricardo]** |
 | L5 | 4 | 8:04 | — (só o teste) | Teste 5 (4) | Discover «La Tarasca» (plano B), 5 etiquetas no vídeo |
 | **Total** | **20** | **41 min** (Udemy: 5 secções · 22 aulas) | | | |
@@ -259,7 +260,6 @@ Componente para a pessoa (azul): voltar às referências e à rotina das refeiç
 - **Tags:** azul = pessoa com demência, laranja = quem cuida; título com o prefixo da lição (ex.: «L1 · Sofá»); as crises aparecem nas tags (feedback do S3).
 - **Na Udemy:** a Udemy não aceita iframes → vídeo gravado da visita dentro da aula + link «Visita 3D (opcional)» nos recursos; nenhum teste depende do link.
 - **Privacidade:** espaços «não listados»; casas preparadas antes da captura (sem fotografias de família, documentos, morada); ninguém nas divisões capturadas; nunca uma pessoa com demência real.
-- **Capturas:** as tags foram capturadas no espaço publicado a 10/11 e entram na entrega final.
 
 ## 5. Integração com a Udemy
 
@@ -268,7 +268,7 @@ A Udemy foi escolhida no S1 por ser gratuita, sem servidor e por ter regras ofic
 | Regra da Udemy | No nosso curso |
 |---|---|
 | Pelo menos 5 aulas | 5 secções, 22 aulas e 5 testes |
-| Pelo menos 30 min de vídeo; grátis, no máximo 2 h | 41 min (L1 8:33 · L2 8:10 · L3 8:02 · L4 8:35 · L5 8:04) |
+| Pelo menos 30 min de vídeo; grátis, no máximo 2 h | 41 min (L1 8:33 · L2 8:11 · L3 8:02 · L4 8:35 · L5 8:04) |
 | Vídeo HD (720p ou mais) | Full HD 1080p, exportado do PowerPoint |
 | Áudio claro, sem ruído | Voz regravada depois dos testes do S7, música baixa |
 | Página do curso completa | Título, subtítulo, descrição, Português, todos os níveis, Saúde e Fitness → Saúde mental, imagem 750 × 422 |
@@ -316,7 +316,7 @@ O Gantt da equipa do S2 foi mantido até ao fim, com as datas reais. O que mudou
 
 **O que funcionou bem (Beta):** a navegação e a ordem das aulas, o feedback do teste em todas as opções, o artigo da atividade da L1 («muito rico em recursos complementares»).
 
-**Alfa, por lição:** L1: 7 de 7 tarefas funcionais; estalo do microfone no início dos vídeos, visita 3D quase sem narração, legendas automáticas diferentes da narração; melhorias: voz regravada com 1 s de silêncio antes de falar, o texto passou para as tags dentro da visita, legendas a partir do guião · L2: posição das certas no Teste 2 (passam a A, C, B, C), nota «opcional» no link 3D, crises nas tags, PDFs com nomes para os alunos (06/11); mais as melhorias comuns da tabela acima (8:10 de vídeo, tags no Matterport, câmara ligada) · L3: voz com nível diferente, sem legendas, ≈ 4 min de vídeo; melhorias: 8:02 de vídeo, legendas, voz e música regravadas · **[Ricardo]** L4: narração em falta, sem legendas · L5: microfone abafado, sem legendas; melhorias: 8:04 de vídeo, voz regravada com a câmara ligada, feedback em cada opção do Teste 5; as legendas ficaram por fazer.
+**Alfa, por lição:** L1: 7 de 7 tarefas funcionais; estalo do microfone no início dos vídeos, visita 3D quase sem narração, legendas automáticas diferentes da narração; melhorias: voz regravada com 1 s de silêncio antes de falar, o texto passou para as tags dentro da visita, legendas a partir do guião · L2: posição das certas no Teste 2 (passam a A, C, B, C), nota «opcional» no link 3D, crises nas tags, PDFs com nomes para os alunos (06/11); mais as melhorias comuns da tabela acima (8:11 de vídeo, tags no Matterport, câmara ligada) · L3: voz com nível diferente, sem legendas, ≈ 4 min de vídeo; melhorias: 8:02 de vídeo, legendas, voz e música regravadas · **[Ricardo]** L4: narração em falta, sem legendas · L5: microfone abafado, sem legendas; melhorias: 8:04 de vídeo, voz regravada com a câmara ligada, feedback em cada opção do Teste 5; as legendas ficaram por fazer.
 
 ## 9. Quem fez o quê
 
@@ -324,7 +324,7 @@ O Gantt da equipa do S2 foi mantido até ao fim, com as datas reais. O que mudou
 |---|---|---|
 | Bruno Lopes | L1 | Modelo visual comum, página do curso na Udemy, esquema de navegação, regras da Udemy, relatório e .zip |
 | Tiago Teixeira | L2 | Repositório GitHub do grupo (criado a 10/10, ramos por lição, Git LFS para os PowerPoint com vídeo a 06/11), recursos comuns do S5 (ilustrações Storyset, estilo Amico, e música «High Class»), curso na Udemy |
-| Rodrigo Silva | L3 | Guião, Vídeos, Quiz e Legendas da L3 |
+| Rodrigo Silva | L3 | Guião, vídeos, teste e legendas da L3 |
 | Ricardo Ferreira | L4 | **[Ricardo]** |
 | Evandro Carvalho | L5 | Guião, vídeos, visita 3D e Teste 5 da L5; síntese final do curso (Aula 22) |
 
@@ -334,5 +334,5 @@ Testar com outros grupos mostrou problemas que o autor não vê na sua própria 
 
 ## 11. Créditos e fontes
 
-- Ilustrações: Storyset (storyset.com), estilo Amico · Música: «High Class», Benjamin Andrews (Biblioteca de Áudio do YouTube) · Visitas 3D: Matterport, casas capturadas pelo grupo.
-- Conteúdo: OMS (2011) *Psychological First Aid* · Alzheimer's Association *In a Disaster* · ADI (2019) *Forgotten in a Crisis* · ADI (2022) *Advice for carers… during times of crisis* · Alzheimer Portugal · OCDE (2017) · ISS (out. 2025) · Lei n.º 100/2019 (Estatuto do Cuidador Informal).
+- Ilustrações: Storyset (storyset.com), estilo Amico (L3: originais, feitas com apoio de IA) · Música: «High Class», Benjamin Andrews (Biblioteca de Áudio do YouTube) · Visitas 3D: Matterport, casas capturadas pelo grupo (L5: espaço público do Discover «La Tarasca», Zamora).
+- Conteúdo: OMS (2011) *Psychological First Aid* · Alzheimer's Association *In a Disaster* · ADI (2019) *Forgotten in a Crisis* · ADI (2022) *Advice for carers… during times of crisis* · Peterson et al. (2023) e Donohoe et al. (2023) · Alzheimer Portugal · OCDE (2017) · ISS (out. 2025) · Lei n.º 100/2019 (Estatuto do Cuidador Informal).
