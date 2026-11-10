@@ -10,11 +10,12 @@ Decisões: O pós-crise foca-se no reajuste gradual e na exaustão acumulada do 
 
 | Aula | Tipo | Duração | Diapositivos (`S4_Video_L5.pptx`) |
 |---|---|---|---|
-| Aula 16 · O regresso a casa: Retomar, Vigiar, Apoiar | Vídeo (gancho) | ≈ 1:20 | 1–4 |
-| Aula 17 · Depois da crise: Relembrar a casa da D. Rosa| Vídeo (conteúdo) | ≈ 5:00 | 6 (Matterport) |
-| Aula 18 · O regresso e o reajuste | Vídeo (os 3 passos) | ≈ 1:30 min | 5,7-8 |
-| Quiz 5 | Quiz (4 perguntas) | 1 min | — |
-| Aula 19 · Síntese e conclusão | Vídeo | ≈ 1:30 min | 9–10 |
+| Aula 19 · Retomar, Vigiar e Apoiar | Vídeo (gancho: os pilares do regresso) | 1:56 | 1–4 |
+| Aula 20 · De volta a casa da D. Rosa | Vídeo (visita 3D) | 1:32 | 6 (Matterport) |
+| Aula 21 · O regresso e o reajuste | Vídeo (os 3 passos) | 2:36 | 5, 7–8 |
+| Teste 5 · Quiz | Quiz (4 perguntas com feedback) | 1,5 min (não conta como vídeo) | — |
+| Aula 22 · Síntese e conclusão | Vídeo (fecho do curso) | 2:00 | 9–10 |
+| **Total de vídeo** | | **8:04** | |
 
 Para exportar cada vídeo à parte (Aulas 1, 2 e 4): ocultar os outros diapositivos antes de «Exportar → Criar um vídeo».
 
@@ -26,14 +27,14 @@ Ritmo calmo ≈ 130 palavras/min. «[pausa]» = 1 s de silêncio.
 
 | Cena | Diap. | Tempo | Narração (texto exato) | Imagem | Som |
 |---|---|---|---|---|---|
-| **1 · Introdução** | 1–2 | 0:00–0:23 *(Aula 16)* | Depois da tempestade, o reajuste exige tempo. [pausa] Esta é a D. Rosa e esta é a Ana. A maratona da crise terminou, mas o cansaço afeta todos os elementos. O regresso à normalidade precisa de ser guiado passo a passo, estruturando-se em quatro pilares: regresso, rotina, vigilância e apoio. | Música calma, baixa (diap. 1–2)|
-| **2 · Pilares** | 3-4 | 0:24–1:20 *(Aula 16)* | O regresso à normalidade foca-se em quatro eixos essenciais para restabelecer o equilíbrio e a segurança de ambos. | A música dos slides anteriores continua. |
-| **3 · Visita 3D** | 6 | 0:00–4:56 *(Aula 17)* | (sem narração: visita gravada no Matterport, «A relembrar a casa da D. Rosa», com 5 etiquetas;) | Volta a música calma, desde o início. |
-| **4 · Aprofundamento** | 5,7 | 0:00–1:06 *(Aula 18)* |  A relembrar a casa da D. Rosa. Os quadros familiares dizem-lhe que esta é a sua casa. Retomar o espaço e a rotina das refeições devolve a previsibilidade. Mas e quem cuida? A exaustão acumulada e o sofrimento prolongado exigem atenção redobrada e coragem para pedir ajuda. | Música calma, desde o início (diap. 5,7). |
+| **1 · Introdução** | 1–2 | 0:00–0:23 *(Aula 19)* | Depois da tempestade, o reajuste exige tempo. [pausa] Esta é a D. Rosa e esta é a Ana. A maratona da crise terminou, mas o cansaço afeta todos os elementos. O regresso à normalidade precisa de ser guiado passo a passo, estruturando-se em quatro pilares: regresso, rotina, vigilância e apoio. | Música calma, baixa (diap. 1–2)|
+| **2 · Pilares** | 3-4 | 0:24–1:20 *(Aula 19)* | O regresso à normalidade foca-se em quatro eixos essenciais para restabelecer o equilíbrio e a segurança de ambos. | A música dos slides anteriores continua. |
+| **3 · Visita 3D** | 6 | 0:00–4:56 *(Aula 20)* | (sem narração: visita gravada no Matterport, «A relembrar a casa da D. Rosa», com 5 etiquetas;) | Volta a música calma, desde o início. |
+| **4 · Aprofundamento** | 5,7 | 0:00–1:06 *(Aula 21)* |  A relembrar a casa da D. Rosa. Os quadros familiares dizem-lhe que esta é a sua casa. Retomar o espaço e a rotina das refeições devolve a previsibilidade. Mas e quem cuida? A exaustão acumulada e o sofrimento prolongado exigem atenção redobrada e coragem para pedir ajuda. | Música calma, desde o início (diap. 5,7). |
 | **5 · Os 3 passos** | 6 | 1:07–1:34 | O regresso e o reajuste exigem seguir passos claros para assegurar a normalidade nas semanas seguintes. [pausa] Observar mudanças de comportamento e reconhecer os seus próprios sinais de exaustão. [pausa] Escutar, dando espaço para expressar emoções e medos sem julgamentos. [pausa] Encaminhar, sabendo onde pedir apoio psicológico e social nos centros de saúde ou linhas de apoio. | Música baixa (continua). |
 | **3b · Quem cuida** | 7 | 1:43–2:23 | E a Ana? Também sente o choque: ansiedade, cansaço, irritação, dificuldade em pensar com clareza. São reações normais a uma situação que não é normal. Mas a Ana já vinha cansada. E numa crise perde, muitas vezes, a ajuda que tinha: o centro de dia, os vizinhos, a família. Nos planos de emergência, as pessoas com demência e quem cuida delas ficam muitas vezes esquecidas. Se a Ana não cuidar de si, não consegue cuidar da mãe. | Ecrã dividido, metade laranja em destaque: quem cuida, preocupado, sentado num cadeirão. Palavras, uma por clique: ansiedade · cansaço · irritação. | Música calma. |
 | **4 · Os 3 passos** | 8 | 2:23–3:13 | Há uma forma simples de ajudar nestes momentos: os primeiros socorros psicológicos. Não são terapia e não é preciso ser profissional. São três passos. [pausa] Observar: ver se há perigo, do que a pessoa precisa e como está a reagir. E como está você. [pausa] Escutar: aproximar-se com calma, ouvir sem pressa, ajudar a acalmar. [pausa] Encaminhar: responder às necessidades básicas e saber a quem pedir ajuda. [pausa] Neste curso, vai aplicar estes três passos à pessoa de quem cuida, e a si. | Infografia em 3 cartões, um por clique: Observar (olho) → Escutar (orelha) → Encaminhar (placa de direções). | Música calma. |
-| **5 · Síntese** | 9 | 0:00–0:48 *(Aula 19)* |Em resumo: depois da crise, o reajuste exige tempo e paciência. O cansaço do cuidador prolonga-se e requer atenção. Lembre-se: Observar, Escutar e Encaminhar ajuda a recuperar o equilíbrio. | Música calma, desde o início (diap. 9–10). |
+| **5 · Síntese** | 9 | 0:00–0:48 *(Aula 22)* |Em resumo: depois da crise, o reajuste exige tempo e paciência. O cansaço do cuidador prolonga-se e requer atenção. Lembre-se: Observar, Escutar e Encaminhar ajuda a recuperar o equilíbrio. | Música calma, desde o início (diap. 9–10). |
 | **6 · Conclusão** | 10 | 0:49–1:39 | Chegamos ao fim do caminho do curso «Cuidar em Crise». Percorremos as cinco lições: da compreensão inicial à preparação, aos primeiros socorros durante a crise e, agora, ao pós-crise. Obrigado por cuidar. | A música vai baixando até acabar. |
 
 **Música:** «High Class», Benjamin Andrews (Biblioteca de Áudio do YouTube), volume baixo. Entra nos diap. 1, 4, 5 e 9 e recomeça sempre do início: o diap. 3 corta-a, e cada vídeo (Aulas 1, 2 e 4) exporta-se à parte. **Ilustrações:** Storyset, estilo Amico.
@@ -44,7 +45,7 @@ Ritmo calmo ≈ 130 palavras/min. «[pausa]» = 1 s de silêncio.
 
 ## 3. Matterport · «Depois da crise: Relembrar a casa da D. Rosa»
 
-- **vídeo gravado** (58 s) no **diap. 6** do `S5_Video_L5.pptx`, dentro da Aula 17;
+- **vídeo gravado** (58 s) no **diap. 6** do `S5_Video_L5.pptx`, dentro da Aula 20;
 
 | Espaço Discover | Link | Autor |
 |---|---|---|
@@ -52,7 +53,7 @@ Ritmo calmo ≈ 130 palavras/min. «[pausa]» = 1 s de silêncio.
 
 Critérios do espaço: entrada, sala com janela, cozinha e quarto; mobília comum, não de luxo; de preferência em Portugal.
 
-### Roteiro (diap. 6, Aula 17, 0:00 - 4:59)
+### Roteiro (diap. 6, Aula 20, 0:00 - 4:59)
 
 Sem narração: a voz pára e só fica a música baixa. Ordem da visita: sala (quadros, sofá, janela) → cozinha → quarto → porta. Tempos contados desde o início do vídeo (58 s).
 

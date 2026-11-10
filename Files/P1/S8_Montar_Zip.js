@@ -44,6 +44,7 @@ const l1 = ler('L1/S8_Relatorio_L1.md').split(/^### Como se testou/m)[1].split('
 pdf(('# Resultados dos testes e melhorias\n\nCAMUL · ISEP · 2026/2027 · P1 · Grupo 1 · «Cuidar em Crise»\n\n' + sec8 +
   '\n## Detalhe da L1 (Bruno Lopes)\n\n### Como se testou' + l1).split(' `.vtt`').join(''), 'S8_Testes_Melhorias_Grupo1.pdf');
 pdf(ler('L4/Guiao_L4.md'), 'L4/S8_Guiao_L4_Grupo1.pdf', true, 'L4');
+pdf(ler('L5/Guiao_L5.md'), 'L5/S8_Guiao_L5_Grupo1.pdf', true, 'L5');
 
 // 2. Pastas do .zip
 const OUT = path.resolve('Entrega_S8'), D = path.join(OUT, NOME);
