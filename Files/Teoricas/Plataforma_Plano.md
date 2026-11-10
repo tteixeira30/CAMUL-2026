@@ -1,6 +1,6 @@
 # Plataforma multimédia na Web — plano das teóricas (Grupo 1)
 
-Nota de trabalho (05/11/2026, atualizada a 10/11: datas das 5 entregas do Moodle). Projeto da teórica: site que «aloja» o MOOC «Cuidar em Crise», com as regras de composição visual. Professora: Paula Escudeiro. Aulas teóricas à quarta.
+Nota de trabalho (05/11/2026, atualizada a 10/11: datas das 5 entregas do Moodle; v1 revista; QEF da plataforma). Projeto da teórica: site que «aloja» o MOOC «Cuidar em Crise», com as regras de composição visual. Professora: Paula Escudeiro. Aulas teóricas à quarta.
 
 ## Entregas
 
@@ -9,9 +9,9 @@ O Scope document é **um só documento que cresce**: cada entrega do Moodle rece
 | # | Entrega no Moodle | Data limite | O que se submete | Versão | Estado |
 |---|---|---|---|---|---|
 | — | QEF do Grupo 2 (composição visual) | sex 06/11 | `ComposicaoVisual_QEF_Avaliacao_Grupo2.xlsx` (q ≈ 0,69) | — | ✅ Entregue a 06/11 |
-| 1 | Scope document draft | **qua 11/11, 23:55** | PDF v1: título · problema · objetivo · plano (Gantt, estrutura, organização) · público-alvo · entregáveis · referências | v1 | Feito a 09/11 (5 páginas). Falta o grupo rever e submeter |
+| 1 | Scope document draft | **qua 11/11, 23:55** | PDF v1: título · problema · objetivo · plano (Gantt, estrutura, organização) · público-alvo · entregáveis · referências | v1 | Feito a 09/11 (5 páginas). Revisto a 10/11 contra o modelo: tem as 7 secções e os 9 entregáveis (sem o Gama); corrigidos a legenda do Gantt («Azul =», não «■ =») e o estado dos entregáveis (v1 e plano «Feito»). **Pronto.** Falta o grupo rever e submeter |
 | 2 | Scope document · Gantt, estrutura e organização da aplicação multimédia | **qua 11/11, 23:55** | O mesmo PDF v1 (o plano com o Gantt, a estrutura do site e a organização já está lá) | v1 | Igual à entrega 1 |
-| 3 | Scope document · QEF | **qua 18/11, 23:55** (abriu a 10/11) | PDF v2 (v1 + secção QEF) + o `.xlsx` do QEF | v2 | Por fazer. É uma **proposta** de cenário de qualidade para a nossa plataforma (Usabilidade, Funcionalidade, Estética: critérios e parâmetros); a professora valida-a e depois usa-a para avaliar o site. Base: `Exemplos/QEF_Final_MOOC_Portfolio 26-27.xlsx` (exemplo da professora), `ComposicaoVisual_QEF_Grupo1.xlsx` e `Exemplos/QEF_PlataformaMOOC G1 final.xlsx` |
+| 3 | Scope document · QEF | **qua 18/11, 23:55** (abriu a 10/11) | PDF v2 (v1 + secção QEF) + o `.xlsx` do QEF | v2 | **Em curso.** `Plataforma_QEF_Grupo1.xlsx` feito a 10/11: 3 dimensões (Funcionalidade, Usabilidade, Estética), 10 fatores, 45 critérios (G/E), cada um com indicador numérico, 5 níveis, instrumento e esforço; folha «Notas» com a amostra (9 páginas + 404), o teste com utilizadores (4 tarefas, SUS) e o registo da validação; q = 1 − D/√3 como no exemplo (verificado: tudo a 100 → q = 1). Falta a secção QEF no `.docx`, **só depois de submeter a v1 a 11/11** (senão o `.docx` deixa de bater com o PDF v1). É uma **proposta** de cenário de qualidade para a nossa plataforma (Usabilidade, Funcionalidade, Estética: critérios e parâmetros); a professora valida-a e depois usa-a para avaliar o site. Base: `Exemplos/QEF_Final_MOOC_Portfolio 26-27.xlsx` (exemplo da professora), `ComposicaoVisual_QEF_Grupo1.xlsx` e `Exemplos/QEF_PlataformaMOOC G1 final.xlsx` |
 | 4 | Scope document · Storyboard | **qua 18/11, 23:55** | O mesmo PDF v2 (com a secção Storyboard: ecrãs-chave) | v2 | Por fazer |
 | 5 | Scope document · Plano de marketing | **qua 18/11, 23:55** | O mesmo PDF v2 (com a secção Plano de marketing) | v2 | Por fazer. Modelos em `Exemplos/Marketing_Plan_*.pdf` |
 | — | Produto final + testes Alfa e Beta | **qua 25/11** | Site + Scope document final (v3: plano de testes, inquéritos e resultados Alfa e Beta) | v3 | Alfa = o grupo testa o seu site antes · Beta = a equipa adversária, no dia da apresentação. Sem teste Gama |
