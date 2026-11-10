@@ -122,14 +122,14 @@ A visita final tem **7 tags**:
 ## 5. Teste 4 · Quiz
 
 O quiz final tem 4 perguntas de escolha múltipla, cada uma com 1 resposta
-certa e 2 erradas:
+certa e 2 erradas, pela ordem em que aparecem (a certa a negrito):
 
-| # | Pergunta | Resposta certa | Respostas erradas |
-|---:|---|---|---|
-| 1 | A D. Rosa chega a um espaço de acolhimento temporário. Qual deve ser uma das primeiras prioridades? | Verificar a segurança e as necessidades básicas, e identificar o apoio de que necessita. | Incentivá-la a explorar o espaço sozinha. · Alterar os horários habituais para se adaptar rapidamente ao espaço. |
-| 2 | Como deve Ana ajudar a prevenir que a mãe se perca? | Informar a família, manter supervisão adequada e identificar percursos seguros. | Deixá-la circular livremente para promover a autonomia. · Pedir-lhe que memorize a localização da saída. |
-| 3 | A D. Rosa apresenta uma confusão muito intensa e súbita do que o habitual. O que deve Ana fazer? | Procurar avaliação médica urgente; ligar 112 se existir emergência. | Assumir que é uma evolução normal da demência. · Esperar até ao dia seguinte. |
-| 4 | A Ana está exausta e sente que já não consegue cuidar da mãe sozinha. Qual é a atitude mais adequada? | Comunicar as suas necessidades, aceitar ajuda e pedir apoio à família ou aos serviços adequados. | Esconder o cansaço para não preocupar a família. · Abandonar a casa sem informar ninguém. |
+| # | Pergunta | A | B | C | Certa |
+|---:|---|---|---|---|:---:|
+| 1 | A D. Rosa chega a um espaço de acolhimento temporário. Qual deve ser uma das primeiras prioridades? | Incentivá-la a explorar o espaço sozinha. | **Verificar a segurança e as necessidades básicas, e identificar o apoio de que necessita.** | Alterar os horários habituais para se adaptar rapidamente ao espaço. | B |
+| 2 | Como deve Ana ajudar a prevenir que a mãe se perca? | Deixá-la circular livremente para promover a autonomia. | Pedir-lhe que memorize a localização da saída. | **Informar a família, manter supervisão adequada e identificar percursos seguros.** | C |
+| 3 | A D. Rosa apresenta uma confusão muito intensa e súbita do que o habitual. O que deve Ana fazer? | **Procurar avaliação médica urgente; ligar 112 se existir emergência.** | Assumir que é uma evolução normal da demência. | Esperar até ao dia seguinte. | A |
+| 4 | A Ana está exausta e sente que já não consegue cuidar da mãe sozinha. Qual é a atitude mais adequada? | Esconder o cansaço para não preocupar a família. | Abandonar a casa sem informar ninguém. | **Comunicar as suas necessidades, aceitar ajuda e pedir apoio à família ou aos serviços adequados.** | C |
 
 ## 6. Teste Alfa e versão final
 
