@@ -1,0 +1,680 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cuidar em Crise · Grupo 1</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+/* Apresentação final do P1 (S8, ter 10/11/2026), ≈ 20 min. A ideia: vender o MOOC como um produto.
+   Abre no escuro, com uma crise a acontecer; acende-se a luz com o produto; a plateia responde a uma pergunta do curso;
+   fecha com um QR code para se inscreverem ali mesmo.
+   Palco fixo de 1600 × 900 (16:9), escalado para caber no ecrã (o mesmo motor da apresentação da composição visual).
+   Teclas: → / espaço / clique = seguinte (os diapositivos com «passos» revelam-nos primeiro) · ← = anterior ·
+   F = ecrã inteiro · T = modo ensaio (cronómetro, tempo-alvo e quem fala). */
+:root {
+  --areia: #F5F1E8;
+  --texto: #1E2A3A;
+  --azul: #3A6EA5;    /* pessoa com demência */
+  --ambar: #A8600F;   /* quem cuida + destaque */
+  --branco: #FFFFFF;
+  --linha: #E2DACA;
+  --noite: #11161F;
+  --fonte: "Atkinson Hyperlegible", "Segoe UI", Roboto, Arial, sans-serif;
+  --m: 80px;
+  --gap: 32px;
+  color-scheme: light;
+}
+*, *::before, *::after { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; overflow: hidden; background: var(--areia); color: var(--texto); font-family: var(--fonte); }
+h1, h2, h3, p, ul, ol, figure { margin: 0; padding: 0; }
+ul, ol { list-style: none; }
+h1, h2 { text-wrap: balance; }
+a { color: inherit; }
+button { font-family: inherit; }
+body.escuro { background: var(--noite); }
+
+.palco {
+  position: absolute; left: 50%; top: 50%; width: 1600px; height: 900px;
+  transform: translate(-50%, -50%) scale(var(--s, 1)); transform-origin: center;
+  overflow: clip; background: var(--areia); font-size: 28px; line-height: 1.4;
+}
+@media (prefers-reduced-motion: no-preference) { .palco { transition: background .6s; } }
+
+.slide { position: absolute; inset: 0 0 64px 0; padding: 56px var(--m) 24px; display: none; flex-direction: column; }
+.slide.ativo { display: flex; animation: entrar .3s ease-out; }
+@keyframes entrar { from { opacity: 0; } to { opacity: 1; } }
+.passo { opacity: 0; transform: translateY(12px); transition: opacity .4s, transform .4s; }
+.passo.visto { opacity: 1; transform: none; }
+@media (prefers-reduced-motion: reduce) { .slide.ativo { animation: none; } .passo { transition: none; transform: none; } }
+
+.eyebrow { color: var(--azul); font-weight: 700; font-size: 24px; line-height: 1.3; margin-bottom: 12px; }
+h2 { font-size: 56px; line-height: 1.15; }
+h3 { font-size: 30px; line-height: 1.25; }
+.lead { font-size: 32px; line-height: 1.35; }
+.nota { font-size: 22px; line-height: 1.45; }
+.cabeca { margin-bottom: 36px; }
+.cartao { background: var(--branco); border: 1px solid var(--linha); border-radius: 12px; padding: 28px; min-width: 0; }
+.botao {
+  display: inline-block; font-weight: 700; font-size: 24px; line-height: 1; text-decoration: none; white-space: nowrap;
+  padding: 18px 28px; border-radius: 8px; border: 2px solid var(--texto); color: var(--texto); background: transparent;
+}
+.botao.principal { background: var(--ambar); border-color: var(--ambar); color: var(--branco); }
+.botao:hover { background: var(--texto); color: var(--areia); }
+.botao.principal:hover { background: #8E510D; border-color: #8E510D; }
+:focus-visible { outline: 3px solid var(--azul); outline-offset: 3px; }
+.p { color: var(--azul); font-weight: 700; }   /* a pessoa */
+.c { color: var(--ambar); font-weight: 700; }  /* quem cuida */
+
+/* Rodapé */
+.rodape {
+  position: absolute; left: 0; right: 0; bottom: 0; height: 64px; padding: 0 var(--m);
+  display: flex; align-items: center; gap: 16px; font-size: 20px; border-top: 1px solid var(--linha);
+}
+.rodape .marca { flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.rodape .numero { font-weight: 700; min-width: 4.5em; text-align: center; font-variant-numeric: tabular-nums; }
+.seta {
+  flex: none; width: 44px; height: 44px; padding: 0; border-radius: 50%; cursor: pointer;
+  background: transparent; color: inherit; border: 2px solid currentColor; font: 700 20px/1 var(--fonte);
+}
+.seta:disabled { opacity: .35; cursor: default; }
+.ecra { width: auto; border-radius: 22px; padding: 0 16px; font-size: 18px; }
+.progresso { position: absolute; left: 0; bottom: 0; height: 4px; width: calc(var(--p, 0) * 100%); background: var(--ambar); }
+.ensaio { display: none; font-weight: 700; font-variant-numeric: tabular-nums; padding: 6px 14px; border-radius: 20px; background: var(--texto); color: var(--areia); white-space: nowrap; }
+.modo-ensaio .ensaio { display: block; }
+.ensaio.atrasado { background: #B3261E; color: #fff; }
+
+/* Diapositivos escuros (abertura) */
+.palco.no-escuro { background: var(--noite); color: #E8ECF2; }
+.no-escuro .rodape { border-top-color: transparent; }
+.no-escuro .rodape .marca { visibility: hidden; }
+
+/* 1 · Abertura */
+.abertura { justify-content: center; padding-left: 160px; }
+.relogio { font-size: 200px; line-height: 1; font-weight: 700; font-variant-numeric: tabular-nums; letter-spacing: -4px; color: #FFB25C; }
+@media (prefers-reduced-motion: no-preference) { .relogio .dp { animation: piscar 1s steps(1) infinite; } }
+@keyframes piscar { 50% { opacity: 0; } }
+.abertura .linhas { margin-top: 40px; display: grid; gap: 14px; font-size: 44px; line-height: 1.2; max-width: 1200px; }
+.abertura .linhas .forte { font-weight: 700; color: #fff; }
+.fumo {
+  position: absolute; inset: auto 0 0 0; height: 420px; pointer-events: none;
+  background: linear-gradient(to top, rgba(168, 96, 15, .28), transparent);
+}
+
+/* 2 · Números */
+.numeros { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--gap); }
+.numeros .cartao { display: flex; flex-direction: column; gap: 10px; padding: 32px; }
+.numeros b { font-size: 76px; line-height: 1; color: var(--ambar); font-variant-numeric: tabular-nums; }
+.numeros b.az { color: var(--azul); }
+.numeros span { font-size: 26px; line-height: 1.35; }
+.numeros small { font-size: 18px; color: #5A6575; margin-top: auto; }
+.fonte-baixo { margin-top: 28px; font-size: 20px; color: #5A6575; }
+
+/* 3 · A Ana */
+.persona { display: grid; grid-template-columns: 560px 1fr; gap: 64px; align-items: center; flex: 1; }
+.persona img { width: 100%; border-radius: 16px; display: block; }
+.ficha { display: grid; gap: 18px; }
+.ficha li { display: grid; grid-template-columns: 220px 1fr; gap: 16px; font-size: 28px; border-top: 1px solid var(--linha); padding-top: 14px; }
+.ficha li b { color: var(--ambar); }
+.citacao { margin-top: 28px; font-size: 36px; line-height: 1.3; font-weight: 700; border-left: 6px solid var(--ambar); padding-left: 24px; }
+
+/* 4 · O que existe */
+table { border-collapse: collapse; width: 100%; font-size: 27px; }
+th, td { text-align: left; padding: 16px 18px; border-bottom: 1px solid var(--linha); vertical-align: middle; }
+thead th { font-size: 22px; color: var(--azul); }
+th:first-child { width: 300px; }
+td.nosso, th.nosso { background: var(--branco); font-weight: 700; }
+thead th.nosso { color: var(--ambar); font-size: 26px; border-top: 4px solid var(--ambar); }
+.sim { color: #2E7D4F; font-weight: 700; }
+.nao { color: #9A3B30; }
+
+/* 5 · O produto */
+.produto { display: grid; grid-template-columns: 1fr 520px; gap: 56px; align-items: center; flex: 1; }
+.produto .caixa { position: relative; }
+.produto .caixa img { width: 100%; display: block; border-radius: 16px; box-shadow: 0 12px 40px rgba(30, 42, 58, .18); }
+.etiqueta {
+  position: absolute; right: -28px; top: -36px; width: 210px; height: 210px; border-radius: 50%;
+  background: var(--ambar); color: #fff; display: flex; flex-direction: column; align-items: center; justify-content: center;
+  transform: rotate(10deg); box-shadow: 0 8px 24px rgba(168, 96, 15, .35);
+}
+.etiqueta s { font-size: 26px; opacity: .8; }
+.etiqueta b { font-size: 84px; line-height: 1; }
+.etiqueta span { font-size: 20px; font-weight: 700; }
+.produto h2 { font-size: 50px; }
+.vantagens { display: grid; gap: 14px; margin-top: 28px; }
+.vantagens li { display: flex; gap: 16px; align-items: baseline; font-size: 28px; }
+.vantagens li::before { content: "✔"; color: #2E7D4F; font-weight: 700; }
+
+/* 6 · Linha do tempo e cabeçalho das lições */
+.tempo { display: grid; grid-template-columns: 1fr 1fr 2fr 1fr; gap: 12px; }
+.tempo li { border-radius: 10px; padding: 18px 22px; background: var(--branco); border: 1px solid var(--linha); }
+.tempo .fase { font-size: 20px; font-weight: 700; color: #5A6575; text-transform: uppercase; letter-spacing: 1px; }
+.tempo h3 { margin-top: 6px; }
+.tempo .quem { font-size: 22px; margin-top: 6px; }
+.tempo .duas-l { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.mini { display: grid; grid-template-columns: 1fr 1fr 2fr 1fr; gap: 8px; margin-bottom: 28px; }
+.mini li { height: 12px; border-radius: 6px; background: var(--linha); }
+.mini li.aqui { background: var(--ambar); }
+.mini li.duas-m { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; background: none; }
+.mini li.duas-m i { border-radius: 6px; background: var(--linha); }
+.mini li.duas-m i.aqui { background: var(--ambar); }
+
+/* 7–11 · As lições */
+.licao { display: grid; grid-template-columns: 1fr 520px; gap: 64px; flex: 1; align-items: center; }
+.licao h2 { font-size: 54px; margin-bottom: 24px; }
+.aprende { display: grid; gap: 14px; }
+.aprende li { font-size: 28px; line-height: 1.35; padding-left: 36px; position: relative; }
+.aprende li::before { content: "→"; position: absolute; left: 0; color: var(--ambar); font-weight: 700; }
+.fichas { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 32px; }
+.fichas span { font-size: 21px; padding: 8px 16px; border-radius: 22px; background: var(--branco); border: 1px solid var(--linha); }
+.fichas b { color: var(--azul); }
+.licao figure img { width: 100%; display: block; border-radius: 16px; }
+.icones { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+.icones figure { background: var(--branco); border: 1px solid var(--linha); border-radius: 12px; padding: 18px; text-align: center; }
+.icones img { width: 100%; max-width: 120px; display: block; margin: 0 auto 10px; }
+.icones figcaption { font-size: 22px; font-weight: 700; }
+
+/* 12 · Plateia */
+.pergunta { font-size: 38px; line-height: 1.3; font-weight: 700; max-width: 1300px; margin-bottom: 32px; }
+.opcoes { display: grid; gap: 16px; }
+.opcoes li { display: flex; gap: 22px; align-items: center; font-size: 30px; padding: 20px 26px; border-radius: 12px; background: var(--branco); border: 2px solid var(--linha); transition: border-color .3s, background .3s, opacity .3s; }
+.opcoes li b { flex: none; width: 52px; height: 52px; border-radius: 50%; background: var(--texto); color: #fff; display: flex; align-items: center; justify-content: center; font-size: 26px; }
+.revelado .opcoes li { opacity: .45; }
+.revelado .opcoes li.certa { opacity: 1; border-color: #2E7D4F; background: #EAF5EE; }
+.revelado .opcoes li.certa b { background: #2E7D4F; }
+.feedback { margin-top: 24px; font-size: 28px; font-weight: 700; color: #2E7D4F; }
+.maos { font-size: 26px; color: var(--azul); font-weight: 700; margin-bottom: 18px; }
+
+/* 13 · Demo */
+.demo { display: grid; grid-template-columns: 1fr 760px; gap: 56px; flex: 1; align-items: center; }
+.passos-demo { display: grid; gap: 16px; counter-reset: d; }
+.passos-demo li { counter-increment: d; display: flex; gap: 18px; font-size: 27px; line-height: 1.35; }
+.passos-demo li::before { content: counter(d); flex: none; width: 44px; height: 44px; border-radius: 50%; background: var(--azul); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 22px; }
+.ligacoes { display: flex; flex-wrap: wrap; gap: 16px; margin-top: 32px; }
+.demo video { width: 100%; border-radius: 12px; background: #000; display: block; }
+.demo figcaption { font-size: 20px; margin-top: 10px; color: #5A6575; }
+
+/* 14 · Testes */
+.antes-depois td:first-child { color: #9A3B30; }
+.antes-depois td:nth-child(2) { color: #5A6575; font-size: 22px; }
+.antes-depois td:last-child { font-weight: 700; }
+
+/* 15 · Udemy */
+.selo-linha { display: grid; grid-template-columns: 360px 1fr; gap: 64px; align-items: center; flex: 1; }
+.selo {
+  width: 340px; height: 340px; border-radius: 50%; border: 10px double #2E7D4F; color: #2E7D4F;
+  display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; transform: rotate(-8deg);
+}
+.selo b { font-size: 54px; line-height: 1; }
+.selo span { font-size: 22px; font-weight: 700; margin-top: 10px; }
+.regras { display: grid; grid-template-columns: 1fr 1fr; gap: 14px 40px; }
+.regras li { font-size: 25px; line-height: 1.35; display: flex; gap: 14px; }
+.regras li::before { content: "✔"; color: #2E7D4F; font-weight: 700; }
+.regras li.limite::before { content: "!"; color: var(--ambar); }
+
+/* 16 · Processo */
+.etapas { display: grid; grid-template-columns: repeat(8, 1fr); gap: 10px; }
+.etapas li { background: var(--branco); border: 1px solid var(--linha); border-radius: 10px; padding: 16px 14px; min-height: 210px; }
+.etapas b { display: block; color: var(--ambar); font-size: 30px; }
+.etapas small { display: block; font-size: 17px; color: #5A6575; margin-bottom: 8px; }
+.etapas span { font-size: 21px; line-height: 1.3; display: block; }
+.mudou { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 28px; }
+.mudou li { font-size: 23px; line-height: 1.35; border-left: 5px solid var(--azul); padding-left: 16px; }
+
+/* 17 · Fecho */
+.fecho { display: grid; grid-template-columns: 1fr 380px; gap: 64px; align-items: center; }
+.fecho h2 { font-size: 80px; line-height: 1.05; margin-bottom: 20px; }
+.qr { background: #fff; padding: 20px; border-radius: 16px; border: 1px solid var(--linha); text-align: center; }
+.qr #qr { width: 320px; height: 320px; margin: 0 auto; display: flex; align-items: center; justify-content: center; }
+.qr #qr img, .qr #qr canvas { width: 320px; height: 320px; }
+.qr p { font-size: 20px; margin-top: 12px; word-break: break-all; }
+.equipa { margin-top: 36px; font-size: 22px; line-height: 1.6; }
+</style>
+</head>
+<body>
+<div class="palco" id="palco">
+
+  <!-- 1 · Abertura no escuro: a crise a acontecer. O 1.º passo toca a sirene. -->
+  <section class="slide abertura escuro" data-t="45" data-quem="Rodrigo" aria-label="Abertura">
+    <p class="relogio">03<span class="dp">:</span>12</p>
+    <div class="linhas">
+      <p>Cheira a fumo.</p>
+      <p class="passo" data-som="sirene">Chega a ordem para sair de casa.</p>
+      <p class="passo">A D. Rosa, que tem demência, senta-se no sofá e <span class="forte">recusa-se a sair.</span></p>
+      <p class="passo forte">A filha, a Ana, tem poucos minutos para decidir. Ninguém a preparou para isto.</p>
+    </div>
+    <div class="fumo" aria-hidden="true"></div>
+    <audio id="sirene" src="L1/S5_Som_Sirene_L1.mp3" preload="auto"></audio>
+  </section>
+
+  <!-- 2 · O problema -->
+  <section class="slide" data-t="60" data-quem="Rodrigo" aria-label="O problema">
+    <div class="cabeca">
+      <p class="eyebrow">O problema</p>
+      <h2>A D. Rosa e a Ana não são uma exceção</h2>
+    </div>
+    <ul class="numeros">
+      <li class="cartao"><b class="az">182 500</b><span>pessoas com demência em Portugal: 4.º país da OCDE em casos por 1000 habitantes</span><small>Alzheimer Portugal · OCDE 2017</small></li>
+      <li class="cartao"><b>84 %</b><span>dos cuidadores com Estatuto são mulheres, com 57 anos em média</span><small>ISS, out. 2025 · Lei n.º 100/2019</small></li>
+      <li class="cartao"><b>60,5 %</b><span>dos cuidadores avaliados já estão em sobrecarga, antes de qualquer crise</span><small>ISS, out. 2025</small></li>
+    </ul>
+    <p class="lead" style="margin-top:36px">Numa crise, a pessoa perde a rotina e as referências. Quem cuida perde a rede de apoio. <span class="nota">(ADI, 2019, <i>Forgotten in a Crisis</i>)</span></p>
+  </section>
+
+  <!-- 3 · A cliente -->
+  <section class="slide" data-t="45" data-quem="Rodrigo" aria-label="Para quem é">
+    <p class="eyebrow">Para quem é</p>
+    <div class="persona">
+      <img src="L2/S5_Ilustracao_Ana_Pressa_L2.png" alt="Ilustração da Ana, a cuidadora, apressada.">
+      <div>
+        <h2 style="margin-bottom:28px">Conheçam a Ana</h2>
+        <ul class="ficha">
+          <li><b>Quem é</b><span>Filha e cuidadora informal da mãe, com demência ligeira a moderada</span></li>
+          <li><b>Onde está</b><span>Em casa, em Portugal</span></li>
+          <li><b>Tempo</b><span>Quase nenhum: aprende no telemóvel, aos bocados</span></li>
+          <li><b>Precisa de</b><span>Saber o que fazer quando tudo falha</span></li>
+        </ul>
+        <p class="citacao">«Sei cuidar da minha mãe num dia normal. Num incêndio, não sei.»</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4 · O que já existe -->
+  <section class="slide" data-t="45" data-quem="Ricardo" aria-label="O que já existe">
+    <div class="cabeca">
+      <p class="eyebrow">A concorrência</p>
+      <h2>Há cursos para cuidadores. Nenhum trata a crise.</h2>
+    </div>
+    <table>
+      <thead><tr><th></th><th>Cursos para cuidadores<br>(iSupport, NAU, Santa Maria…)</th><th>Cursos de primeiros socorros psicológicos</th><th class="nosso">O nosso</th></tr></thead>
+      <tbody>
+        <tr><th>Duração</th><td class="nao">14 h a 51 h</td><td>variável</td><td class="nosso sim">≈ 40 min</td></tr>
+        <tr><th>Foco</th><td class="nao">o dia a dia</td><td class="nao">geral, para todos</td><td class="nosso sim">a crise: antes, durante, depois</td></tr>
+        <tr><th>Língua</th><td>português</td><td class="nao">sobretudo inglês</td><td class="nosso sim">português</td></tr>
+        <tr><th>Pessoa + cuidador</th><td>o cuidador</td><td class="nao">não</td><td class="nosso sim">a dupla, sempre</td></tr>
+        <tr><th>Prática em 3D</th><td class="nao">não</td><td class="nao">não</td><td class="nosso sim">visita à casa (Matterport)</td></tr>
+      </tbody>
+    </table>
+    <p class="fonte-baixo">Não substitui estes cursos: completa-os, e a L5 encaminha para eles.</p>
+  </section>
+
+  <!-- 5 · O produto -->
+  <section class="slide" data-t="45" data-quem="Ricardo" aria-label="O produto">
+    <p class="eyebrow">O produto</p>
+    <div class="produto">
+      <div>
+        <h2>Socorros psicológicos: cuidador de demência em crise</h2>
+        <ul class="vantagens">
+          <li>5 lições de ≈ 8 min, uma por momento da crise</li>
+          <li>No telemóvel, ao seu ritmo, em português</li>
+          <li>Visita 3D à casa da D. Rosa em cada lição</li>
+          <li>Uma atividade e um teste com feedback por lição</li>
+          <li>Publicado na Udemy, aprovado na revisão de qualidade</li>
+        </ul>
+      </div>
+      <div class="caixa">
+        <img src="P1_Imagem_Curso_Udemy.png" alt="Imagem do curso: a Ana ampara a D. Rosa, confusa, na sala de casa.">
+        <div class="etiqueta" aria-label="Preço: grátis"><b>0 €</b><span>grátis</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 6 · As 5 lições na linha do tempo da crise -->
+  <section class="slide" data-t="30" data-quem="Ricardo" aria-label="As 5 lições">
+    <div class="cabeca">
+      <p class="eyebrow">Como está organizado</p>
+      <h2>Uma lição para cada momento da crise</h2>
+    </div>
+    <ol class="tempo">
+      <li><p class="fase">Compreender</p><h3>L1 · Crise, demência e quem cuida</h3><p class="quem">Bruno Lopes</p></li>
+      <li><p class="fase">Antes</p><h3>L2 · Preparar antes</h3><p class="quem">Tiago Teixeira</p></li>
+      <li><p class="fase">Durante</p>
+        <div class="duas-l">
+          <div><h3>L3 · Primeiro contacto: acalmar</h3><p class="quem">Rodrigo Silva</p></div>
+          <div><h3>L4 · Necessidades e encaminhamento</h3><p class="quem">Ricardo Ferreira</p></div>
+        </div>
+      </li>
+      <li><p class="fase">Depois</p><h3>L5 · Depois da crise</h3><p class="quem">Evandro Carvalho</p></li>
+    </ol>
+    <p class="lead" style="margin-top:44px">Em todas: gancho → vídeo → atividade → teste → síntese que liga à seguinte. Sempre duas partes: <span class="p">a pessoa</span> e <span class="c">quem cuida</span>.</p>
+  </section>
+
+  <!-- 7 · L1 -->
+  <section class="slide" data-t="75" data-quem="Bruno" aria-label="L1">
+    <ol class="mini" aria-hidden="true"><li class="aqui"></li><li></li><li class="duas-m"><i></i><i></i></li><li></li></ol>
+    <div class="licao">
+      <div>
+        <p class="eyebrow">L1 · Compreender · Bruno Lopes</p>
+        <h2>Crise, demência e quem cuida</h2>
+        <ul class="aprende">
+          <li>Porque é que a D. Rosa se recusa a sair: <span class="p">a casa é a sua segurança</span></li>
+          <li>Quatro crises, a mesma pessoa: incêndio, cheia, pandemia, guerra</li>
+          <li><span class="c">O stress de quem cuida</span> também é normal</li>
+          <li>Os 3 passos dos primeiros socorros psicológicos: observar, escutar, encaminhar</li>
+        </ul>
+        <div class="fichas"><span><b>Vídeo</b> 8:33</span><span><b>3D</b> casa do Bruno, 9 tags</span><span><b>Atividade</b> O que dá segurança?</span><span><b>Teste</b> 4 perguntas</span></div>
+      </div>
+      <figure><img src="L1/S5_Ilustracao_Rosa_Confusa_L1.png" alt="Ilustração da D. Rosa, confusa."></figure>
+    </div>
+  </section>
+
+  <!-- 8 · L2 -->
+  <section class="slide" data-t="75" data-quem="Tiago" aria-label="L2">
+    <ol class="mini" aria-hidden="true"><li></li><li class="aqui"></li><li class="duas-m"><i></i><i></i></li><li></li></ol>
+    <div class="licao">
+      <div>
+        <p class="eyebrow">L2 · Antes · Tiago Teixeira</p>
+        <h2>Preparar antes</h2>
+        <ul class="aprende">
+          <li>O <span class="p">kit de conforto</span>: o que acalma a D. Rosa fora de casa</li>
+          <li>A <span class="p">ficha da pessoa</span>: quem ela é, para quem não a conhece</li>
+          <li>O <span class="c">plano de apoio</span>: quem substitui a Ana se ela não puder</li>
+          <li>«Caça ao kit»: encontrar os objetos na casa em 3D</li>
+        </ul>
+        <div class="fichas"><span><b>Vídeo</b> 8:10</span><span><b>3D</b> casa do Bruno, 8 tags</span><span><b>Atividade</b> Complete o kit + 3 PDFs</span><span><b>Teste</b> 4 perguntas</span></div>
+      </div>
+      <figure><img src="L2/S5_Ilustracao_Ana_Ficha_L2.png" alt="Ilustração da Ana a preencher a ficha da pessoa."></figure>
+    </div>
+  </section>
+
+  <!-- 9 · L3 (Rodrigo: confirmar os números da ficha) -->
+  <section class="slide" data-t="75" data-quem="Rodrigo" aria-label="L3">
+    <ol class="mini" aria-hidden="true"><li></li><li></li><li class="duas-m"><i class="aqui"></i><i></i></li><li></li></ol>
+    <div class="licao">
+      <div>
+        <p class="eyebrow">L3 · Durante · Rodrigo Silva</p>
+        <h2>Primeiro contacto: acalmar</h2>
+        <ul class="aprende">
+          <li>Uma aproximação calma, para não assustar</li>
+          <li><span class="p">Frases curtas</span> e menos estímulos à volta</li>
+          <li>Reconhecer a angústia e a agitação da pessoa</li>
+          <li><span class="c">Acalmar-se a si</span> primeiro, para conseguir acalmar a mãe</li>
+        </ul>
+        <div class="fichas"><span><b>Vídeo</b> ≈ 8 min</span><span><b>3D</b> visita com tags</span><span><b>Atividade</b> Respiração Guiada </span> <span> <b>Teste</b> 4 perguntas </span></div>
+      </div>
+      <figure><img src="L1/S5_Ilustracao_Rosa_Ana_L1.png" alt="Ilustração da Ana junto da D. Rosa."></figure>
+    </div>
+  </section>
+
+  <!-- 10 · L4 -->
+  <section class="slide" data-t="75" data-quem="Ricardo" aria-label="L4">
+    <ol class="mini" aria-hidden="true"><li></li><li></li><li class="duas-m"><i></i><i class="aqui"></i></li><li></li></ol>
+    <div class="licao">
+      <div>
+        <p class="eyebrow">L4 · Durante, em casa ou fora · Ricardo Ferreira</p>
+        <h2>Necessidades e encaminhamento</h2>
+        <ul class="aprende">
+          <li>Chegar a um sítio que não é casa: o espaço de acolhimento</li>
+          <li>O que atender primeiro e como <span class="p">não deixar a pessoa perder-se</span></li>
+          <li>Sinais de alarme: quando pedir ajuda especializada</li>
+          <li><span class="c">Aceitar ajuda</span>: a ficha e o plano da L2 voltam aqui</li>
+        </ul>
+        <div class="fichas"><span><b>3D</b> «O melhor lugar»</span><span><b>Atividade</b> O que faria nesta situação? + cartão de bolso</span><span><b>Teste</b> 4 perguntas</span></div>
+      </div>
+      <figure><img src="L4/S5_Ilustracao_Acolhimento_L4.png" alt="Ilustração de um espaço de acolhimento."></figure>
+    </div>
+  </section>
+
+  <!-- 11 · L5 -->
+  <section class="slide" data-t="75" data-quem="Evandro" aria-label="L5">
+    <ol class="mini" aria-hidden="true"><li></li><li></li><li class="duas-m"><i></i><i></i></li><li class="aqui"></li></ol>
+    <div class="licao">
+      <div>
+        <p class="eyebrow">L5 · Depois · Evandro Carvalho</p>
+        <h2>Depois da crise</h2>
+        <ul class="aprende">
+          <li>O regresso a casa: <span class="p">retomar a rotina</span> aos poucos</li>
+          <li>Vigiar os sinais das semanas seguintes</li>
+          <li>A <span class="c">exaustão acumulada</span> de quem cuida</li>
+          <li>Onde pedir apoio psicológico, para os dois</li>
+        </ul>
+        <div class="fichas"><span><b>3D</b> Relembrar a casa da D. Rosa</span><span><b>Teste</b> 4 perguntas</span></div>
+      </div>
+      <div class="icones">
+        <figure><img src="L5/S5_icon_regresso_L5.png" alt=""><figcaption>Retomar</figcaption></figure>
+        <figure><img src="L5/S5_icon_vigilancia_L5.png" alt=""><figcaption>Vigiar</figcaption></figure>
+        <figure><img src="L5/S5_icon_apoio_L5.png" alt=""><figcaption>Apoiar</figcaption></figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- 12 · A plateia responde (pergunta 1 do Teste 1, a mesma cena da abertura) -->
+  <section class="slide" data-t="75" data-quem="Evandro" aria-label="Experimente">
+    <p class="eyebrow">Agora vocês · Teste 1, pergunta 1</p>
+    <p class="maos">Levantem a mão: A, B ou C?</p>
+    <p class="pergunta">Chega a ordem para sair de casa por causa de um incêndio. A D. Rosa senta-se no sofá e recusa-se a sair. Qual é a explicação mais provável?</p>
+    <ol class="opcoes">
+      <li class="certa"><b>A</b>Não percebe o perigo, e a casa é o que lhe dá segurança.</li>
+      <li><b>B</b>Quer contrariar a filha e mostrar que ainda decide sozinha.</li>
+      <li><b>C</b>Não ouviu o alerta, porque o rádio e a televisão estavam desligados.</li>
+    </ol>
+    <p class="feedback passo" data-revela>Certo, porque a pessoa com demência pode não perceber o perigo, e sair é perder as suas referências. — No curso, cada opção errada também explica porquê.</p>
+  </section>
+
+  <!-- 13 · Demonstração ao vivo -->
+  <section class="slide" data-t="150" data-quem="Bruno" aria-label="Demonstração">
+    <div class="cabeca" style="margin-bottom:16px">
+      <p class="eyebrow">Ao vivo</p>
+      <h2>Vamos entrar no curso</h2>
+    </div>
+    <div class="demo">
+      <div>
+        <ol class="passos-demo">
+          <li>A página do curso: inscrição grátis</li>
+          <li>Secção 1: o gancho e a visita 3D dentro do vídeo</li>
+          <li>A visita 3D aberta: as tags <span class="p">azuis</span> e <span class="c">laranja</span></li>
+          <li>Um teste com feedback em cada opção</li>
+        </ol>
+        <div class="ligacoes">
+          <a class="botao principal" href="https://www.udemy.com/course/socorros-psicologicos-cuidador-de-demencia-em-crise/" target="_blank" rel="noopener">Abrir o curso ↗</a>
+          <a class="botao" href="https://my.matterport.com/show/?m=byVsURgSaSF" target="_blank" rel="noopener">Visita 3D · L1 ↗</a>
+        </div>
+      </div>
+      <figure>
+        <video controls preload="metadata" playsinline src="L1/L1_Aula1_Gancho.mp4"></video>
+        <figcaption>Plano B, se a rede falhar: Aula 1 (gancho da L1), 1:10</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <!-- 14 · Testado por quem não o fez -->
+  <section class="slide" data-t="60" data-quem="Tiago" aria-label="Testes">
+    <div class="cabeca">
+      <p class="eyebrow">Testado (S7, 03/11)</p>
+      <h2>Outros grupos testaram. Nós mudámos.</h2>
+    </div>
+    <table class="antes-depois">
+      <thead><tr><th>O que nos disseram</th><th>Lições</th><th>O que mudou</th></tr></thead>
+      <tbody>
+        <tr><td>Pouco vídeo (≈ 5 min na secção 1)</td><td>todas</td><td>≈ 8 min de vídeo por lição</td></tr>
+        <tr><td>Matterport sem tags (espaço do Discover)</td><td>todas</td><td>As nossas casas, com tags dentro do Matterport</td></tr>
+        <tr><td>Música alta, voz abafada</td><td>L1 e outras</td><td>Voz regravada, música mais baixa</td></tr>
+        <tr><td>Ninguém do grupo aparece no vídeo</td><td>todas</td><td>Câmara ligada na regravação</td></tr>
+        <tr><td>A resposta certa é sempre a mais longa</td><td>L1, L2</td><td>Opções reescritas, a certa muda de posição</td></tr>
+      </tbody>
+    </table>
+    <p class="fonte-baixo">Alfa: cada autor fez a sua lição do princípio ao fim. Beta: alunos de outros grupos fizeram o nosso curso.</p>
+  </section>
+
+  <!-- 15 · Aprovado pela Udemy -->
+  <section class="slide" data-t="60" data-quem="Tiago" aria-label="Udemy">
+    <div class="cabeca">
+      <p class="eyebrow">Integração com a plataforma</p>
+      <h2>A Udemy reviu o curso e aprovou-o</h2>
+    </div>
+    <div class="selo-linha">
+      <div class="selo" aria-label="Publicado"><b>PUBLICADO</b><span>Udemy · revisão de qualidade</span></div>
+      <ul class="regras">
+        <li>≥ 30 min de vídeo, &lt; 2 h (curso grátis)</li>
+        <li>5 secções com várias aulas</li>
+        <li>Vídeo Full HD, áudio regravado</li>
+        <li>Legendas em português</li>
+        <li>Página completa: título, subtítulo, imagem 750 × 422</li>
+        <li>5 objetivos e um público concreto</li>
+        <li>Teste com feedback em cada secção</li>
+        <li>Recursos para descarregar (PDFs da L2)</li>
+        <li class="limite">Sem iframes → o Matterport entra como vídeo na aula + link «Visita 3D»</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- 16 · Como o fizemos -->
+  <section class="slide" data-t="60" data-quem="Evandro" aria-label="O processo">
+    <div class="cabeca" style="margin-bottom:24px">
+      <p class="eyebrow">Como o fizemos</p>
+      <h2>8 semanas, 5 pessoas, 1 curso</h2>
+    </div>
+    <ol class="etapas">
+      <li><b>S1</b><small>29/09</small><span>Udemy, Moodle + H5P e Open edX comparados</span></li>
+      <li><b>S2</b><small>06/10</small><span>Tema reescrito para a crise</span></li>
+      <li><b>S3</b><small>13/10</small><span>5 lições, um padrão comum</span></li>
+      <li><b>S4</b><small>20/10</small><span>Guiões e modelo visual</span></li>
+      <li><b>S5</b><small>27/10</small><span>Protótipo: ilustrações, música, Matterport</span></li>
+      <li><b>S6</b><small>03/11</small><span>Voz, vídeos, legendas, curso integrado</span></li>
+      <li><b>S7</b><small>03/11</small><span>Testes Alfa e Beta</span></li>
+      <li><b>S8</b><small>10/11</small><span>Regravação, casas em 3D, publicado</span></li>
+    </ol>
+    <ul class="mudou">
+      <li>Um <b>modelo comum</b> (diapositivos, ilustrações, cores, música) deu coerência a 5 lições de 5 autores.</li>
+      <li>Uma <b>regra da plataforma</b> (≥ 30 min para publicar) mudou o desenho das lições na última semana.</li>
+      <li><b>Testar com outros</b> mostrou o que o autor não vê: o estalo, a música alta, a resposta mais longa.</li>
+    </ul>
+  </section>
+
+  <!-- 17 · Fecho com QR code -->
+  <section class="slide" data-t="30" data-quem="Evandro" aria-label="Fecho">
+    <div class="fecho" style="flex:1">
+      <div>
+        <p class="eyebrow">Às 03:12, a Ana já sabe o que fazer</p>
+        <h2>Inscrevam-se agora. É grátis.</h2>
+        <p class="lead">Apontem a câmara do telemóvel ao código. E passem a quem cuida de alguém.</p>
+        <p class="equipa"><b>Grupo 1</b> · Bruno Lopes · Tiago Teixeira · Rodrigo Silva · Ricardo Ferreira · Evandro Carvalho<br>CAMUL 2026/27 · ISEP · <b>Perguntas?</b></p>
+      </div>
+      <div class="qr">
+        <div id="qr" role="img" aria-label="QR code para o curso na Udemy"></div>
+        <p>udemy.com/course/socorros-psicologicos-cuidador-de-demencia-em-crise</p>
+      </div>
+    </div>
+  </section>
+
+  <footer class="rodape">
+    <p class="marca">Grupo 1 · Socorros psicológicos: cuidador de demência em crise</p>
+    <span class="ensaio" id="ensaio" aria-live="off"></span>
+    <button class="seta" id="anterior" type="button" aria-label="Anterior (tecla ←)">←</button>
+    <p class="numero" id="numero" aria-live="polite"></p>
+    <button class="seta" id="seguinte" type="button" aria-label="Seguinte (tecla →)">→</button>
+    <button class="seta ecra" id="ecra" type="button" aria-label="Ecrã inteiro (tecla F)">⛶ F</button>
+    <span class="progresso" aria-hidden="true"></span>
+  </footer>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+<script>
+const CURSO = "https://www.udemy.com/course/socorros-psicologicos-cuidador-de-demencia-em-crise/";
+const palco = document.getElementById("palco");
+const slides = [...palco.querySelectorAll(".slide")];
+const total = slides.length;
+const numero = document.getElementById("numero");
+const anterior = document.getElementById("anterior");
+const seguinte = document.getElementById("seguinte");
+const ensaio = document.getElementById("ensaio");
+let atual = -1;
+
+function escalar() { palco.style.setProperty("--s", Math.min(innerWidth / 1600, innerHeight / 900)); }
+addEventListener("resize", escalar);
+escalar();
+
+/* QR code do curso (sem internet, fica só o endereço por baixo) */
+try { new QRCode(document.getElementById("qr"), { text: CURSO, width: 320, height: 320, colorDark: "#1E2A3A", colorLight: "#FFFFFF" }); } catch (e) {}
+
+function ir(n, mostrarTudo) {
+  n = Math.max(0, Math.min(total - 1, n));
+  if (n === atual) return;
+  const antigo = slides[atual];
+  if (antigo) {
+    antigo.querySelectorAll("video, audio").forEach(m => m.pause());
+    if (antigo.contains(document.activeElement)) document.activeElement.blur();
+    antigo.classList.remove("ativo");
+  }
+  atual = n;
+  const s = slides[n];
+  /* Para a frente: os passos começam escondidos. Para trás: aparece tudo. */
+  s.querySelectorAll(".passo").forEach(p => p.classList.toggle("visto", !!mostrarTudo));
+  s.classList.toggle("revelado", !!mostrarTudo && !!s.querySelector("[data-revela]"));
+  s.classList.add("ativo");
+  const escuro = s.classList.contains("escuro");
+  palco.classList.toggle("no-escuro", escuro);
+  document.body.classList.toggle("escuro", escuro);
+  numero.textContent = (n + 1) + " / " + total;
+  palco.style.setProperty("--p", (n + 1) / total);
+  anterior.disabled = n === 0;
+  seguinte.disabled = n === total - 1;
+  try { history.replaceState(null, "", "#" + (n + 1)); } catch (e) {}
+  atualizarEnsaio();
+}
+
+/* Seguinte: primeiro revela o próximo passo do diapositivo; só depois muda */
+function avancar() {
+  iniciarCronometro();
+  const p = slides[atual].querySelector(".passo:not(.visto)");
+  if (!p) return ir(atual + 1);
+  p.classList.add("visto");
+  if (p.hasAttribute("data-revela")) slides[atual].classList.add("revelado");
+  if (p.dataset.som) { const a = document.getElementById(p.dataset.som); a.currentTime = 0; a.volume = .6; a.play().catch(() => {}); }
+}
+function recuar() { ir(atual - 1, true); }
+
+function hashParaNumero() { const n = parseInt(location.hash.slice(1), 10); return isNaN(n) ? 0 : n - 1; }
+addEventListener("hashchange", () => ir(hashParaNumero(), true));
+
+function alternarEcra() {
+  if (!document.fullscreenElement) { const p = document.documentElement.requestFullscreen?.(); if (p) p.catch(() => {}); }
+  else document.exitFullscreen?.();
+}
+
+/* Modo ensaio (T): cronómetro desde o 1.º avanço, tempo-alvo acumulado até ao fim deste diapositivo, e quem fala */
+let inicio = 0;
+function iniciarCronometro() { if (!inicio) inicio = Date.now(); }
+const mmss = s => String(Math.floor(s / 60)).padStart(2, "0") + ":" + String(Math.floor(s % 60)).padStart(2, "0");
+function atualizarEnsaio() {
+  if (atual < 0) return;
+  const alvo = slides.slice(0, atual + 1).reduce((t, s) => t + (+s.dataset.t || 0), 0);
+  const gasto = inicio ? (Date.now() - inicio) / 1000 : 0;
+  ensaio.textContent = slides[atual].dataset.quem + " · " + mmss(gasto) + " / alvo " + mmss(alvo);
+  ensaio.classList.toggle("atrasado", gasto > alvo);
+}
+setInterval(atualizarEnsaio, 1000);
+
+anterior.addEventListener("click", recuar);
+seguinte.addEventListener("click", avancar);
+document.getElementById("ecra").addEventListener("click", alternarEcra);
+
+document.addEventListener("keydown", e => {
+  if (e.altKey || e.ctrlKey || e.metaKey) return;
+  const tag = document.activeElement ? document.activeElement.tagName : "";
+  switch (e.key) {
+    case "ArrowRight": case "PageDown": e.preventDefault(); avancar(); break;
+    case "ArrowLeft": case "PageUp": e.preventDefault(); recuar(); break;
+    case "Home": e.preventDefault(); ir(0); break;
+    case "End": e.preventDefault(); ir(total - 1, true); break;
+    case " ":
+      if (tag === "VIDEO" || tag === "BUTTON" || tag === "A") return;
+      e.preventDefault(); e.shiftKey ? recuar() : avancar(); break;
+    case "f": case "F": e.preventDefault(); alternarEcra(); break;
+    case "t": case "T": e.preventDefault(); palco.classList.toggle("modo-ensaio"); atualizarEnsaio(); break;
+  }
+}, true);
+
+palco.addEventListener("click", e => {
+  if (e.button !== 0) return;
+  if (e.target.closest("a, button, video, audio, .rodape, table")) return;
+  if (String(getSelection())) return;
+  avancar();
+});
+
+ir(hashParaNumero());
+</script>
+</body>
+</html>

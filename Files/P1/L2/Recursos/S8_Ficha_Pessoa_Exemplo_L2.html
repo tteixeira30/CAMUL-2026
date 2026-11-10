@@ -1,0 +1,95 @@
+﻿<!doctype html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<title>Ficha da pessoa · exemplo da D. Rosa</title>
+<link rel="stylesheet" href="recursos.css">
+<style>
+  /* Versão horizontal e preenchida, para o diapositivo A5 do vídeo da atividade. Dados fictícios. */
+  html, body { width: 1600px; height: 600px; overflow: hidden; }
+  body { font-size: 19px; padding: 28px 36px; background: #fff; }
+  header { margin-bottom: 14px; padding-bottom: 10px; border-bottom-width: 6px; }
+  header .curso { font-size: 15px; }
+  h1 { font-size: 36px; }
+  header .sub { font-size: 19px; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 30px; }
+  h2 { font-size: 21px; margin: 12px 0 6px; padding: 4px 10px; border-radius: 6px; }
+  .campo { margin: 7px 0; }
+  .campo .l { height: auto; min-height: 28px; }
+  .v { font-family: "Segoe Print", "Segoe UI", sans-serif; color: #1F4E8C; font-size: 19px; line-height: 1.2; }
+  .campo .l.v { padding: 0 4px 2px; }
+  table { margin: 4px 0 6px; }
+  th { font-size: 16px; padding: 4px 6px; }
+  td { height: auto; padding: 5px 6px; font-size: 19px; }
+  .topo { display: flex; gap: 16px; }
+  .topo .dados { flex: 1; }
+  .foto { width: 120px; height: 150px; border: 2px dashed var(--cinza); border-radius: 8px; display: flex; align-items: center; justify-content: center; text-align: center; color: var(--cinza); font-size: 15px; flex: none; margin-top: 6px; }
+  .foto span { font-family: "Segoe Print", sans-serif; color: #1F4E8C; font-size: 16px; }
+  ul.v { margin: 2px 0 0; padding-left: 22px; }
+  ul.v li { margin: 3px 0; }
+  .marca { color: #1F4E8C; font-weight: 700; margin-right: 6px; }
+  .op { margin-right: 14px; white-space: nowrap; }
+  .exemplo { position: absolute; right: 36px; top: 34px; font-size: 15px; color: var(--cinza); border: 1.5px solid var(--linha); border-radius: 6px; padding: 3px 10px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="curso">Cuidar em Crise · L2 Preparar antes</div>
+  <h1>Ficha da pessoa</h1>
+  <p class="sub">O que outra pessoa precisa de saber para cuidar dela numa crise. Cópia no frigorífico e no kit.</p>
+</header>
+<div class="exemplo">Exemplo · dados fictícios</div>
+
+<div class="grid">
+  <div>
+    <div class="topo">
+      <div class="dados">
+        <div class="campo"><b>Nome</b><span class="l v">Rosa</span></div>
+        <div class="campo"><b>Como gosta de ser tratada</b></div>
+        <div class="campo"><span class="l v">D. Rosa</span></div>
+        <div class="campo"><b>Diagnóstico</b><span class="l v">Demência, fase ligeira</span></div>
+        <div class="campo"><b>Alergias</b><span class="l v">Penicilina</span></div>
+      </div>
+      <div class="foto"><span>fotografia<br>de outubro</span></div>
+    </div>
+    <h2 class="pessoa">Medicação</h2>
+    <table>
+      <tr><th style="width:52%">Medicamento</th><th style="width:20%">Dose</th><th>Horas</th></tr>
+      <tr><td class="v">Para a memória</td><td class="v">1 comp.</td><td class="v">9h</td></tr>
+      <tr><td class="v">Para a tensão</td><td class="v">1 comp.</td><td class="v">9h e 21h</td></tr>
+    </table>
+  </div>
+
+  <div>
+    <h2 class="pessoa" style="margin-top:0">Como comunica</h2>
+    <div class="campo"><span class="op"><b>Ouve bem?</b> <span class="marca">✓</span>sim</span><span class="op"><span class="marca">✓</span>usa óculos</span></div>
+    <div class="campo"><b>Percebe melhor quando</b></div>
+    <div class="campo"><span class="l v">frases curtas, uma coisa de cada vez</span></div>
+    <h2 class="pessoa">O que a acalma</h2>
+    <ul class="v"><li>a manta do sofá</li><li>fados antigos</li><li>falar dos netos</li></ul>
+    <h2 class="pessoa">O que a perturba</h2>
+    <ul class="v"><li>barulho e muita gente</li><li>pressa</li><li>sítios que não conhece</li></ul>
+  </div>
+
+  <div>
+    <h2 class="pessoa" style="margin-top:0">Rotina (horas)</h2>
+    <div class="cols" style="gap:12px">
+      <div class="campo"><b>Acorda</b><span class="l v">8h</span></div>
+      <div class="campo"><b>Almoço</b><span class="l v">12h30</span></div>
+    </div>
+    <div class="cols" style="gap:12px">
+      <div class="campo"><b>Jantar</b><span class="l v">19h30</span></div>
+      <div class="campo"><b>Deita-se</b><span class="l v">22h</span></div>
+    </div>
+    <div class="campo"><b>Outros hábitos</b><span class="l v">sesta depois do almoço</span></div>
+    <h2 class="cuidador">Contactos</h2>
+    <table>
+      <tr><th style="width:44%"></th><th>Nome</th></tr>
+      <tr><td><b>Quem cuida</b></td><td class="v">Ana (filha)</td></tr>
+      <tr><td><b>Quem fica no lugar</b></td><td class="v">Teresa (amiga)</td></tr>
+      <tr><td><b>Médico de família</b></td><td class="v">Centro de saúde</td></tr>
+    </table>
+  </div>
+</div>
+</body>
+</html>
