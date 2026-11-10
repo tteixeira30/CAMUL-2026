@@ -1,6 +1,6 @@
 # P2 — Questionário (D5) para o Google Forms
 
-Nota de trabalho (10/11/2026). Texto pronto a passar para o Google Forms. Plano: `P2_Plano.md` §4 (blocos A–F) e §5 (análise). Recolha de **qui 12/11 a qui 19/11**; meta **≥ 25 respostas** (≥ 5 por membro).
+Nota de trabalho (10/11/2026). Texto pronto a passar para o Google Forms. **Quem monta o Forms: Tiago** (até qui 12/11, manda o link ao grupo). Plano: `P2_Plano.md` §4 (blocos A–F) e §5 (análise). Recolha de **qui 12/11 a qui 19/11**; meta **≥ 25 respostas** (≥ 5 por membro).
 
 ## 0. Montar o formulário
 
@@ -116,7 +116,7 @@ D3 não está no plano (§4): acrescentada para a discussão (se houver lista de
 
 **Versão portuguesa do SUS:** Martins *et al.* (2015), validação do SUS para português europeu, *Procedia Computer Science*, vol. 67, pp. 293–300, doi: 10.1016/j.procs.2015.09.273 (`P2_Referencias.md` [19], DOI confirmado no Crossref a 10/11; acesso aberto).
 
-⚠ **Por copiar (Bruno, antes de 12/11):** a ScienceDirect bloqueia pedidos automáticos, por isso os itens ainda não estão aqui. Abrir https://doi.org/10.1016/j.procs.2015.09.273 no browser e colar as 10 afirmações **exatamente como estão publicadas**, pela ordem 1–10 (e as âncoras da escala, se o artigo as der). Não traduzir a partir do inglês nem adaptar: só assim se pode dizer que é a versão validada. Se o texto falar em «sistema», a descrição acima já explica que é a visita 3D.
+⚠ **Por copiar (Tiago, antes de 12/11):** a ScienceDirect bloqueia pedidos automáticos, por isso os itens ainda não estão aqui. Abrir https://doi.org/10.1016/j.procs.2015.09.273 no browser e colar as 10 afirmações **exatamente como estão publicadas**, pela ordem 1–10 (e as âncoras da escala, se o artigo as der). Não traduzir a partir do inglês nem adaptar: só assim se pode dizer que é a versão validada. Se o texto falar em «sistema», a descrição acima já explica que é a visita 3D.
 
 | # | Afirmação (Martins *et al.*, 2015) |
 |---|---|
