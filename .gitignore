@@ -4,3 +4,5 @@ Files/P1/**/L[0-9]_*.mp4
 Files/P1/L2/*.mp4
 # Ficheiros temporários do Office
 ~$*
+# Entrega do S8 (gerada pelo Files/P1/S8_Montar_Zip.js)
+Files/P1/Entrega_S8/

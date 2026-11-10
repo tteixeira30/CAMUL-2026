@@ -17,3 +17,9 @@ Nota de trabalho (04/11). Quem junta: Bruno. Na **segunda 09/11** monta-se o .zi
 | `06_Testes_Melhorias` | `S8_Testes_Melhorias_Grupo1.pdf` | relatório §8 + detalhe da L1 (`L1/S8_Relatorio_L1.md`, 8.6) | PDF 10/11 (falta o Alfa da L4) **[Ricardo]** |
 
 **Verificar antes de submeter (8.7):** abrir o .zip noutro computador · todos os PDFs abrem · o link do MOOC funciona numa janela privada · nome exato do ficheiro.
+
+## Como montar (10/11)
+
+1. `git pull`. Colar a parte do Ricardo no `S8_Relatorio_Final.md` (secção 3.4, linha da L4 na tabela comum, secção 4 «Matterport» `[L4]`, Alfa da L4 na secção 8, linha da L4 na secção 9) e tirar os `**[Ricardo]**`.
+2. Na pasta `Files/P1`: `node S8_Montar_Zip.js` (precisa de Node e do Edge; na 1.ª vez instala o `marked` numa pasta temporária). Volta a exportar o relatório, as regras, os testes e o guião da L4 e cria `Entrega_S8/CAMUL2627_P1_G1_….zip` (26 ficheiros, fora do git).
+3. Abrir os PDFs do .zip e confirmar; submeter o .zip no Moodle até às 20:00; commit e push dos `.md` e PDFs.
