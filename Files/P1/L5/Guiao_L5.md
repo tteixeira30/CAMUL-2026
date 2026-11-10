@@ -6,7 +6,7 @@ Decisões: O pós-crise foca-se no reajuste gradual e na exaustão acumulada do 
 
 ---
 
-## 1. Estrutura na Udemy (secção 1)
+## 1. Estrutura na Udemy (secção 5)
 
 | Aula | Tipo | Duração | Diapositivos (`S4_Video_L5.pptx`) |
 |---|---|---|---|
@@ -69,20 +69,13 @@ Sem narração: a voz pára e só fica a música baixa. Ordem da visita: sala (q
 ### Produção
 
 1. Ensaiar o roteiro sem gravar. ☑
-2. Gravar o ecrã: browser em ecrã inteiro (F11), notificações desligadas, Xbox Game Bar `Win+Alt+R`. 2 vezes, ficar com a melhor → `L1_Visita3D.mp4`, 58 s (fora do git). ☑
-3. Diap. 6: Inserir → Vídeo → `L1_Visita3D.mp4` → Iniciar «Automaticamente», por baixo do título. ☑
+2. Gravar o ecrã: browser em ecrã inteiro (F11), notificações desligadas, Xbox Game Bar `Win+Alt+R`. 2 vezes, ficar com a melhor → `L5_Visita3D.mp4`, 58 s (fora do git). ☑
+3. Diap. 6: Inserir → Vídeo → `L5_Visita3D.mp4` → Iniciar «Automaticamente», por baixo do título. ☑
 4. Etiquetas no PowerPoint, por cima do vídeo (o Clipchamp não está disponível): 6 retângulos arredondados, **só o texto, sem título**, fundo azul #2F6DB5 ou laranja #E07B2E (as cores das etiquetas do diap. 2), letra branca Segoe UI a negrito, sem contorno. Cada uma com «Desvanecer» (0,4 s), Iniciar «Com a anterior», Atraso = segundo de entrada; e «Desvanecer» de saída no segundo de saída (tabela acima). O PowerPoint grava as etiquetas no vídeo ao exportar. ☑
-5. Tirar 6 capturas, uma por etiqueta (Vista de Leitura ou `Shift+F5` no diap. 6, `Win+Shift+S`) → `Capturas/S5_Captura_1…6_L1.png`. ☑
+5. Tirar 6 capturas, uma por etiqueta (Vista de Leitura ou `Shift+F5` no diap. 6, `Win+Shift+S`) → `Capturas/S5_Captura_1…6_L5.png`. ☑
 6. O `.pptx` tem ≈ 90 MB: Ficheiro → Informações → Comprimir multimédia → Full HD. ☐
 
-**Capturas** (diap. 6, uma por etiqueta, pela ordem da visita):
 
-![Quadros (0:10)](Capturas/S5_Captura_1_L1.png)
-![Sofá (0:17)](Capturas/S5_Captura_2_L1.png)
-![Janela (0:23)](Capturas/S5_Captura_3_L1.png)
-![Cozinha · banca (0:34)](Capturas/S5_Captura_4_L1.png)
-![Quarto (0:46)](Capturas/S5_Captura_5_L1.png)
-![Porta (0:56)](Capturas/S5_Captura_6_L1.png)
 
 ---
 

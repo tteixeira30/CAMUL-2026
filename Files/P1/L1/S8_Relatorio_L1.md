@@ -64,7 +64,7 @@ Cada lição tem uma componente para a pessoa (azul) e outra para quem cuida (la
 
 - **Alfa:** o autor fez a secção 1 do princípio ao fim, como aluno: 7 tarefas (os 3 vídeos, a atividade, o teste, a navegação, as legendas). **7 de 7 funcionais**, com 3 problemas anotados.
 - **Beta:** alunos de outros grupos testaram o nosso curso (5 registos sobre a L1 e o curso em geral). O autor testou 3 cursos de outros grupos (12 tarefas).
-- Tudo registado na folha de testes do Moodle; detalhe em `L1/S7_Notas_Testes_L1.md`.
+- Tudo registado na folha de testes do Moodle.
 
 ### Problemas encontrados → o que se mudou
 
