@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Table II</title>
+<!-- Gerado por Tabelas.js a partir de P2_Tabelas.md: não editar à mão. -->
+<style>
+  * { box-sizing: border-box; margin: 0; }
+  html, body { width: 1000px; background: #fff; }
+  body { font-family: "Times New Roman", Times, serif; color: #000; padding: 12px 10px; }
+  .cap { text-align: center; font-size: 15px; line-height: 1.35; margin-bottom: 8px; }
+  .cap span { display: block; font-variant: small-caps; }
+  table { width: 100%; border-collapse: collapse; font-size: 13.5px; line-height: 1.25; }
+  th, td { padding: 4px 6px; text-align: left; vertical-align: top; }
+  thead th { border-top: 1.5px solid #000; border-bottom: 1px solid #000; font-weight: bold; }
+  tbody tr:last-child td { border-bottom: 1.5px solid #000; }
+  td:first-child, th:first-child { text-align: center; }
+</style></head><body>
+<div class="cap">TABLE II<span>Problems found in testing and design changes</span></div>
+<table><thead><tr><th>#</th><th>Problem</th><th>Source</th><th>Lessons</th><th>Category</th><th>Severity</th><th>Design change</th><th>Status</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>The tour was a public space with no tags of our own; a tester could not find any tags</td><td>Beta, teacher</td><td>All</td><td>Finding tags</td><td>High</td><td>Each lesson captured its own space, with tags inside Matterport</td><td>Done in L1–L4; L5 kept the fallback</td></tr>
+<tr><td>2</td><td>About 4–5 min of video per lesson (only video counts; Udemy needs ≥ 30 min to publish a free course)</td><td>Beta, teacher</td><td>All</td><td>Audio and video</td><td>High</td><td>Lessons extended to about 8 min of video (41 min in total); tour walkthroughs grew longer</td><td>Done</td></tr>
+<tr><td>3</td><td>No team member appears in the videos</td><td>Beta, teacher</td><td>All</td><td>Audio and video</td><td>High</td><td>Voice re-recorded with the webcam on, same corner in all lessons; webcam off or away from tag balloons during the tour</td><td>Done</td></tr>
+<tr><td>4</td><td>Tour segment almost without narration</td><td>Alpha</td><td>L1</td><td>Understanding the space</td><td>Low</td><td>The explanation moved into the tags; each balloon stays open while the camera stops</td><td>Done</td></tr>
+<tr><td>5</td><td>Microphone pop at the start; voice level different between lessons</td><td>Alpha</td><td>L1, L3</td><td>Audio and video</td><td>Medium</td><td>Voice re-recorded, 1 s of silence before speaking</td><td>Done</td></tr>
+<tr><td>6</td><td>Background music too loud, voice muffled</td><td>Beta, Alpha</td><td>L1, L3, L5</td><td>Audio and video</td><td>Medium</td><td>Music lowered (L1: from 15 % to 4 %), voice re-recorded</td><td>Done</td></tr>
+<tr><td>7</td><td>Automatic captions differ from the narration, or no captions</td><td>Alpha</td><td>L1, L3, L4, L5</td><td>Audio and video</td><td>Low</td><td>Portuguese captions written from the script</td><td>Done in L1–L3; L4 and L5 without captions</td></tr>
+<tr><td>8</td><td>The correct quiz answer is always the longest, or in a predictable position</td><td>Beta, Alpha</td><td>L1, L2</td><td>Assessment</td><td>Medium</td><td>Options rewritten; correct answers in varied positions</td><td>Done</td></tr>
+<tr><td>9</td><td>Link to the tour could look mandatory</td><td>Alpha</td><td>L2</td><td>Navigation</td><td>Low</td><td>Labelled “3D tour (optional)”; no quiz depends on it</td><td>Done</td></tr>
+<tr><td>10</td><td>Downloadable PDFs showed internal file names to learners</td><td>Alpha</td><td>L2</td><td>Navigation</td><td>Low</td><td>Files renamed for learners</td><td>Done</td></tr>
+<tr><td>11</td><td>Videos without narration at test time</td><td>Alpha</td><td>L4</td><td>Audio and video</td><td>High</td><td>Videos reorganised and narrated</td><td>Done</td></tr>
+</tbody></table>
+</body></html>
