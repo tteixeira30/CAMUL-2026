@@ -174,7 +174,7 @@ Coincide com as entregas da plataforma da teórica (draft + Gantt e estrutura 11
 |---|---|---|
 | ter 10/11 | Ler o enunciado, decidir o foco e os dados, este plano | ✅ |
 | qua 11/11 | Rascunho do questionário (`P2_Questionario.md`, feito a 10/11) · enviar ao grupo o plano e o pedido das fichas Matterport (D2): mensagem pronta em `P2_Mensagem_Grupo.md`, falta enviar | ◐ |
-| qui 12/11 | **Tiago:** copiar à mão os 10 itens do SUS português (Martins *et al.*, 2015) para o bloco E do `P2_Questionario.md` · questionário no Google Forms, testado por 1 pessoa · **enviar** · vídeo da visita da L2 no YouTube «não listado» (o Forms só aceita vídeos do YouTube) | ☐ |
+| qui 12/11 | **Tiago:** ~~copiar os 10 itens do SUS português (Martins *et al.*, 2015) para o bloco E do `P2_Questionario.md`~~ (feito a 11/11) · questionário no Google Forms, testado por 1 pessoa · **enviar** · vídeo da visita da L2 no YouTube «não listado» (o Forms só aceita vídeos do YouTube) | ☐ |
 | 12–15/11 | Procurar e confirmar as referências → `P2_Referencias.md` (≥ 15): feito a 10/11, cada um confirma as dos seus temas | ✅ |
 | sex 13/11 | Receber as fichas Matterport (D2) · Tabela1 e Tabela2: rascunho em `P2_Tabelas.md` (10/11), faltam os campos «a pedir» | ◐ |
 | 14–17/11 | Rascunho das secções 1 e 2 no modelo IEEE (podem fazer-se antes dos dados) · Figuras 1–5: Figura2 feita a 10/11 (`Figuras/Figura2.html` → `.png`) | ◐ |

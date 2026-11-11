@@ -108,7 +108,7 @@ D3 não está no plano (§4): acrescentada para a discussão (se houver lista de
 
 **Descrição:**
 
-> Pense na visita interativa que acabou de usar. Nas frases abaixo, «sistema» quer dizer essa visita 3D. Para cada frase, escolha de 1 (Discordo totalmente) a 5 (Concordo totalmente). Responda depressa, com a primeira impressão. Se não souber, escolha 3.
+> Pense na visita interativa que acabou de usar. Nas frases abaixo, «produto» quer dizer essa visita 3D. Para cada frase, escolha de 1 (Discordo totalmente) a 5 (Concordo totalmente). Responda depressa, com a primeira impressão. Se não souber, escolha 3.
 
 | # | Pergunta | Tipo | Opções | Obrig. |
 |---|---|---|---|---|
@@ -116,20 +116,20 @@ D3 não está no plano (§4): acrescentada para a discussão (se houver lista de
 
 **Versão portuguesa do SUS:** Martins *et al.* (2015), validação do SUS para português europeu, *Procedia Computer Science*, vol. 67, pp. 293–300, doi: 10.1016/j.procs.2015.09.273 (`P2_Referencias.md` [19], DOI confirmado no Crossref a 10/11; acesso aberto).
 
-⚠ **Por copiar (Tiago, antes de 12/11):** a ScienceDirect bloqueia pedidos automáticos, por isso os itens ainda não estão aqui. Abrir https://doi.org/10.1016/j.procs.2015.09.273 no browser e colar as 10 afirmações **exatamente como estão publicadas**, pela ordem 1–10 (e as âncoras da escala, se o artigo as der). Não traduzir a partir do inglês nem adaptar: só assim se pode dizer que é a versão validada. Se o texto falar em «sistema», a descrição acima já explica que é a visita 3D.
+**Copiados a 11/11 (Tiago)** da Tabela 1 do artigo (p. 298, «Original item vs. corresponding item in European Portuguese»), tal como estão publicados, sem traduzir nem adaptar. A versão portuguesa diz «produto» (não «sistema»): a descrição acima explica que o produto é a visita 3D. O artigo não dá âncoras da escala: usam-se as do Forms (1 = Discordo totalmente … 5 = Concordo totalmente). Colar no Forms por esta ordem (ímpares positivas, pares negativas: a fórmula depende disso).
 
 | # | Afirmação (Martins *et al.*, 2015) |
 |---|---|
-| 1 | *(copiar)* |
-| 2 | *(copiar)* |
-| 3 | *(copiar)* |
-| 4 | *(copiar)* |
-| 5 | *(copiar)* |
-| 6 | *(copiar)* |
-| 7 | *(copiar)* |
-| 8 | *(copiar)* |
-| 9 | *(copiar)* |
-| 10 | *(copiar)* |
+| 1 | Acho que gostaria de utilizar este produto com frequência. |
+| 2 | Considerei o produto mais complexo do que necessário. |
+| 3 | Achei o produto fácil de utilizar. |
+| 4 | Acho que necessitaria de ajuda de um técnico para conseguir utilizar este produto. |
+| 5 | Considerei que as várias funcionalidades deste produto estavam bem integradas. |
+| 6 | Achei que este produto tinha muitas inconsistências. |
+| 7 | Suponho que a maioria das pessoas aprenderia a utilizar rapidamente este produto. |
+| 8 | Considerei o produto muito complicado de utilizar. |
+| 9 | Senti-me muito confiante a utilizar este produto. |
+| 10 | Tive que aprender muito antes de conseguir lidar com este produto. |
 
 ## F. Preferência e comentários
 
