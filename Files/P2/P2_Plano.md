@@ -56,7 +56,7 @@ Nota de trabalho (10/11/2026). Fontes: `CAMUL2025_2026_P2_UK.pdf` (enunciado), `
 | D3 | Testes Alfa e Beta do S7 (03/11): o que falhou e o que mudou (ex.: um testador Beta não encontrou tags no espaço do Discover) | `P1/L1/S7_Notas_Testes_L1.md`, secção 8 do relatório | RQ3, Tabela II |
 | D4 | Histórico do git: 116 commits desde 10/10, por etapa | `git log` | RQ1 (esforço por etapa) |
 | D5 | Questionário novo (ver secção 4) | Google Forms → Excel | RQ2, Figuras 4 e 5 |
-| D6 | Analytics da Udemy (inscrições, progresso, avaliações), **se houver**: o curso está na conta do Ricardo; quem trata é o Bruno, que tem acesso ao painel (11/11) | Painel do instrutor | Contexto; opcional |
+| D6 | Analytics da Udemy (inscrições, progresso, avaliações), **se houver**: o curso está na conta do Ricardo; quem trata é o Bruno, que tem acesso ao painel (11/11). Página do curso a 11/11: 0 alunos, 0 avaliações, 42 min de vídeo | Painel do instrutor | Contexto; opcional |
 
 ## 4. Questionário (D5)
 
@@ -198,7 +198,7 @@ Coincide com as entregas da plataforma da teórica (draft + Gantt e estrutura 11
 | qui 12/11 | **Tiago:** copiar à mão os 10 itens do SUS português (Martins *et al.*, 2015) para o bloco E do `P2_Questionario.md` · questionário no Google Forms, testado por 1 pessoa · **enviar** · vídeo da visita da L2 no YouTube «não listado» (o Forms só aceita vídeos do YouTube) | ☐ |
 | 12–15/11 | Procurar e confirmar as referências → `P2_Referencias.md` (≥ 15): feito a 10/11, cada um confirma as dos seus temas | ✅ |
 | sex 13/11 | Receber as fichas Matterport (D2) · Tabela1 e Tabela2: rascunho em `P2_Tabelas.md` (10/11), faltam os campos «a pedir» | ◐ |
-| 14–17/11 | Rascunho das secções 1 e 2 no modelo IEEE (podem fazer-se antes dos dados) · Figuras 1–5: Figura2 feita a 10/11 (`Figuras/Figura2.html` → `.png`) · Figura3 a 11/11 (dollhouse com `&lang=en`, cortada a 1110 × 1010 px ≈ 330 dpi numa coluna) | ◐ |
+| 14–17/11 | Rascunho das secções 1 e 2 no modelo IEEE (podem fazer-se antes dos dados) · Figuras 1–5: Figura2 feita a 10/11 (`Figuras/Figura2.html` → `.png`) · Figura3 a 11/11 (dollhouse com `&lang=en`, cortada a 1110 × 1010 px ≈ 330 dpi numa coluna) · Figura5 a 11/11 (leitor da Udemy, Aula 8 da L2; a Udemy bloqueia a captura do vídeo, por isso o fotograma da tag «Objeto de conforto» foi tirado do `L2_Aula6_Conteudo.mp4` e colocado no leitor; 1900 × 788 px, para a largura das duas colunas) | ◐ |
 | qua 18/11 | Lembrete do questionário a quem ainda não respondeu | ☐ |
 | qui 19/11 | **Fechar o questionário** · exportar para Excel | ☐ |
 | 19–20/11 | SUS, Wilcoxon, análise temática (2 codificadores) · Figuras 6–7, Tabela3 · secção 3 | ☐ |
