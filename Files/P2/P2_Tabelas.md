@@ -18,6 +18,7 @@ Nota de trabalho (10/11/2026). Texto em inglês, pronto a passar para tabelas do
 
 Notas para o texto (não entram na tabela):
 - Espaço da L1/L2: «Casa D. Rosa», plano Free, app Matterport Capture, «não listado», 17 tags no total (9 da L1 + 8 da L2).
+- Porquê o mesmo espaço na L2 (ficha do Tiago, 11/11): manter a casa da D. Rosa como fio condutor da L1 para a L2; a professora pediu tags dentro de um espaço nosso e o plano grátis só dá 1 espaço por conta. A visita do vídeo da L2 é o mesmo excerto do questionário (1:40).
 - Na L4 as cores das tags não seguem o azul/laranja comum (verde = referência e saída, vermelho = perigo): é uma diferença entre lições a referir na discussão (coerência visual).
 - A L1 e a L5 mostram a visita sem voz (o texto está nas tags/etiquetas); a L2, a L3 e a L4 narram por cima da visita. Útil para a RQ2 e para a discussão.
 - Os testes não dependem do link em nenhuma lição.
