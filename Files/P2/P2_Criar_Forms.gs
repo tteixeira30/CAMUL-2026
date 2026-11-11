@@ -17,7 +17,7 @@
  */
 
 // Link do vídeo da visita da L2 no YouTube («não listado»). Vazio = o bloco C fica com um aviso no lugar do vídeo.
-const VIDEO_URL = '';
+const VIDEO_URL = 'https://www.youtube.com/watch?v=C1763F5107w';
 
 const MATTERPORT_URL = 'https://my.matterport.com/show/?m=byVsURgSaSF';
 const CURSO_URL = 'https://www.udemy.com/course/socorros-psicologicos-cuidador-de-demencia-em-crise/';

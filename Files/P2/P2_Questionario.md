@@ -17,7 +17,7 @@ Nota de trabalho (10/11/2026). Texto pronto a passar para o Google Forms. **Quem
 **Secções:** cada bloco é uma secção do Forms (A … F). Nas grelhas, ligar **«Exigir uma resposta em cada linha»**.
 
 **Antes de enviar (qui 12/11):**
-- Vídeo da visita da L2 no YouTube como **«Não listado»** → link em `VIDEO_URL` no script (ou, à mão, **Adicionar vídeo** no bloco C; o Forms só aceita vídeos do YouTube). **Vídeo escolhido (11/11): `P1/L2/P2_Visita3D_Narrada_L2.mp4`** (1:40, fora do git): o excerto «Caça ao kit» da Aula 6 (0:42,9 → 2:23,0), com a voz do Tiago, a câmara e os balões das tags abertos, tal como os alunos o veem no curso. O `S5_Visita3D_L2.mp4` (a gravação da visita, 1:39) não serve: o som está em silêncio (−91 dB).
+- Vídeo da visita da L2 no YouTube como **«Não listado»** → link em `VIDEO_URL` no script (ou, à mão, **Adicionar vídeo** no bloco C; o Forms só aceita vídeos do YouTube). **Vídeo escolhido (11/11): `P1/L2/P2_Visita3D_Narrada_L2.mp4`** (1:40, fora do git; no YouTube «não listado» a 11/11: https://www.youtube.com/watch?v=C1763F5107w): o excerto «Caça ao kit» da Aula 6 (0:42,9 → 2:23,0), com a voz do Tiago, a câmara e os balões das tags abertos, tal como os alunos o veem no curso. O `S5_Visita3D_L2.mp4` (a gravação da visita, 1:39) não serve: o som está em silêncio (−91 dB).
 - Abrir o link do Matterport num telemóvel e num computador, sem sessão iniciada: confirmar que as 3 tags estão lá com estes títulos e que o espaço abre.
 - ~~Ver se a visita mostra uma lista ou pesquisa de tags~~ **Visto a 11/11 (Tiago):** o espaço abre sem sessão iniciada, e o menu ⋮ → **Pesquisar** lista as 8 tags da L2 (escrevendo «L2»). Os títulos são «L2 - O kit», «L2 - Caminho livre» e «L2 - Rede de apoio» (com hífen; esta última é laranja). A tarefa D fica mais fácil para quem descobrir a pesquisa: não a mencionar nas instruções; a D3 regista quem a usou. Entra nas limitações.
 - 1 pessoa faz o questionário do princípio ao fim e cronometra (alvo: ≤ 10 min).
@@ -66,7 +66,7 @@ Nota de trabalho (10/11/2026). Texto pronto a passar para o Google Forms. **Quem
 
 > Veja este vídeo até ao fim (1 min 40 s). É uma visita à casa da D. Rosa. Os balões que se abrem são dicas para preparar a casa e um kit de emergência antes de uma crise (um incêndio, uma cheia, uma guerra).
 
-**[Vídeo do YouTube, «não listado»: `P2_Visita3D_Narrada_L2.mp4`, 1:40, narrado]**
+**[Vídeo do YouTube, «não listado»: `P2_Visita3D_Narrada_L2.mp4`, 1:40, narrado → https://www.youtube.com/watch?v=C1763F5107w]**
 
 | # | Pergunta | Tipo | Opções | Obrig. |
 |---|---|---|---|---|
