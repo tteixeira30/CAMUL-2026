@@ -85,6 +85,27 @@ Todos veem primeiro o vídeo e depois a visita interativa. A ordem fixa entra na
 - **Abertas + notas Alfa/Beta (D3):** análise temática com categorias fixas: navegação · encontrar tags · compreensão do espaço · desempenho e dispositivo · áudio e vídeo · avaliação. **Dois codificadores independentes**, com a % de concordância.
 - **RQ1:** tabela comparativa das 5 lições (D1 + D2) e tempo por etapa (D4).
 
+### Categorias da análise temática (fechadas a 11/11)
+
+Os nomes em inglês são os da coluna «Category» da Tabela2 (`P2_Tabelas.md`).
+
+| Categoria | Entra aqui | Exemplo |
+|---|---|---|
+| Navegação (*Navigation*) | Mover-se no curso ou na visita: botões, onde clicar, links, ordem das aulas, ficheiros | «não percebi onde clicar para avançar» |
+| Encontrar tags (*Finding tags*) | Ver, encontrar ou abrir as tags na visita | «demorei a encontrar o kit» |
+| Compreensão do espaço (*Understanding the space*) | Perceber a casa: divisões, onde estão as coisas, os riscos, o que as tags explicam | «a vista de cima ajudou a perceber a casa» |
+| Desempenho e dispositivo (*Performance and device*) | Lentidão, carregamento, internet, telemóvel vs. computador, ecrã pequeno | «no telemóvel a visita ficou lenta» |
+| Áudio e vídeo (*Audio and video*) | Som, voz, música, legendas, imagem, câmara, duração dos vídeos | «a música estava alta» |
+| Avaliação (*Assessment*) | Quizzes, atividades, feedback | «a resposta certa é sempre a mais longa» |
+| Outro (*Other*) | O que não cabe em nenhuma (se passar de 10 %, rever as categorias) | — |
+
+**Regras:**
+1. **Uma ideia = uma unidade.** Antes de codificar, o Rodrigo divide as respostas em ideias (uma resposta com duas ideias dá duas linhas) e os dois codificam **a mesma lista**, senão não se pode comparar.
+2. Cada unidade vai para **uma só** categoria, a principal.
+3. Respostas vazias ou «nada» não contam.
+4. **Caso difícil:** se fala do que a pessoa percebeu → compreensão do espaço; se fala da qualidade técnica → áudio e vídeo (ex.: «a narração explicava bem a casa» → compreensão do espaço; «a narração ouvia-se mal» → áudio e vídeo).
+5. Cada um codifica sozinho → calcula-se a % de concordância → as discordâncias resolvem-se a dois e a categoria final é a que entra no artigo.
+
 ## 6. Figuras e tabelas
 
 **Pedido da professora (10/11):** o artigo deve ter **imagens** e não só gráficos. Todas as imagens vão também numa **pasta à parte dentro do .zip** e chamam-se **`Figura1`, `Figura2`, …** pela ordem em que aparecem no artigo. Este nome é uma exceção à convenção de nomes do repositório.

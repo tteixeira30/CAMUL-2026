@@ -148,7 +148,7 @@ D3 não está no plano (§4): acrescentada para a discussão (se houver lista de
 - **C2 vs. D4:** pares por respondente (Wilcoxon, ou só descritiva com N < 20). Excluir da comparação quem respondeu «Vi só uma parte» em C1 (dizer quantos).
 - **D1 por B4:** % de quem encontrou as 3 dicas, por aparelho (o tablet junta-se ao telemóvel se houver poucos).
 - **SUS:** ímpares = resposta − 1; pares = 5 − resposta; soma × 2,5 → 0–100; média e desvio-padrão; referência 68.
-- **F2, F3:** análise temática pelos 2 codificadores, com as categorias fixas.
+- **F2, F3:** análise temática pelos 2 codificadores, com as categorias fixas (definições e regras no `P2_Plano.md`, secção 5).
 
 ---
 
