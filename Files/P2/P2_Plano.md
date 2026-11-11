@@ -56,7 +56,7 @@ Nota de trabalho (10/11/2026). Fontes: `CAMUL2025_2026_P2_UK.pdf` (enunciado), `
 | D3 | Testes Alfa e Beta do S7 (03/11): o que falhou e o que mudou (ex.: um testador Beta não encontrou tags no espaço do Discover) | `P1/L1/S7_Notas_Testes_L1.md`, secção 8 do relatório | RQ3, Tabela II |
 | D4 | Histórico do git: 116 commits desde 10/10, por etapa | `git log` | RQ1 (esforço por etapa) |
 | D5 | Questionário novo (ver secção 4) | Google Forms → Excel | RQ2, Figuras 4 e 5 |
-| D6 | Analytics da Udemy (inscrições, progresso, avaliações), **se houver**: o curso está na conta do Ricardo | Painel do instrutor | Contexto; opcional |
+| D6 | Analytics da Udemy (inscrições, progresso, avaliações), **se houver**: o curso está na conta do Ricardo; quem trata é o Bruno, que tem acesso ao painel (11/11) | Painel do instrutor | Contexto; opcional |
 
 ## 4. Questionário (D5)
 
@@ -159,10 +159,10 @@ Cada parte é identificável e entra na apresentação.
 
 | Membro | Parte |
 |---|---|
-| Bruno Lopes | Coordenação · Figuras 1–7 (passaram para o Bruno a 11/11) · formatação IEEE e montagem do .zip · ficha Matterport da L1 |
+| Bruno Lopes | Coordenação · Figuras 1–7 e analytics da Udemy (D6) (passaram para o Bruno a 11/11) · formatação IEEE e montagem do .zip · ficha Matterport da L1 |
 | Tiago Teixeira | Questionário no Google Forms (montar, testar, enviar o link; itens do SUS, vídeo no YouTube; atribuído a 10/11) · Ficha Matterport da L2 · referências dos temas 4 e 5 · revisão das secções 1.1 e 1.2 |
 | Rodrigo Silva | Ficha Matterport da L3 · codificador 1 da análise temática · referências do tema 3 · revisão da secção 2 |
-| Ricardo Ferreira | Ficha Matterport da L4 · analytics da Udemy (D6) · codificador 2 · referências do tema 6 · revisão da secção 3 |
+| Ricardo Ferreira | Ficha Matterport da L4 · codificador 2 · referências do tema 6 · revisão da secção 3 |
 | Evandro Carvalho | Ficha Matterport da L5 (porque ficou o plano B) · referências dos temas 1, 2 e 7 · revisão das secções 4–6 |
 | Todos | ≥ 5 respostas ao questionário cada · confirmar as suas referências (DOI) · 2 min da apresentação |
 
