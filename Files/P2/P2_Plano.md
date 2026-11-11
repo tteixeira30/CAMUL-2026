@@ -70,7 +70,7 @@ Nota de trabalho (10/11/2026). Fontes: `CAMUL2025_2026_P2_UK.pdf` (enunciado), `
 |---|---|---|
 | A. Consentimento | Objetivo, anonimato, pode desistir | Sim / Não |
 | B. Perfil | Faixa etária · é ou foi cuidador · já usou visitas 3D · dispositivo (telemóvel / computador) | Escolha |
-| C. Vídeo da visita | Ver a visita gravada da L2 (1:39, com os balões das tags abertos; link do Drive ou do YouTube «não listado») → 4 afirmações: percebi como é a casa · percebi onde estão os riscos e o kit · prendeu-me a atenção · a duração foi adequada | Likert 1–5 |
+| C. Vídeo da visita | Ver a visita gravada da L2 (1:40, o excerto narrado da Aula 6, com a câmara e os balões das tags abertos; YouTube «não listado») → 4 afirmações: percebi como é a casa · percebi onde estão os riscos e o kit · prendeu-me a atenção · a duração foi adequada | Likert 1–5 |
 | D. Visita interativa | Abrir o link do Matterport e **encontrar 3 tags** (o kit, caminho livre, rede de apoio) → encontrou? (todas / algumas / nenhuma) · tempo (< 2 / 2–5 / > 5 min) · as mesmas 4 afirmações do bloco C | Escolha + Likert 1–5 |
 | E. SUS | As 10 afirmações do SUS (versão portuguesa) sobre a visita interativa | Likert 1–5 |
 | F. Preferência e abertas | Prefere: vídeo / interativa / as duas · o que ajudou? · o que dificultou? | Escolha + texto |

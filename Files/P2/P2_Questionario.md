@@ -4,6 +4,10 @@ Nota de trabalho (10/11/2026). Texto pronto a passar para o Google Forms. **Quem
 
 ## 0. Montar o formulário
 
+**Com o script (11/11):** `P2_Criar_Forms.gs` cria o formulário todo de uma vez (blocos A–F, ramificação, grelhas obrigatórias, definições abaixo, mensagem final e a folha de respostas). Em https://script.google.com → Novo projeto → colar o ficheiro → pôr o link do YouTube em `VIDEO_URL` → Executar `criarQuestionario` → autorizar. O registo mostra o link de edição, o link para responder e a folha. Correr **uma vez só** (cada execução cria outro formulário). Simulado a 11/11: 31 colunas de respostas, pela ordem deste ficheiro.
+
+⚠ **Depois de criado, não mudar a ordem das perguntas nem das linhas das grelhas:** o script de análise lê as colunas por ordem (se mudar, avisa com um erro). Corrigir uma gralha pode-se.
+
 **Definições do Forms** (⚙ Definições):
 - Respostas → **Recolher endereços de email: Não**; **Limitar a 1 resposta: desligado** (obrigaria a entrar com a conta Google e deixava de ser anónimo).
 - Apresentação → **Mostrar barra de progresso: sim**; **Baralhar a ordem das perguntas: não** (o SUS tem ordem fixa).
@@ -13,9 +17,9 @@ Nota de trabalho (10/11/2026). Texto pronto a passar para o Google Forms. **Quem
 **Secções:** cada bloco é uma secção do Forms (A … F). Nas grelhas, ligar **«Exigir uma resposta em cada linha»**.
 
 **Antes de enviar (qui 12/11):**
-- Vídeo da visita da L2 (`P1/L2/S5_Visita3D_L2.mp4`, 1:39, com os balões das tags abertos) no YouTube como **«Não listado»** → no bloco C usa-se **Adicionar vídeo** (o Forms só aceita vídeos do YouTube). Confirmar se o ficheiro tem som (o da Aula 8 tem a voz do Tiago; o `.mp4` da gravação, em princípio, não).
+- Vídeo da visita da L2 no YouTube como **«Não listado»** → link em `VIDEO_URL` no script (ou, à mão, **Adicionar vídeo** no bloco C; o Forms só aceita vídeos do YouTube). **Vídeo escolhido (11/11): `P1/L2/P2_Visita3D_Narrada_L2.mp4`** (1:40, fora do git): o excerto «Caça ao kit» da Aula 6 (0:42,9 → 2:23,0), com a voz do Tiago, a câmara e os balões das tags abertos, tal como os alunos o veem no curso. O `S5_Visita3D_L2.mp4` (a gravação da visita, 1:39) não serve: o som está em silêncio (−91 dB).
 - Abrir o link do Matterport num telemóvel e num computador, sem sessão iniciada: confirmar que as 3 tags estão lá com estes títulos e que o espaço abre.
-- Ver se a visita mostra uma lista ou pesquisa de tags: se mostrar, a tarefa fica mais fácil (a pergunta D3 regista isso).
+- ~~Ver se a visita mostra uma lista ou pesquisa de tags~~ **Visto a 11/11 (Tiago):** o espaço abre sem sessão iniciada, e o menu ⋮ → **Pesquisar** lista as 8 tags da L2 (escrevendo «L2»). Os títulos são «L2 - O kit», «L2 - Caminho livre» e «L2 - Rede de apoio» (com hífen; esta última é laranja). A tarefa D fica mais fácil para quem descobrir a pesquisa: não a mencionar nas instruções; a D3 regista quem a usou. Entra nas limitações.
 - 1 pessoa faz o questionário do princípio ao fim e cronometra (alvo: ≤ 10 min).
 
 **Tipos:** EM = escolha múltipla (uma resposta) · CV = caixas de verificação (várias) · Grelha = grelha de escolha múltipla · P = parágrafo. **Obrig.** = obrigatória.
@@ -30,7 +34,7 @@ Nota de trabalho (10/11/2026). Texto pronto a passar para o Google Forms. **Quem
 
 > Somos estudantes do ISEP (Instituto Superior de Engenharia do Porto), da unidade curricular de Conceção e Autoria Multimédia. Criámos um curso online gratuito para quem cuida de pessoas com demência em situações de crise. Neste curso, a casa da D. Rosa (uma personagem fictícia) aparece de duas formas: num vídeo e numa visita 3D que se pode explorar.
 >
-> Queremos saber qual das duas ajuda mais. Vai ver um vídeo curto (1 min 39 s), explorar a visita 3D e responder a algumas perguntas. Demora cerca de 10 minutos. Use um telemóvel ou um computador com internet.
+> Queremos saber qual das duas ajuda mais. Vai ver um vídeo curto (1 min 40 s), explorar a visita 3D e responder a algumas perguntas. Demora cerca de 10 minutos. Use um telemóvel ou um computador com internet.
 >
 > **O questionário é anónimo:** não pedimos o nome, o email nem nada que o identifique. Pode desistir a qualquer momento: basta fechar a página, e nada fica guardado. As respostas servem só para um artigo científico da unidade curricular e aparecem sempre em conjunto, nunca uma a uma. A casa da visita não é de ninguém que participe no curso e não mostra dados pessoais.
 >
@@ -60,9 +64,9 @@ Nota de trabalho (10/11/2026). Texto pronto a passar para o Google Forms. **Quem
 
 **Descrição:**
 
-> Veja este vídeo até ao fim (1 min 39 s). É uma visita à casa da D. Rosa. Os balões que se abrem são dicas para preparar a casa e um kit de emergência antes de uma crise (um incêndio, uma cheia, uma guerra).
+> Veja este vídeo até ao fim (1 min 40 s). É uma visita à casa da D. Rosa. Os balões que se abrem são dicas para preparar a casa e um kit de emergência antes de uma crise (um incêndio, uma cheia, uma guerra).
 
-**[Vídeo do YouTube, «não listado»: `S5_Visita3D_L2.mp4`, 1:39]**
+**[Vídeo do YouTube, «não listado»: `P2_Visita3D_Narrada_L2.mp4`, 1:40, narrado]**
 
 | # | Pergunta | Tipo | Opções | Obrig. |
 |---|---|---|---|---|
@@ -87,9 +91,9 @@ Nota de trabalho (10/11/2026). Texto pronto a passar para o Google Forms. **Quem
 > **Como se mexe:** clique (ou toque) no chão para andar · arraste para olhar à volta · os botões em baixo mostram a casa vista de cima e a planta · as dicas são pequenos círculos coloridos: clique num para abrir o balão.
 >
 > **A sua tarefa:** encontre estas 3 dicas e leia o que dizem:
-> 1. **L2 · O kit**
-> 2. **L2 · Caminho livre**
-> 3. **L2 · Rede de apoio**
+> 1. **L2 - O kit**
+> 2. **L2 - Caminho livre**
+> 3. **L2 - Rede de apoio**
 >
 > Veja as horas antes de começar. Pare quando as encontrar ou ao fim de 5 minutos, mesmo que falte alguma. Depois volte a esta página.
 
@@ -97,7 +101,7 @@ Nota de trabalho (10/11/2026). Texto pronto a passar para o Google Forms. **Quem
 |---|---|---|---|---|
 | D1 | Quantas das 3 dicas encontrou? | EM | As 3 · 1 ou 2 · Nenhuma | Sim |
 | D2 | Quanto tempo demorou? | EM | Menos de 2 minutos · 2 a 5 minutos · Mais de 5 minutos ou parei antes de as encontrar | Sim |
-| D3 | Como chegou às dicas? (pode marcar várias) | CV | Andando pela casa · Pela casa vista de cima ou pela planta · Por uma lista das dicas · Outra | Não |
+| D3 | Como chegou às dicas? (pode marcar várias) | CV | Andando pela casa · Pela casa vista de cima ou pela planta · Pela pesquisa (menu ⋮ → Pesquisar) · Outra | Não |
 | D4 | **Sobre a visita interativa**, diga se concorda com cada frase. | Grelha | As mesmas 4 afirmações de C2 · Colunas 1 · 2 · 3 · 4 · 5 | Sim (todas as linhas) |
 
 **Texto por baixo de D4:** igual ao de C2 (1 = Discordo totalmente … 5 = Concordo totalmente).
@@ -156,7 +160,7 @@ D3 não está no plano (§4): acrescentada para a discussão (se houver lista de
 
 **WhatsApp** (curto):
 
-> Olá! 👋 Somos um grupo do ISEP e fizemos um curso online gratuito para quem cuida de pessoas com demência em situações de crise. Precisamos da tua ajuda para um artigo: ver um vídeo de 1 min 39 s, explorar uma casa em 3D e responder a umas perguntas. Leva cerca de 10 min, é anónimo e é só para maiores de 18. Dá no telemóvel ou no computador.
+> Olá! 👋 Somos um grupo do ISEP e fizemos um curso online gratuito para quem cuida de pessoas com demência em situações de crise. Precisamos da tua ajuda para um artigo: ver um vídeo de 1 min 40 s, explorar uma casa em 3D e responder a umas perguntas. Leva cerca de 10 min, é anónimo e é só para maiores de 18. Dá no telemóvel ou no computador.
 > 👉 [LINK DO FORMS]
 > Até quinta, 19/11. Obrigado! E se puderes, passa a quem achares que gosta destas coisas 🙏
 
@@ -168,7 +172,7 @@ D3 não está no plano (§4): acrescentada para a discussão (se houver lista de
 >
 > Somos estudantes do ISEP, da unidade curricular de Conceção e Autoria Multimédia. Criámos um curso online gratuito para quem cuida de pessoas com demência em situações de crise (incêndios, cheias, deslocações). No curso, mostramos uma casa de duas formas: num vídeo e numa visita 3D interativa.
 >
-> Para um artigo científico, queremos saber qual das duas ajuda mais. O questionário pede para ver um vídeo de 1 min 39 s, explorar a casa em 3D e encontrar 3 dicas, e responder a algumas perguntas. Leva cerca de 10 minutos, funciona no telemóvel ou no computador e é anónimo (não pedimos nome nem email). É só para maiores de 18 anos.
+> Para um artigo científico, queremos saber qual das duas ajuda mais. O questionário pede para ver um vídeo de 1 min 40 s, explorar a casa em 3D e encontrar 3 dicas, e responder a algumas perguntas. Leva cerca de 10 minutos, funciona no telemóvel ou no computador e é anónimo (não pedimos nome nem email). É só para maiores de 18 anos.
 >
 > [LINK DO FORMS]
 >
