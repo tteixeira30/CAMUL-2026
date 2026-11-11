@@ -159,11 +159,11 @@ Cada parte é identificável e entra na apresentação.
 
 | Membro | Parte |
 |---|---|
-| Bruno Lopes | Coordenação · Figura2 · formatação IEEE e montagem do .zip · ficha Matterport da L1 |
-| Tiago Teixeira | Questionário no Google Forms (montar, testar, enviar o link; itens do SUS, vídeo no YouTube; atribuído a 10/11) · Ficha Matterport da L2 · referências dos temas 4 e 5 · Figuras 3 e 4 · revisão das secções 1.1 e 1.2 |
+| Bruno Lopes | Coordenação · Figuras 1–7 (passaram para o Bruno a 11/11) · formatação IEEE e montagem do .zip · ficha Matterport da L1 |
+| Tiago Teixeira | Questionário no Google Forms (montar, testar, enviar o link; itens do SUS, vídeo no YouTube; atribuído a 10/11) · Ficha Matterport da L2 · referências dos temas 4 e 5 · revisão das secções 1.1 e 1.2 |
 | Rodrigo Silva | Ficha Matterport da L3 · codificador 1 da análise temática · referências do tema 3 · revisão da secção 2 |
 | Ricardo Ferreira | Ficha Matterport da L4 · analytics da Udemy (D6) · codificador 2 · referências do tema 6 · revisão da secção 3 |
-| Evandro Carvalho | Ficha Matterport da L5 (porque ficou o plano B) · referências dos temas 1, 2 e 7 · Figura1 em inglês · Figura5 · revisão das secções 4–6 |
+| Evandro Carvalho | Ficha Matterport da L5 (porque ficou o plano B) · referências dos temas 1, 2 e 7 · revisão das secções 4–6 |
 | Todos | ≥ 5 respostas ao questionário cada · confirmar as suas referências (DOI) · 2 min da apresentação |
 
 ## 10. Calendário

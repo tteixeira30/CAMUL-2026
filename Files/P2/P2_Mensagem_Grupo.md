@@ -33,11 +33,11 @@ Olá a todos! 👋 Começámos o P2: artigo IEEE em inglês, 4–6 páginas, **e
 4. **Apresentação:** cada um fala ≈ 2 min sobre a sua parte.
 
 👤 **O que cada um faz**
-- **Bruno:** coordenação · ficha da L1 · formatação IEEE e o .zip final
-- **Tiago:** **montar o questionário no Google Forms até qui 12/11 e mandar o link aqui** (o texto está todo no `P2_Questionario.md`, incluindo as definições: copiar os 10 itens do SUS do PDF de Martins et al. 2015, pôr o vídeo da visita da L2 no YouTube «não listado», pedir a 1 pessoa que o faça com o cronómetro antes de enviar) · ficha da L2 (já sei: mesmo espaço da L1, 8 tags, visita de 1:39 → falta o tempo a pôr as tags e o que foi difícil) · referências dos temas 4 e 5 (visitas virtuais e Matterport; realidade virtual no ecrã vs. vídeo): **ler o resumo do Potter 2026**, o artigo mais próximo do nosso · Figuras 3 (a casa vista de cima, com as tags) e 4 (uma tag aberta) · rever as secções 1.1 e 1.2
+- **Bruno:** coordenação · ficha da L1 · todas as figuras · formatação IEEE e o .zip final
+- **Tiago:** **montar o questionário no Google Forms até qui 12/11 e mandar o link aqui** (o texto está todo no `P2_Questionario.md`, incluindo as definições: copiar os 10 itens do SUS do PDF de Martins et al. 2015, pôr o vídeo da visita da L2 no YouTube «não listado», pedir a 1 pessoa que o faça com o cronómetro antes de enviar) · ficha da L2 (já sei: mesmo espaço da L1, 8 tags, visita de 1:39 → falta o tempo a pôr as tags e o que foi difícil) · referências dos temas 4 e 5 (visitas virtuais e Matterport; realidade virtual no ecrã vs. vídeo): **ler o resumo do Potter 2026**, o artigo mais próximo do nosso · rever as secções 1.1 e 1.2
 - **Rodrigo:** ficha da L3 (já sei: 06/11, 2 pontos, 11 tags, visita ≈ 1:34 → falta o telemóvel, os tempos, os problemas e porquê só a sala) · referências do tema 3 (Mayer, carga cognitiva) · codificador 1 da análise das respostas abertas · rever a secção 2
 - **Ricardo:** ficha da L4 (já sei: o teu apartamento, 7 tags → falta o resto, e porque usaste cores diferentes nas tags) · **dados da Udemy**, porque o curso está na tua conta (inscrições, progresso, avaliações; captura do painel) · referências do tema 6 (SUS) · codificador 2 · rever a secção 3
-- **Evandro:** ficha da L5 (já sei: espaço do Discover, 5 etiquetas, 58 s → falta **porque ficou o plano B**; entra no artigo como resultado, não como falha) · referências dos temas 1, 2 e 7 (MOOCs, microlearning, cuidadores) · Figura 1 em inglês (estrutura do curso) · Figura 5 (uma aula na Udemy com a visita) · rever as secções 4–6
+- **Evandro:** ficha da L5 (já sei: espaço do Discover, 5 etiquetas, 58 s → falta **porque ficou o plano B**; entra no artigo como resultado, não como falha) · referências dos temas 1, 2 e 7 (MOOCs, microlearning, cuidadores) · rever as secções 4–6
 
 📅 **Datas:** fichas sex 13/11 · questionário de 12 a 19/11 · revisão cruzada dom 22/11 · ensaio seg 23/11 · entrega ter 24/11
 
