@@ -80,9 +80,9 @@ Todos veem primeiro o vídeo e depois a visita interativa. A ordem fixa entra na
 ## 5. Análise (2.5)
 
 - **SUS:** pontuação 0–100 (fórmula de Brooke), média e desvio-padrão, comparada com a referência de 68.
-- **Vídeo vs. interativa:** medianas das 4 afirmações; teste de **Wilcoxon** para amostras emparelhadas (script Node pequeno, com um exemplo de verificação). Com N < 20 fica só a estatística descritiva.
+- **Vídeo vs. interativa:** medianas das 4 afirmações; teste de **Wilcoxon** para amostras emparelhadas (`Analise.js`, feito a 11/11: aproximação normal com correção de empates e de continuidade; `node Analise.js --teste` verifica as contas e corre tudo com respostas inventadas). Com N < 20 fica só a estatística descritiva.
 - **Tarefa:** % de quem encontrou as 3 tags, por dispositivo.
-- **Abertas + notas Alfa/Beta (D3):** análise temática com categorias fixas: navegação · encontrar tags · compreensão do espaço · desempenho e dispositivo · áudio e vídeo · avaliação. **Dois codificadores independentes**, com a % de concordância.
+- **Abertas + notas Alfa/Beta (D3):** análise temática com categorias fixas: navegação · encontrar tags · compreensão do espaço · desempenho e dispositivo · áudio e vídeo · avaliação. **Dois codificadores independentes**, com a % de concordância e o kappa de Cohen (`Analise.js`).
 - **RQ1:** tabela comparativa das 5 lições (D1 + D2) e tempo por etapa (D4).
 
 ### Categorias da análise temática (fechadas a 11/11)
@@ -200,7 +200,7 @@ Coincide com as entregas da plataforma da teórica (draft + Gantt e estrutura 11
 | sex 13/11 | Receber as fichas Matterport (D2) · Tabela1 e Tabela2: rascunho em `P2_Tabelas.md` (10/11), faltam os campos «a pedir» | ◐ |
 | 14–17/11 | Rascunho das secções 1 e 2 no modelo IEEE (podem fazer-se antes dos dados) · Figuras 1–5: Figura2 feita a 10/11 (`Figuras/Figura2.html` → `.png`) · Figura3 a 11/11 (dollhouse com `&lang=en`, cortada a 1110 × 1010 px ≈ 330 dpi numa coluna) · Figura1 a 11/11 (`Figuras/Figura1.html`, versão em inglês do esquema de navegação do S8, 2400 × 960 px, duas colunas) · Figura4 a 11/11 (tag «Quadros» da L1, de `P1/L1/Capturas/S8_Tag_1_L1.png`, cortada a 1060 × 680 px; legenda traduzida no artigo) · Figura5 a 11/11 (leitor da Udemy, Aula 8 da L2; a Udemy bloqueia a captura do vídeo, por isso o fotograma da tag «Objeto de conforto» foi tirado do `L2_Aula6_Conteudo.mp4` e colocado no leitor; 1900 × 788 px, para a largura das duas colunas) | ◐ |
 | qua 18/11 | Lembrete do questionário a quem ainda não respondeu | ☐ |
-| qui 19/11 | **Fechar o questionário** · exportar para Excel | ☐ |
+| qui 19/11 | **Fechar o questionário** · Sheets → Ficheiro → Transferir → CSV → `Dados/Respostas.csv` · `node Analise.js Dados/Respostas.csv` → `Dados/Resultados.md`, Figura6, Figura7 e `Dados/Codificacao_Modelo.csv` (o Rodrigo divide em unidades, copia para `Codificacao_Rodrigo.csv` e `Codificacao_Ricardo.csv`, cada um preenche a coluna «categoria» sozinho; correr o script outra vez dá a % de concordância e o kappa) | ☐ |
 | 19–20/11 | SUS, Wilcoxon, análise temática (2 codificadores) · Figuras 6–7, Tabela3 · secção 3 | ☐ |
 | sáb 21/11 | Secções 4, 5 e 6 · abstract · cortar até caber em 6 páginas | ☐ |
 | dom 22/11 | Revisão cruzada (cada um a sua secção) · confirmar as referências · apresentação (≈ 10 diapositivos, 2 min por pessoa) | ☐ |

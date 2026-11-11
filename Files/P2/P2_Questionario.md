@@ -8,7 +8,7 @@ Nota de trabalho (10/11/2026). Texto pronto a passar para o Google Forms. **Quem
 - Respostas → **Recolher endereços de email: Não**; **Limitar a 1 resposta: desligado** (obrigaria a entrar com a conta Google e deixava de ser anónimo).
 - Apresentação → **Mostrar barra de progresso: sim**; **Baralhar a ordem das perguntas: não** (o SUS tem ordem fixa).
 - Mensagem de confirmação: ver o fim do bloco F.
-- Respostas → ligar a uma folha do Google Sheets → no dia 19/11 descarregar como `.xlsx` (D5).
+- Respostas → ligar a uma folha do Google Sheets → no dia 19/11, na folha: Ficheiro → Transferir → **CSV** → guardar como `Dados/Respostas.csv` (D5) e correr `node Analise.js Dados/Respostas.csv`. **Não mudar a ordem das perguntas** depois de criar o Forms: o script lê as colunas por ordem.
 
 **Secções:** cada bloco é uma secção do Forms (A … F). Nas grelhas, ligar **«Exigir uma resposta em cada linha»**.
 
