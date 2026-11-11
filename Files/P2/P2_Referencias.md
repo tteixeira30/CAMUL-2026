@@ -41,25 +41,30 @@ Nota de trabalho (10/11/2026). Plano: `P2_Plano.md` §8 (13–20 referências, 2
 
 **[8]** J. Potter, K. Theobald, and S. Johnston, "Virtual learning with Matterport: A novel approach to teaching psychomotor skills in nursing," *Clin. Simul. Nurs.*, vol. 110, Art. no. 101871, Jan. 2026, doi: 10.1016/j.ecns.2025.101871.
 - Laboratórios de enfermagem capturados com o Matterport; os estudantes acharam-no fácil de usar e motivador, como complemento da prática presencial. → **1.2:** o caso publicado mais próximo do nosso.
-- ⚠ O DOI está confirmado, mas o resumo só se leu em texto indexado por motores de busca (a ScienceDirect bloqueou). **Tiago:** ler o resumo no browser antes de citar mais do que «usabilidade e envolvimento».
+- ✔ Resumo lido na ScienceDirect (Tiago, 11/11). Inquérito de usabilidade e satisfação a estudantes de enfermagem, com perguntas abertas e a contagem das interações com a visita: usabilidade, satisfação e envolvimento altos. Os autores dizem que o Matterport é um bom complemento, mas **não substitui** a prática presencial. O resumo não dá N nem valores: para citar números, ler o artigo (acesso aberto, CC).
 
 **[9]** D. Kiriakos, D. Kotsifakos, and Y. Psaromiligkos, "A leveraging Matterport for industry-focused mobile applications: Augmented reality training for vocational education and training," in *Proc. 8th South-East Eur. Design Autom., Comput. Eng., Comput. Netw. Social Media Conf. (SEEDA-CECNSM)*, Nov. 2023, pp. 1–7, doi: 10.1109/SEEDA-CECNSM61561.2023.10470495.
 - No ensino profissional, os próprios alunos capturam os laboratórios com o Matterport e acrescentam notas; é um relato de integração, sem resultados de aprendizagem. → **1.2:** alunos como autores das capturas (como nós) e a lacuna: falta avaliação.
 - O título começa mesmo por «A Leveraging» (como no IEEE Xplore e no Crossref).
+- ✔ Resumo lido no IEEE Xplore (Tiago, 11/11): os laboratórios do ensino profissional usam o Matterport para ensinar os alunos a digitalizar espaços e a fazer aplicações de realidade aumentada; apresenta o plano de integração no currículo e «os primeiros elementos» dessa experiência. Confirma-se: sem avaliação da aprendizagem.
 
 **[10]** M. Evens, M. Empsen, and W. Hustinx, "A literature review on 360-degree video as an educational tool: Towards design guidelines," *J. Comput. Educ.*, vol. 10, no. 2, pp. 325–375, Jun. 2023, doi: 10.1007/s40692-022-00233-z.
 - Revisão de 26 estudos: o vídeo 360° serve sobretudo para mostrar ambientes, situações e demonstrações; a investigação ainda é fraca; propõe regras de desenho. → **1.1 / 4:** a visita gravada como «vídeo de um ambiente»; comparar as nossas escolhas com essas regras.
+- ✔ Resumo lido na Springer (Tiago, 11/11): «a strong research basis is lacking»; os vídeos 360° são sobretudo do ensino superior (saúde e formação de professores), duram 5 a 15 min e veem-se com óculos de RV; ajudam no domínio do conteúdo, nas atitudes, na imersão e na presença. A nossa visita (1:39, no ecrã, dentro de um vídeo plano) fica fora do caso típico: dizê-lo na discussão.
 
 ### Tema 5 · Realidade virtual no ecrã vs. vídeo: presença, aprendizagem espacial
 
 **[11]** G. Makransky and R. E. Mayer, "Benefits of taking a virtual field trip in immersive virtual reality: Evidence for the immersion principle in multimedia learning," *Educ. Psychol. Rev.*, vol. 34, no. 3, pp. 1771–1798, Sep. 2022, doi: 10.1007/s10648-022-09675-4.
-- Com 102 alunos, a visita virtual em óculos de RV deu mais presença, interesse e retenção do que o mesmo conteúdo em vídeo 2D. → **1.1 / 4:** o princípio da imersão; o nosso vídeo da visita é a condição «vídeo».
+- Com 102 alunos, a visita virtual em óculos de RV deu mais presença, interesse e retenção do que o mesmo conteúdo em vídeo 2D.
+- ✔ Resumo lido (Tiago, 11/11): os 102 são alunos do 3.º ciclo (*middle school*), numa visita à Gronelândia; presença d = 1,43, gosto d = 1,10, interesse d = 0,57, retenção d = 0,61 (imediata) e 0,70 (adiada). Atenção: compara **óculos** com vídeo, não ecrã interativo com vídeo como nós; e o público é muito diferente do nosso. Acesso aberto (CC BY). → **1.1 / 4:** o princípio da imersão; o nosso vídeo da visita é a condição «vídeo».
 
 **[12]** S. J. Ahn, K. L. Nowak, and J. N. Bailenson, "Unintended consequences of spatial presence on learning in virtual reality," *Comput. Educ.*, vol. 186, Art. no. 104532, Sep. 2022, doi: 10.1016/j.compedu.2022.104532.
-- A RV deu mais presença espacial do que o vídeo, mas mais presença reduziu a memorização, porque gasta recursos cognitivos. → **4:** a visita interativa pode prender mais e não ensinar mais do que o vídeo.
+- A RV deu mais presença espacial do que o vídeo, mas mais presença reduziu a memorização, porque gasta recursos cognitivos.
+- ✔ Resumo lido (Tiago, 11/11): dois estudos (N = 100 e N = 260). No 2.º, segmentar o conteúdo de RV quase não mudou a presença nem a memorização. A apreensão perante a tecnologia moderou a presença: liga à pergunta B3 (experiência anterior com visitas 3D). → **4:** a visita interativa pode prender mais e não ensinar mais do que o vídeo.
 
 **[13]** S. Azher, A. Cervantes, C. Marchionni, K. Grewal, H. Marchand, and J. M. Harley, "Virtual simulation in nursing education: Headset virtual reality and screen-based virtual simulation offer a comparable experience," *Clin. Simul. Nurs.*, vol. 79, pp. 61–74, Jun. 2023, doi: 10.1016/j.ecns.2023.02.009.
-- A simulação no ecrã e com óculos de RV deram resultados parecidos em desempenho, usabilidade, esforço cognitivo e emoções. → **1.1:** justifica a RV não imersiva (ecrã, telemóvel), como a do Matterport.
+- A simulação no ecrã e com óculos de RV deram resultados parecidos em desempenho, usabilidade, esforço cognitivo e emoções.
+- ✔ Resumo lido na ScienceDirect (Tiago, 11/11): 29 estudantes de enfermagem; a usabilidade mediu-se com o **SUS** (e com a HARUS), a carga cognitiva com a escala de Leppink. Amostra pequena, como a nossa. Também serve ao tema 6 (SUS num ambiente virtual no ecrã). → **1.1:** justifica a RV não imersiva (ecrã, telemóvel), como a do Matterport.
 
 ### Tema 6 · Usabilidade (SUS) de ambientes virtuais e de e-learning
 
@@ -84,7 +89,7 @@ Nota de trabalho (10/11/2026). Plano: `P2_Plano.md` §8 (13–20 referências, 2
 
 **[19]** A. I. Martins, A. F. Rosa, A. Queirós, A. Silva, and N. P. Rocha, "European Portuguese validation of the System Usability Scale (SUS)," *Procedia Comput. Sci.*, vol. 67, pp. 293–300, 2015, doi: 10.1016/j.procs.2015.09.273.
 - Tradução, adaptação e validação do SUS para português europeu (validade de construção: r = 0,70 com o PSSUQ). → **2.4 / 2.5:** a versão usada no questionário. Acesso aberto (CC BY-NC-ND).
-- ⚠ Os 10 itens **ainda não foram copiados**: o texto completo bloqueia pedidos automáticos. Abrir https://doi.org/10.1016/j.procs.2015.09.273 no browser, copiar os itens tal como estão publicados para o bloco E do `P2_Questionario.md`. Não traduzir nem adaptar.
+- Os 10 itens copiados a 11/11 da Tabela 1 (p. 298) para o bloco E do `P2_Questionario.md`, tal como estão publicados. A versão portuguesa diz «produto», não «sistema».
 - Atenção à ordem dos autores: algumas listas põem Rosa primeiro; o Crossref põe Martins primeiro.
 
 **[20]** J. Brooke, "SUS: A 'quick and dirty' usability scale," in *Usability Evaluation in Industry*, P. W. Jordan, B. Thomas, I. L. McClelland, and B. Weerdmeester, Eds. CRC Press, 1996, pp. 207–212, doi: 10.1201/9781498710411-35.
@@ -98,7 +103,7 @@ Nota de trabalho (10/11/2026). Plano: `P2_Plano.md` §8 (13–20 referências, 2
 | 1 | M. Badali *et al.*, «The role of motivation in MOOCs' retention rates: a systematic literature review», *Res. Pract. Technol. Enhanc. Learn.*, vol. 17, no. 1, Art. no. 5, 2022 | 10.1186/s41039-022-00181-3 | Motivação e conclusão (o nosso público tem motivação prática, não académica) |
 | 2 | Y. Lin and Z. Yu, «A meta-analysis evaluating the effectiveness of instructional video technologies», *Technol. Knowl. Learn.*, vol. 29, no. 4, pp. 2081–2115, Dec. 2024 | 10.1007/s10758-023-09669-3 | Vídeos melhoram a motivação e as competências práticas; atenção: fora da aula sem efeito significativo |
 | 3 | J. Sweller, «The development of cognitive load theory: …», *Educ. Psychol. Rev.*, vol. 35, no. 4, Art. no. 95, Dec. 2023 | 10.1007/s10648-023-09817-2 | Referência atual da teoria da carga cognitiva |
-| 4 | A. Salman, «Field trips and their effect on student learning: …», *Virtual Worlds*, vol. 2, no. 3, pp. 290–302, Sep. 2023 | 10.3390/virtualworlds2030017 | Visita virtual com notas mais altas do que a visita real. ⚠ Tem uma correção publicada (10.3390/virtualworlds4010002, 2025) que não se conseguiu ler: ver o que muda antes de citar |
+| 4 | A. Salman, «Field trips and their effect on student learning: …», *Virtual Worlds*, vol. 2, no. 3, pp. 290–302, Sep. 2023 | 10.3390/virtualworlds2030017 | Visita virtual com notas mais altas do que a visita real. A correção publicada (10.3390/virtualworlds4010002, 2025) só acrescenta as declarações de ética, consentimento e dados que faltavam; os resultados não mudam (lida pelo Tiago a 11/11) |
 | 4 | A. Baysan *et al.*, «Come and see through my eyes: A systematic review of 360-degree video technology in nursing education», *Nurse Educ. Today*, vol. 128, Art. no. 105886, Sep. 2023 | 10.1016/j.nedt.2023.105886 | Vídeo 360° em enfermagem, sobretudo saúde mental |
 | 5 | M. Coban, Y. I. Bolat, and I. Goksu, «The potential of immersive virtual reality to enhance learning: A meta-analysis», *Educ. Res. Rev.*, vol. 36, Art. no. 100452, Jun. 2022 | 10.1016/j.edurev.2022.100452 | Efeito pequeno da RV (g = 0,38); números dos subgrupos só em fontes secundárias: confirmar no texto |
 | 5 | F. Buttussi and L. Chittaro, «Acquisition and retention of spatial knowledge through virtual reality experiences: …», *Int. J. Hum.-Comput. Stud.*, vol. 177, Art. no. 103067, Sep. 2023 | 10.1016/j.ijhcs.2023.103067 | Conhecimento espacial com óculos vs. tablet; deslocação por «teleporte», como no Matterport |

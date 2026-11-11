@@ -70,7 +70,7 @@ Nota de trabalho (10/11/2026). Fontes: `CAMUL2025_2026_P2_UK.pdf` (enunciado), `
 |---|---|---|
 | A. Consentimento | Objetivo, anonimato, pode desistir | Sim / Não |
 | B. Perfil | Faixa etária · é ou foi cuidador · já usou visitas 3D · dispositivo (telemóvel / computador) | Escolha |
-| C. Vídeo da visita | Ver a visita gravada da L2 (1:39, com os balões das tags abertos; link do Drive ou do YouTube «não listado») → 4 afirmações: percebi como é a casa · percebi onde estão os riscos e o kit · prendeu-me a atenção · a duração foi adequada | Likert 1–5 |
+| C. Vídeo da visita | Ver a visita gravada da L2 (1:40, o excerto narrado da Aula 6, com a câmara e os balões das tags abertos; YouTube «não listado») → 4 afirmações: percebi como é a casa · percebi onde estão os riscos e o kit · prendeu-me a atenção · a duração foi adequada | Likert 1–5 |
 | D. Visita interativa | Abrir o link do Matterport e **encontrar 3 tags** (o kit, caminho livre, rede de apoio) → encontrou? (todas / algumas / nenhuma) · tempo (< 2 / 2–5 / > 5 min) · as mesmas 4 afirmações do bloco C | Escolha + Likert 1–5 |
 | E. SUS | As 10 afirmações do SUS (versão portuguesa) sobre a visita interativa | Likert 1–5 |
 | F. Preferência e abertas | Prefere: vídeo / interativa / as duas · o que ajudou? · o que dificultou? | Escolha + texto |
@@ -195,7 +195,7 @@ Coincide com as entregas da plataforma da teórica (draft + Gantt e estrutura 11
 |---|---|---|
 | ter 10/11 | Ler o enunciado, decidir o foco e os dados, este plano | ✅ |
 | qua 11/11 | Rascunho do questionário (`P2_Questionario.md`, feito a 10/11) · enviar ao grupo o plano e o pedido das fichas Matterport (D2): mensagem `P2_Mensagem_Grupo.md` enviada a 11/11 | ✅ |
-| qui 12/11 | **Tiago:** copiar à mão os 10 itens do SUS português (Martins *et al.*, 2015) para o bloco E do `P2_Questionario.md` · questionário no Google Forms, testado por 1 pessoa · **enviar** · vídeo da visita da L2 no YouTube «não listado» (o Forms só aceita vídeos do YouTube) | ☐ |
+| qui 12/11 | **Tiago:** ~~copiar os 10 itens do SUS português (Martins *et al.*, 2015) para o bloco E do `P2_Questionario.md`~~ (feito a 11/11) · questionário no Google Forms, testado por 1 pessoa · **enviar** · vídeo da visita da L2 no YouTube «não listado» (o Forms só aceita vídeos do YouTube) | ☐ |
 | 12–15/11 | Procurar e confirmar as referências → `P2_Referencias.md` (≥ 15): feito a 10/11, cada um confirma as dos seus temas | ✅ |
 | sex 13/11 | Receber as fichas Matterport (D2) · Tabela1 e Tabela2: rascunho em `P2_Tabelas.md` (10/11), faltam os campos «a pedir» | ◐ |
 | 14–17/11 | Rascunho das secções 1 e 2 no modelo IEEE: **feito a 11/11** (`P2_Artigo.md` → `Artigo.ps1` → `P2_Artigo_Grupo1.docx` + `.pdf`, 4 páginas com as figuras e as 20 referências; o grupo revê) · Figuras 1–5: Figura2 feita a 10/11 (`Figuras/Figura2.html` → `.png`) · Figura3 a 11/11 (dollhouse com `&lang=en`, cortada a 1110 × 1010 px ≈ 330 dpi numa coluna) · Figura1 a 11/11 (`Figuras/Figura1.html`, versão em inglês do esquema de navegação do S8, 2400 × 960 px, duas colunas) · Figura4 a 11/11 (tag «Quadros» da L1, de `P1/L1/Capturas/S8_Tag_1_L1.png`, cortada a 1060 × 680 px; legenda traduzida no artigo) · Figura5 a 11/11 (leitor da Udemy, Aula 8 da L2; a Udemy bloqueia a captura do vídeo, por isso o fotograma da tag «Objeto de conforto» foi tirado do `L2_Aula6_Conteudo.mp4` e colocado no leitor; 1900 × 788 px, para a largura das duas colunas) | ◐ |
