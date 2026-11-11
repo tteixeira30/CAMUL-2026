@@ -1,5 +1,5 @@
 ﻿# Gera P2_Artigo_Grupo1.docx e .pdf a partir de P2_Artigo.md, sobre o modelo IEEE (conference-template-a4.docx).
-# Uso (numa consola PowerShell, com o Word fechado): & .Artigo.ps1
+# Uso (numa consola PowerShell, com o Word fechado): & .\Artigo.ps1
 # Formato do .md: ver o comentário no topo do P2_Artigo.md.
 $ErrorActionPreference = 'Stop'
 $dir  = $PSScriptRoot
