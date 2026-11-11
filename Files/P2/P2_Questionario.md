@@ -6,6 +6,11 @@ Nota de trabalho (10/11/2026). Texto pronto a passar para o Google Forms. **Quem
 
 **Com o script (11/11):** `P2_Criar_Forms.gs` cria o formulário todo de uma vez (blocos A–F, ramificação, grelhas obrigatórias, definições abaixo, mensagem final e a folha de respostas). Em https://script.google.com → Novo projeto → colar o ficheiro → pôr o link do YouTube em `VIDEO_URL` → Executar `criarQuestionario` → autorizar. O registo mostra o link de edição, o link para responder e a folha. Correr **uma vez só** (cada execução cria outro formulário). Simulado a 11/11: 31 colunas de respostas, pela ordem deste ficheiro.
 
+**Criado a 11/11 (Tiago, com o script):**
+- Link para responder (é este que se envia): https://docs.google.com/forms/d/e/1FAIpQLSe32-JjLsM5gTZCgjamdr7ZA3N_lYibf8SIrVuXOoo4uwOKJg/viewform
+- Editar o formulário (só o Tiago, ou quem ele adicionar como editor): https://docs.google.com/forms/d/1ZtFrFOVW9aitaErxflzCuIfrDm_Dm5lqUzfeJLCvyrE/edit
+- Folha de respostas (descarregar como .xlsx a 19/11): https://docs.google.com/spreadsheets/d/1sOcNPf5ZSJlkvssi6AWJaDi9xyXx5HPhP4eABpjcSGU/edit
+
 ⚠ **Depois de criado, não mudar a ordem das perguntas nem das linhas das grelhas:** o script de análise lê as colunas por ordem (se mudar, avisa com um erro). Corrigir uma gralha pode-se.
 
 **Definições do Forms** (⚙ Definições):
