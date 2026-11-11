@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Figure 1 — Course structure on Udemy</title>
+<!-- Fonte da Figura1.png (versão em inglês do P1/S8_Navegacao_Curso.html). Exportar (na pasta Files/P2/Figuras):
+     msedge --headless --disable-gpu --hide-scrollbars --force-device-scale-factor=1.6 --window-size=1500,600 --screenshot=Figura1.png Figura1.html
+     → 2400 × 960 px; nas duas colunas IEEE (17,6 cm) ≈ 345 dpi. -->
+<style>
+  :root { --text:#1E2A3A; --blue:#3A6EA5; --blue-l:#DCE6F1; --act:#FBE7D6; --quiz:#E3EFE8; --syn:#EEEEEE; --green:#2E7D5B; --grey:#5B6472; }
+  * { box-sizing: border-box; margin: 0; }
+  html, body { width: 1500px; height: 600px; background: #fff; }
+  body { font-family: "Segoe UI", Arial, sans-serif; color: var(--text); padding: 16px 20px; }
+  .row { display: flex; align-items: center; gap: 16px; }
+  .box { border: 2px solid var(--blue); border-radius: 10px; padding: 8px 16px; font-size: 18px; font-weight: 600; }
+  .box small { display: block; font-weight: 400; font-size: 14px; color: var(--grey); margin-top: 1px; }
+  .arrow { font-size: 26px; color: var(--blue); line-height: 1; }
+  .secs { display: grid; grid-template-columns: repeat(5, 1fr); gap: 24px; margin: 18px 0; }
+  .sec { position: relative; border: 1.5px solid #C9D3DF; border-top: 7px solid var(--blue); border-radius: 12px; padding: 10px 12px 12px; }
+  .sec + .sec::before { content: "→"; position: absolute; left: -22px; top: 46%; font-size: 22px; color: var(--blue); }
+  .sec h2 { font-size: 19px; line-height: 1.2; }
+  .sec .m { font-size: 14px; color: var(--grey); margin: 2px 0 10px; }
+  .step { border-radius: 7px; padding: 6px 9px; margin: 0 0 6px; font-size: 15px; background: var(--blue-l); }
+  .step.act { background: var(--act); }
+  .step.quiz { background: var(--quiz); }
+  .step.syn { background: var(--syn); }
+  .mp { display: inline-block; margin-left: 6px; font-size: 12px; font-weight: 700; color: #fff; background: var(--green); border-radius: 4px; padding: 1px 6px; vertical-align: 1px; }
+  .bridge { font-size: 13px; color: var(--blue); font-weight: 600; margin-top: 6px; }
+  .legend { display: flex; gap: 26px; font-size: 15px; margin-top: 16px; flex-wrap: wrap; }
+  .legend span { display: inline-flex; align-items: center; gap: 8px; }
+  .sw { width: 22px; height: 16px; border-radius: 4px; display: inline-block; border: 1px solid rgba(0,0,0,.08); }
+</style>
+</head>
+<body>
+<div class="row">
+  <div class="box">Course page<small>description, objectives, promotional video</small></div>
+  <div class="arrow">→</div>
+  <div class="box">Free enrolment<small>computer or mobile app</small></div>
+  <div class="arrow">→</div>
+  <div class="box">Sections 1 → 5<small>one lesson per section, always the same sequence</small></div>
+</div>
+
+<div class="secs">
+  <div class="sec"><h2>L1 · Crisis, dementia and the caregiver</h2><div class="m">Understand</div>
+    <div class="step">Video · hook</div>
+    <div class="step">Video · content <span class="mp">3D</span></div>
+    <div class="step">Videos · four crises · warning signs</div>
+    <div class="step act">Activity · what brings a sense of safety? <span class="mp">3D</span></div>
+    <div class="step quiz">Quiz 1 · feedback</div>
+    <div class="step syn">Video · summary</div>
+    <div class="bridge">bridge → L2</div></div>
+  <div class="sec"><h2>L2 · Prepare beforehand</h2><div class="m">Before</div>
+    <div class="step">Video · hook</div>
+    <div class="step">Video · content <span class="mp">3D</span></div>
+    <div class="step act">Video · activity: complete the kit + 3 PDFs <span class="mp">3D</span></div>
+    <div class="step quiz">Quiz 2 · feedback</div>
+    <div class="step syn">Video · summary</div>
+    <div class="bridge">bridge → L3</div></div>
+  <div class="sec"><h2>L3 · First contact: calming down</h2><div class="m">During</div>
+    <div class="step">Video · hook</div>
+    <div class="step">Video · right vs. wrong <span class="mp">3D</span></div>
+    <div class="step act">Article · 3D tour <span class="mp">3D</span></div>
+    <div class="step act">Video · activity: guided breathing</div>
+    <div class="step quiz">Quiz 3 · feedback</div>
+    <div class="step syn">Video · summary</div>
+    <div class="bridge">bridge → L4</div></div>
+  <div class="sec"><h2>L4 · Needs and referral</h2><div class="m">During (at home or away)</div>
+    <div class="step">Video · hook</div>
+    <div class="step">Video · content <span class="mp">3D</span></div>
+    <div class="step act">Resource · pocket card</div>
+    <div class="step quiz">Quiz 4 · feedback</div>
+    <div class="step syn">Video · summary</div>
+    <div class="bridge">bridge → L5</div></div>
+  <div class="sec"><h2>L5 · After the crisis</h2><div class="m">After</div>
+    <div class="step">Video · hook</div>
+    <div class="step">Video · home visit <span class="mp">3D</span></div>
+    <div class="step">Video · return and readjustment</div>
+    <div class="step quiz">Quiz 5 · feedback</div>
+    <div class="step syn">Video · summary and conclusion</div>
+    <div class="bridge">end of course</div></div>
+</div>
+
+<div class="row">
+  <div class="box">End of section 5</div>
+  <div class="arrow">→</div>
+  <div class="box">Course completed<small>Udemy tracks progress lecture by lecture</small></div>
+</div>
+
+<div class="legend">
+  <span><i class="sw" style="background:var(--blue-l)"></i>video (Full HD; Portuguese captions in L1–L3)</span>
+  <span><i class="sw" style="background:var(--act)"></i>activity (article, resources)</span>
+  <span><i class="sw" style="background:var(--quiz)"></i>Udemy quiz with feedback</span>
+  <span><span class="mp" style="margin:0">3D</span>Matterport tour: recorded in the video + optional "3D tour" link in the resources</span>
+</div>
+</body>
+</html>
