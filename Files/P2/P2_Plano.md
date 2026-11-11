@@ -198,7 +198,7 @@ Coincide com as entregas da plataforma da teórica (draft + Gantt e estrutura 11
 | qui 12/11 | **Tiago:** copiar à mão os 10 itens do SUS português (Martins *et al.*, 2015) para o bloco E do `P2_Questionario.md` · questionário no Google Forms, testado por 1 pessoa · **enviar** · vídeo da visita da L2 no YouTube «não listado» (o Forms só aceita vídeos do YouTube) | ☐ |
 | 12–15/11 | Procurar e confirmar as referências → `P2_Referencias.md` (≥ 15): feito a 10/11, cada um confirma as dos seus temas | ✅ |
 | sex 13/11 | Receber as fichas Matterport (D2) · Tabela1 e Tabela2: rascunho em `P2_Tabelas.md` (10/11), faltam os campos «a pedir» | ◐ |
-| 14–17/11 | Rascunho das secções 1 e 2 no modelo IEEE (podem fazer-se antes dos dados) · Figuras 1–5: Figura2 feita a 10/11 (`Figuras/Figura2.html` → `.png`) | ◐ |
+| 14–17/11 | Rascunho das secções 1 e 2 no modelo IEEE (podem fazer-se antes dos dados) · Figuras 1–5: Figura2 feita a 10/11 (`Figuras/Figura2.html` → `.png`) · Figura3 a 11/11 (dollhouse com `&lang=en`, cortada a 1110 × 1010 px ≈ 330 dpi numa coluna) | ◐ |
 | qua 18/11 | Lembrete do questionário a quem ainda não respondeu | ☐ |
 | qui 19/11 | **Fechar o questionário** · exportar para Excel | ☐ |
 | 19–20/11 | SUS, Wilcoxon, análise temática (2 codificadores) · Figuras 6–7, Tabela3 · secção 3 | ☐ |
