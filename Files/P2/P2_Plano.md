@@ -56,7 +56,7 @@ Nota de trabalho (10/11/2026). Fontes: `CAMUL2025_2026_P2_UK.pdf` (enunciado), `
 | D3 | Testes Alfa e Beta do S7 (03/11): o que falhou e o que mudou (ex.: um testador Beta não encontrou tags no espaço do Discover) | `P1/L1/S7_Notas_Testes_L1.md`, secção 8 do relatório | RQ3, Tabela II |
 | D4 | Histórico do git: 116 commits desde 10/10, por etapa | `git log` | RQ1 (esforço por etapa) |
 | D5 | Questionário novo (ver secção 4) | Google Forms → Excel | RQ2, Figuras 4 e 5 |
-| D6 | Analytics da Udemy (inscrições, progresso, avaliações), **se houver**: o curso está na conta do Ricardo; quem trata é o Bruno, que tem acesso ao painel (11/11). Página do curso a 11/11: 0 alunos, 0 avaliações, 42 min de vídeo | Painel do instrutor | Contexto; opcional |
+| D6 | Analytics da Udemy (inscrições, progresso, avaliações), **se houver**: o curso está na conta do Ricardo; quem trata é o Bruno, que tem acesso ao painel (11/11). Página do curso a 11/11: 0 alunos, 0 avaliações, 42 min de vídeo. Painel (11/11, «últimos 12 meses»): 0 inscrições, 0 € de receita, média de avaliações 0,00; envolvimento 153,77 min vistos por 7 «active learners» (≈ 29 min em out., ≈ 125 min em nov.): sem inscrições, por isso são visualizações em pré-visualização (o grupo e os testes); capturas em `P2/Dados/` | Painel do instrutor | Contexto; opcional |
 
 ## 4. Questionário (D5)
 
