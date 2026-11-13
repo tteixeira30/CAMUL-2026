@@ -14,12 +14,12 @@ Nota de trabalho (10/11/2026). Texto em inglês, pronto a passar para tabelas do
 | L2 Prepare | Same space as L1 (D. Rosa's home), no new capture | — | — | — | ≈ 15–20 min (estimate) | 8 (7 / 1); 3 refer to crises | 1:40, narrated, 8 stops with the tag open | Rooms reached through the 2D floor plan; recorded in two parts and joined in an editor; webcam window kept away from the tag balloons |
 | L3 Calm down | Living room of a team member (D. Rosa's living room) | a pedir (Rodrigo), 6 Nov | 2 | a pedir (Rodrigo) | a pedir (Rodrigo) | 11 (10 / 1) | ≈ 1:34, narrated | a pedir (Rodrigo) |
 | L4 Needs and referral | Flat of a team member (relatives' home that hosts the pair) | a pedir (Ricardo) | a pedir (Ricardo) | a pedir (Ricardo) | a pedir (Ricardo) | 7 (own colour code: reference/exit, danger, needs) | a pedir (Ricardo), narrated, webcam off | a pedir (Ricardo) |
-| L5 After the crisis | Public Matterport Discover space (fallback from the prototype) | Third-party capture | — | — | — | 5 labels overlaid in PowerPoint (4 / 1) | 58 s, no narration | Kept the fallback: a pedir (Evandro: porquê) |
+| L5 After the crisis | Public Matterport Discover space, "La Tarasca" (Zamora, Spain), fallback from the prototype | Third-party capture | — | — | ≈ 2 min (estimate) | 5 labels overlaid in PowerPoint (4 / 1) | 58 s, no narration | Tags could not be placed inside the tour (public spaces cannot be edited); the fallback was kept so that no private space had to be published in a public course |
 
 Notas para o texto (não entram na tabela):
 - Espaço da L1/L2: «Casa D. Rosa», plano Free, app Matterport Capture, «não listado», 17 tags no total (9 da L1 + 8 da L2).
 - Porquê o mesmo espaço na L2 (ficha do Tiago, 11/11): manter a casa da D. Rosa como fio condutor da L1 para a L2; a professora pediu tags dentro de um espaço nosso e o plano grátis só dá 1 espaço por conta. A visita do vídeo da L2 é o mesmo excerto do questionário (1:40).
-- Na L4 as cores das tags não seguem o azul/laranja comum (verde = referência e saída, vermelho = perigo): é uma diferença entre lições a referir na discussão (coerência visual).
+- Na L4 as cores das tags não seguem o azul/laranja comum (verde = referência e saída, vermelho = perigo): é uma diferença entre lições a referir na discussão (coerência visual).  
 - A L1 e a L5 mostram a visita sem voz (o texto está nas tags/etiquetas); a L2, a L3 e a L4 narram por cima da visita. Útil para a RQ2 e para a discussão.
 - Os testes não dependem do link em nenhuma lição.
 
