@@ -1,0 +1,14 @@
+Telemóvel: Xiaomi Redmi Note 11 Pro (sem LiDAR)
+Data da captura: 06/11/2026 
+Duração da captura (só a parte de andar com o telemóvel): 10 min (estimativa)
+Pontos de captura: 2
+Tempo a pôr as tags: 30 min (estimativa). Foram 11 tags (10 azuis e 1 laranja).
+Duração da visita no vídeo: ≈ 1:36 
+
+O que correu mal ou foi difícil:
+Captura: com só 2 pontos, a cobertura da sala ficou limitada e mal capturada na cortina da varanda.
+Tags/privacidade: o Matterport não tem uma ferramenta para desfocar ou tapar objetos no modelo publicado (só Recortar e Defurnish), por isso a sala teve de ser preparada antes da captura.
+Gravação: Um clipe do Matterport voltava ao início aos 40 s no PowerPoint (frame rate variável), até o clipe ser convertido para MP4 com frame rate constante.
+Udemy: não aceita iframes, por isso a visita entra como vídeo gravado na Aula 12, com o link «Visita 3D (opcional)» num artigo (Aula 13).
+
+Porque escolheste o espaço: a sala é onde estão os estímulos que a lição manda reduzir (televisão, janelas, portas, espelho, um canto calmo). No S4 estava previsto o quarto da D. Rosa; mudou para a sala no S5.
