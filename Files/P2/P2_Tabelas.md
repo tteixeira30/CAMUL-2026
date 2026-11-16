@@ -1,6 +1,6 @@
 # P2 — Tabelas I e II (rascunho)
 
-Nota de trabalho (10/11/2026). Texto em inglês, pronto a passar para tabelas do Word no artigo (título por cima, «TABLE I»). Exportam-se para `Figuras/Tabela1.png` e `Tabela2.png` só quando estiverem fechadas (depois das fichas Matterport, D2, até 13/11).
+Nota de trabalho (10/11/2026; atualizada a 16/11). Texto em inglês, pronto a passar para tabelas do Word no artigo (título por cima, «TABLE I»). A Tabela I foi fechada com as fichas Matterport disponíveis a 16/11; os valores estimados estão identificados.
 
 **«a pedir»** = só o autor da lição sabe; vem na ficha Matterport (D2, ver `P2_Mensagem_Grupo.md`). Antes de exportar, nenhuma célula pode ficar «a pedir»: o que não chegar passa a «n/r» (*not recorded*) e diz-se nas limitações.
 
@@ -13,7 +13,7 @@ Nota de trabalho (10/11/2026). Texto em inglês, pronto a passar para tabelas do
 | L1 Understand | Home of a team member, 5 rooms (D. Rosa's home) | iPhone 17 Pro (LiDAR), 6 Nov | 17 | ≈ 15 min (estimate) | ≈ 5 min (estimate) | 9 (8 / 1) | 69 s, no narration, 6 of 9 tags; 3 activity tags only in the interactive tour | One capture point missing (corridor–kitchen door); the free plan does not allow re-uploading, so the kitchen is reached only through tags or the floor plan |
 | L2 Prepare | Same space as L1 (D. Rosa's home), no new capture | — | — | — | ≈ 15–20 min (estimate) | 8 (7 / 1); 3 refer to crises | 1:40, narrated, 8 stops with the tag open | Rooms reached through the 2D floor plan; recorded in two parts and joined in an editor; webcam window kept away from the tag balloons |
 | L3 Calm down | Living room of a team member (D. Rosa's living room) | Xiaomi Redmi Note 11 Pro (no LiDAR), 6 Nov | 2 | ≈ 10 min (estimate) | ≈ 30 min (estimate) | 11 (10 / 1) | 1:36, narrated | Only 2 capture points: limited coverage, the balcony curtain was poorly captured; a tour clip with variable frame rate restarted at 40 s in PowerPoint until it was converted to a constant frame rate |
-| L4 Needs and referral | Flat of a team member (relatives' home that hosts the pair) | n/r | n/r | n/r | n/r | 7 (own colour code: reference/exit, danger, needs) | n/r, narrated, webcam off | n/r |
+| L4 Needs and referral | Team member's apartment, an unfamiliar setting for the characters | Samsung A33 5G (no LiDAR), 6 Nov | 8 | ≈ 45 min (estimate) | ≈ 15 min (estimate) | 8 (own colour code: reference/exit, danger, needs) | 2:05, narrated, webcam off | Difficult narration-recording setup; lesson structure and production plans changed in the final week |
 | L5 After the crisis | Public Matterport Discover space, "La Tarasca" (Zamora, Spain), fallback from the prototype | Third-party capture | — | — | ≈ 2 min (estimate) | 5 labels overlaid in PowerPoint (4 / 1) | 58 s, no narration | Tags could not be placed inside the tour (public spaces cannot be edited); the fallback was kept so that no private space had to be published in a public course |
 
 Notas para o texto (não entram na tabela):
