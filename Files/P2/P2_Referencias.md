@@ -8,7 +8,7 @@ Nota de trabalho (10/11/2026). Plano: `P2_Plano.md` §8 (13–20 referências, 2
 
 **⚠ = ver antes de citar** (o motivo está na própria referência).
 
-## Lista principal (18 + 2 do instrumento = 20)
+## Lista principal (19 + 1 do instrumento = 20; o Brooke 1996 saiu a 16/11)
 
 ### Tema 1 · MOOCs: desenho, envolvimento, conclusão
 
@@ -85,6 +85,11 @@ Nota de trabalho (10/11/2026). Plano: `P2_Plano.md` §8 (13–20 referências, 2
 **[18]** C. J. Pickering, M. Dancey, K. Paik, and T. O'Sullivan, "Informal caregiving and disaster risk reduction: A scoping review," *Int. J. Disaster Risk Sci.*, vol. 12, no. 2, pp. 169–187, Apr. 2021, doi: 10.1007/s13753-021-00328-8.
 - 21 artigos: muitos cuidadores informais não se sentem preparados para catástrofes (falta de formação, de medicação, de material, dificuldade em decidir). → **1 Introduction:** porquê um curso de preparação e de primeiros socorros psicológicos.
 
+### Tema 8 · Modelo de investigação (DBR) — acrescentado a 16/11
+
+**[18b]** L. Tinoca, J. Piedade, S. Santos, A. Pedro, and S. Gomes, "Design-based research in the educational field: A systematic literature review," *Educ. Sci.*, vol. 12, no. 6, Art. no. 410, Jun. 2022, doi: 10.3390/educsci12060410.
+- Revisão de 163 estudos DBR (2013–2020, Scopus e Web of Science): a natureza iterativa do DBR organiza o estudo em ciclos que melhoram produtos e processos em contexto real. → **2.1:** a referência do DBR que faltava (confirmada no Crossref a 16/11; resumo lido no Crossref). Quem quiser, lê o artigo completo (acesso aberto, MDPI).
+
 ### Instrumento (a mais, fora da regra dos 2021+)
 
 **[19]** A. I. Martins, A. F. Rosa, A. Queirós, A. Silva, and N. P. Rocha, "European Portuguese validation of the System Usability Scale (SUS)," *Procedia Comput. Sci.*, vol. 67, pp. 293–300, 2015, doi: 10.1016/j.procs.2015.09.273.
@@ -92,7 +97,7 @@ Nota de trabalho (10/11/2026). Plano: `P2_Plano.md` §8 (13–20 referências, 2
 - Os 10 itens copiados a 11/11 da Tabela 1 (p. 298) para o bloco E do `P2_Questionario.md`, tal como estão publicados. A versão portuguesa diz «produto», não «sistema».
 - Atenção à ordem dos autores: algumas listas põem Rosa primeiro; o Crossref põe Martins primeiro.
 
-**[20]** J. Brooke, "SUS: A 'quick and dirty' usability scale," in *Usability Evaluation in Industry*, P. W. Jordan, B. Thomas, I. L. McClelland, and B. Weerdmeester, Eds. CRC Press, 1996, pp. 207–212, doi: 10.1201/9781498710411-35.
+**[20] — retirada a 16/11** (as guidelines pedem 13–20 referências; com o DBR eram 21; a fórmula do SUS cita o Martins [19]) J. Brooke, "SUS: A 'quick and dirty' usability scale," in *Usability Evaluation in Industry*, P. W. Jordan, B. Thomas, I. L. McClelland, and B. Weerdmeester, Eds. CRC Press, 1996, pp. 207–212, doi: 10.1201/9781498710411-35.
 - O SUS original e a fórmula 0–100. → **2.5.**
 - ⚠ O registo do capítulo no Crossref não tem autor (Brooke só aparece no endereço da Taylor & Francis); as páginas são as da reedição da CRC (a edição original, Taylor & Francis, costuma citar-se com pp. 189–194, não confirmadas).
 

@@ -1,15 +1,16 @@
 # P2 — Plano do artigo (Grupo 1)
 
-Nota de trabalho (10/11/2026). Fontes: `CAMUL2025_2026_P2_UK.pdf` (enunciado), `CAMUL_2025_2026_Guidelines.pdf`, `2nd Project - Paper Submission.txt` (Moodle) e `conference-template-a4.docx` (modelo IEEE A4).
+Nota de trabalho (10/11/2026, atualizada a 16/11). Fontes: `CAMUL2025_2026_P2_UK.pdf` (enunciado), `CAMUL_2025_2026_Guidelines.pdf`, `2nd Project - Paper Submission.txt` (Moodle) e `conference-template-a4.docx` (modelo IEEE A4).
 
-**Entrega e apresentação: ter 24/11/2026, na PL.** O enunciado é o de 2025/26 (exemplo da energia renovável, 4 por equipa); nós somos 5, como no P1.
+**Duas entregas no Moodle (16/11):** **qua 18/11, 20:00 · entrega intermédia** (*Interim Submission*: só as secções 1 e 2) · **ter 24/11, 20:00 · entrega final** (.zip) e apresentação na PL. O enunciado é o de 2025/26 (exemplo da energia renovável, 4 por equipa); nós somos 5, como no P1.
 
 ## 1. O que se pede
 
 - Um artigo científico **em inglês**, no modelo **IEEE A4 (.docx)**, com **4 a 6 páginas** no total (referências incluídas).
 - Ligado ao P1, com **um só foco** do princípio ao fim: o nosso é **tecnologia (Matterport)**.
 - **Estrutura obrigatória:** 1 Introduction (1.1 Conceptual or Theoretical Framework · 1.2 Related Research · 1.3 Study Objective) · 2 Method and Materials (2.1 Research Model · 2.2 Methodology · 2.3 Development · 2.4 Data Collection Process · 2.5 Data Analysis) · 3 Results · 4 Discussion · 5 Conclusion · 6 Future Work · References.
-- **Referências:** 13 a 20, **de 2021 em diante** (as guidelines dizem «2020 onwards», o enunciado diz «last 5 years»: 2021+ cumpre as duas). Em estilo IEEE, de IEEE, ACM, Springer, Elsevier ou MDPI. Clássicos mais antigos (Brooke 1996, Mayer 2009, OMS 2011) só **a mais** das 13.
+- **Entrega intermédia (qua 18/11, 20:00):** 1 Introduction (1.1–1.3) e 2 Method and Materials (2.1–2.5). Submete-se o PDF atual do artigo (`P2_Artigo_Grupo1.pdf`): resumo provisório, secções 1 e 2 completas, secções 3–6 só com o título e «[To be written…]».
+- **Referências:** 13 a 20 (no máximo 20: as guidelines dizem «13–20»), **de 2021 em diante** (as guidelines dizem «2020 onwards», o enunciado diz «last 5 years»: 2021+ cumpre as duas). Em estilo IEEE, de IEEE, ACM, Springer, Elsevier ou MDPI. Clássicos mais antigos (Brooke 1996, Mayer 2009, OMS 2011) só **a mais** das 13.
 - **Entrega:** um .zip no Moodle com:
   - o artigo em Word e em PDF;
   - todas as figuras, tabelas, gráficos e diagramas **em ficheiros separados**, com boa resolução e numerados pela ordem em que aparecem no artigo;
@@ -52,7 +53,7 @@ Nota de trabalho (10/11/2026). Fontes: `CAMUL2025_2026_P2_UK.pdf` (enunciado), `
 | Código | Fonte | Onde está | Serve para |
 |---|---|---|---|
 | D1 | Dados de desenho: 5 lições, 41 min de vídeo, 22 aulas, 5 testes; espaços e tags por lição (L1 9 · L2 8 no mesmo espaço · L3 11 · L4 7 · L5 Discover, plano B, 5 etiquetas no vídeo); duração das visitas (L1 69 s, L2 1:39, …) | `P1/S8_Relatorio_Final.md`, guiões das lições | RQ1, Tabela I |
-| D2 | Ficha Matterport de cada lição (a pedir a cada um): equipamento, tempo de captura, n.º de pontos de captura, tempo a pôr as tags, problemas, porquê aquele espaço | Formulário curto ou mensagem, até 13/11 | RQ1 |
+| D2 | Ficha Matterport de cada lição (16/11: L2 Tiago 11/11 · L5 Evandro 13/11 · L3 Rodrigo 15/11, `P2_FichaMatterport_L3.txt` · **L4 Ricardo em falta**, na Tabela I fica «n/r» até chegar; a L1 é do Bruno): equipamento, tempo de captura, n.º de pontos de captura, tempo a pôr as tags, problemas, porquê aquele espaço | Formulário curto ou mensagem, até 13/11 | RQ1 |
 | D3 | Testes Alfa e Beta do S7 (03/11): o que falhou e o que mudou (ex.: um testador Beta não encontrou tags no espaço do Discover) | `P1/L1/S7_Notas_Testes_L1.md`, secção 8 do relatório | RQ3, Tabela II |
 | D4 | Histórico do git, por etapa (contado a 11/11, sem merges; o commit entra na etapa pela data e pelos ficheiros que muda): **P1 = 79 commits** · S3 (até 13/10) 7 · S4 (14–20/10) 6 · S5 (21–27/10) 21 · S6–S7 (28/10–03/11) 14 · S8 (04–10/11) 31. Fora do P1: teóricas 21, P2 14, só o CLAUDE.md 2. O repositório começou a 10/10: o S1, o S2 e o início do S3 não estão no git | `git log` | RQ1 (esforço por etapa) |
 | D5 | Questionário novo (ver secção 4) | Google Forms → Excel | RQ2, Figuras 4 e 5 |
@@ -62,7 +63,7 @@ Nota de trabalho (10/11/2026). Fontes: `CAMUL2025_2026_P2_UK.pdf` (enunciado), `
 
 - **Ferramenta:** Google Forms, em **português** (o artigo explica que foi aplicado em português).
 - **Público:** colegas da UC e de outros cursos, familiares e, se possível, cuidadores. Anónimo, maiores de 18, sem dados pessoais, consentimento na 1.ª página. Nunca envolver pessoas com demência.
-- **Meta:** **≥ 25 respostas** (cada membro traz pelo menos 5).
+- **Meta:** **≥ 25 respostas** (cada membro traz pelo menos 5). **Ponto da situação (seg 16/11): 8 respostas, todas trazidas pelo Bruno e pelo Tiago**; o Rodrigo, o Ricardo e o Evandro ainda não trouxeram nenhuma (mensagem ao grupo a 16/11). Mínimo para o teste de Wilcoxon: 20 respostas válidas; abaixo disso fica só a estatística descritiva (já previsto na 2.5).
 - **Duração:** ≈ 8–10 min.
 - **Espaço:** «Casa D. Rosa» (o da L1 e da L2, com as tags das duas). Espaço ativo (confirmado a 10/11).
 
@@ -133,7 +134,7 @@ CAMUL2627_P2_G1_1240441_1240493_1221391_1220901_1200929.zip
 | Figura5 | Uma aula na Udemy: o vídeo da visita com a janela da câmara | Captura nova da Udemy (ou `P1/Capturas/S8_Seccao_1_L2.png`) | 2.3 |
 | Figura6 | Vídeo vs. interativa (4 afirmações, barras divergentes) | Questionário | 3 |
 | Figura7 | Distribuição do SUS | Questionário | 3 |
-| Tabela1 | As 5 lições: espaço, tags, duração da visita, tempo de captura, problemas | D1 + D2 | 2.3 ou 3 |
+| Tabela1 | As 5 lições: espaço, tags, duração da visita, tempo de captura, problemas | D1 + D2 | 2.3 (feita a 16/11; a L4 «n/r») |
 | Tabela2 | Problemas dos testes → correções | D3 | 3 |
 | Tabela3 | Resultados do questionário (média, mediana, p) | D5 | 3 |
 
@@ -197,19 +198,22 @@ Coincide com as entregas da plataforma da teórica (draft + Gantt e estrutura 11
 | qua 11/11 | Rascunho do questionário (`P2_Questionario.md`, feito a 10/11) · enviar ao grupo o plano e o pedido das fichas Matterport (D2): mensagem `P2_Mensagem_Grupo.md` enviada a 11/11 | ✅ |
 | qui 12/11 | **Tiago:** ~~copiar os 10 itens do SUS português (Martins *et al.*, 2015) para o bloco E do `P2_Questionario.md`~~ (feito a 11/11) · questionário no Google Forms (criado a 11/11, links no `P2_Questionario.md` §0), testado por 1 pessoa · ~~**enviar**~~ (link no grupo a 11/11) · ~~vídeo da visita da L2 no YouTube «não listado»~~ (feito a 11/11: https://www.youtube.com/watch?v=C1763F5107w) | ☐ |
 | 12–15/11 | Procurar e confirmar as referências → `P2_Referencias.md` (≥ 15): feito a 10/11, cada um confirma as dos seus temas | ✅ |
-| sex 13/11 | Receber as fichas Matterport (D2) · Tabela1 e Tabela2: rascunho em `P2_Tabelas.md` (10/11), faltam os campos «a pedir» · fichas recebidas: L2 (Tiago, 11/11), L5 (Evandro 13/11) | ◐ |
-| 14–17/11 | Rascunho das secções 1 e 2 no modelo IEEE: **feito a 11/11** (`P2_Artigo.md` → `Artigo.ps1` → `P2_Artigo_Grupo1.docx` + `.pdf`, 4 páginas com as figuras e as 20 referências; o grupo revê) · Figuras 1–5: Figura2 feita a 10/11 (`Figuras/Figura2.html` → `.png`) · Figura3 a 11/11 (dollhouse com `&lang=en`, cortada a 1110 × 1010 px ≈ 330 dpi numa coluna) · Figura1 a 11/11 (`Figuras/Figura1.html`, versão em inglês do esquema de navegação do S8, 2400 × 960 px, duas colunas) · Figura4 a 11/11 (tag «Quadros» da L1, de `P1/L1/Capturas/S8_Tag_1_L1.png`, cortada a 1060 × 680 px; legenda traduzida no artigo) · Figura5 a 11/11 (leitor da Udemy, Aula 8 da L2; a Udemy bloqueia a captura do vídeo, por isso o fotograma da tag «Objeto de conforto» foi tirado do `L2_Aula6_Conteudo.mp4` e colocado no leitor; 1900 × 788 px, para a largura das duas colunas) | ◐ |
-| qua 18/11 | Lembrete do questionário a quem ainda não respondeu | ☐ |
-| qui 19/11 | **Fechar o questionário** · Sheets → Ficheiro → Transferir → CSV → `Dados/Respostas.csv` · `node Analise.js Dados/Respostas.csv` → `Dados/Resultados.md`, Figura6, Figura7 e `Dados/Codificacao_Modelo.csv` (o Rodrigo divide em unidades, copia para `Codificacao_Rodrigo.csv` e `Codificacao_Ricardo.csv`, cada um preenche a coluna «categoria» sozinho; correr o script outra vez dá a % de concordância e o kappa) | ☐ |
+| sex 13/11 | Receber as fichas Matterport (D2) · Tabela1 e Tabela2: rascunho em `P2_Tabelas.md` (10/11), faltam os campos «a pedir» · fichas recebidas: L2 (Tiago, 11/11), L5 (Evandro 13/11), L3 (Rodrigo 15/11); falta a L4 (Ricardo) | ◐ |
+| 14–17/11 | Rascunho das secções 1 e 2 no modelo IEEE: **feito a 11/11** (`P2_Artigo.md` → `Artigo.ps1` → `P2_Artigo_Grupo1.docx` + `.pdf`, 4 páginas com as figuras e as 20 referências; o grupo revê) · Figuras 1–5: Figura2 feita a 10/11 (`Figuras/Figura2.html` → `.png`) · Figura3 a 11/11 (dollhouse com `&lang=en`, cortada a 1110 × 1010 px ≈ 330 dpi numa coluna) · Figura1 a 11/11 (`Figuras/Figura1.html`, versão em inglês do esquema de navegação do S8, 2400 × 960 px, duas colunas) · Figura4 a 11/11 (tag «Quadros» da L1, de `P1/L1/Capturas/S8_Tag_1_L1.png`, cortada a 1060 × 680 px; legenda traduzida no artigo) · Figura5 a 11/11 (leitor da Udemy, Aula 8 da L2; a Udemy bloqueia a captura do vídeo, por isso o fotograma da tag «Objeto de conforto» foi tirado do `L2_Aula6_Conteudo.mp4` e colocado no leitor; 1900 × 788 px, para a largura das duas colunas) | ✅ |
+| seg 16/11 | Ficha da L3 na Tabela I (a L4 fica «n/r») → `Tabela1.png` · artigo: resumo provisório, Tabela I na 2.3, uma frase sobre a L3 (sem LiDAR, 2 pontos; frame rate variável), referência do DBR [18] (Tinoca *et al.* 2022, MDPI), Brooke retirado (máx. 20 referências) · Figuras 1 e 5 e Tabela I nas duas colunas (`{wide}` no `Artigo.ps1`) · `Artigo.ps1` corrigido para o Word em português · PDF: 5 páginas | ✅ |
+| seg 16/11 | Pedir ao Ricardo a ficha da L4 · **questionário: 8 respostas** (Bruno e Tiago) → mensagem ao grupo: o Rodrigo, o Ricardo e o Evandro trazem ≥ 5 cada até qui 19/11 | ◐ |
+| ter 17/11 | O grupo revê as secções 1 e 2 (cada um a sua parte, ver §9) · se a ficha da L4 chegar: `P2_Tabelas.md` → `node Figuras/Tabelas.js 1` → `& .Artigo.ps1` | ☐ |
+| **qua 18/11** | **Entrega intermédia até às 20:00:** `P2_Artigo_Grupo1.pdf` (secções 1 e 2) · lembrete do questionário a quem ainda não respondeu | ☐ |
+| qui 19/11 | **Fechar o questionário** (se à noite houver < 20 respostas, fica aberto até sex 20/11 às 12:00 e a análise passa para a tarde de sexta; nesse caso mudar «12 to 19 November» na 2.4 do artigo) · Sheets → Ficheiro → Transferir → CSV → `Dados/Respostas.csv` · `node Analise.js Dados/Respostas.csv` → `Dados/Resultados.md`, Figura6, Figura7 e `Dados/Codificacao_Modelo.csv` (o Rodrigo divide em unidades, copia para `Codificacao_Rodrigo.csv` e `Codificacao_Ricardo.csv`, cada um preenche a coluna «categoria» sozinho; correr o script outra vez dá a % de concordância e o kappa) | ☐ |
 | 19–20/11 | SUS, Wilcoxon, análise temática (2 codificadores) · Figuras 6–7, Tabela3 · secção 3 | ☐ |
 | sáb 21/11 | Secções 4, 5 e 6 · abstract · cortar até caber em 6 páginas | ☐ |
 | dom 22/11 | Revisão cruzada (cada um a sua secção) · confirmar as referências · apresentação (≈ 10 diapositivos, 2 min por pessoa) | ☐ |
 | seg 23/11 | Versão final: Word + PDF, pasta `Figuras/` (Figura1… e Tabela1…), .pptx · montar o .zip · ensaiar com o cronómetro | ☐ |
-| **ter 24/11** | **Entrega no Moodle + apresentação na PL** | ☐ |
+| **ter 24/11** | **Entrega final no Moodle (até às 20:00) + apresentação na PL** | ☐ |
 
 ## 11. A confirmar
 
-- [x] Entrega: ter 24/11, antes da PL (confirmado a 10/11)
+- [x] Entrega: ter 24/11 (o Moodle diz 20:00; a apresentação é na PL) · entrega intermédia qua 18/11, 20:00 (secções 1 e 2)
 - [x] Nome do .zip: como o do S8 → `CAMUL2627_P2_G1_1240441_1240493_1221391_1220901_1200929.zip`
 - [x] A apresentação pode ser `.pptx`
 - [ ] O artigo leva uma secção «Author contributions»? (o modelo IEEE não a tem; se a professora pedir, segue a tabela da secção 9)
@@ -218,9 +222,9 @@ Coincide com as entregas da plataforma da teórica (draft + Gantt e estrutura 11
 
 ## 12. Verificação final (antes de 23/11)
 
-- [ ] 4 ≤ páginas ≤ 6 no PDF (Word: `ComputeStatistics(2)`)
+- [ ] 4 ≤ páginas ≤ 6 no PDF (Word: `ComputeStatistics(2)`). **A 16/11 já são 5 páginas só com as secções 1–2** (≈ 3470 palavras com as referências): para caberem os resultados (Figuras 6–7, Tabelas II–III) é preciso cortar ≈ 1 página (encolher as Fig. 1 e 3, juntar ou tirar a Fig. 4, apertar a 1.2 e a 2.4)
 - [ ] Todas as secções 1–6 com os títulos do enunciado e os estilos do modelo (Heading 1/2)
-- [ ] ≥ 13 referências, todas de 2021+, todas citadas no texto [n] e pela ordem
+- [ ] 13–20 referências (hoje 20: 19 de 2021+ e o Martins 2015), todas citadas no texto [n] e pela ordem
 - [ ] Figuras e tabelas citadas no texto, numeradas, com legenda (Fig. em baixo, TABLE em cima, como no IEEE); os números batem certo com `Figuras/Figura<n>` e `Tabela<n>`
 - [ ] O artigo tem imagens (Figuras 3–5), não só gráficos
 - [ ] Os números do artigo batem certo com o relatório do S8 (41 min, 22 aulas, tags)

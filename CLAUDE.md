@@ -119,7 +119,7 @@ Padrão de cada lição (S3): Gancho 1 min → Vídeo 3 min → Atividade 2 min 
 
 **Consistência entre lições (aviso da professora):** os media e o formato têm de ser iguais nas 5 lições. Se um elemento usar avatar com áudio, todos usam. Decisão atual (S7, 03/11, professora: um membro do grupo tem de aparecer no vídeo; aplicada a 06/11): cada um grava a sua voz **com a câmara ligada** (a cara numa janela pequena, no mesmo canto e com o mesmo tamanho nas 5 lições), **sem avatar** (o avatar D-ID é só da teórica). Até 06/11 era só voz, com a câmara desligada: os vídeos das lições são regravados. No diapositivo da visita Matterport, a janela da câmara não pode tapar os balões das tags (na L2 abrem ao centro e à direita). Mudar isto é decisão do grupo, nunca de um só.
 
-**A partir do S4 (13/10/2026) o trabalho é individual:** cada um trata da sua lição. **P2: 24/11/2026.**
+**A partir do S4 (13/10/2026) o trabalho é individual:** cada um trata da sua lição. **P2: entrega intermédia (secções 1 e 2) qua 18/11, final ter 24/11/2026.**
 
 **Gantt da equipa (S2, histórico):** não há papéis individuais. Todas as lições têm o mesmo formato (conteúdo, avaliação, Matterport), por isso cada tarefa avança nas 5 lições ao mesmo tempo. Cada tarefa é «Em conjunto» (o grupo faz junto) ou «Por lição + revisão cruzada» (cada um faz a sua lição com os modelos comuns e outro revê). Os quizzes ficam, por agora, em todas as lições.
 
@@ -133,7 +133,7 @@ Padrão de cada lição (S3): Gancho 1 min → Vídeo 3 min → Atividade 2 min 
 
 ## O P2 em resumo
 
-- Artigo científico **em inglês**, modelo IEEE A4, **4–6 páginas**, ligado ao P1; ≥ 13 referências de 2021+ (IEEE, ACM, Springer, Elsevier, MDPI). Secções fixas 1–6 (ver o plano). Entrega **ter 24/11/2026, antes da PL**: `CAMUL2627_P2_G1_1240441_1240493_1221391_1220901_1200929.zip` com Word + PDF + figuras em ficheiros separados e numerados + apresentação .pptx (10 min, todos falam).
+- Artigo científico **em inglês**, modelo IEEE A4, **4–6 páginas**, ligado ao P1; 13–20 referências de 2021+ (IEEE, ACM, Springer, Elsevier, MDPI). Secções fixas 1–6 (ver o plano). **Entrega intermédia qua 18/11, 20:00** (só as secções 1 e 2: o PDF atual do artigo). Entrega final **ter 24/11/2026, 20:00** (apresentação na PL): `CAMUL2627_P2_G1_1240441_1240493_1221391_1220901_1200929.zip` com Word + PDF + figuras em ficheiros separados e numerados + apresentação .pptx (10 min, todos falam).
 - **Decidido a 10/11:** foco **tecnologia (Matterport)**: espaços capturados pelos alunos num MOOC sem iframes (Udemy). Estudo de caso exploratório / DBR; dados do P1 + questionário novo no Google Forms (12–19/11, ≥ 25 respostas: vídeo da visita vs. visita interativa, tarefa de encontrar 3 tags, SUS).
 - **Imagens (professora, 10/11):** o artigo leva imagens, não só gráficos. Todas vão numa pasta `Figuras/` dentro do .zip, com os nomes `Figura1.png`, `Figura2.png`, … pela ordem do artigo, e as tabelas como `Tabela1.png`, … É uma exceção à convenção de nomes; se a ordem mudar, renumerar. Autores: ISEP, Porto, Portugal, com o email do ISEP de cada um.
 - Tudo em `Files/P2/P2_Plano.md` (RQs, dados D1–D6, figuras, orçamento de palavras, quem faz o quê, calendário). As referências só entram confirmadas (DOI), em `P2_Referencias.md`.
@@ -164,6 +164,7 @@ Padrão de cada lição (S3): Gancho 1 min → Vídeo 3 min → Atividade 2 min 
 - `Plataforma_QEF_Grupo1.xlsx`: QEF da plataforma (proposta, 10/11) para a entrega 3 (18/11): folha «QEF» (só se preenche a coluna J, 0/25/50/75/100), folhas «Funcionalidade», «Usabilidade», «Estética» (indicador, 5 níveis, instrumento, esforço) e «Notas». 45 critérios; q = 1 − D/√3. Feito por COM a partir de um `.json` (não está no repositório): editar no Excel.
 - Entregas (Moodle, cada uma recebe o PDF da versão atual do Scope document): 1 draft + 2 Gantt, estrutura e organização → **qua 11/11, 23:55** (v1, o mesmo PDF nas duas) · 3 QEF + 4 Storyboard + 5 Plano de marketing → **qua 18/11, 23:55** (v2, o mesmo PDF nas três; o .xlsx do QEF na 3). QEF = proposta de cenário de qualidade da nossa plataforma; a professora valida e usa-o para avaliar; exemplo da professora: `Exemplos/QEF_Final_MOOC_Portfolio 26-27.xlsx`. **Entrega final 25/11** (v3 + site).
 - Integração com a Udemy não é obrigatória. Testes: Alfa = o grupo, Beta = a equipa adversária no dia da apresentação; o Gama do modelo ignora-se. Tema: «Cuidar em Crise» (confirmado); os avatares D-ID da composição visual servem de vídeo de apresentação.
+- **v2 (16/11, 16 páginas), para as entregas 3–5 de 18/11:** secções 7 QEF, 8 Storyboard, 9 Plano de marketing, 10 Referências. Fonte do texto: `Plataforma_Scope_v2.md`; `Plataforma_Scope_v2.ps1` inseriu-o uma vez na v1 (recusa correr outra vez; para refazer: `git checkout` do `.docx` da v1 e correr de novo). Storyboard: `Plataforma_Storyboard.html` (7 ecrãs, `#1`…`#7`) → `Capturas/Plataforma_Storyboard_<n>.png` (Edge `--screenshot`, comando no topo do `.html`; com `timeout 45` e `--virtual-time-budget=3000`, senão a letra do Google Fonts às vezes não carrega ou o Edge fica parado).
 - Plano, email e resposta da professora (09/11) em `Plataforma_Plano.md`.
 
 ## Regras de coerência

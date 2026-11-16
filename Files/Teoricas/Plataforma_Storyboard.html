@@ -1,0 +1,254 @@
+<!doctype html>
+<!--
+Storyboard dos ecrãs-chave da plataforma «Cuidar em Crise» (Scope document v2, entrega 4 de 18/11/2026).
+Cada ecrã abre com #1 … #7 no fim do endereço; sem # mostra todos, uns por baixo dos outros.
+PNG (1600 × 900 a 1,5×), na pasta Files/Teoricas:
+  for n in 1 2 3 4 5 6 7; do "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe" --headless --disable-gpu --hide-scrollbars --force-device-scale-factor=1.5 --window-size=1600,900 --virtual-time-budget=3000 --screenshot="Capturas/Plataforma_Storyboard_$n.png" "file:///$PWD/Plataforma_Storyboard.html#$n"; done
+-->
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Storyboard Cuidar em Crise</title>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root { --areia:#F5F1E8; --texto:#1E2A3A; --azul:#3A6EA5; --ambar:#A8600F; --linha:#D9D2C3; --cinza:#8A8F98; --laranja:#D9822B; }
+  * { box-sizing:border-box; margin:0; }
+  body { font-family:"Atkinson Hyperlegible", Arial, sans-serif; color:var(--texto); background:#E9E4D8; }
+  .quadro { width:1600px; height:900px; display:grid; grid-template-columns:1080px 1fr; gap:28px; padding:28px 32px; background:#E9E4D8; }
+  body.um .quadro:not(.ativo) { display:none; }
+  /* browser */
+  .ecra { background:#fff; border-radius:10px; box-shadow:0 2px 10px rgba(0,0,0,.12); overflow:hidden; display:flex; flex-direction:column; height:844px; }
+  .barra { height:34px; background:#DCD6CA; display:flex; align-items:center; gap:8px; padding:0 12px; font-size:13px; color:#555; flex:none; }
+  .barra i { width:11px; height:11px; border-radius:50%; background:#B9B2A4; display:inline-block; }
+  .barra span { margin-left:12px; background:#fff; border-radius:12px; padding:3px 14px; flex:1; }
+  .site { background:var(--areia); flex:1; position:relative; overflow:hidden; }
+  .menu { height:56px; background:#fff; border-bottom:1px solid var(--linha); display:flex; align-items:center; padding:0 40px; gap:28px; font-size:16px; }
+  .menu b { font-size:19px; margin-right:auto; }
+  .menu .on { color:var(--azul); font-weight:700; border-bottom:3px solid var(--azul); padding-bottom:4px; }
+  .pag { padding:28px 40px; }
+  h1 { font-size:36px; line-height:1.15; } h2 { font-size:24px; margin-bottom:10px; } h3 { font-size:18px; }
+  p { font-size:16px; line-height:1.45; }
+  .btn { display:inline-block; background:var(--ambar); color:#fff; font-weight:700; padding:12px 22px; border-radius:8px; font-size:16px; }
+  .btn2 { display:inline-block; border:2px solid var(--azul); color:var(--azul); font-weight:700; padding:9px 18px; border-radius:8px; font-size:15px; background:#fff; }
+  .card { background:#fff; border:1px solid var(--linha); border-radius:10px; padding:14px 16px; }
+  .ph { background:repeating-linear-gradient(45deg,#EEE9DE,#EEE9DE 10px,#E6E0D3 10px,#E6E0D3 20px); border:1px dashed #B9B2A4; border-radius:8px; display:flex; align-items:center; justify-content:center; text-align:center; color:#5B6270; font-size:15px; padding:10px; }
+  .num { color:var(--ambar); font-weight:700; }
+  .tag { display:inline-block; width:22px; height:22px; border-radius:50%; border:4px solid #fff; box-shadow:0 0 0 2px rgba(0,0,0,.25); }
+  .t-azul { background:var(--azul); } .t-lar { background:var(--laranja); }
+  .rodape { position:absolute; bottom:0; left:0; right:0; height:38px; background:#fff; border-top:1px solid var(--linha); font-size:13px; color:#555; display:flex; align-items:center; padding:0 40px; }
+  /* marcadores */
+  .m { position:absolute; width:30px; height:30px; border-radius:50%; background:#C2185B; color:#fff; font-weight:700; font-size:16px; display:flex; align-items:center; justify-content:center; box-shadow:0 0 0 3px #fff; z-index:5; }
+  /* notas */
+  .notas { display:flex; flex-direction:column; gap:12px; }
+  .notas .cab { font-size:15px; color:#5B6270; text-transform:uppercase; letter-spacing:.06em; }
+  .notas h2 { font-size:30px; margin:0; }
+  .notas .liga { font-size:15px; color:#5B6270; }
+  .notas ol { list-style:none; padding:0; display:flex; flex-direction:column; gap:9px; }
+  .notas li { display:grid; grid-template-columns:30px 1fr; gap:10px; font-size:15.5px; line-height:1.35; }
+  .notas li b.k { width:26px; height:26px; border-radius:50%; background:#C2185B; color:#fff; display:flex; align-items:center; justify-content:center; font-size:14px; }
+  .notas .caixa { background:#fff; border-radius:8px; padding:10px 14px; font-size:14.5px; line-height:1.4; border-left:5px solid var(--azul); }
+  .notas .caixa b { color:var(--azul); }
+  /* telemóveis */
+  .tel { width:300px; height:620px; border:10px solid #1E2A3A; border-radius:34px; background:var(--areia); overflow:hidden; position:relative; }
+  .tel .menu { height:48px; padding:0 14px; font-size:14px; } .tel .menu b { font-size:16px; }
+  .tel .pag { padding:14px; }
+</style>
+</head>
+<body>
+
+<!-- 1 · Início -->
+<section class="quadro" id="q1">
+  <div class="ecra"><div class="barra"><i></i><i></i><i></i><span>cuidar-em-crise.netlify.app</span></div>
+    <div class="site">
+      <div class="menu"><b>Cuidar em Crise</b><span class="on">Início</span><span>Curso</span><span>Lições ▾</span><span>Sobre nós</span><span>Contactos</span></div>
+      <div class="pag" style="display:grid;grid-template-columns:2fr 1fr;gap:32px;align-items:center;height:400px">
+        <img src="ComposicaoVisual_Foto.webp" alt="" style="width:100%;height:360px;object-fit:cover;border-radius:10px">
+        <div><p style="font-size:14px">Curso grátis · 5 lições · ≈ 40 min</p><h1 style="margin:8px 0">Cuidar em Crise</h1>
+          <p style="font-size:19px;margin-bottom:22px">Primeiros socorros psicológicos para cuidadores de pessoas com demência.</p>
+          <span class="btn">Começar o curso</span></div>
+      </div>
+      <div class="pag" style="padding-top:0"><h2>As 5 lições</h2>
+        <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:12px">
+          <div class="card"><span class="num">L1</span><h3>Crise, demência e quem cuida</h3><p style="font-size:13px">≈ 8 min</p></div>
+          <div class="card"><span class="num">L2</span><h3>Preparar antes</h3><p style="font-size:13px">≈ 8 min</p></div>
+          <div class="card"><span class="num">L3</span><h3>Primeiro contacto: acalmar</h3><p style="font-size:13px">≈ 8 min</p></div>
+          <div class="card"><span class="num">L4</span><h3>Necessidades e encaminhamento</h3><p style="font-size:13px">≈ 8 min</p></div>
+          <div class="card"><span class="num">L5</span><h3>Depois da crise</h3><p style="font-size:13px">≈ 8 min</p></div>
+        </div></div>
+      <div class="rodape">CAMUL 2026/27 · ISEP · Grupo 1 · Curso também na Udemy ↗</div>
+      <span class="m" style="left:420px;top:66px">1</span><span class="m" style="left:4px;top:130px">2</span><span class="m" style="left:880px;top:330px">3</span><span class="m" style="left:4px;top:500px">4</span><span class="m" style="left:560px;top:776px">5</span>
+    </div></div>
+  <div class="notas"><div class="cab">Storyboard · ecrã 1 de 7</div><h2>Início</h2><div class="liga">Entrada pelo link da campanha, pelo QR code ou pela pesquisa · é a página da composição visual</div>
+    <ol><li><b class="k">1</b><span>Menu fixo no topo, igual em todas as páginas. «Lições» abre a lista L1–L5.</span></li>
+      <li><b class="k">2</b><span>Ilustração de quem cuida e de quem é cuidado nas colunas 1–8; os dois estão virados para o título (direção do olhar).</span></li>
+      <li><b class="k">3</b><span>Título na linha de 1/3 e botão âmbar na de 2/3. <b>Clique → ecrã 2 (Curso)</b>.</span></li>
+      <li><b class="k">4</b><span>5 cartões iguais, um por lição. <b>Clique num cartão → ecrã 3</b> (essa lição).</span></li>
+      <li><b class="k">5</b><span>Rodapé: créditos, equipa e link para o curso na Udemy (abre noutro separador).</span></li></ol>
+    <div class="caixa"><b>Media:</b> ilustração WebP (≈ 200 kB). <b>Regras:</b> terços, direção, hierarquia, ênfase (âmbar só no botão e nos números).</div></div>
+</section>
+
+<!-- 2 · Curso -->
+<section class="quadro" id="q2">
+  <div class="ecra"><div class="barra"><i></i><i></i><i></i><span>cuidar-em-crise.netlify.app/curso</span></div>
+    <div class="site">
+      <div class="menu"><b>Cuidar em Crise</b><span>Início</span><span class="on">Curso</span><span>Lições ▾</span><span>Sobre nós</span><span>Contactos</span></div>
+      <div class="pag"><h1>O curso</h1><p style="font-size:18px;max-width:720px;margin:8px 0 18px">No fim, sabe preparar-se para uma crise e dar primeiros socorros psicológicos à pessoa de quem cuida e a si próprio.</p>
+        <div style="display:flex;gap:6px;margin-bottom:18px;font-size:14px;font-weight:700">
+          <span style="flex:1;background:#DCE7F2;padding:8px 10px;border-radius:6px">Compreender</span><span style="flex:1;background:#DCE7F2;padding:8px 10px;border-radius:6px">Antes</span><span style="flex:2;background:#DCE7F2;padding:8px 10px;border-radius:6px">Durante</span><span style="flex:1;background:#DCE7F2;padding:8px 10px;border-radius:6px">Depois</span></div>
+        <div style="display:flex;flex-direction:column;gap:10px">
+          <div class="card" style="display:grid;grid-template-columns:60px 1fr 160px 140px;align-items:center"><span class="num" style="font-size:24px">L1</span><div><h3>Crise, demência e quem cuida</h3><p style="font-size:14px">O que muda numa crise e os 3 passos dos primeiros socorros psicológicos</p></div><p style="font-size:14px">Bruno Lopes</p><span class="btn2">Abrir · 8 min</span></div>
+          <div class="card" style="display:grid;grid-template-columns:60px 1fr 160px 140px;align-items:center"><span class="num" style="font-size:24px">L2</span><div><h3>Preparar antes</h3><p style="font-size:14px">Kit de conforto, ficha da pessoa e plano de apoio</p></div><p style="font-size:14px">Tiago Teixeira</p><span class="btn2">Abrir · 8 min</span></div>
+          <div class="card" style="display:grid;grid-template-columns:60px 1fr 160px 140px;align-items:center"><span class="num" style="font-size:24px">L3</span><div><h3>Primeiro contacto: acalmar</h3><p style="font-size:14px">Acalmar a pessoa e acalmar-se a si</p></div><p style="font-size:14px">Rodrigo Silva</p><span class="btn2">Abrir · 8 min</span></div>
+          <div class="card" style="display:grid;grid-template-columns:60px 1fr 160px 140px;align-items:center"><span class="num" style="font-size:24px">L4</span><div><h3>Necessidades e encaminhamento</h3><p style="font-size:14px">O que atender primeiro e quando pedir ajuda</p></div><p style="font-size:14px">Ricardo Ferreira</p><span class="btn2">Abrir · 8 min</span></div>
+          <div class="card" style="display:grid;grid-template-columns:60px 1fr 160px 140px;align-items:center"><span class="num" style="font-size:24px">L5</span><div><h3>Depois da crise</h3><p style="font-size:14px">Retomar a rotina e vigiar os sinais das semanas seguintes</p></div><p style="font-size:14px">Evandro Carvalho</p><span class="btn2">Abrir · 8 min</span></div>
+        </div></div>
+      <div class="rodape">CAMUL 2026/27 · ISEP · Grupo 1 · Curso também na Udemy ↗</div>
+      <span class="m" style="left:4px;top:150px">1</span><span class="m" style="left:4px;top:252px">2</span><span class="m" style="left:906px;top:300px">3</span>
+    </div></div>
+  <div class="notas"><div class="cab">Storyboard · ecrã 2 de 7</div><h2>Curso</h2><div class="liga">Vem do botão «Começar o curso» (ecrã 1) ou do menu</div>
+    <ol><li><b class="k">1</b><span>Objetivo geral numa frase, em linguagem simples.</span></li>
+      <li><b class="k">2</b><span>Linha do tempo da crise (Compreender → Antes → Durante → Depois): mostra porque as lições têm esta ordem.</span></li>
+      <li><b class="k">3</b><span>Uma linha por lição: número, título, o que se aprende, autor e duração. <b>«Abrir» → ecrã 3</b>.</span></li></ol>
+    <div class="caixa"><b>Sem conta:</b> não há registo nem progresso guardado no servidor. <b>Qualquer lição fica a 2 cliques</b> da página inicial (critério UF4 do QEF).</div>
+    <div class="caixa"><b>Regras:</b> alinhamento à grelha, unidade (5 linhas iguais), espaço negativo de 64 px entre blocos.</div></div>
+</section>
+
+<!-- 3 · Lição: vídeo -->
+<section class="quadro" id="q3">
+  <div class="ecra"><div class="barra"><i></i><i></i><i></i><span>cuidar-em-crise.netlify.app/licao-2</span></div>
+    <div class="site">
+      <div class="menu"><b>Cuidar em Crise</b><span>Início</span><span>Curso</span><span class="on">Lições ▾</span><span>Sobre nós</span><span>Contactos</span></div>
+      <div class="pag" style="display:grid;grid-template-columns:1fr 250px;gap:24px">
+        <div><p style="font-size:14px"><span class="num">L2</span> · Antes · ≈ 8 min · Tiago Teixeira</p><h1 style="margin:4px 0 14px">Preparar antes</h1>
+          <div class="ph" style="height:330px;position:relative;flex-direction:column;gap:8px"><span style="font-size:44px">▶</span>Vídeo da lição (MP4 720p) com a janela da câmara do autor<br>Legendas em português (.vtt) · velocidade · ecrã inteiro
+            <span style="position:absolute;right:12px;bottom:12px;width:110px;height:70px;border-radius:8px;background:#C9C2B4;display:flex;align-items:center;justify-content:center;font-size:12px">câmara</span></div>
+          <div style="display:flex;gap:8px;margin-top:12px"><span class="btn2">Aula 1 · Gancho</span><span class="btn2" style="background:var(--azul);color:#fff">Aula 2 · Conteúdo</span><span class="btn2">Aula 3 · Atividade</span><span class="btn2">Aula 4 · Síntese</span></div>
+          <p style="margin-top:12px;font-size:15px">▸ Transcrição (abre e fecha)</p></div>
+        <div class="card" style="align-self:start"><h3 style="margin-bottom:8px">Nesta lição</h3><p style="font-size:14px;line-height:1.9">1 · Vídeos<br>2 · Visita 3D à casa<br>3 · Atividade: complete o kit<br>4 · Quiz com feedback<br>5 · Recursos em PDF</p>
+          <hr style="border:0;border-top:1px solid var(--linha);margin:10px 0"><p style="font-size:14px"><b>Vai aprender a</b> preparar o kit de conforto, a ficha da pessoa e o plano de apoio.</p></div>
+      </div>
+      <div class="pag" style="position:absolute;bottom:38px;left:0;right:0;display:flex;justify-content:space-between;padding:14px 40px"><span class="btn2">← L1 · Crise, demência e quem cuida</span><span class="btn2">L3 · Primeiro contacto →</span></div>
+      <div class="rodape">CAMUL 2026/27 · ISEP · Grupo 1 · Curso também na Udemy ↗</div>
+      <span class="m" style="left:4px;top:84px">1</span><span class="m" style="left:4px;top:250px">2</span><span class="m" style="left:4px;top:476px">3</span><span class="m" style="left:748px;top:120px">4</span><span class="m" style="left:4px;top:722px">5</span>
+    </div></div>
+  <div class="notas"><div class="cab">Storyboard · ecrã 3 de 7</div><h2>Lição · vídeo</h2><div class="liga">Mesmo modelo nas 5 lições (aqui a L2) · vem do ecrã 2 ou do menu «Lições»</div>
+    <ol><li><b class="k">1</b><span>Número, momento, duração e autor; título da lição.</span></li>
+      <li><b class="k">2</b><span>Vídeo do P1 com a câmara do autor e legendas .vtt. Só carrega ao carregar em ▶ (poupa dados móveis).</span></li>
+      <li><b class="k">3</b><span>As aulas da lição, por ordem; a que está a tocar fica a azul. Transcrição para quem não pode ouvir.</span></li>
+      <li><b class="k">4</b><span>Índice da lição: salta para a visita 3D, a atividade ou o quiz (<b>→ ecrãs 4 e 5</b>).</span></li>
+      <li><b class="k">5</b><span>Anterior / seguinte, pela ordem do curso.</span></li></ol>
+    <div class="caixa"><b>Media:</b> vídeo, legendas, ícones. <b>Acessibilidade:</b> teclado, legendas, transcrição, texto ≥ 16 px.</div></div>
+</section>
+
+<!-- 4 · Lição: visita 3D + atividade -->
+<section class="quadro" id="q4">
+  <div class="ecra"><div class="barra"><i></i><i></i><i></i><span>cuidar-em-crise.netlify.app/licao-2#visita</span></div>
+    <div class="site">
+      <div class="menu"><b>Cuidar em Crise</b><span>Início</span><span>Curso</span><span class="on">Lições ▾</span><span>Sobre nós</span><span>Contactos</span></div>
+      <div class="pag"><h2>Visita 3D · a casa da D. Rosa</h2><p style="margin-bottom:12px">Encontre o kit, o caminho livre e a rede de apoio. <span class="tag t-azul" style="width:16px;height:16px;border-width:3px;vertical-align:middle"></span> pessoa com demência · <span class="tag t-lar" style="width:16px;height:16px;border-width:3px;vertical-align:middle"></span> cuidador</p>
+        <div style="position:relative;height:330px;border-radius:10px;overflow:hidden;background:linear-gradient(#cfc6b4,#8c7f6a)">
+          <div class="ph" style="position:absolute;inset:0;border:0;background:transparent;color:#fff;font-size:17px;flex-direction:column;gap:6px;justify-content:flex-start;padding-top:36px">Matterport em iframe (espaço «Casa D. Rosa», não listado)<br><span style="font-size:14px">A visita só carrega depois do clique em «Entrar na visita»</span></div>
+          <span class="tag t-azul" style="position:absolute;left:180px;top:150px"></span><span class="tag t-azul" style="position:absolute;left:420px;top:200px"></span><span class="tag t-lar" style="position:absolute;left:640px;top:120px"></span>
+          <div style="position:absolute;left:660px;top:156px;background:#1E2A3A;color:#fff;border-radius:8px;padding:10px 12px;width:200px;font-size:13px"><b>L2 - Rede de apoio</b><br>Quem a pode substituir se precisar de sair?</div>
+          <span class="btn" style="position:absolute;left:32px;bottom:20px">Entrar na visita</span>
+          <span style="position:absolute;right:16px;bottom:22px;color:#fff;font-size:13px">Sem rede? Veja a visita no vídeo (Aula 2).</span></div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:16px">
+          <div class="card"><h3>Atividade · Complete o kit</h3><p style="font-size:14px;margin:6px 0">☐ Medicação e receitas &nbsp; ☐ Objeto de conforto<br>☐ Ficha da pessoa &nbsp; ☐ Contactos da rede</p><span class="btn2" style="font-size:14px">Ver sugestão</span></div>
+          <div class="card"><h3>Recursos</h3><p style="font-size:14px;margin-top:6px;line-height:1.8">⬇ Checklist do kit (PDF)<br>⬇ Ficha da pessoa (PDF) &nbsp; ⬇ Plano de apoio (PDF)</p></div></div></div>
+      <div class="rodape">CAMUL 2026/27 · ISEP · Grupo 1 · Curso também na Udemy ↗</div>
+      <span class="m" style="left:4px;top:84px">1</span><span class="m" style="left:4px;top:180px">2</span><span class="m" style="left:560px;top:250px">3</span><span class="m" style="left:4px;top:470px">4</span><span class="m" style="left:4px;top:600px">5</span><span class="m" style="left:540px;top:600px">6</span>
+    </div></div>
+  <div class="notas"><div class="cab">Storyboard · ecrã 4 de 7</div><h2>Lição · visita 3D e atividade</h2><div class="liga">Mais abaixo na mesma página (ecrã 3) ou pelo índice</div>
+    <ol><li><b class="k">1</b><span>Tarefa da visita e legenda das cores das tags.</span></li>
+      <li><b class="k">2</b><span>O Matterport entra em <b>iframe</b> (o que a Udemy não deixa). Só carrega ao clicar: a página fica leve.</span></li>
+      <li><b class="k">3</b><span>Tags dentro do espaço: azul = pessoa com demência, laranja = cuidador; título com a lição («L2 - …»).</span></li>
+      <li><b class="k">4</b><span>Sem rede ou telemóvel antigo: aviso e ligação para a visita gravada no vídeo.</span></li>
+      <li><b class="k">5</b><span>Atividade com cenário de crise; «Ver sugestão» mostra uma resposta-modelo.</span></li>
+      <li><b class="k">6</b><span>Recursos para descarregar e imprimir. <b>Seguinte → ecrã 5 (quiz)</b>.</span></li></ol>
+    <div class="caixa"><b>Media:</b> 3D interativo, texto, PDF. <b>Privacidade:</b> casa fictícia, sem pessoas nem dados pessoais.</div></div>
+</section>
+
+<!-- 5 · Quiz -->
+<section class="quadro" id="q5">
+  <div class="ecra"><div class="barra"><i></i><i></i><i></i><span>cuidar-em-crise.netlify.app/licao-2#quiz</span></div>
+    <div class="site">
+      <div class="menu"><b>Cuidar em Crise</b><span>Início</span><span>Curso</span><span class="on">Lições ▾</span><span>Sobre nós</span><span>Contactos</span></div>
+      <div class="pag" style="max-width:820px"><p style="font-size:14px"><span class="num">L2</span> · Quiz · pergunta 2 de 4</p>
+        <div style="height:8px;background:#E2DCCF;border-radius:4px;margin:8px 0 18px"><div style="width:50%;height:8px;background:var(--azul);border-radius:4px"></div></div>
+        <h2>A Ana quer pôr no kit algo que acalme a mãe num sítio desconhecido. O que escolhe?</h2>
+        <div style="display:flex;flex-direction:column;gap:10px;margin-top:14px">
+          <div class="card" style="border:2px solid #B3261E;background:#FBEDEC">✗ A · Um objeto novo, comprado para a ocasião<p style="font-size:14px;margin-top:6px">Ainda não: num sítio estranho, o novo pode confundir ainda mais; acalma o que é familiar.</p></div>
+          <div class="card">B · Nada: no acolhimento há tudo o que é preciso</div>
+          <div class="card" style="border:2px solid #2E7D32;background:#EEF6EE"><b>✓ C · A manta que a mãe usa no sofá e a música de que gosta</b><p style="font-size:14px;margin-top:6px">Certo, porque os objetos e os hábitos familiares levam um pouco de casa para o sítio novo.</p></div></div>
+        <div style="display:flex;justify-content:space-between;margin-top:18px"><span class="btn2">← Anterior</span><span class="btn">Pergunta seguinte</span></div></div>
+      <div class="rodape">CAMUL 2026/27 · ISEP · Grupo 1 · Curso também na Udemy ↗</div>
+      <span class="m" style="left:4px;top:84px">1</span><span class="m" style="left:4px;top:140px">2</span><span class="m" style="left:840px;top:300px">3</span><span class="m" style="left:840px;top:410px">4</span><span class="m" style="left:830px;top:470px">5</span>
+    </div></div>
+  <div class="notas"><div class="cab">Storyboard · ecrã 5 de 7</div><h2>Quiz com feedback</h2><div class="liga">Fim da lição · vem do ecrã 4</div>
+    <ol><li><b class="k">1</b><span>Onde estou: lição e número da pergunta.</span></li>
+      <li><b class="k">2</b><span>Barra de progresso do quiz.</span></li>
+      <li><b class="k">3</b><span>Na opção errada escolhida primeiro: vermelho, ✗ e porquê («Ainda não: …»). Pode tentar outra vez.</span></li>
+      <li><b class="k">4</b><span>Na opção certa: verde, ✓ e a explicação («Certo, porque…»). A cor nunca é o único sinal (✓ ✗ e texto).</span></li>
+      <li><b class="k">5</b><span>Na última pergunta: resultado (ex.: 3 de 4) e <b>«Lição seguinte» → ecrã 3 da L3</b>.</span></li></ol>
+    <div class="caixa"><b>Técnica:</b> HTML e JavaScript, sem conta e sem guardar respostas. As perguntas e o feedback são os da Udemy (P1).</div></div>
+</section>
+
+<!-- 6 · Sobre nós -->
+<section class="quadro" id="q6">
+  <div class="ecra"><div class="barra"><i></i><i></i><i></i><span>cuidar-em-crise.netlify.app/sobre-nos</span></div>
+    <div class="site">
+      <div class="menu"><b>Cuidar em Crise</b><span>Início</span><span>Curso</span><span>Lições ▾</span><span class="on">Sobre nós</span><span>Contactos</span></div>
+      <div class="pag"><h1>Quem fez o curso</h1><p style="font-size:18px;max-width:760px;margin:8px 0 22px">Somos cinco estudantes do ISEP. Cada um fez uma lição. Carregue num de nós para ouvir o seu papel.</p>
+        <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:14px">
+          <div class="card" style="text-align:center"><div class="ph" style="height:150px;border-radius:50%;width:150px;margin:0 auto 10px">▶ avatar<br>D-ID</div><h3>Bruno Lopes</h3><p style="font-size:14px">L1 · Compreender</p></div>
+          <div class="card" style="text-align:center"><div class="ph" style="height:150px;border-radius:50%;width:150px;margin:0 auto 10px">▶ avatar<br>D-ID</div><h3>Tiago Teixeira</h3><p style="font-size:14px">L2 · Antes</p></div>
+          <div class="card" style="text-align:center"><div class="ph" style="height:150px;border-radius:50%;width:150px;margin:0 auto 10px">▶ avatar<br>D-ID</div><h3>Rodrigo Silva</h3><p style="font-size:14px">L3 · Durante</p></div>
+          <div class="card" style="text-align:center"><div class="ph" style="height:150px;border-radius:50%;width:150px;margin:0 auto 10px">▶ avatar<br>D-ID</div><h3>Ricardo Ferreira</h3><p style="font-size:14px">L4 · Durante</p></div>
+          <div class="card" style="text-align:center"><div class="ph" style="height:150px;border-radius:50%;width:150px;margin:0 auto 10px">▶ avatar<br>D-ID</div><h3>Evandro Carvalho</h3><p style="font-size:14px">L5 · Depois</p></div></div>
+        <div class="card" style="margin-top:22px;display:flex;gap:24px;align-items:center"><div style="flex:1"><h3>O projeto</h3><p style="font-size:15px">Feito na UC de Conceção e Autoria Multimédia (CAMUL 2026/27). O curso também está publicado na Udemy.</p></div><span class="btn2">Ver na Udemy ↗</span><span class="btn2">Contactos</span></div></div>
+      <div class="rodape">CAMUL 2026/27 · ISEP · Grupo 1 · Curso também na Udemy ↗</div>
+      <span class="m" style="left:4px;top:84px">1</span><span class="m" style="left:4px;top:250px">2</span><span class="m" style="left:4px;top:500px">3</span>
+    </div></div>
+  <div class="notas"><div class="cab">Storyboard · ecrã 6 de 7</div><h2>Sobre nós</h2><div class="liga">Menu «Sobre nós» · liga a «Contactos» (formulário-mailto e créditos)</div>
+    <ol><li><b class="k">1</b><span>Quem somos, numa frase.</span></li>
+      <li><b class="k">2</b><span>Os 5 avatares D-ID da composição visual (≈ 20–30 s cada). Tocam só ao clicar, um de cada vez.</span></li>
+      <li><b class="k">3</b><span>O projeto, a ligação para a Udemy e para os contactos.</span></li></ol>
+    <div class="caixa"><b>Media:</b> vídeo de avatar gerado por IA (D-ID), texto. <b>Regras:</b> unidade (5 cartões iguais), equilíbrio simétrico.</div>
+    <div class="caixa"><b>Página 404:</b> mesma moldura, frase simples e dois botões: «Início» e «Curso» (critério FR2 do QEF).</div></div>
+</section>
+
+<!-- 7 · Telemóvel -->
+<section class="quadro" id="q7">
+  <div class="ecra" style="background:#fff"><div class="barra"><i></i><i></i><i></i><span>Telemóvel · 360 px de largura</span></div>
+    <div class="site" style="display:flex;justify-content:space-around;align-items:center;background:#F0ECE2">
+      <div class="tel"><div class="menu"><b>Cuidar em Crise</b><span style="margin-left:auto;font-size:22px">☰</span></div>
+        <div class="pag"><img src="ComposicaoVisual_Foto.webp" alt="" style="width:100%;height:170px;object-fit:cover;border-radius:8px"><p style="font-size:12px;margin-top:10px">Curso grátis · 5 lições · ≈ 40 min</p><h2 style="font-size:24px;margin:4px 0">Cuidar em Crise</h2><p style="font-size:14px;margin-bottom:12px">Primeiros socorros psicológicos para cuidadores de pessoas com demência.</p><span class="btn" style="display:block;text-align:center">Começar o curso</span>
+          <div class="card" style="margin-top:12px;padding:10px"><span class="num">L1</span> Crise, demência e quem cuida</div></div></div>
+      <div class="tel"><div class="menu"><b>Cuidar em Crise</b><span style="margin-left:auto;font-size:22px">☰</span></div>
+        <div class="pag"><p style="font-size:12px"><span class="num">L2</span> · Antes · ≈ 8 min</p><h2 style="font-size:22px;margin:4px 0 10px">Preparar antes</h2><div class="ph" style="height:150px">▶ Vídeo + legendas</div>
+          <div style="display:flex;gap:6px;margin:10px 0;overflow:hidden"><span class="btn2" style="font-size:12px;padding:6px 8px;white-space:nowrap">Aula 1</span><span class="btn2" style="font-size:12px;padding:6px 8px;background:var(--azul);color:#fff;white-space:nowrap">Aula 2</span><span class="btn2" style="font-size:12px;padding:6px 8px;white-space:nowrap">Aula 3</span></div>
+          <div style="height:120px;border-radius:8px;background:linear-gradient(#cfc6b4,#8c7f6a);display:flex;align-items:flex-end;padding:10px"><span class="btn" style="font-size:13px;padding:8px 12px">Entrar na visita 3D</span></div>
+          <p style="font-size:12px;margin-top:6px">Ocupa o ecrã inteiro ao entrar.</p></div></div>
+      <div class="tel"><div class="menu"><b>Cuidar em Crise</b><span style="margin-left:auto;font-size:22px">☰</span></div>
+        <div class="pag"><p style="font-size:12px"><span class="num">L2</span> · Quiz · 2 de 4</p><h3 style="font-size:16px;margin:8px 0">A Ana quer pôr no kit algo que acalme a mãe. O que escolhe?</h3>
+          <div class="card" style="padding:10px;font-size:13px;margin-bottom:8px">A · Um objeto novo</div>
+          <div class="card" style="padding:10px;font-size:13px;margin-bottom:8px">B · Nada: no acolhimento há tudo</div>
+          <div class="card" style="padding:10px;font-size:13px;border:2px solid #2E7D32;background:#EEF6EE"><b>✓ C · A manta do sofá e a música de que gosta</b><br>Certo: leva um pouco de casa para o sítio novo.</div>
+          <span class="btn" style="display:block;text-align:center;margin-top:12px;font-size:14px">Pergunta seguinte</span></div></div>
+      <span class="m" style="left:60px;top:40px">1</span><span class="m" style="left:390px;top:40px">2</span><span class="m" style="left:720px;top:40px">3</span>
+    </div></div>
+  <div class="notas"><div class="cab">Storyboard · ecrã 7 de 7</div><h2>No telemóvel</h2><div class="liga">O público usa sobretudo o telemóvel · a grelha de 12 colunas passa a 1 coluna</div>
+    <ol><li><b class="k">1</b><span>Início: menu ☰, ilustração em cima, botão à largura do ecrã, lições empilhadas.</span></li>
+      <li><b class="k">2</b><span>Lição: vídeo à largura do ecrã; aulas em fila que desliza; a visita 3D abre em ecrã inteiro só depois do toque.</span></li>
+      <li><b class="k">3</b><span>Quiz: uma pergunta por ecrã, botões grandes (≥ 44 px de altura) e feedback logo por baixo.</span></li></ol>
+    <div class="caixa"><b>Desempenho:</b> nada pesado carrega sozinho (vídeo e Matterport só ao toque). <b>Texto:</b> ≥ 16 px, zoom até 200 % sem perder conteúdo.</div>
+    <div class="caixa"><b>Percurso típico:</b> link da campanha → Início → Curso → Lição (vídeo → visita → atividade → quiz) → lição seguinte.</div></div>
+</section>
+
+<script>
+  const n = location.hash.slice(1);
+  if (n) { document.body.classList.add('um'); const q = document.getElementById('q' + n); if (q) q.classList.add('ativo'); }
+</script>
+</body>
+</html>

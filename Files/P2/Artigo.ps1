@@ -27,7 +27,14 @@ try {
   $d = $w.Documents.Open($docx)
 
   function Texto-Paragrafo($p, $t) { $r = $p.Range; [void]$r.MoveEnd(1, -1); $r.Text = $t }
-  function Paragrafo-Com-Estilo($nome) { foreach ($p in $d.Paragraphs) { if ($p.Style.NameLocal -eq $nome) { return $p } } throw "Sem paragrafo com o estilo $nome" }
+  # estilos do Word pelo número (num Word em português «Heading 1» é «Título 1» e o nome inglês não serve)
+  $fixos = @{ 'Normal' = -1; 'Heading 1' = -2; 'Heading 2' = -3; 'Heading 3' = -4; 'Heading 4' = -5; 'Heading 5' = -6; 'Body Text' = -67 }
+  function Estilo($nome) { if ($fixos.ContainsKey($nome)) { $d.Styles.Item($fixos[$nome]) } else { $d.Styles.Item($nome) } }
+  function Paragrafo-Com-Estilo($nome) {
+    $local = (Estilo $nome).NameLocal
+    foreach ($p in $d.Paragraphs) { if ($p.Style.NameLocal -eq $local) { return $p } }
+    throw "Sem paragrafo com o estilo $nome"
+  }
 
   # título (e a nota «Sub-titles…» do modelo sai)
   Texto-Paragrafo $d.Paragraphs(1) $titulo
@@ -65,11 +72,14 @@ try {
   # caixas de texto de exemplo do modelo (patrocínios, conselhos sobre figuras)
   foreach ($f in @($d.Frames)) { $f.Delete() }
   foreach ($s in @($d.Shapes)) { $s.Delete() }
-  $col = $d.Sections(4).PageSetup.TextColumns.Width
+  $ps = $d.Sections(4).PageSetup
+  $col = $ps.TextColumns.Width
+  $esp = $ps.TextColumns.Spacing
+  $pag = [single]($ps.PageWidth - $ps.LeftMargin - $ps.RightMargin)
 
   $sel = $w.Selection
   $sel.SetRange($ini, $ini)
-  function Escrever($estilo, $t) { $sel.Style = $estilo; $sel.TypeText($t); $sel.TypeParagraph() }
+  function Escrever($estilo, $t) { $sel.Style = (Estilo $estilo); $sel.TypeText($t); $sel.TypeParagraph() }
 
   $refs = $false
   foreach ($l in $corpo) {
@@ -78,12 +88,16 @@ try {
     if ($l -match '^### (.+)') { Escrever 'Heading 3' $Matches[1]; continue }
     if ($l -match '^## (.+)')  { Escrever 'Heading 2' $Matches[1]; continue }
     if ($l -match '^# (.+)')   { Escrever 'Heading 1' $Matches[1]; continue }
-    if ($l -match '^!\[(.+)\]\((.+)\)$') {
-      $sel.Style = 'Normal'; $sel.ParagraphFormat.Alignment = 1
-      $img = $sel.InlineShapes.AddPicture((Join-Path $dir $Matches[2]), $false, $true)
-      $img.LockAspectRatio = -1; $img.Width = $col
+    # «![legenda](ficheiro)» figura · «![TABLE](ficheiro)» tabela já exportada (sem legenda) · «{wide}» no fim → duas colunas
+    if ($l -match '^!\[(.+)\]\((.+?)\)(\{wide\})?$') {
+      $leg = $Matches[1]; $fich = $Matches[2]; $larga = [bool]$Matches[3]
+      if ($larga) { $sel.InsertBreak(3); $sel.PageSetup.TextColumns.SetCount(1) }   # 3 = quebra de secção contínua
+      $sel.Style = (Estilo 'Normal'); $sel.ParagraphFormat.Alignment = 1
+      $img = $sel.InlineShapes.AddPicture((Join-Path $dir $fich), $false, $true)
+      $img.LockAspectRatio = -1; $img.Width = [single]$(if ($larga) { $pag } else { $col })
       $sel.TypeParagraph()
-      Escrever 'figure caption' $Matches[1]
+      if ($leg -ne 'TABLE') { Escrever 'figure caption' $leg }
+      if ($larga) { $sel.InsertBreak(3); $sel.PageSetup.TextColumns.SetCount(2); $sel.PageSetup.TextColumns.Spacing = $esp }
       continue
     }
     if ($l -match '^\[TABLE: (.+?) \| (.+)\]$') { Escrever 'table head' $Matches[1]; Escrever 'Body Text' "[$($Matches[2])]"; continue }
