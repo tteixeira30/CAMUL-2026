@@ -1,0 +1,13 @@
+Telemóvel: n/a (espaço público do Matterport Discover, captado por terceiros. Foi utilizada a câmara Ricoh Theta Z1)
+Data da captura: n/a
+Duração da captura (só a parte de andar com o telemóvel): n/a
+Pontos de captura: n/a
+Tempo a pôr as tags: 5 min (estimativa). Foram 5 etiquetas (quadros, sofá, cozinha, quarto, porta), feitas no PowerPoint por cima do vídeo, não dentro do Matterport.
+Duração da visita no vídeo: ≈ 60 s (sem narração)
+
+O que correu mal ou foi difícil:
+Tags: os espaços públicos do Discover não são editáveis, por isso não foi possível pôr tags dentro do modelo; as etiquetas tiveram de ser sobrepostas ao vídeo no PowerPoint. Um testador Beta não encontrou nenhuma tag neste espaço.
+Gravação: houve necessidade de regravar o video da visita no Matterport pois a cara do aluno responsável tinha de aparecer na gravação
+Udemy: não aceita iframes, por isso a visita entra como vídeo gravado na Aula 20.
+
+Porque escolheste o espaço: Mantive o espaço público do Discover «La Tarasca» (Zamora, Espanha) porque não quis pôr o meu espaço privado num curso público na Udemy. Mesmo «não listada», a visita fica acessível a quem tiver o link. Link: https://discover.matterport.com/space/R1sZEUzLrz9
