@@ -31,6 +31,14 @@ O Scope document é **um só documento que cresce**: cada entrega do Moodle rece
 
 **Depois da resposta:** ajustar a secção 9 **no Word** (`Plataforma_Scope_Document_Grupo1.docx`, a partir da v2 já não se corre o `Plataforma_Scope_v2.ps1`) e também o `Plataforma_Scope_v2.md`, exportar o PDF e só então submeter. Hipóteses: objetivos pequenos a partir do painel da Udemy (0 inscrições a 11/11 → X), ver como os planos em `Exemplos/` definiram os objetivos, ou marcar os números como estimativas a rever depois do teste Beta.
 
+**Visto a 17/11 (para levar à aula):**
+- **Como os exemplos definem os objetivos:** os 3 planos em `Exemplos/` (`Marketing_Plan_Team1.pdf`, `Marketing Plan - English Version.pdf`, `MarketingPlan_FigureOut_TEAM_2.pdf`) não têm metas de visitas nem de utilizadores. Dois têm só objetivos qualitativos, em «Não financeiros» (ex.: «ser reconhecida como a melhor app para…», «melhorar a acessibilidade») e «Financeiros» (ex.: «conseguir apoio de outras instituições»). Só o da FigureOut tem números, e são financeiros (retorno de ≈ 240 000 € em 6 meses).
+- **⚠ Netlify:** as estatísticas de visitas do Netlify (Netlify Analytics) são um extra pago (≈ 9 USD por site e por mês, segundo fontes secundárias; confirmar no painel do site). Com o plano grátis, o objetivo «300 visitas ao site» e o indicador «visitas com origem no QR code» **não se conseguem medir** como estão escritos. Corrigir de qualquer forma, seja qual for a resposta da professora.
+- **Alternativa pronta (se a professora não quiser metas ou achar as nossas exageradas):** objetivos como nos exemplos, mais um indicador que conseguimos medir:
+  - Não financeiros: ser um recurso de referência, em português, para cuidadores de pessoas com demência numa crise · chegar aos cuidadores através das associações que já os apoiam · completar os cursos existentes, sem os substituir (a L5 encaminha para eles).
+  - Financeiros: manter o custo a 0 € (Netlify, Udemy e Matterport grátis) · procurar o apoio de uma associação ou do ISEP para imprimir os folhetos.
+  - Medir sem pagar: inscrições e minutos vistos no painel da Udemy (a 11/11: 0 inscrições) · respostas ao inquérito (SUS ≥ 68, já no QEF) · associações contactadas e que responderam. As visitas ao site saem dos objetivos ou passam para um contador grátis, se o grupo o quiser pôr no site.
+
 **2. Outras coisas da v2 a confirmar, se houver tempo:**
 - Storyboard com 7 ecrãs (o plano previa 5: juntámos a lição em 2 ecrãs e o telemóvel) e em média fidelidade (paleta e letra reais, zonas a tracejado para o vídeo, o Matterport e os avatares): chega?
 - O QEF vai no PDF só como resumo (tabela por fator) e os 45 critérios ficam no `.xlsx`: está bem assim?
