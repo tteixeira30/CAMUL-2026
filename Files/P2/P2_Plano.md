@@ -180,12 +180,24 @@ Cada parte é identificável e entra na apresentação.
 
 | Membro | Parte |
 |---|---|
-| Bruno Lopes | Coordenação · Figuras 1–6 e analytics da Udemy (D6) (passaram para o Bruno a 11/11) · formatação IEEE e montagem do .zip · ficha Matterport da L1 |
-| Tiago Teixeira | Questionário no Google Forms (montar, testar, enviar o link; itens do SUS, vídeo no YouTube; atribuído a 10/11) · Ficha Matterport da L2 · referências dos temas 4 e 5 · revisão das secções 1.1 e 1.2 |
-| Rodrigo Silva | Ficha Matterport da L3 · codificador 1 da análise temática · referências do tema 3 · revisão da secção 2 |
-| Ricardo Ferreira | Ficha Matterport da L4 · codificador 2 · referências do tema 6 · revisão da secção 3 |
-| Evandro Carvalho | Ficha Matterport da L5 (porque ficou o plano B) · referências dos temas 1, 2 e 7 · revisão das secções 4–6 |
-| Todos | ≥ 5 respostas ao questionário cada · confirmar as suas referências (DOI) · 2 min da apresentação |
+| Bruno Lopes | **Escreve a 3 Results** (17/11) · Coordenação · Figuras 1–6 e analytics da Udemy (D6) (passaram para o Bruno a 11/11) · formatação IEEE e montagem do .zip · ficha Matterport da L1 |
+| Tiago Teixeira | **Faz a apresentação (.pptx)** (17/11) · Questionário no Google Forms (montar, testar, enviar o link; itens do SUS, vídeo no YouTube; atribuído a 10/11) · Ficha Matterport da L2 · referências dos temas 4 e 5 · revisão das secções 1.1 e 1.2 |
+| Rodrigo Silva | **Escreve a 6 Future Work** (≈ 120 palavras) (17/11) · Ficha Matterport da L3 · codificador 1 da análise temática · referências do tema 3 · revisão da secção 2 |
+| Ricardo Ferreira | **Escreve a 4 Discussion** (≈ 350 palavras) (17/11) · Ficha Matterport da L4 · codificador 2 · referências do tema 6 · revisão da secção 3 |
+| Evandro Carvalho | **Escreve a 5 Conclusion** (≈ 200 palavras, com as limitações) (17/11) · Ficha Matterport da L5 (porque ficou o plano B) · referências dos temas 1, 2 e 7 · revisão das secções 4–6 |
+| Todos | ≥ 5 respostas ao questionário cada · confirmar as suas referências (DOI) · a sua parte da apresentação (ver abaixo) |
+
+### Apresentação (ter 24/11, 10 min, decidida a 17/11)
+
+Simula a apresentação do artigo numa conferência, com os diapositivos em inglês. A divisão do grupo fica **no fim**, por recomendação da professora (17/11).
+
+| Ordem | Parte | Quem | Tempo | Diapositivos |
+|---|---|---|---|---|
+| 1 | Contextualização | Tiago | 0:00–2:00 | Título · problema e curso (Fig. 1) · enquadramento · lacuna e RQ1–RQ3 |
+| 2 | Metodologia e materiais | Rodrigo | 2:00–4:30 | DBR em 8 iterações · fluxo de captura (Fig. 2–3) · Tabela I · integração sem embed (Fig. 4) · questionário |
+| 3 | Resultados e discussão | Ricardo | 4:30–7:30 | SUS (Fig. 6) · vídeo vs. interativa (Fig. 5) e tarefa das tags · testes Alfa/Beta (Tabela II) · discussão. Os dados só existem depois de 19/11: até lá prepara a discussão e os diapositivos com espaço para os gráficos |
+| 4 | Conclusão e trabalho futuro | Evandro | 7:30–9:00 | Contributos · limitações · trabalho futuro |
+| 5 | Divisão do grupo | Bruno | 9:00–10:00 | Quem fez o quê (a tabela acima); fica no ecrã durante as perguntas |
 
 ## 10. Calendário
 
@@ -204,8 +216,8 @@ Coincide com as entregas da plataforma da teórica (draft + Gantt e estrutura 11
 | ter 17/11 | O grupo revê as secções 1 e 2 (cada um a sua parte, ver §9) · confirmar a Tabela I e o artigo regenerados com a ficha da L4 | ☐ |
 | **qua 18/11** | **Entrega intermédia até às 20:00:** `P2_Artigo_Grupo1.pdf` (secções 1 e 2) · lembrete do questionário a quem ainda não respondeu | ☐ |
 | qui 19/11 | **Fechar o questionário** (se à noite houver < 20 respostas, fica aberto até sex 20/11 às 12:00 e a análise passa para a tarde de sexta; nesse caso mudar «12 to 19 November» na 2.4 do artigo) · Sheets → Ficheiro → Transferir → CSV → `Dados/Respostas.csv` · `node Analise.js Dados/Respostas.csv` → `Dados/Resultados.md`, Figura6, Figura7 e `Dados/Codificacao_Modelo.csv` (o Rodrigo divide em unidades, copia para `Codificacao_Rodrigo.csv` e `Codificacao_Ricardo.csv`, cada um preenche a coluna «categoria» sozinho; correr o script outra vez dá a % de concordância e o kappa) | ☐ |
-| 19–20/11 | SUS, Wilcoxon, análise temática (2 codificadores) · Figuras 5–6, Tabela3 · secção 3 | ☐ |
-| sáb 21/11 | Secções 4, 5 e 6 · abstract · cortar até caber em 6 páginas | ☐ |
+| 19–20/11 | SUS, Wilcoxon, análise temática (2 codificadores) · Figuras 5–6, Tabela3 · secção 3 (Bruno) | ☐ |
+| sáb 21/11 | Secções 4 (Ricardo), 5 (Evandro) e 6 (Rodrigo), em inglês, no `P2_Artigo.md` ou no grupo · abstract · cortar até caber em 6 páginas | ☐ |
 | dom 22/11 | Revisão cruzada (cada um a sua secção) · confirmar as referências · apresentação (≈ 10 diapositivos, 2 min por pessoa) | ☐ |
 | seg 23/11 | Versão final: Word + PDF, pasta `Figuras/` (Figura1… e Tabela1…), .pptx · montar o .zip · ensaiar com o cronómetro | ☐ |
 | **ter 24/11** | **Entrega final no Moodle (até às 20:00) + apresentação na PL** | ☐ |
