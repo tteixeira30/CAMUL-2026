@@ -218,7 +218,7 @@ Coincide com as entregas da plataforma da teórica (draft + Gantt e estrutura 11
 - [x] O artigo leva uma secção «Author contributions»? **Não** (professora, 17/11): o que cada um fez diz-se na apresentação
 - [x] **As referências contam para as 6 páginas** (professora, 17/11) → é preciso cortar ≈ 1 página (ver §12)
 - [x] As tabelas podem ir no artigo como imagem (`Tabela<n>.png`) (17/11)
-- [x] A Martins et al., 2015 (SUS em português) pode ficar, apesar de ser anterior a 2021 (17/11)
+- [x] A Martins et al., 2015 (SUS em português) podia ficar, apesar de ser anterior a 2021 (17/11); **o grupo tirou-a na mesma (17/11): só referências de 2021–2026**
 - [x] Amostra: tentar chegar a mais respostas, **mínimo 20** (17/11)
 - [x] Apresentação (24/11): 10 min para o grupo todo, **simular a apresentação do artigo numa conferência** e dizer o que cada um fez (17/11)
 - [x] O espaço «Casa D. Rosa» continua ativo, com as 17 tags
@@ -228,7 +228,7 @@ Coincide com as entregas da plataforma da teórica (draft + Gantt e estrutura 11
 
 - [ ] 4 ≤ páginas ≤ 6 no PDF (Word: `ComputeStatistics(2)`). **As referências contam (professora, 17/11).** Corte de 17/11: saiu a Fig. 4 (tag aberta), a aula na Udemy passou a Fig. 4 numa coluna e o texto das secções 1–2 encolheu ≈ 500 palavras (≈ 2735 → 2230) → os resultados começam no fim da 1.ª coluna da pág. 4 (antes: topo da pág. 5). Para as secções 3–6 + Figuras 5–6 + Tabelas II–III ficam ≈ 1,75 páginas, um pouco menos do que o orçamento da §7 (≈ 2): Discussão ≈ 350 palavras em vez de 450, Figuras 5–6 numa coluna; se ainda faltar, a Tabela III passa para o texto
 - [ ] Todas as secções 1–6 com os títulos do enunciado e os estilos do modelo (Heading 1/2)
-- [ ] 13–20 referências (hoje 20: 19 de 2021+ e o Martins 2015), todas citadas no texto [n] e pela ordem
+- [ ] 13–20 referências (hoje 19, todas de 2021–2026), todas citadas no texto [n] e pela ordem
 - [ ] Figuras e tabelas citadas no texto, numeradas, com legenda (Fig. em baixo, TABLE em cima, como no IEEE); os números batem certo com `Figuras/Figura<n>` e `Tabela<n>`
 - [ ] O artigo tem imagens (Figuras 3–4), não só gráficos
 - [ ] Os números do artigo batem certo com o relatório do S8 (41 min, 22 aulas, tags)

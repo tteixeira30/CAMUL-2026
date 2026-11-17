@@ -92,7 +92,7 @@ Nota de trabalho (10/11/2026). Plano: `P2_Plano.md` §8 (13–20 referências, 2
 
 ### Instrumento (a mais, fora da regra dos 2021+)
 
-**[19]** A. I. Martins, A. F. Rosa, A. Queirós, A. Silva, and N. P. Rocha, "European Portuguese validation of the System Usability Scale (SUS)," *Procedia Comput. Sci.*, vol. 67, pp. 293–300, 2015, doi: 10.1016/j.procs.2015.09.273.
+**[19] — retirada a 17/11** (só referências de 2021–2026; o questionário continua a usar esta versão do SUS, mas o artigo não a cita) A. I. Martins, A. F. Rosa, A. Queirós, A. Silva, and N. P. Rocha, "European Portuguese validation of the System Usability Scale (SUS)," *Procedia Comput. Sci.*, vol. 67, pp. 293–300, 2015, doi: 10.1016/j.procs.2015.09.273.
 - Tradução, adaptação e validação do SUS para português europeu (validade de construção: r = 0,70 com o PSSUQ). → **2.4 / 2.5:** a versão usada no questionário. Acesso aberto (CC BY-NC-ND).
 - Os 10 itens copiados a 11/11 da Tabela 1 (p. 298) para o bloco E do `P2_Questionario.md`, tal como estão publicados. A versão portuguesa diz «produto», não «sistema».
 - Atenção à ordem dos autores: algumas listas põem Rosa primeiro; o Crossref põe Martins primeiro.

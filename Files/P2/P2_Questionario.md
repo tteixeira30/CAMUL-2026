@@ -123,7 +123,7 @@ D3 não está no plano (§4): acrescentada para a discussão (se houver lista de
 |---|---|---|---|---|
 | E1 | As 10 afirmações do SUS (abaixo), por esta ordem | Grelha | Linhas: as 10 afirmações · Colunas: 1 · 2 · 3 · 4 · 5 | Sim (todas as linhas) |
 
-**Versão portuguesa do SUS:** Martins *et al.* (2015), validação do SUS para português europeu, *Procedia Computer Science*, vol. 67, pp. 293–300, doi: 10.1016/j.procs.2015.09.273 (`P2_Referencias.md` [19], DOI confirmado no Crossref a 10/11; acesso aberto).
+**Versão portuguesa do SUS:** Martins *et al.* (2015), validação do SUS para português europeu, *Procedia Computer Science*, vol. 67, pp. 293–300, doi: 10.1016/j.procs.2015.09.273 (retirada das referências do artigo a 17/11: só 2021–2026 · `P2_Referencias.md` [19], DOI confirmado no Crossref a 10/11; acesso aberto).
 
 **Copiados a 11/11 (Tiago)** da Tabela 1 do artigo (p. 298, «Original item vs. corresponding item in European Portuguese»), tal como estão publicados, sem traduzir nem adaptar. A versão portuguesa diz «produto» (não «sistema»): a descrição acima explica que o produto é a visita 3D. O artigo não dá âncoras da escala: usam-se as do Forms (1 = Discordo totalmente … 5 = Concordo totalmente). Colar no Forms por esta ordem (ímpares positivas, pares negativas: a fórmula depende disso).
 
