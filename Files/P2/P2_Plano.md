@@ -56,14 +56,14 @@ Nota de trabalho (10/11/2026, atualizada a 16/11). Fontes: `CAMUL2025_2026_P2_UK
 | D2 | Ficha Matterport de cada lição (16/11: L2 Tiago 11/11 · L5 Evandro 13/11 · L3 Rodrigo 15/11, `P2_FichaMatterport_L3.txt` · L4 Ricardo 16/11, `P2_FichaMatterport_L4.txt` · a L1 é do Bruno): equipamento, tempo de captura, n.º de pontos de captura, tempo a pôr as tags, problemas, porquê aquele espaço | Fichas/mensagens | RQ1 |
 | D3 | Testes Alfa e Beta do S7 (03/11): o que falhou e o que mudou (ex.: um testador Beta não encontrou tags no espaço do Discover) | `P1/L1/S7_Notas_Testes_L1.md`, secção 8 do relatório | RQ3, Tabela II |
 | D4 | Histórico do git, por etapa (contado a 11/11, sem merges; o commit entra na etapa pela data e pelos ficheiros que muda): **P1 = 79 commits** · S3 (até 13/10) 7 · S4 (14–20/10) 6 · S5 (21–27/10) 21 · S6–S7 (28/10–03/11) 14 · S8 (04–10/11) 31. Fora do P1: teóricas 21, P2 14, só o CLAUDE.md 2. O repositório começou a 10/10: o S1, o S2 e o início do S3 não estão no git | `git log` | RQ1 (esforço por etapa) |
-| D5 | Questionário novo (ver secção 4) | Google Forms → Excel | RQ2, Figuras 4 e 5 |
+| D5 | Questionário novo (ver secção 4) | Google Forms → Excel | RQ2, Figuras 5 e 6 |
 | D6 | Analytics da Udemy (inscrições, progresso, avaliações), **se houver**: o curso está na conta do Ricardo; quem trata é o Bruno, que tem acesso ao painel (11/11). Página do curso a 11/11: 0 alunos, 0 avaliações, 42 min de vídeo. Painel (11/11, «últimos 12 meses»): 0 inscrições, 0 € de receita, média de avaliações 0,00; envolvimento 153,77 min vistos por 7 «active learners» (≈ 29 min em out., ≈ 125 min em nov.): sem inscrições, por isso são visualizações em pré-visualização (o grupo e os testes); capturas em `P2/Dados/` | Painel do instrutor | Contexto; opcional |
 
 ## 4. Questionário (D5)
 
 - **Ferramenta:** Google Forms, em **português** (o artigo explica que foi aplicado em português).
 - **Público:** colegas da UC e de outros cursos, familiares e, se possível, cuidadores. Anónimo, maiores de 18, sem dados pessoais, consentimento na 1.ª página. Nunca envolver pessoas com demência.
-- **Meta:** **≥ 25 respostas** (cada membro traz pelo menos 5). **Ponto da situação (seg 16/11): 8 respostas, todas trazidas pelo Bruno e pelo Tiago**; o Rodrigo, o Ricardo e o Evandro ainda não trouxeram nenhuma (mensagem ao grupo a 16/11). Mínimo para o teste de Wilcoxon: 20 respostas válidas; abaixo disso fica só a estatística descritiva (já previsto na 2.5).
+- **Meta:** **≥ 25 respostas** (cada membro traz pelo menos 5); **a professora pede no mínimo 20** (17/11). Ponto da situação: 8 respostas a 16/11 (todas do Bruno e do Tiago; mensagem ao grupo) · **13 respostas a ter 17/11 → faltam 7**. Mínimo para o teste de Wilcoxon: 20 respostas válidas; abaixo disso fica só a estatística descritiva (já previsto na 2.5).
 - **Duração:** ≈ 8–10 min.
 - **Espaço:** «Casa D. Rosa» (o da L1 e da L2, com as tags das duas). Espaço ativo (confirmado a 10/11).
 
@@ -121,7 +121,7 @@ CAMUL2627_P2_G1_1240441_1240493_1221391_1220901_1200929.zip
 ├── P2_Artigo_Grupo1.pdf
 ├── P2_Apresentacao_Grupo1.pptx
 └── Figuras/
-    ├── Figura1.png … Figura7.png
+    ├── Figura1.png … Figura6.png
     └── Tabela1.png … Tabela3.png
 ```
 
@@ -130,15 +130,14 @@ CAMUL2627_P2_G1_1240441_1240493_1221391_1220901_1200929.zip
 | Figura1 | Estrutura do curso (5 lições, antes/durante/depois) | Adaptar `P1/S8_Navegacao_Curso_Grupo1.png` (em inglês) | 2.3 |
 | Figura2 | Fluxo de trabalho: captura (iPhone LiDAR) → tags → gravação da visita → vídeo no PowerPoint → Udemy + link «Visita 3D» | Diagrama novo (HTML → PNG com o Edge) | 2.3 |
 | Figura3 | O espaço «Casa D. Rosa» visto de cima (dollhouse ou planta), com as tags | Captura nova do Matterport | 2.3 |
-| Figura4 | Uma tag aberta dentro da visita (azul = pessoa, laranja = cuidador) | `P1/L1/Capturas/S8_Tag_*_L1.png` | 2.3 |
-| Figura5 | Uma aula na Udemy: o vídeo da visita com a janela da câmara | Captura nova da Udemy (ou `P1/Capturas/S8_Seccao_1_L2.png`) | 2.3 |
-| Figura6 | Vídeo vs. interativa (4 afirmações, barras divergentes) | Questionário | 3 |
-| Figura7 | Distribuição do SUS | Questionário | 3 |
+| Figura4 | Uma aula na Udemy: o vídeo da visita com a janela da câmara | Captura nova da Udemy (ou `P1/Capturas/S8_Seccao_1_L2.png`) | 2.3 |
+| Figura5 | Vídeo vs. interativa (4 afirmações, barras divergentes) | Questionário | 3 |
+| Figura6 | Distribuição do SUS | Questionário | 3 |
 | Tabela1 | As 5 lições: espaço, tags, duração da visita, tempo de captura, problemas | D1 + D2 | 2.3 (fechada a 16/11) |
 | Tabela2 | Problemas dos testes → correções | D3 | 3 |
 | Tabela3 | Resultados do questionário (média, mediana, p) | D5 | 3 |
 
-São 10 elementos para 6 páginas: as imagens ocupam uma coluna (≈ 8,5 cm de largura) e o texto desce para ≈ 3500 palavras. Se não couber, a Figura1 junta-se à Figura2 ou a Tabela3 passa para o texto. A numeração refaz-se sempre que uma figura sai ou muda de sítio.
+São 9 elementos para 6 páginas (a antiga Figura4, a tag aberta, saiu a 17/11: a Figura4 já mostra uma tag aberta): as imagens ocupam uma coluna (≈ 8,5 cm de largura) e o texto desce para ≈ 3500 palavras. Se não couber, a Figura1 junta-se à Figura2 ou a Tabela3 passa para o texto. A numeração refaz-se sempre que uma figura sai ou muda de sítio.
 
 ## 7. Esqueleto e orçamento de palavras (≈ 3500 palavras + 10 figuras e tabelas ≈ 6 páginas)
 
@@ -151,10 +150,10 @@ São 10 elementos para 6 páginas: as imagens ocupam uma coluna (≈ 8,5 cm de l
 | 1.3 Objective | 120 | Objetivo + RQ1–RQ3 |
 | 2.1 Research Model | 150 | Estudo de caso exploratório, DBR (S1 → S8 como iterações) |
 | 2.2 Methodology | 250 | 5 estudantes, 5 lições, papéis, 8 semanas, testes Alfa e Beta, questionário |
-| 2.3 Development | 450 | Guiões, PowerPoint → vídeo, câmara, legendas, captura Matterport, tags (azul = pessoa, laranja = cuidador), restrições da Udemy; Figuras 1–5, Tabela1 |
+| 2.3 Development | 450 | Guiões, PowerPoint → vídeo, câmara, legendas, captura Matterport, tags (azul = pessoa, laranja = cuidador), restrições da Udemy; Figuras 1–4, Tabela1 |
 | 2.4 Data Collection | 200 | D1–D6, datas, N, ética |
 | 2.5 Data Analysis | 200 | SUS, Wilcoxon, análise temática, concordância |
-| 3 Results | 550 | RQ1 (Tabela1, tempos), RQ2 (Figuras 6–7, Tabela3), RQ3 (Tabela2) |
+| 3 Results | 550 | RQ1 (Tabela1, tempos), RQ2 (Figuras 5–6, Tabela3), RQ3 (Tabela2) |
 | 4 Discussion | 450 | Porque deu aqueles resultados; comparação com 1.2; lições aprendidas (plano grátis, pontos de captura, encontrar as tags) |
 | 5 Conclusion | 200 | Contributos, o que aprendemos no P1 e no P2, **limitações** (N pequeno, amostra de conveniência, ordem fixa, sem cuidadores reais em número) |
 | 6 Future Work | 120 | Quizzes dentro do Matterport, teste com cuidadores reais, plataforma com iframes (a nossa plataforma da teórica), versão para o telemóvel |
@@ -181,7 +180,7 @@ Cada parte é identificável e entra na apresentação.
 
 | Membro | Parte |
 |---|---|
-| Bruno Lopes | Coordenação · Figuras 1–7 e analytics da Udemy (D6) (passaram para o Bruno a 11/11) · formatação IEEE e montagem do .zip · ficha Matterport da L1 |
+| Bruno Lopes | Coordenação · Figuras 1–6 e analytics da Udemy (D6) (passaram para o Bruno a 11/11) · formatação IEEE e montagem do .zip · ficha Matterport da L1 |
 | Tiago Teixeira | Questionário no Google Forms (montar, testar, enviar o link; itens do SUS, vídeo no YouTube; atribuído a 10/11) · Ficha Matterport da L2 · referências dos temas 4 e 5 · revisão das secções 1.1 e 1.2 |
 | Rodrigo Silva | Ficha Matterport da L3 · codificador 1 da análise temática · referências do tema 3 · revisão da secção 2 |
 | Ricardo Ferreira | Ficha Matterport da L4 · codificador 2 · referências do tema 6 · revisão da secção 3 |
@@ -205,7 +204,7 @@ Coincide com as entregas da plataforma da teórica (draft + Gantt e estrutura 11
 | ter 17/11 | O grupo revê as secções 1 e 2 (cada um a sua parte, ver §9) · confirmar a Tabela I e o artigo regenerados com a ficha da L4 | ☐ |
 | **qua 18/11** | **Entrega intermédia até às 20:00:** `P2_Artigo_Grupo1.pdf` (secções 1 e 2) · lembrete do questionário a quem ainda não respondeu | ☐ |
 | qui 19/11 | **Fechar o questionário** (se à noite houver < 20 respostas, fica aberto até sex 20/11 às 12:00 e a análise passa para a tarde de sexta; nesse caso mudar «12 to 19 November» na 2.4 do artigo) · Sheets → Ficheiro → Transferir → CSV → `Dados/Respostas.csv` · `node Analise.js Dados/Respostas.csv` → `Dados/Resultados.md`, Figura6, Figura7 e `Dados/Codificacao_Modelo.csv` (o Rodrigo divide em unidades, copia para `Codificacao_Rodrigo.csv` e `Codificacao_Ricardo.csv`, cada um preenche a coluna «categoria» sozinho; correr o script outra vez dá a % de concordância e o kappa) | ☐ |
-| 19–20/11 | SUS, Wilcoxon, análise temática (2 codificadores) · Figuras 6–7, Tabela3 · secção 3 | ☐ |
+| 19–20/11 | SUS, Wilcoxon, análise temática (2 codificadores) · Figuras 5–6, Tabela3 · secção 3 | ☐ |
 | sáb 21/11 | Secções 4, 5 e 6 · abstract · cortar até caber em 6 páginas | ☐ |
 | dom 22/11 | Revisão cruzada (cada um a sua secção) · confirmar as referências · apresentação (≈ 10 diapositivos, 2 min por pessoa) | ☐ |
 | seg 23/11 | Versão final: Word + PDF, pasta `Figuras/` (Figura1… e Tabela1…), .pptx · montar o .zip · ensaiar com o cronómetro | ☐ |
@@ -216,17 +215,22 @@ Coincide com as entregas da plataforma da teórica (draft + Gantt e estrutura 11
 - [x] Entrega: ter 24/11 (o Moodle diz 20:00; a apresentação é na PL) · entrega intermédia qua 18/11, 20:00 (secções 1 e 2)
 - [x] Nome do .zip: como o do S8 → `CAMUL2627_P2_G1_1240441_1240493_1221391_1220901_1200929.zip`
 - [x] A apresentação pode ser `.pptx`
-- [ ] O artigo leva uma secção «Author contributions»? (o modelo IEEE não a tem; se a professora pedir, segue a tabela da secção 9)
+- [x] O artigo leva uma secção «Author contributions»? **Não** (professora, 17/11): o que cada um fez diz-se na apresentação
+- [x] **As referências contam para as 6 páginas** (professora, 17/11) → é preciso cortar ≈ 1 página (ver §12)
+- [x] As tabelas podem ir no artigo como imagem (`Tabela<n>.png`) (17/11)
+- [x] A Martins et al., 2015 (SUS em português) pode ficar, apesar de ser anterior a 2021 (17/11)
+- [x] Amostra: tentar chegar a mais respostas, **mínimo 20** (17/11)
+- [x] Apresentação (24/11): 10 min para o grupo todo, **simular a apresentação do artigo numa conferência** e dizer o que cada um fez (17/11)
 - [x] O espaço «Casa D. Rosa» continua ativo, com as 17 tags
 - [x] Afiliação: «Instituto Superior de Engenharia do Porto (ISEP), Porto, Portugal» + o email do ISEP de cada um (`<n.º>@isep.ipp.pt`, confirmado a 10/11)
 
 ## 12. Verificação final (antes de 23/11)
 
-- [ ] 4 ≤ páginas ≤ 6 no PDF (Word: `ComputeStatistics(2)`). **A 16/11 já são 5 páginas só com as secções 1–2** (≈ 3470 palavras com as referências): para caberem os resultados (Figuras 6–7, Tabelas II–III) é preciso cortar ≈ 1 página (encolher as Fig. 1 e 3, juntar ou tirar a Fig. 4, apertar a 1.2 e a 2.4)
+- [ ] 4 ≤ páginas ≤ 6 no PDF (Word: `ComputeStatistics(2)`). **As referências contam (professora, 17/11).** Corte de 17/11: saiu a Fig. 4 (tag aberta), a aula na Udemy passou a Fig. 4 numa coluna e o texto das secções 1–2 encolheu ≈ 500 palavras (≈ 2735 → 2230) → os resultados começam no fim da 1.ª coluna da pág. 4 (antes: topo da pág. 5). Para as secções 3–6 + Figuras 5–6 + Tabelas II–III ficam ≈ 1,75 páginas, um pouco menos do que o orçamento da §7 (≈ 2): Discussão ≈ 350 palavras em vez de 450, Figuras 5–6 numa coluna; se ainda faltar, a Tabela III passa para o texto
 - [ ] Todas as secções 1–6 com os títulos do enunciado e os estilos do modelo (Heading 1/2)
 - [ ] 13–20 referências (hoje 20: 19 de 2021+ e o Martins 2015), todas citadas no texto [n] e pela ordem
 - [ ] Figuras e tabelas citadas no texto, numeradas, com legenda (Fig. em baixo, TABLE em cima, como no IEEE); os números batem certo com `Figuras/Figura<n>` e `Tabela<n>`
-- [ ] O artigo tem imagens (Figuras 3–5), não só gráficos
+- [ ] O artigo tem imagens (Figuras 3–4), não só gráficos
 - [ ] Os números do artigo batem certo com o relatório do S8 (41 min, 22 aulas, tags)
 - [ ] Inglês revisto; os mesmos termos em todo o lado (*tour*, *tag*, *walkthrough*, *learner*)
 - [ ] .zip: .docx + .pdf + .pptx + pasta `Figuras/` com tudo

@@ -2,7 +2,7 @@
 // Uso (na pasta Files/P2):
 //   node Analise.js --teste               verifica as contas e corre tudo com 26 respostas INVENTADAS (saída numa pasta temporária)
 //   node Analise.js Dados/Respostas.csv   respostas reais (Google Sheets → Ficheiro → Transferir → CSV)
-// Saídas reais: Dados/Resultados.md · Figuras/Figura6.png (vídeo vs. interativa) · Figuras/Figura7.png (SUS)
+// Saídas reais: Dados/Resultados.md · Figuras/Figura5.png (vídeo vs. interativa) · Figuras/Figura6.png (SUS)
 //               Dados/Codificacao_Modelo.csv (para os codificadores) e, se existirem Dados/Codificacao_Rodrigo.csv
 //               e Dados/Codificacao_Ricardo.csv, a % de concordância e o kappa de Cohen.
 const fs = require('fs');
@@ -272,8 +272,8 @@ function correr(ficheiro, pastaDados, pastaFig, ehTeste = false) {
   codificacao(a.r, pastaDados, L);
   const res = path.join(pastaDados, 'Resultados.md');
   fs.writeFileSync(res, L.join('\n') + '\n');
-  const f6 = exportar(figura6(a.pares), 'Figura6', pastaFig, 'Figure 6 — Video vs. interactive tour');
-  const f7 = exportar(figura7(a.r.map(x => x.sus)), 'Figura7', pastaFig, 'Figure 7 — SUS scores');
+  const f6 = exportar(figura6(a.pares), 'Figura5', pastaFig, 'Figure 5 — Video vs. interactive tour');
+  const f7 = exportar(figura7(a.r.map(x => x.sus)), 'Figura6', pastaFig, 'Figure 6 — SUS scores');
   console.log(`N = ${a.r.length}\n${res}\n${f6}\n${f7}`);
 }
 
