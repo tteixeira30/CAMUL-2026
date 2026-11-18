@@ -1,6 +1,6 @@
 # Plataforma: o que falta receber do grupo (18/11/2026)
 
-Nota de trabalho. O site está feito (`Plataforma_Montar.js` → pasta `Plataforma/`). Do grupo só falta receber **os vídeos da L5 e o link do Matterport da L4** (pedidos a 18/11). Os 3 vídeos da L4 chegaram a 18/11 (já no site), mas o `L4_Aula17_Conteudo.mp4` tem 505 MB: falta comprimi-lo para < 100 MB (ffmpeg do CapCut, como na L2). Tudo o resto decide o Bruno.
+Nota de trabalho. O site está feito (`Plataforma_Montar.js` → pasta `Plataforma/`). Do grupo só falta receber **o link do Matterport da L4** (pedido a 18/11) e, se houver, as legendas da L4 e da L5. Os vídeos da L4 (3) e da L5 (4) chegaram a 18/11 e já estão no site, mas o `L4_Aula17_Conteudo.mp4` tem 505 MB: falta comprimi-lo para < 100 MB (ffmpeg do CapCut, como na L2). Tudo o resto decide o Bruno.
 
 ## Quando os ficheiros chegarem
 

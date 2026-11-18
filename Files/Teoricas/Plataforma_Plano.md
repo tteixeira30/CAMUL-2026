@@ -82,7 +82,7 @@ Secções: título · problema · objetivo · plano · público-alvo · entregá
 | 12 → qua 18/11 | Storyboard dos ecrãs-chave (início, lista de lições, página de lição, quiz, equipa) |
 | 12 → 18/11 | Plano de marketing (missão, recursos, ambiente, 7P, SWOT, ciclo de vida, ações, orçamento, calendário) |
 | Qua 18/11 | **Entregas 3, 4 e 5:** Scope document v2 (v1 + QEF + storyboard + marketing), o mesmo PDF nas três; o `.xlsx` do QEF na entrega 3 |
-| 16 → qua 25/11 | Construir o site (feito a 18/11 pelo Bruno; faltam os vídeos da L4 e da L5 e o Matterport da L4) · publicar no Netlify · plano de testes · teste Alfa · entrega final a 25/11 (Beta no dia da apresentação) |
+| 16 → qua 25/11 | Construir o site (feito a 18/11 pelo Bruno; vídeos da L4 e da L5 recebidos a 18/11; falta o Matterport da L4) · publicar no Netlify · plano de testes · teste Alfa · entrega final a 25/11 (Beta no dia da apresentação) |
 
 Divisão (decidida a 09/11, mudada a 18/11): o trabalho é feito em grupo; o Bruno monta o site todo (18/11) e cada autor (L1 Bruno, L2 Tiago, L3 Rodrigo, L4 Ricardo, L5 Evandro) entrega os vídeos e o Matterport da sua lição e revê a sua página. O Gantt do Scope document tem as datas de início e de fim de cada tarefa, sem coluna de responsáveis.
 
