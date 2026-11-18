@@ -294,6 +294,8 @@ ${RODAPE}
 }
 
 // ───────────────────────────── Estilo e comportamento comuns ─────────────────────────────
+// QEF EL2: as ligações no meio do texto ganham 44 px de altura de toque (o padding vertical de um inline não afasta as linhas).
+const A_TEXTO = `a:not([class]) { padding-block:calc((44px - 1.2em) / 2); }`;
 const CSS_MENU = `
 .topo { display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:12px 24px; padding-block:16px; background:var(--areia); }
 body { overflow-x:clip; }
@@ -301,19 +303,20 @@ body { overflow-x:clip; }
   .topo::before { content:""; position:absolute; z-index:-1; top:0; bottom:0; left:calc(50% - 50vw); width:100vw; background:var(--areia); border-bottom:1px solid var(--linha); } }
 .drop .num { display:inline; font-size:inherit; }
 html { scroll-padding-top:96px; }
-.marca { display:flex; align-items:center; gap:10px; font-weight:700; color:var(--texto); text-decoration:none; font-size:19px; }
+.marca { display:flex; align-items:center; min-height:44px; gap:10px; font-weight:700; color:var(--texto); text-decoration:none; font-size:19px; }
 .nav { display:flex; flex-wrap:wrap; align-items:center; gap:4px 20px; font-size:17px; }
-.nav a, .drop summary { color:var(--texto); text-decoration:none; padding:8px 0; display:inline-block; cursor:pointer; }
+.nav a, .drop summary { color:var(--texto); text-decoration:none; padding:0; min-height:44px; display:inline-flex; align-items:center; cursor:pointer; }
 .nav a:hover, .drop summary:hover { color:var(--azul); }
 .nav a[aria-current="page"], .drop summary.atual { color:var(--azul); font-weight:700; box-shadow:inset 0 -3px var(--azul); }
 .drop { position:relative; }
 .drop summary { list-style:none; } .drop summary::-webkit-details-marker { display:none; }
 .drop summary::after { content:" ▾"; }
 .drop > div { position:absolute; z-index:20; top:100%; left:-16px; background:#fff; border:1px solid var(--linha); border-radius:8px; padding:8px 16px; width:max-content; max-width:min(90vw, 360px); box-shadow:0 6px 18px rgba(30,42,58,.12); display:grid; }
-.drop > div a { padding:8px 0; }
+.drop > div a { padding:0; }
 .nav a:focus-visible, .drop summary:focus-visible, .marca:focus-visible { outline:3px solid var(--azul); outline-offset:3px; }
 .nav .num { color:var(--ambar); font-weight:700; }
 .rodape a { color:inherit; }
+.saltar { min-height:44px; display:flex; align-items:center; }
 `;
 const CSS = `:root { --areia:#F5F1E8; --texto:#1E2A3A; --azul:#3A6EA5; --ambar:#A8600F; --laranja:#B4570F; --linha:#E2DACA; --certo:#2E7D32; --errado:#B3261E;
   --fonte:"Atkinson Hyperlegible","Segoe UI",Roboto,Arial,sans-serif; --gap:24px; --bloco:64px; color-scheme:light; }
@@ -322,28 +325,30 @@ const CSS = `:root { --areia:#F5F1E8; --texto:#1E2A3A; --azul:#3A6EA5; --ambar:#
 body { margin:0; background:var(--areia); color:var(--texto); font-family:var(--fonte); font-size:18px; line-height:1.5; }
 img, video, iframe { max-width:100%; }
 h1, h2, h3, p { margin:0; } h1, h2 { text-wrap:balance; }
-h1 { font-size:40px; line-height:1.2; } h2 { font-size:24px; line-height:1.3; margin-bottom:12px; } h3 { font-size:18px; line-height:1.3; }
+h1 { font-size:40px; line-height:1.2; } h2 { font-size:28px; line-height:1.25; margin-bottom:12px; } h3 { font-size:22px; line-height:1.3; }
 a { color:var(--azul); }
+${A_TEXTO}
 .wrap { max-width:1280px; margin:0 auto; padding-inline:16px; }
 @media (min-width:700px) { .wrap { padding-inline:48px; } }
 .saltar { position:absolute; left:-9999px; } .saltar:focus { left:16px; top:8px; background:#fff; padding:8px 12px; z-index:50; }
 ${CSS_MENU}
 .pag { display:flex; flex-direction:column; gap:var(--bloco); padding-block:16px var(--bloco); }
 .pag > section, .pag > div { min-width:0; }
+p, main li:not([class]) { max-width:52ch; } /* QEF EU3: ≈ 52ch = 75 caracteres com a Atkinson Hyperlegible */
 .intro { max-width:70ch; display:grid; gap:12px; }
 .intro p { font-size:20px; }
-.meta { color:#4A5566; font-size:16px; } .num { color:var(--ambar); font-weight:700; }
+.meta { font-size:16px; } .num { color:var(--ambar); font-weight:700; } .meta .num { font-size:19px; }
 .cta { display:inline-block; background:var(--ambar); color:#fff; font-weight:700; padding:14px 26px; border-radius:6px; text-decoration:none; border:0; font:inherit; font-weight:700; cursor:pointer; }
 .btn2 { display:inline-block; border:2px solid var(--azul); color:var(--azul); background:#fff; font:inherit; font-size:16px; font-weight:700; padding:9px 16px; border-radius:8px; text-decoration:none; cursor:pointer; min-height:44px; }
 .btn2:hover { background:var(--azul); color:#fff; }
 .btn2[aria-current="true"], .btn2[aria-pressed="true"] { background:var(--azul); color:#fff; }
 .cta:focus-visible, .btn2:focus-visible, .opcao:focus-visible, input:focus-visible { outline:3px solid var(--azul); outline-offset:3px; }
 .cartao { background:#fff; border:1px solid var(--linha); border-radius:10px; padding:20px; }
-.nota { font-size:16px; color:#4A5566; }
+.nota { font-size:16px; }
 .rodape { font-size:14px; border-top:1px solid var(--linha); padding-block:24px; display:grid; gap:6px; }
 
 /* Curso */
-.tempo { display:flex; gap:6px; font-size:15px; font-weight:700; } .tempo span { flex:1; background:#DCE7F2; padding:8px 10px; border-radius:6px; } .tempo span.d { flex:2; }
+.tempo { display:flex; gap:6px; font-size:15px; font-weight:700; } .tempo span { flex:1; background:#fff; border-top:4px solid var(--azul); padding:8px 10px; border-radius:6px; } .tempo span.d { flex:2; }
 .linhas { list-style:none; margin:0; padding:0; display:grid; gap:12px; }
 .linha { display:grid; grid-template-columns:56px 1fr; gap:4px 16px; align-items:center; }
 .linha .num { font-size:26px; grid-row:span 2; }
@@ -357,7 +362,7 @@ ${CSS_MENU}
 .licao-topo { display:grid; gap:var(--gap); }
 @media (min-width:1000px) { .licao-topo { grid-template-columns:1fr 300px; align-items:start; } }
 .player { position:relative; background:#1E2A3A; border-radius:10px; overflow:hidden; aspect-ratio:16/9; }
-.player video { width:100%; height:100%; display:block; background:#000; }
+.player video { width:100%; height:100%; display:block; background:var(--texto); }
 .player .breve { position:absolute; inset:0; display:none; place-content:center; text-align:center; color:#fff; padding:24px; gap:10px; }
 .player.sem-video video { display:none; } .player.sem-video .breve { display:grid; }
 .aulas { list-style:none; margin:12px 0 0; padding:0; display:flex; flex-wrap:wrap; gap:8px; }
@@ -370,18 +375,18 @@ ${CSS_MENU}
 .legenda-cores { display:flex; flex-wrap:wrap; gap:6px 18px; font-size:16px; margin-bottom:12px; }
 .ponto { display:inline-block; width:16px; height:16px; border-radius:50%; border:3px solid #fff; box-shadow:0 0 0 1px rgba(0,0,0,.35); vertical-align:-2px; margin-right:6px; }
 .c-azul { background:#2F6DB5; } .c-laranja { background:#E07B2E; } .c-verde-escuro { background:#1E6B3A; } .c-vermelho { background:#C62828; } .c-verde { background:#43A047; } .c-azul-claro { background:#64B5F6; } .c-rosa { background:#EC77A8; }
-.visita3d { position:relative; aspect-ratio:16/9; max-height:75vh; width:100%; border-radius:10px; overflow:hidden; background:linear-gradient(#cfc6b4,#8c7f6a); display:grid; place-content:center; gap:12px; text-align:center; padding:16px; color:#fff; }
+.visita3d { position:relative; aspect-ratio:16/9; max-height:75vh; width:100%; border-radius:10px; overflow:hidden; background:var(--texto); display:grid; place-content:center; gap:12px; text-align:center; padding:16px; color:#fff; }
 .visita3d iframe { position:absolute; inset:0; width:100%; height:100%; border:0; }
 .visita3d p { font-size:16px; }
 .duas { display:grid; gap:var(--gap); } @media (min-width:900px) { .duas { grid-template-columns:3fr 2fr; } }
 .campos, .kit, .verif { padding-left:22px; display:grid; gap:8px; margin:12px 0; }
 .verif { list-style:none; padding:0; }
-.campos input { display:block; width:100%; max-width:420px; font:inherit; padding:8px 10px; border:1px solid #B9B2A4; border-radius:6px; margin-top:4px; }
+.campos input { display:block; width:100%; max-width:420px; font:inherit; padding:8px 10px; border:1px solid var(--texto); border-radius:6px; margin-top:4px; }
 .kit label, .verif label { cursor:pointer; display:inline-flex; gap:10px; align-items:flex-start; }
 .kit input, .verif input { width:22px; height:22px; flex:none; margin-top:3px; accent-color:var(--azul); }
 .kit .porque { display:none; font-size:15px; color:var(--errado); margin-left:32px; }
 .kit.mostrar li.ok label::after { content:" ✓"; color:var(--certo); font-weight:700; }
-.kit.mostrar li.nao label { text-decoration:line-through; color:#6B7280; }
+.kit.mostrar li.nao label { text-decoration:line-through; }
 .kit.mostrar li.nao .porque { display:block; }
 .sugestao { margin-top:12px; } .sugestao summary { cursor:pointer; font-weight:700; color:var(--azul); min-height:44px; display:flex; align-items:center; }
 .sugestao ul { margin:4px 0 0; display:grid; gap:6px; }
@@ -394,11 +399,11 @@ ${CSS_MENU}
 .recursos { list-style:none; padding:0; margin:0; display:grid; gap:8px; }
 .recursos a { font-weight:700; }
 .quiz { max-width:820px; }
-.barra-q { height:8px; background:#E2DCCF; border-radius:4px; margin:8px 0 18px; } .barra-q div { height:8px; background:var(--azul); border-radius:4px; transition:width .2s; }
+.barra-q { height:8px; background:var(--linha); border-radius:4px; margin:8px 0 18px; } .barra-q div { height:8px; background:var(--azul); border-radius:4px; transition:width .2s; }
 .opcoes { list-style:none; padding:0; margin:14px 0 0; display:grid; gap:10px; }
 .opcao { width:100%; text-align:left; font:inherit; background:#fff; color:var(--texto); border:1px solid var(--linha); border-radius:10px; padding:14px 16px; cursor:pointer; min-height:48px; }
 .opcao:hover { border-color:var(--azul); }
-.opcao.ok { border:2px solid var(--certo); background:#EEF6EE; } .opcao.nok { border:2px solid var(--errado); background:#FBEDEC; }
+.opcao.ok { border:2px solid var(--certo); } .opcao.nok { border:2px solid var(--errado); }
 .opcao b { font-weight:400; } .opcao.ok b, .opcao.nok b { font-weight:700; }
 .opcao .fb { display:block; font-size:16px; margin-top:6px; }
 .opcao.ok b::before { content:"✓ "; color:var(--certo); } .opcao.nok b::before { content:"✗ "; color:var(--errado); }
@@ -409,7 +414,7 @@ ${CSS_MENU}
 /* Sobre nós e cor */
 .equipa { list-style:none; padding:0; margin:0; display:grid; gap:16px; grid-template-columns:repeat(auto-fit, minmax(200px, 1fr)); }
 .equipa li { text-align:center; display:grid; gap:6px; }
-.equipa video { width:100%; aspect-ratio:1; object-fit:cover; border-radius:10px; background:#DCE5EE; }
+.equipa video { width:100%; aspect-ratio:1; object-fit:cover; border-radius:10px; background:var(--texto); }
 .sentimentos { list-style:none; padding:0; margin:0; display:grid; gap:16px; grid-template-columns:repeat(auto-fit, minmax(210px, 1fr)); }
 .sentimentos li { background:#fff; border:1px solid var(--linha); border-top:6px solid var(--azul); border-radius:10px; padding:16px; display:grid; gap:6px; align-content:start; }
 .sentimentos .grande { font-size:28px; font-weight:700; color:var(--azul); line-height:1.2; }
@@ -533,7 +538,7 @@ fs.writeFileSync(path.join(SAI, "app.js"), JS);
   const trocar = (de, para) => { if (!h.includes(de)) throw new Error("Página inicial: não encontrei «" + de.slice(0, 60) + "»"); h = h.split(de).join(para); };
   trocar("<title>Cuidar em Crise</title>", `<title>Cuidar em Crise</title>\n<link rel="icon" href="data:image/svg+xml,${encodeURIComponent(MARCA.replace('aria-hidden="true"', 'xmlns="http://www.w3.org/2000/svg"'))}">
 <meta name="description" content="Curso grátis, em português, de primeiros socorros psicológicos para cuidadores de pessoas com demência numa crise.">`);
-  trocar("</style>\n<style>", `${CSS_MENU}\n.cartao { position:relative; } .cartao h3 a { color:inherit; text-decoration:none; } .cartao h3 a::after { content:""; position:absolute; inset:0; } .cartao:hover { border-color:var(--azul); }\n.cartao:focus-within { outline:3px solid var(--azul); outline-offset:3px; }\n</style>\n<style>`);
+  trocar("</style>\n<style>", `${A_TEXTO}\n${CSS_MENU}\n.licoes h2, .para-quem h2, .legenda-lista h2 { font-size:28px; } .cartao h3 { font-size:22px; } .foto { background:var(--areia); } .alternar { min-height:44px; }\n.cartao { position:relative; } .cartao h3 a { color:inherit; text-decoration:none; } .cartao h3 a::after { content:""; position:absolute; inset:0; } .cartao:hover { border-color:var(--azul); }\n.cartao:focus-within { outline:3px solid var(--azul); outline-offset:3px; }\n</style>\n<style>`);
   trocar(`<div class="marca">\n    ${MARCA}\n    Cuidar em Crise\n  </div>\n  <button`, `<a class="marca" href="index.html">${MARCA} Cuidar em Crise</a>\n  ${menu("inicio")}\n  <button`);
   trocar(`<a class="cta" href="#licoes">`, `<a class="cta" href="curso.html">`);
   LICOES.forEach(l => trocar(`<h3>${l.titulo}</h3>`, `<h3><a href="licao-${l.n}.html">${l.titulo}</a></h3>`));
@@ -580,12 +585,12 @@ for (const l of LICOES) {
 <ol class="aulas" aria-label="Vídeos da lição">${aulas.map(a => `<li><button type="button" class="btn2" data-mp4="${a.mp4}" data-vtt="${a.vtt}">${a.i + 1} · ${a.t} <span class="dur">· ${a.d}${a.mp4 ? "" : " (em breve)"}</span></button></li>`).join("")}</ol>
 <details class="transcricao"><summary>Transcrição do vídeo</summary>${aulas.map(a => `<div class="txt" hidden>${a.trans || "<p>Transcrição em breve.</p>"}</div>`).join("")}</details>
 </section>
-<aside class="cartao indice" aria-labelledby="t-ind"><h2 id="t-ind" style="font-size:20px">Nesta lição</h2>
+<aside class="cartao indice" aria-labelledby="t-ind"><h2 id="t-ind">Nesta lição</h2>
 <ol><li><a href="#videos">Vídeos</a></li><li><a href="#visita">Visita 3D</a></li><li><a href="#atividade">Atividade</a></li><li><a href="#quiz">Quiz</a></li>${rec.length ? '<li><a href="#recursos">Recursos</a></li>' : ""}</ol>
 <hr><p style="font-size:16px"><b>Vai aprender a</b> ${l.aprende}</p></aside>
 </div>
 <section id="visita" aria-labelledby="t-vis"><h2 id="t-vis">Visita 3D · ${v.titulo}</h2>
-<p style="max-width:75ch;margin-bottom:10px">${v.tarefa}</p>
+<p style="margin-bottom:10px">${v.tarefa}</p>
 <p class="legenda-cores">${v.cores.map(([c, t]) => `<span><span class="ponto c-${c}"></span>${c.replace("-", " ")} = ${t}</span>`).join("")}</p>
 ${visita}</section>
 <div class="duas">
@@ -623,7 +628,7 @@ pagina("cor.html", "Porquê azul? · Cuidar em Crise", "Porque é que o curso Cu
 <p><span class="ponto c-azul"></span><b>Azul = a pessoa com demência.</b> <span class="ponto c-laranja" style="margin-left:16px"></span><b>Laranja = quem cuida.</b></p>
 <p style="font-size:16px">Nos vídeos, nas ilustrações e nas etiquetas das visitas 3D, as duas cores dizem sempre de quem se está a falar. O laranja, complementar do azul, separa bem os dois.</p></div></section>
 <section aria-labelledby="t-r"><h2 id="t-r">O que não usámos como prova</h2>
-<p style="max-width:75ch;font-size:16px">Algumas histórias populares sobre o azul não estão confirmadas (por exemplo, os candeeiros azuis que reduziriam o crime em Glasgow). Ficaram de fora: só usamos estudos revistos por pares, dados medidos e decisões documentadas.</p>
+<p style="font-size:16px">Algumas histórias populares sobre o azul não estão confirmadas (por exemplo, os candeeiros azuis que reduziriam o crime em Glasgow). Ficaram de fora: só usamos estudos revistos por pares, dados medidos e decisões documentadas.</p>
 <p style="margin-top:12px">${copiar("Teoricas/CorAzul_Grupo1.pdf", "recursos/CorAzul_Grupo1.pdf") ? `⬇ <a href="recursos/CorAzul_Grupo1.pdf" download>Trabalho completo «A cor azul» (PDF, 6 MB)</a> · ` : ""}<a href="index.html#regras">Ver as regras de composição da página inicial</a></p>
 <p class="nota" style="margin-top:8px">Fontes: YouGov (2015) · Minguillon et al. (2017), PLOS ONE · Canva / Fortune 500 (2019) · Polícia Metropolitana de Londres (1829) · ONU, emblema e bandeira · Labrecque e Milne (2012), JAMS · WCAG 2.2.</p></section>`);
 
@@ -632,7 +637,9 @@ pagina("sobre-nos.html", "Sobre nós · Cuidar em Crise", "Os cinco estudantes d
 <section class="intro"><h1>Quem fez o curso</h1><p>Somos cinco estudantes do ISEP. Cada um fez uma lição. Carregue num vídeo para ouvir o papel de cada um (avatar feito com IA, no D-ID, a partir de um vídeo nosso).</p></section>
 <ul class="equipa">${AVATARES.map(([nome, l, f]) => {
     const src = copiar("Teoricas/Avatares/" + f, "media/avatares/" + f);
-    return `<li class="cartao">${src ? `<video controls preload="metadata" playsinline src="${src}#t=0.5" aria-label="Avatar de ${nome}"></video>` : ""}<h3>${nome}</h3><p class="nota">${l}</p></li>`; }).join("")}</ul>
+    const g = (fs.readFileSync(path.join(__dirname, `ComposicaoVisual_Regras_${nome.split(" ")[0]}.md`), "utf8").replace(/\r/g, "").match(/## Guião do avatar[^\n]*\n+> ?([^\n]+)/) || [])[1];
+    if (!g) throw new Error("Sem guião do avatar de " + nome);
+    return `<li class="cartao">${src ? `<video controls preload="metadata" playsinline src="${src}#t=0.5" aria-label="Avatar de ${nome}"></video>` : ""}<h3>${nome}</h3><p class="nota">${l}</p><details class="sugestao"><summary>O que diz</summary><p class="nota" style="text-align:left">${esc(g)}</p></details></li>`; }).join("")}</ul>
 <section class="cartao" style="display:grid;gap:12px"><h2>O projeto</h2>
 <p>Feito na unidade curricular de Conceção e Autoria Multimédia (CAMUL 2026/27), no ISEP. O curso aplica os primeiros socorros psicológicos (OMS, 2011) à dupla cuidador e pessoa com demência, numa crise: incêndio, cheia ou tempestade, pandemia, saída de casa por conflito.</p>
 <p>A D. Rosa e a Ana são personagens fictícias. As casas das visitas 3D foram capturadas por nós, sem pessoas nem dados pessoais (a da Lição 5 é um espaço público do Matterport Discover).</p>
