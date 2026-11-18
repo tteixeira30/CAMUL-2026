@@ -1,54 +1,29 @@
-# Plataforma: o que falta pedir ao grupo (18/11/2026)
+# Plataforma: o que falta receber do grupo (18/11/2026)
 
-Nota de trabalho. **Ponto da situação (18/11):** vídeos e legendas pedidos ao Ricardo e ao Evandro · explicações do quiz da L4 aprovadas pelo Bruno · L3: a Respiração guiada fica sem legenda (Rodrigo: só faz sentido a ouvir), com a transcrição do guião · falta o link do Matterport da L4 e a confirmação do Evandro (pergunta 3, atividade e explicações da L5). O site está feito (`Plataforma_Montar.js` → pasta `Plataforma/`); só faltam ficheiros da L4 e da L5 e algumas confirmações. Mensagens prontas a colar no WhatsApp, uma por pessoa.
+Nota de trabalho. O site está feito (`Plataforma_Montar.js` → pasta `Plataforma/`). Do grupo só falta receber **os vídeos da L4 e da L5 e o link do Matterport da L4** (pedidos a 18/11). Tudo o resto decide o Bruno.
 
-Quando os ficheiros chegarem, o Bruno guarda-os com estes nomes e corre `node Plataforma_Montar.js` na pasta `Files/Teoricas`:
+## Quando os ficheiros chegarem
+
+O Bruno guarda-os com estes nomes e corre `node Plataforma_Montar.js` na pasta `Files/Teoricas` (no fim, o script lista o que ainda falta):
 
 | Lição | Guardar como (em `Files/P1/…`) |
 |---|---|
-| L4 | `L4/Videos/L4_Aula16_Gancho.mp4` · `L4_Aula17_Conteudo.mp4` · `L4_Aula18_Sintese.mp4` (legendas, se houver: `Legenda_Aula16_L4.vtt`, …) |
+| L4 | `L4/Videos/L4_Aula16_Gancho.mp4` · `L4_Aula17_Conteudo.mp4` · `L4_Aula18_Sintese.mp4` (legendas, se vierem: `Legenda_Aula16_L4.vtt`, `Legenda_Aula17_L4.vtt`, `Legenda_Aula18_L4.vtt`) |
 | L5 | `L5/Videos/L5_Aula19_Pilares.mp4` · `L5_Aula20_Visita3D.mp4` · `L5_Aula21_Regresso.mp4` · `L5_Aula22_Sintese.mp4` (legendas: `Legenda_Aula19_L5.vtt`, …) |
-| L4 | Link do Matterport: em `Plataforma_Montar.js`, na L4, `visita: { m: "…" }` (o código depois de `?m=`) |
+| L4 | Link do Matterport: em `Plataforma_Montar.js`, na L4, `visita: { m: "…" }` = o código depois de `?m=`. Tem de estar «Não listado» (um espaço «Privado» não abre no site) |
 
----
+Os MP4 têm de ter menos de 100 MB cada (limite do GitHub, como os outros vídeos das lições; o site não os põe no git, mas convém).
 
-## Ricardo (L4)
+## Decidido pelo Bruno (18/11)
 
-> Olá Ricardo! Estou a montar o site da plataforma (entrega 25/11) e a tua lição já lá está, mas faltam-me 2 coisas:
->
-> 1. **Os 3 vídeos da L4**, os mesmos MP4 que puseste na Udemy: «Chegar a uma casa que não é a nossa», «Necessidades e Encaminhamento» e «Síntese e ponte». São grandes: manda por WeTransfer ou Google Drive. O nome não importa.
-> 2. **O link do Matterport da L4** (o teu apartamento). No Matterport: abre o espaço → Partilhar → copiar o link. Começa por `https://my.matterport.com/show/?m=`. Confirma que está «Não listado» (se estiver «Privado», não abre no site).
->
-> Se tiveres legendas (.vtt) dos vídeos, manda também. Se não tiveres, não faz mal.
->
-> Mais uma coisa: no quiz da L4 o guião só tem as respostas certas, por isso escrevi eu a explicação de cada opção («Certo, porque…» / «Ainda não: …»). Podes ver e dizer-me se está bem? Até hoje à noite, se der. Obrigado!
+- **L3:** a Respiração guiada fica sem legenda (o Rodrigo: só faz sentido a ouvir); o vídeo mostra a transcrição do guião, para quem não pode ouvir.
+- **L4:** as explicações de cada opção do quiz («Certo, porque…» / «Ainda não: …») são as do site; o guião só tinha as certas.
+- **L5:**
+  - pergunta 3 do quiz: «Que sequência guia quem cuida nas semanas depois da crise?». No guião, a pergunta era a da L1 («Durante um confinamento…»), mas as respostas são «Observar → Escutar → Encaminhar»;
+  - explicações das respostas erradas: as do site;
+  - atividade «As próximas semanas» (observar, escutar, encaminhar, rotina), com o texto da Aula 21: o guião não tinha atividade.
+- O espaço «Sala do Rodrigo» (L3) e a «Casa D. Rosa» (L1, L2) ficam ativos e «Não listados» até ao fim do semestre: o site mostra-os dentro da página.
 
-## Evandro (L5)
+## Mensagem ao grupo (depois de publicado)
 
-> Olá Evandro! Estou a montar o site da plataforma (entrega 25/11) e a tua lição já lá está, com a visita 3D da «La Tarasca» a funcionar. Faltam-me:
->
-> 1. **Os 4 vídeos da L5**, os mesmos MP4 que puseste na Udemy: «Retomar, vigiar e apoiar», «De volta a casa da D. Rosa», «O regresso e o reajuste» e «Síntese e conclusão». Manda por WeTransfer ou Google Drive. O nome não importa.
-> 2. Se tiveres legendas (.vtt), manda também. Se não, não faz mal.
->
-> E 2 coisas para confirmares:
-> - **Quiz, pergunta 3:** no guião, a pergunta era a da L1 («Durante um confinamento, o centro de dia fecha…»), mas as respostas são «Observar → Escutar → Encaminhar». No site mudei a pergunta para «Que sequência guia quem cuida nas semanas depois da crise?». Está bem? Na Udemy também está assim? Também escrevi a explicação das respostas erradas (o guião só tinha a das certas).
-> - **Atividade:** o guião da L5 não tem atividade, por isso pus uma lista «As próximas semanas» (observar, escutar, encaminhar, rotina), com o texto da tua Aula 21. Se preferires outra, diz-me.
->
-> Obrigado!
-
-## Rodrigo (L3)
-
-> Olá Rodrigo! A L3 já está toda no site da plataforma: os 4 vídeos, a visita 3D da sala (com as tags) e o quiz. Só 2 coisas:
->
-> 1. Tens a **legenda (.vtt) da Respiração guiada**? Se não tiveres, não faz mal: pus o texto do guião como transcrição.
-> 2. **Não apagues nem desatives o espaço «Sala do Rodrigo»** no Matterport até ao fim do semestre: o site mostra-o dentro da página. Tem de ficar «Não listado».
->
-> Obrigado!
-
-## Tiago (L2)
-
-> Olá Tiago! Tinhas razão: só havia a página inicial. O site já está montado com as 5 lições, o curso, «Porquê azul?» (a sugestão da professora), Sobre nós, Contactos e 404. A L2 está completa (vídeos, legendas, visita 3D, «Complete o kit» interativo, quiz e os 3 PDFs). Quando o link estiver no ar, abre-o no telemóvel e diz-me o que não funciona: vale como primeiro teste Alfa.
-
-## Grupo (depois de publicado)
-
-> O site da plataforma está no ar: <link>. Cada um abra a sua lição no computador e no telemóvel e veja: os vídeos tocam, as legendas aparecem, a visita 3D abre, o quiz dá a explicação certa. Mandem-me o que estiver mal até sexta 20/11.
+> O site da plataforma está no ar: <link>. Cada um abra a sua lição no computador e no telemóvel e veja: os vídeos tocam, as legendas aparecem, a visita 3D abre, o quiz dá a explicação certa. Mandem-me o que estiver mal até sexta 20/11. Não apaguem nem desativem os vossos espaços Matterport até ao fim do semestre.

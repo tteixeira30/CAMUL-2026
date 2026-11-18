@@ -295,7 +295,12 @@ ${RODAPE}
 
 // ───────────────────────────── Estilo e comportamento comuns ─────────────────────────────
 const CSS_MENU = `
-.topo { display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:12px 24px; padding-block:16px; }
+.topo { display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:12px 24px; padding-block:16px; background:var(--areia); }
+body { overflow-x:clip; }
+@media (min-width:700px) { .topo { position:sticky; top:0; z-index:30; }
+  .topo::before { content:""; position:absolute; z-index:-1; top:0; bottom:0; left:calc(50% - 50vw); width:100vw; background:var(--areia); border-bottom:1px solid var(--linha); } }
+.drop .num { display:inline; font-size:inherit; }
+html { scroll-padding-top:96px; }
 .marca { display:flex; align-items:center; gap:10px; font-weight:700; color:var(--texto); text-decoration:none; font-size:19px; }
 .nav { display:flex; flex-wrap:wrap; align-items:center; gap:4px 20px; font-size:17px; }
 .nav a, .drop summary { color:var(--texto); text-decoration:none; padding:8px 0; display:inline-block; cursor:pointer; }
@@ -637,6 +642,7 @@ pagina("sobre-nos.html", "Sobre nós · Cuidar em Crise", "Os cinco estudantes d
 pagina("contactos.html", "Contactos · Cuidar em Crise", "Contactos do Grupo 1 e créditos do curso Cuidar em Crise.", "contactos", `
 <section class="intro"><h1>Contactos</h1><p>Encontrou um erro, tem uma dúvida ou quer divulgar o curso? Escreva-nos.</p></section>
 <ul class="recursos">${EMAILS.map(([n, num]) => `<li>${n} · <a href="mailto:${num}@isep.ipp.pt">${num}@isep.ipp.pt</a></li>`).join("")}</ul>
+<section class="cartao" style="display:grid;gap:8px"><h2>Privacidade</h2><p>O site não pede conta, não guarda as suas respostas (o quiz e as atividades ficam só no seu ecrã) e não usa cookies próprios. A letra vem do Google Fonts e as visitas 3D do Matterport: a visita só se liga ao Matterport quando carrega em «Entrar na visita 3D».</p></section>
 <section class="cartao" style="display:grid;gap:8px"><h2>Precisa de ajuda agora?</h2><p>Em perigo imediato, ligue <b>112</b>. Para aconselhamento de saúde, ligue para o <b>SNS 24: 808 24 24 24</b>. Este curso não substitui os profissionais de saúde.</p></section>
 <section style="display:grid;gap:8px"><h2>Créditos</h2>
 <ul style="margin:0;display:grid;gap:4px;font-size:16px">
