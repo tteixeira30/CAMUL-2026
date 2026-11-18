@@ -6,3 +6,7 @@ Files/P1/L2/*.mp4
 ~$*
 # Entrega do S8 (gerada pelo Files/P1/S8_Montar_Zip.js)
 Files/P1/Entrega_S8/
+# Plataforma da teórica: cópias dos vídeos, avatares e PDFs (gera-as o Plataforma_Montar.js)
+Files/Teoricas/Plataforma/media/
+Files/Teoricas/Plataforma/recursos/
+Files/Teoricas/Plataforma/ComposicaoVisual_Foto.webp

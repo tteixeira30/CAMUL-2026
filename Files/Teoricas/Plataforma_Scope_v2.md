@@ -1,6 +1,7 @@
 <!--
 Scope document v2 (entregas 3, 4 e 5 de qua 18/11/2026): as 3 secções novas.
 ⚠ Os objetivos, o orçamento, os canais e o calendário do plano de marketing (secção 9) são propostas sem base em dados e o grupo acha os objetivos demasiado drásticos: perguntar à professora a 18/11 qual é o objetivo do plano (ver Plataforma_Plano.md, «Perguntar à professora»).
+18/11: ecrã 8 «Porquê azul?» (sugestão da professora) acrescentado também no .docx, com a página na tabela da estrutura (secção 4) e no menu.
 Este .md é a fonte do texto; o Plataforma_Scope_v2.ps1 insere-o no .docx antes de «Referências» (uma vez só, sobre a v1).
 Depois disso o .docx edita-se no Word, como a v1. Se o texto mudar aqui, mudar também no Word.
 Formato: «#» título numerado · «##» subtítulo · «- » ponto · «| … |» tabela (1.ª linha = cabeçalho) · «![legenda](ficheiro)» imagem ·
@@ -35,9 +36,9 @@ Ao todo são 45 critérios: genéricos (G, valem para qualquer site educativo e 
 
 # Storyboard
 
-O storyboard mostra os 7 ecrãs-chave da plataforma (entrega 4). Segue a estrutura do site da secção 4 e a página inicial da composição visual: paleta (areia, texto, azul, âmbar só no botão e nos números), letra Atkinson Hyperlegible, grelha de 12 colunas. Os conteúdos são os reais do MOOC (a L2 serve de exemplo para o modelo de lição, que é igual nas 5). Os números cor-de-rosa ligam cada zona do ecrã à nota ao lado; as notas dizem o conteúdo, a interação, a transição para o ecrã seguinte, os media e as regras de composição.
+O storyboard mostra os 8 ecrãs-chave da plataforma (entrega 4). Segue a estrutura do site da secção 4 e a página inicial da composição visual: paleta (areia, texto, azul, âmbar só no botão e nos números), letra Atkinson Hyperlegible, grelha de 12 colunas. Os conteúdos são os reais do MOOC (a L2 serve de exemplo para o modelo de lição, que é igual nas 5). Os números cor-de-rosa ligam cada zona do ecrã à nota ao lado; as notas dizem o conteúdo, a interação, a transição para o ecrã seguinte, os media e as regras de composição.
 
-**Percurso típico:** link da campanha ou QR code → Início (1) → Curso (2) → Lição: vídeo (3) → visita 3D e atividade (4) → quiz com feedback (5) → lição seguinte. «Sobre nós» (6) e «Contactos» estão sempre no menu. O ecrã 7 mostra o mesmo percurso no telemóvel, que é o aparelho principal do público.
+**Percurso típico:** link da campanha ou QR code → Início (1) → Curso (2) → Lição: vídeo (3) → visita 3D e atividade (4) → quiz com feedback (5) → lição seguinte. «Sobre nós» (6), «Porquê azul?» (8) e «Contactos» estão sempre no menu. O ecrã 7 mostra o mesmo percurso no telemóvel, que é o aparelho principal do público.
 
 | Ecrã | Vem de | Leva a | Media |
 |---|---|---|---|
@@ -48,6 +49,7 @@ O storyboard mostra os 7 ecrãs-chave da plataforma (entrega 4). Segue a estrutu
 | 5 · Quiz com feedback | Fim da lição | Lição seguinte | Texto, ícones ✓ ✗ |
 | 6 · Sobre nós | Menu | Contactos, Udemy | Avatares D-ID (vídeo), texto |
 | 7 · No telemóvel | — | O mesmo percurso, numa coluna | Os mesmos, carregados só ao toque |
+| 8 · Porquê azul? | Menu, rodapé do Início | Curso; trabalho «A cor azul» (PDF) | Texto, amostras de cor, PDF |
 
 ![Ecrã 1 · Início: a página da composição visual, com o menu fixo e as 5 lições.](Capturas/Plataforma_Storyboard_1.png)
 
@@ -62,6 +64,8 @@ O storyboard mostra os 7 ecrãs-chave da plataforma (entrega 4). Segue a estrutu
 ![Ecrã 6 · Sobre nós: os 5 avatares D-ID e a ligação para a Udemy.](Capturas/Plataforma_Storyboard_6.png)
 
 ![Ecrã 7 · No telemóvel: Início, Lição e Quiz numa só coluna.](Capturas/Plataforma_Storyboard_7.png)
+
+![Ecrã 8 · Porquê azul?: o trabalho «A cor azul» das teóricas aplicado ao site (sentimentos, paleta, código de cores).](Capturas/Plataforma_Storyboard_8.png)
 
 # Plano de marketing
 
