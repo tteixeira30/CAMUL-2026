@@ -1,6 +1,6 @@
 # Plataforma: o que falta pedir ao grupo (18/11/2026)
 
-Nota de trabalho. O site está feito (`Plataforma_Montar.js` → pasta `Plataforma/`); só faltam ficheiros da L4 e da L5 e algumas confirmações. Mensagens prontas a colar no WhatsApp, uma por pessoa.
+Nota de trabalho. **Ponto da situação (18/11):** vídeos e legendas pedidos ao Ricardo e ao Evandro · explicações do quiz da L4 aprovadas pelo Bruno · L3: a Respiração guiada fica sem legenda (Rodrigo: só faz sentido a ouvir), com a transcrição do guião · falta o link do Matterport da L4 e a confirmação do Evandro (pergunta 3, atividade e explicações da L5). O site está feito (`Plataforma_Montar.js` → pasta `Plataforma/`); só faltam ficheiros da L4 e da L5 e algumas confirmações. Mensagens prontas a colar no WhatsApp, uma por pessoa.
 
 Quando os ficheiros chegarem, o Bruno guarda-os com estes nomes e corre `node Plataforma_Montar.js` na pasta `Files/Teoricas`:
 
@@ -8,7 +8,6 @@ Quando os ficheiros chegarem, o Bruno guarda-os com estes nomes e corre `node Pl
 |---|---|
 | L4 | `L4/Videos/L4_Aula16_Gancho.mp4` · `L4_Aula17_Conteudo.mp4` · `L4_Aula18_Sintese.mp4` (legendas, se houver: `Legenda_Aula16_L4.vtt`, …) |
 | L5 | `L5/Videos/L5_Aula19_Pilares.mp4` · `L5_Aula20_Visita3D.mp4` · `L5_Aula21_Regresso.mp4` · `L5_Aula22_Sintese.mp4` (legendas: `Legenda_Aula19_L5.vtt`, …) |
-| L3 | `L3/Videos/Legendas_RespiracaoGuiada.vtt` (opcional) |
 | L4 | Link do Matterport: em `Plataforma_Montar.js`, na L4, `visita: { m: "…" }` (o código depois de `?m=`) |
 
 ---

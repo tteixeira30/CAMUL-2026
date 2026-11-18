@@ -109,7 +109,7 @@ const LICOES = [
   aulas: [
     ["Quando a pessoa entra em pânico", "0:35", "P1/L3/Videos/Gancho.mp4", "P1/L3/Videos/Legendas_Gancho.vtt"],
     ["Certo vs errado: o que fazer", "4:56", "P1/L3/Videos/VideoCertoVsErrado.mp4", "P1/L3/Videos/Legendas_CertoVsErrado.vtt"],
-    ["Acalmar-se para acalmar: respiração guiada", "1:53", "P1/L3/Videos/RespiracaoGuiada.mp4", "P1/L3/Videos/Legendas_RespiracaoGuiada.vtt",
+    ["Acalmar-se para acalmar: respiração guiada", "1:53", "P1/L3/Videos/RespiracaoGuiada.mp4", "", // sem legenda (Rodrigo, 18/11: só faz sentido a ouvir); fica a transcrição
       "Esta pausa é para si. Antes de acalmar a pessoa de quem cuida, acalme-se. Demora dez segundos. Se puder, sente-se ou apoie-se numa parede. Deixe os ombros caírem. Vamos respirar juntos. Inspire pelo nariz, devagar, contando até quatro: um, dois, três, quatro. Agora expire pela boca, mais devagar, contando até seis: um, dois, três, quatro, cinco, seis. Outra vez… Mais uma… Repare como está o seu corpo: os ombros, as mãos, a voz. Quando a sua voz estiver mais baixa e o seu passo mais lento, a pessoa vai sentir. É por aqui que começa o primeiro contacto. Repita este ciclo as vezes que precisar. Quando estiver pronto, abra os olhos e volte à situação. Primeiro, acalme-se."],
     ["Síntese e próximo passo", "0:38", "P1/L3/Videos/Sintese.mp4", "P1/L3/Videos/Legendas_Sintese.vtt"],
   ],
@@ -243,6 +243,7 @@ const EMAILS = [["Bruno Lopes", "1240441"], ["Tiago Teixeira", "1240493"], ["Rod
 const esc = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 const existe = rel => fs.existsSync(path.join(RAIZ, rel));
 function copiar(rel, destino) {             // devolve o caminho publicado, ou "" se o ficheiro ainda não existe
+  if (!rel) return "";
   const de = path.join(RAIZ, rel), para = path.join(SAI, destino);
   if (!fs.existsSync(de)) { falta.push(rel); return ""; }
   fs.mkdirSync(path.dirname(para), { recursive: true });
@@ -251,7 +252,7 @@ function copiar(rel, destino) {             // devolve o caminho publicado, ou "
   return destino;
 }
 function transcricao(rel) {                // texto das legendas, sem tempos, para quem não pode ouvir
-  if (!existe(rel)) return "";
+  if (!rel || !existe(rel)) return "";
   return fs.readFileSync(path.join(RAIZ, rel), "utf8").replace(/\r/g, "").split("\n\n")
     .map(b => b.split("\n").filter(l => l && !l.includes("-->") && !/^\d+$/.test(l) && !/^(WEBVTT|NOTE)/.test(l)).join(" "))
     .filter(Boolean).map(t => `<p>${esc(t.replace(/<[^>]+>/g, ""))}</p>`).join("");
