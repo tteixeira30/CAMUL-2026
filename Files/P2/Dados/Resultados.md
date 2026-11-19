@@ -34,3 +34,7 @@ Gerado por `Analise.js` a 19/11/2026. Não editar à mão: correr o script outra
 ## Preferência (F1)
 
 - A visita interativa: 10 · As duas: 10
+
+## Concordância entre codificadores
+
+- Codificação por acabar: faltam 36 categorias no ficheiro do Bruno e 36 no do Tiago (de 36 unidades).

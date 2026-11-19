@@ -224,6 +224,11 @@ function codificacao(r, pastaDados, L) {
   const [a, b] = [fa, fb].map(f => lerCsv(fs.readFileSync(f, 'utf8')).slice(1));
   if (a.length !== b.length || a.some((l, i) => l[3] !== b[i][3])) throw new Error('Os dois ficheiros de codificação não têm as mesmas unidades pela mesma ordem.');
   const ca = a.map(l => (l[4] || '').trim()), cb = b.map(l => (l[4] || '').trim());
+  const vazias = [ca, cb].map(c => c.filter(x => !x).length);
+  if (vazias[0] || vazias[1]) {
+    L.push('', '## Concordância entre codificadores', '', `- Codificação por acabar: faltam ${vazias[0]} categorias no ficheiro do Bruno e ${vazias[1]} no do Tiago (de ${ca.length} unidades).`);
+    return;
+  }
   const mas = [...ca, ...cb].filter(c => !CATEGORIAS.includes(c));
   if (mas.length) throw new Error(`Categorias fora da lista: ${[...new Set(mas)].join(', ')}`);
   const { po, k } = kappa(ca, cb);
