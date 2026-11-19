@@ -37,7 +37,8 @@ Decidido a 19/11: a entrega final passa para **qua 02/12** e os testes Beta, nos
 
 - **FR3 (HTTPS):** o Netlify serve tudo em HTTPS → a verificação que faltava passa (3/4 → 4/4).
 - **UR2 (LCP, Lighthouse 12, modo telemóvel, `licao-2.html`, Edge):** 3,16 · 2,96 · 2,81 s → média **2,97 s** (desempenho 0,85–0,90). Fica na fronteira dos níveis «2–2,9 s» (75) e «3–5,9 s» (50): no Alfa, local, eram 2,7 s.
-- Ainda não atualizado no `Plataforma_QEF_Atual_Grupo1.xlsx` (decidir o nível do UR2 e registar na folha «Notas»). Falta a UR4 (Chrome, Firefox, telemóvel).
+- **UR4:** Edge (Alfa), Chrome (18/11), Firefox e telemóvel (o grupo, 19/11): todas as tarefas e atividades funcionaram → 4/4.
+- **No `Plataforma_QEF_Atual_Grupo1.xlsx` (19/11):** FR3 75 → 100 · UR2 fica a 75 (abaixo de 3 s, decisão do grupo) · UR4 25 → 100 → **q = 0,89** (Funcionalidade 87,0 · Usabilidade 92,8 · Estética 88,2); registado na folha «Notas» (linhas 36, 37 e 39). O que ainda falta: a visita 3D da L4 (espaço por publicar) e as legendas da L4 e da L5 (FL1, FM1, FM2, UA2).
 - Scope document (19/11, por Word COM): entrega final e Beta a 02/12 (na aula), aula de 25/11 de desenvolvimento, link do site e estas medições. Gantt com a semana de 30/11 (vídeos e páginas das lições «Em curso» até 25/11; correções, publicação final e Scope v3 até 2/12; Beta a 2/12); entregáveis com 2/12; marketing adiado uma semana (lançamento a 2/12; vídeos curtos 2–22/12; emails 3–11/12; folhetos 8–22/12; medir 23–31/12).
 
 ## O site (18/11)
