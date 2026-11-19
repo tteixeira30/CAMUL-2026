@@ -1,6 +1,6 @@
 # P2 — Plano do artigo (Grupo 1)
 
-Nota de trabalho (10/11/2026, atualizada a 16/11). Fontes: `CAMUL2025_2026_P2_UK.pdf` (enunciado), `CAMUL_2025_2026_Guidelines.pdf`, `2nd Project - Paper Submission.txt` (Moodle) e `conference-template-a4.docx` (modelo IEEE A4).
+Nota de trabalho (10/11/2026, atualizada a 19/11: questionário fechado com 20 respostas, secção 3 escrita). Fontes: `CAMUL2025_2026_P2_UK.pdf` (enunciado), `CAMUL_2025_2026_Guidelines.pdf`, `2nd Project - Paper Submission.txt` (Moodle) e `conference-template-a4.docx` (modelo IEEE A4).
 
 **Duas entregas no Moodle (16/11):** **qua 18/11, 20:00 · entrega intermédia** (*Interim Submission*: só as secções 1 e 2) · **ter 24/11, 20:00 · entrega final** (.zip) e apresentação na PL. O enunciado é o de 2025/26 (exemplo da energia renovável, 4 por equipa); nós somos 5, como no P1.
 
@@ -63,7 +63,7 @@ Nota de trabalho (10/11/2026, atualizada a 16/11). Fontes: `CAMUL2025_2026_P2_UK
 
 - **Ferramenta:** Google Forms, em **português** (o artigo explica que foi aplicado em português).
 - **Público:** colegas da UC e de outros cursos, familiares e, se possível, cuidadores. Anónimo, maiores de 18, sem dados pessoais, consentimento na 1.ª página. Nunca envolver pessoas com demência.
-- **Meta:** **≥ 25 respostas** (cada membro traz pelo menos 5); **a professora pede no mínimo 20** (17/11). Ponto da situação: 8 respostas a 16/11 (todas do Bruno e do Tiago; mensagem ao grupo) · **13 respostas a ter 17/11 → faltam 7**. Mínimo para o teste de Wilcoxon: 20 respostas válidas; abaixo disso fica só a estatística descritiva (já previsto na 2.5).
+- **Meta:** **≥ 25 respostas** (cada membro traz pelo menos 5); **a professora pede no mínimo 20** (17/11). Ponto da situação: 8 respostas a 16/11 (todas do Bruno e do Tiago; mensagem ao grupo) · 13 respostas a ter 17/11 · **fechado a qui 19/11 com 20 respostas** (todas aceitaram; 18 viram o vídeo até ao fim) → `Dados/Respostas.csv`. Mínimo para o teste de Wilcoxon: 20 respostas válidas; abaixo disso fica só a estatística descritiva (já previsto na 2.5).
 - **Duração:** ≈ 8–10 min.
 - **Espaço:** «Casa D. Rosa» (o da L1 e da L2, com as tags das duas). Espaço ativo (confirmado a 10/11).
 
@@ -122,7 +122,7 @@ CAMUL2627_P2_G1_1240441_1240493_1221391_1220901_1200929.zip
 ├── P2_Apresentacao_Grupo1.pptx
 └── Figuras/
     ├── Figura1.png … Figura6.png
-    └── Tabela1.png … Tabela3.png
+    └── Tabela1.png, Tabela2.png
 ```
 
 | Ficheiro | Conteúdo | Origem | Secção |
@@ -135,7 +135,7 @@ CAMUL2627_P2_G1_1240441_1240493_1221391_1220901_1200929.zip
 | Figura6 | Distribuição do SUS | Questionário | 3 |
 | Tabela1 | As 5 lições: espaço, tags, duração da visita, tempo de captura, problemas | D1 + D2 | 2.3 (fechada a 16/11) |
 | Tabela2 | Problemas dos testes → correções | D3 | 3 |
-| Tabela3 | Resultados do questionário (média, mediana, p) | D5 | 3 |
+| ~~Tabela3~~ | ~~Resultados do questionário~~ | D5 | Saiu a 19/11: os valores estão no texto da secção 3 e na Fig. 5 (falta de espaço) |
 
 São 9 elementos para 6 páginas (a antiga Figura4, a tag aberta, saiu a 17/11: a Figura4 já mostra uma tag aberta): as imagens ocupam uma coluna (≈ 8,5 cm de largura) e o texto desce para ≈ 3500 palavras. Se não couber, a Figura1 junta-se à Figura2 ou a Tabela3 passa para o texto. A numeração refaz-se sempre que uma figura sai ou muda de sítio.
 
@@ -215,8 +215,8 @@ Coincide com as entregas da plataforma da teórica (draft + Gantt e estrutura 11
 | seg 16/11 | Ficha da L4 recebida do Ricardo (`P2_FichaMatterport_L4.txt`) · **questionário: 8 respostas** (Bruno e Tiago) → mensagem ao grupo: o Rodrigo, o Ricardo e o Evandro trazem ≥ 5 cada até qui 19/11 | ◐ |
 | ter 17/11 | O grupo revê as secções 1 e 2 (cada um a sua parte, ver §9) · confirmar a Tabela I e o artigo regenerados com a ficha da L4 | ☐ |
 | **qua 18/11** | **Entrega intermédia até às 20:00:** `P2_Artigo_Grupo1.pdf` (secções 1 e 2) · lembrete do questionário a quem ainda não respondeu | ☐ |
-| qui 19/11 | **Fechar o questionário** (se à noite houver < 20 respostas, fica aberto até sex 20/11 às 12:00 e a análise passa para a tarde de sexta; nesse caso mudar «12 to 19 November» na 2.4 do artigo) · Sheets → Ficheiro → Transferir → CSV → `Dados/Respostas.csv` · `node Analise.js Dados/Respostas.csv` → `Dados/Resultados.md`, Figura6, Figura7 e `Dados/Codificacao_Modelo.csv` (o Rodrigo divide em unidades, copia para `Codificacao_Rodrigo.csv` e `Codificacao_Ricardo.csv`, cada um preenche a coluna «categoria» sozinho; correr o script outra vez dá a % de concordância e o kappa) | ☐ |
-| 19–20/11 | SUS, Wilcoxon, análise temática (2 codificadores) · Figuras 5–6, Tabela3 · secção 3 (Bruno) | ☐ |
+| qui 19/11 | ✅ Feito a 19/11: 20 respostas, CSV em `Dados/Respostas.csv`, `Dados/Resultados.md`, Figuras 5 e 6 (pontos do SUS de 2,5 em 2,5), `Dados/Codificacao_Modelo.csv` (27 respostas abertas). Plano original: **Fechar o questionário** (se à noite houver < 20 respostas, fica aberto até sex 20/11 às 12:00 e a análise passa para a tarde de sexta; nesse caso mudar «12 to 19 November» na 2.4 do artigo) · Sheets → Ficheiro → Transferir → CSV → `Dados/Respostas.csv` · `node Analise.js Dados/Respostas.csv` → `Dados/Resultados.md`, Figura6, Figura7 e `Dados/Codificacao_Modelo.csv` (o Rodrigo divide em unidades, copia para `Codificacao_Rodrigo.csv` e `Codificacao_Ricardo.csv`, cada um preenche a coluna «categoria» sozinho; correr o script outra vez dá a % de concordância e o kappa) | ☐ |
+| 19–20/11 | SUS, Wilcoxon, análise temática (2 codificadores) · Figuras 5–6 · secção 3 (Bruno). **Feito a 19/11, menos a codificação:** secção 3 escrita (RQ1, RQ2 com Fig. 5–6, RQ3 com a Tabela II), resumo com os resultados; PDF com 6 páginas e ≈ 0,8 página livre (2.ª coluna da pág. 5 e pág. 6) para as secções 4–6 (≈ 670 palavras). **Falta: Rodrigo e Ricardo codificam** (`Codificacao_Rodrigo.csv`, `Codificacao_Ricardo.csv`) → `node Analise.js Dados/Respostas.csv` → % e kappa no lugar do «[Agreement…]» da secção 3 | ◐ |
 | sáb 21/11 | Secções 4 (Ricardo), 5 (Evandro) e 6 (Rodrigo), em inglês, no `P2_Artigo.md` ou no grupo · abstract · cortar até caber em 6 páginas | ☐ |
 | dom 22/11 | Revisão cruzada (cada um a sua secção) · confirmar as referências · apresentação (≈ 10 diapositivos, 2 min por pessoa) | ☐ |
 | seg 23/11 | Versão final: Word + PDF, pasta `Figuras/` (Figura1… e Tabela1…), .pptx · montar o .zip · ensaiar com o cronómetro | ☐ |

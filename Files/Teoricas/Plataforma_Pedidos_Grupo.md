@@ -24,6 +24,6 @@ Os MP4 têm de ter menos de 100 MB cada (limite do GitHub, como os outros vídeo
   - atividade «As próximas semanas» (observar, escutar, encaminhar, rotina), com o texto da Aula 21: o guião não tinha atividade.
 - O espaço «Sala do Rodrigo» (L3) e a «Casa D. Rosa» (L1, L2) ficam ativos e «Não listados» até ao fim do semestre: o site mostra-os dentro da página.
 
-## Mensagem ao grupo (depois de publicado)
+## Mensagem ao grupo (site publicado a 19/11)
 
-> O site da plataforma está no ar: <link>. Cada um abra a sua lição no computador e no telemóvel e veja: os vídeos tocam, as legendas aparecem, a visita 3D abre, o quiz dá a explicação certa. Mandem-me o que estiver mal até sexta 20/11. Não apaguem nem desativem os vossos espaços Matterport até ao fim do semestre.
+> O site da plataforma está no ar: https://soft-licorice-ef7571.netlify.app/ . Cada um abra a sua lição no computador e no telemóvel e veja: os vídeos tocam, as legendas aparecem, a visita 3D abre, o quiz dá a explicação certa. Mandem-me o que estiver mal até sexta 20/11. Não apaguem nem desativem os vossos espaços Matterport até ao fim do semestre. A entrega final passou para 02/12; na aula de 25/11 o Grupo 2 faz o Beta da nossa plataforma e nós o da deles.

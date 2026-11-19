@@ -4,7 +4,7 @@ Formato: um parágrafo por linha · «%» título · «@» autor (4 linhas separ
 «###» Heading 3 · «![legenda](ficheiro)» figura (a numeração «Fig. n.» é automática) · «[TABLE: título | texto]» tabela por fazer ·
 «# References» e depois uma referência por linha (a numeração [n] é automática: a ordem tem de ser a da 1.ª citação no texto).
 
-Estado (17/11): secções 1 e 2 prontas para a entrega intermédia de qua 18/11 (resumo provisório, sem resultados); 3–6 depois do questionário (19/11), para a entrega final de ter 24/11.
+Estado (19/11): secções 1 e 2 entregues a 18/11; secção 3 (Results) escrita a 19/11 com as 20 respostas (`Dados/Resultados.md`), falta a concordância dos dois codificadores; 4 (Ricardo), 5 (Evandro) e 6 (Rodrigo) até sáb 21/11. A Tabela III saiu (os valores estão no texto e na Fig. 5), para caber em 6 páginas.
 «![TABLE](ficheiro)» insere a tabela já exportada (a imagem traz o «TABLE n»), sem legenda «Fig.» · «{wide}» no fim de uma figura ou tabela → ocupa as duas colunas (quebras de secção contínuas).
 
 A rever antes da versão final:
@@ -23,7 +23,7 @@ A rever antes da versão final:
 @ Rodrigo Silva | Instituto Superior de Engenharia do Porto (ISEP) | Porto, Portugal | 1221391@isep.ipp.pt
 @ Ricardo Ferreira | Instituto Superior de Engenharia do Porto (ISEP) | Porto, Portugal | 1220901@isep.ipp.pt
 @ Evandro Carvalho | Instituto Superior de Engenharia do Porto (ISEP) | Porto, Portugal | 1200929@isep.ipp.pt
-Abstract—Crises such as fires, floods or forced displacement disrupt the routines of people with dementia and overload the relatives who care for them. A team of five students built a free course in European Portuguese on psychological first aid for these caregivers and published it on Udemy, with five lessons and 41 minutes of video. Each lesson includes a Matterport tour; in four lessons it shows a home captured by the students, with tags for the person with dementia and for the caregiver. As the platform does not accept embedded content, each tour entered the course as a recorded walkthrough in the lesson video and as an optional link to the interactive tour. This exploratory case study, framed as design-based research, describes the capture and integration workflow and the changes that followed alpha and beta testing, and compares the recorded walkthrough with the interactive tour through a questionnaire that includes the System Usability Scale. [Results to be added after the questionnaire closes on 19 November.]
+Abstract—Crises such as fires, floods or forced displacement disrupt the routines of people with dementia and overload the relatives who care for them. A team of five students built a free course in European Portuguese on psychological first aid for these caregivers and published it on Udemy, with five lessons and 41 minutes of video. Each lesson includes a Matterport tour; in four lessons it shows a home captured by the students, with tags for the person with dementia and for the caregiver. As the platform does not accept embedded content, each tour entered the course as a recorded walkthrough in the lesson video and as an optional link to the interactive tour. This exploratory case study, framed as design-based research, describes the capture and integration workflow and the changes that followed alpha and beta testing, and compares the recorded walkthrough with the interactive tour through a questionnaire that includes the System Usability Scale. Twenty users gave the interactive tour a mean System Usability Scale score of 77.3, and 75% found three named tags in it; they rated the interactive tour equal to or higher than the walkthrough, and none preferred the video alone.
 Keywords—Matterport, virtual tours, massive open online courses, dementia caregivers, psychological first aid, usability
 
 # Introduction
@@ -104,7 +104,29 @@ SUS scores were computed on the usual 0–100 scale and are reported as mean and
 
 # Results
 
-[To be written after the questionnaire closes on 19 November: RQ1 (Table I, effort per iteration), RQ2 (Fig. 5, Fig. 6, Table III), RQ3 (Table II).]
+## Development (RQ1)
+
+Capturing a space took between about 10 and 45 minutes and adding the tags between 5 and 30 minutes (authors’ estimates, Table I). The whole workflow used free tools: the free Matterport plan, PowerPoint for the videos and a free Udemy course. The constraints came from the plan and the devices: one active space per account, no new upload to fix a missing capture point (L1), fewer capture points and poorer coverage with phones without LiDAR (L3, L4), and public Discover spaces that cannot be edited (L5). Of the 79 commits on the course, 21 fell in the prototype iteration and 31 in the final one, against 6 to 14 in the others: most captures and all webcam re-recordings happened in the last week, after the teacher’s feedback in the seventh.
+
+## Perception (RQ2)
+
+Twenty people answered the questionnaire, 12 on a phone and 8 on a computer; 12 were 25 to 34 years old, 5 had been caregivers and 9 had never used a 3D tour. The 18 of them who watched the whole video rated the interactive tour equal to or higher than the walkthrough on all four statements (Fig. 5). Only “it held my attention” differed significantly (median 4 vs. 4.5; p = .048, r = .89), and only 5 respondents changed that rating; for the other statements, p ≥ .30. No respondent preferred the video alone: 10 chose the interactive tour and 10 both formats.
+
+![Ratings of the recorded walkthrough (Video) and of the interactive tour of the same space on four statements (N = 18 who watched the whole video; share of respondents, centred on the neutral answer; Mdn = median).](Figuras/Figura5.png)
+
+The interactive tour reached a mean SUS score of 77.3 (SD 13.9; median 80; range 47.5–100), and 15 of the 20 scores were above the reference average of 68 (Fig. 6). The mean was 79.1 on a computer and 76.0 on a phone.
+
+![SUS scores of the interactive tour, one dot per respondent (N = 20); the dashed line marks the reference average of 68.](Figuras/Figura6.png)
+
+Fifteen respondents (75%) found the three tags: 7 of 8 on a computer and 8 of 12 on a phone. Eleven needed less than 2 minutes, 8 between 2 and 5, and one more than 5 minutes or stopped. To reach them, 16 walked through the home, 12 used the dollhouse view or the floor plan and 3 the search menu (more than one answer allowed).
+
+In the open answers, what helped most was the interactive tour and the freedom to explore, followed by the narration of the video and the dollhouse view. The hardest part was moving between rooms in the interactive tour without the dollhouse view (5 answers), followed by keeping attention on the video (3); 4 respondents found nothing difficult. [Agreement between the two coders (percentage and kappa) to be added after the coding.]
+
+## Iteration (RQ3)
+
+The alpha and beta tests raised 11 problems (Table II). Three concerned the Matterport tours: a public space with no tags of our own, in which a tester found no tags; a walkthrough almost without narration; and a link that could look mandatory. Six concerned audio and video. The three most severe came from the beta test and the teacher and changed every lesson: each author captured a space with tags inside it, the lessons grew to about 8 minutes of video, and the narration was re-recorded with the webcam on. Nine problems were solved in every lesson they affected and two in part: L5 kept the Discover space, and L4 and L5 have no captions.
+
+![TABLE](Figuras/Tabela2.png){wide}
 
 # Discussion
 

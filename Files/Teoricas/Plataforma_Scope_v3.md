@@ -99,8 +99,8 @@ Os testes medem a plataforma com o cenário de qualidade da secção 7. Cada tes
 | Teste | Alfa | Beta |
 |---|---|---|
 | Quem testa | Os 5 elementos do grupo | O Grupo 2 (equipa adversária) |
-| Quando | 18/11/2026 (1.ª métrica) | 25/11/2026, na apresentação da plataforma |
-| O quê | O site gerado a 18/11, num servidor local (ainda não publicado) | O site publicado no Netlify |
+| Quando | 18/11/2026 (1.ª métrica) | 25/11/2026, na aula (o Grupo 2 testa a nossa plataforma e nós a deles) |
+| O quê | O site gerado a 18/11, num servidor local (ainda não publicado) | O site publicado no Netlify (soft-licorice-ef7571.netlify.app) |
 | Como | Medições com instrumentos (todos os critérios) + teste com utilizadores (5 critérios) + verificações à mão | Teste com utilizadores e inquérito, com as mesmas tarefas e perguntas do Alfa |
 | Resultado | 1.ª métrica (Plataforma_QEF_Metrica1_Grupo1.xlsx) e lista de correções | Registado no dia da apresentação; não entra neste documento |
 
@@ -214,6 +214,6 @@ Valor medido e nível de cada critério (como foi medido: coluna M da folha «QE
 - Títulos H3 do mesmo tamanho do texto e «Nesta lição» a 20 px (EC2).
 - Número da lição em âmbar sobre a areia, 4,28:1 (EL1, UA5).
 - Linhas de texto com mais de 75 caracteres (EU3) e 20 cores fora da paleta (EU2).
-- HTTPS (FR3), desempenho no site real (UR2) e Chrome, Firefox e telemóvel (UR4): medir quando o site estiver no Netlify.
+- HTTPS (FR3), desempenho no site real (UR2) e Chrome, Firefox e telemóvel (UR4): medir no site publicado (19/11: HTTPS confirmado; LCP médio 2,97 s em 3 medições).
 
 **Limitações:** os testadores são os 5 elementos do grupo, que conhecem o site e o curso (daí os tempos de 2 a 6 s); o site foi medido num servidor local, antes de ser publicado. O teste Beta, com o Grupo 2, mede a plataforma com pessoas que nunca a viram.

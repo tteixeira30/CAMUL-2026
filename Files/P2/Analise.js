@@ -176,7 +176,7 @@ function figura6(pares) {
 }
 
 function figura7(s) {
-  const W = 800, H = 300, X0 = 40, X1 = 770, base = 230, r = 7, bin = 5;
+  const W = 800, H = 300, X0 = 40, X1 = 770, base = 230, r = 7, bin = 2.5;
   const X = v => X0 + (v / 100) * (X1 - X0);
   let svg = '';
   for (let v = 0; v <= 100; v += 10) svg += `<line x1="${X(v)}" y1="${base}" x2="${X(v)}" y2="${base + 5}" stroke="#5B6472"/><text x="${X(v)}" y="${base + 22}" class="t" text-anchor="middle">${v}</text>`;
