@@ -35,6 +35,10 @@ Gerado por `Analise.js` a 19/11/2026. Não editar à mão: correr o script outra
 
 - A visita interativa: 10 · As duas: 10
 
-## Concordância entre codificadores
+## Concordância entre codificadores (Bruno vs. Tiago)
 
-- Codificação por acabar: faltam 36 categorias no ficheiro do Bruno e 36 no do Tiago (de 36 unidades).
+- Unidades: 22 · concordância **95,5 %** · kappa de Cohen 0,93
+- Por categoria (Bruno): Navegação 5 · Encontrar tags 2 · Compreensão do espaço 0 · Desempenho e dispositivo 1 · Áudio e vídeo 11 · Avaliação 2 · Outro 1
+
+**Discordâncias (resolver a dois):**
+- T9 «A ligação para a visita podia parecer obrigatória»: Avaliação / Outro

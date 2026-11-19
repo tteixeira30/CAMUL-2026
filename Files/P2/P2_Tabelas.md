@@ -25,22 +25,22 @@ Notas para o texto (não entram na tabela):
 
 ## TABLE II — Problems found in testing and design changes
 
-Testes do S7 (03/11/2026, PL): Alfa = cada autor testou a sua lição (L1: 7 tarefas, 7 funcionais); Beta = alunos de outros grupos testaram o curso (5 registos sobre a L1 e o curso) + comentários da professora. Os testadores não se identificam no artigo. A coluna «Category» usa as categorias fixas da análise temática (plano, §5): é uma proposta, os dois codificadores confirmam.
+Testes do S7 (03/11/2026, PL): Alfa = cada autor testou a sua lição (L1: 7 tarefas, 7 funcionais); Beta = alunos de outros grupos testaram o curso (5 registos sobre a L1 e o curso) + comentários da professora. Os testadores não se identificam no artigo. A coluna «Category» é a codificação final (19/11, Bruno e Tiago, 95,5 %, kappa 0,93; a discordância no 9 ficou «Assessment»). O problema 5 deu duas unidades, ambas «Audio and video».
 
 | # | Problem | Source | Lessons | Category | Severity | Design change | Status (10 Nov) |
 |---|---|---|---|---|---|---|---|
 | 1 | The tour was a public space with no tags of our own; a tester could not find any tags | Beta, teacher | All | Finding tags | High | Each lesson captured its own space, with tags inside Matterport | Done in L1–L4; L5 kept the fallback |
 | 2 | About 4–5 min of video per lesson (only video counts; Udemy needs ≥ 30 min to publish a free course) | Beta, teacher | All | Audio and video | High | Lessons extended to about 8 min of video (41 min in total); tour walkthroughs grew longer | Done |
 | 3 | No team member appears in the videos | Beta, teacher | All | Audio and video | High | Voice re-recorded with the webcam on, same corner in all lessons; webcam off or away from tag balloons during the tour | Done |
-| 4 | Tour segment almost without narration | Alpha | L1 | Understanding the space | Low | The explanation moved into the tags; each balloon stays open while the camera stops | Done |
+| 4 | Tour segment almost without narration | Alpha | L1 | Audio and video | Low | The explanation moved into the tags; each balloon stays open while the camera stops | Done |
 | 5 | Microphone pop at the start; voice level different between lessons | Alpha | L1, L3 | Audio and video | Medium | Voice re-recorded, 1 s of silence before speaking | Done |
 | 6 | Background music too loud, voice muffled | Beta, Alpha | L1, L3, L5 | Audio and video | Medium | Music lowered (L1: from 15 % to 4 %), voice re-recorded | Done |
 | 7 | Automatic captions differ from the narration, or no captions | Alpha | L1, L3, L4, L5 | Audio and video | Low | Portuguese captions written from the script | Done in L1–L3; L4 and L5 without captions |
 | 8 | The correct quiz answer is always the longest, or in a predictable position | Beta, Alpha | L1, L2 | Assessment | Medium | Options rewritten; correct answers in varied positions | Done |
-| 9 | Link to the tour could look mandatory | Alpha | L2 | Navigation | Low | Labelled «3D tour (optional)»; no quiz depends on it | Done |
-| 10 | Downloadable PDFs showed internal file names to learners | Alpha | L2 | Navigation | Low | Files renamed for learners | Done |
+| 9 | Link to the tour could look mandatory | Alpha | L2 | Assessment | Low | Labelled «3D tour (optional)»; no quiz depends on it | Done |
+| 10 | Downloadable PDFs showed internal file names to learners | Alpha | L2 | Other | Low | Files renamed for learners | Done |
 | 11 | Videos without narration at test time | Alpha | L4 | Audio and video | High | Videos reorganised and narrated | Done |
 
 **O que funcionou (Beta), para o texto:** a navegação e a ordem das aulas; o feedback do teste em todas as opções; o artigo da atividade da L1 («muito rico em recursos complementares»).
 
-**Contas para a RQ3:** 11 problemas; 3 sobre o Matterport (1, 4, 9), 6 sobre áudio e vídeo (2, 3, 5, 6, 7, 11); 9 feitos em todas as lições a que se aplicavam, 2 em parte (1, 7).
+**Contas para a RQ3:** 11 problemas; 3 sobre o Matterport (1, 4, 9), 7 sobre áudio e vídeo (2, 3, 4, 5, 6, 7, 11; 8 unidades, porque o 5 deu duas), 2 avaliação (8, 9), 1 encontrar tags (1), 1 outro (10); 9 feitos em todas as lições a que se aplicavam, 2 em parte (1, 7).

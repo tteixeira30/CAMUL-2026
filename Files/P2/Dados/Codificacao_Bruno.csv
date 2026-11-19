@@ -1,23 +1,23 @@
 ﻿id;pergunta;resposta;unidade;categoria
-R2;F3;Interação porque vi pelo telemóvel. Estava movendo-me pela sala e queria ir para a entrada, movendo-me livremente e não estava a conseguir sair da sala. Tive que utilizar a vista da casa por cima para conseguir sair da sala;Interação porque vi pelo telemóvel;
-R2;F3;Interação porque vi pelo telemóvel. Estava movendo-me pela sala e queria ir para a entrada, movendo-me livremente e não estava a conseguir sair da sala. Tive que utilizar a vista da casa por cima para conseguir sair da sala;"Estava a mover-me pela sala e queria ir para a entrada, mas não conseguia sair da sala; tive de usar a vista da casa por cima para sair";
-R5;F3;A visita 3D nem sempre andava para onde queria com consistencia;A visita 3D nem sempre andava para onde queria com consistência;
-R6;F3;Aprender a navegar;Aprender a navegar;
-R8;F3;Manter a atenção ao video;Manter a atenção ao vídeo;
-R11;F3;Encontrar os kits;Encontrar os kits;
-R12;F3;Ter atenção ao video;Ter atenção ao vídeo;
-R14;F3;Trocar de divisão sem o auxilio da vista aérea;Trocar de divisão sem o auxílio da vista aérea;
-R16;F3;O vídeo;O vídeo;
-R19;F3;Aceder aos espaços que queria;Aceder aos espaços que queria;
-T1;D3;Tabela II, 1;"A visita era um espaço público sem tags nossas; um testador não encontrou nenhuma tag";
-T2;D3;Tabela II, 2;"Só ≈ 4–5 min de vídeo por lição (só o vídeo conta; a Udemy exige ≥ 30 min)";
-T3;D3;Tabela II, 3;Nenhum elemento do grupo aparece nos vídeos;
-T4;D3;Tabela II, 4;O excerto da visita quase sem narração;
-T5;D3;Tabela II, 5;Estalo do microfone no início;
-T5;D3;Tabela II, 5;Volume da voz diferente entre lições;
-T6;D3;Tabela II, 6;Música de fundo alta, voz abafada;
-T7;D3;Tabela II, 7;Legendas automáticas diferentes da narração, ou sem legendas;
-T8;D3;Tabela II, 8;A resposta certa do quiz é sempre a mais longa, ou está numa posição previsível;
-T9;D3;Tabela II, 9;A ligação para a visita podia parecer obrigatória;
-T10;D3;Tabela II, 10;Os PDFs descarregados mostravam nomes de ficheiros internos;
-T11;D3;Tabela II, 11;Vídeos sem narração no dia do teste;
+R2;F3;Interação porque vi pelo telemóvel. Estava movendo-me pela sala e queria ir para a entrada, movendo-me livremente e não estava a conseguir sair da sala. Tive que utilizar a vista da casa por cima para conseguir sair da sala;Interação porque vi pelo telemóvel;Desempenho e dispositivo
+R2;F3;Interação porque vi pelo telemóvel. Estava movendo-me pela sala e queria ir para a entrada, movendo-me livremente e não estava a conseguir sair da sala. Tive que utilizar a vista da casa por cima para conseguir sair da sala;"Estava a mover-me pela sala e queria ir para a entrada, mas não conseguia sair da sala; tive de usar a vista da casa por cima para sair";Navegação
+R5;F3;A visita 3D nem sempre andava para onde queria com consistencia;A visita 3D nem sempre andava para onde queria com consistência;Navegação
+R6;F3;Aprender a navegar;Aprender a navegar;Navegação
+R8;F3;Manter a atenção ao video;Manter a atenção ao vídeo;Áudio e vídeo
+R11;F3;Encontrar os kits;Encontrar os kits;Encontrar tags
+R12;F3;Ter atenção ao video;Ter atenção ao vídeo;Áudio e vídeo
+R14;F3;Trocar de divisão sem o auxilio da vista aérea;Trocar de divisão sem o auxílio da vista aérea;Navegação
+R16;F3;O vídeo;O vídeo;Áudio e vídeo
+R19;F3;Aceder aos espaços que queria;Aceder aos espaços que queria;Navegação
+T1;D3;Tabela II, 1;"A visita era um espaço público sem tags nossas; um testador não encontrou nenhuma tag";Encontrar tags
+T2;D3;Tabela II, 2;"Só ≈ 4–5 min de vídeo por lição (só o vídeo conta; a Udemy exige ≥ 30 min)";Áudio e vídeo
+T3;D3;Tabela II, 3;Nenhum elemento do grupo aparece nos vídeos;Áudio e vídeo
+T4;D3;Tabela II, 4;O excerto da visita quase sem narração;Áudio e vídeo
+T5;D3;Tabela II, 5;Estalo do microfone no início;Áudio e vídeo
+T5;D3;Tabela II, 5;Volume da voz diferente entre lições;Áudio e vídeo
+T6;D3;Tabela II, 6;Música de fundo alta, voz abafada;Áudio e vídeo
+T7;D3;Tabela II, 7;Legendas automáticas diferentes da narração, ou sem legendas;Áudio e vídeo
+T8;D3;Tabela II, 8;A resposta certa do quiz é sempre a mais longa, ou está numa posição previsível;Avaliação
+T9;D3;Tabela II, 9;A ligação para a visita podia parecer obrigatória;Avaliação
+T10;D3;Tabela II, 10;Os PDFs descarregados mostravam nomes de ficheiros internos;Outro
+T11;D3;Tabela II, 11;Vídeos sem narração no dia do teste;Áudio e vídeo
