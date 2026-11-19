@@ -3,8 +3,8 @@
 //   node Analise.js --teste               verifica as contas e corre tudo com 26 respostas INVENTADAS (saída numa pasta temporária)
 //   node Analise.js Dados/Respostas.csv   respostas reais (Google Sheets → Ficheiro → Transferir → CSV)
 // Saídas reais: Dados/Resultados.md · Figuras/Figura5.png (vídeo vs. interativa) · Figuras/Figura6.png (SUS)
-//               Dados/Codificacao_Modelo.csv (para os codificadores) e, se existirem Dados/Codificacao_Rodrigo.csv
-//               e Dados/Codificacao_Ricardo.csv, a % de concordância e o kappa de Cohen.
+//               Dados/Codificacao_Modelo.csv (para os codificadores) e, se existirem Dados/Codificacao_Bruno.csv
+//               e Dados/Codificacao_Tiago.csv, a % de concordância e o kappa de Cohen.
 const fs = require('fs');
 const os = require('os');
 const path = require('path');
@@ -219,7 +219,7 @@ function codificacao(r, pastaDados, L) {
     fs.writeFileSync(modelo, csv(linhas));
     L.push('', `## Codificação`, '', `- Criado \`${path.basename(modelo)}\` (${linhas.length - 1} respostas abertas).`);
   }
-  const [fa, fb] = ['Rodrigo', 'Ricardo'].map(n => path.join(pastaDados, `Codificacao_${n}.csv`));
+  const [fa, fb] = ['Bruno', 'Tiago'].map(n => path.join(pastaDados, `Codificacao_${n}.csv`));
   if (!fs.existsSync(fa) || !fs.existsSync(fb)) return;
   const [a, b] = [fa, fb].map(f => lerCsv(fs.readFileSync(f, 'utf8')).slice(1));
   if (a.length !== b.length || a.some((l, i) => l[3] !== b[i][3])) throw new Error('Os dois ficheiros de codificação não têm as mesmas unidades pela mesma ordem.');
@@ -227,8 +227,8 @@ function codificacao(r, pastaDados, L) {
   const mas = [...ca, ...cb].filter(c => !CATEGORIAS.includes(c));
   if (mas.length) throw new Error(`Categorias fora da lista: ${[...new Set(mas)].join(', ')}`);
   const { po, k } = kappa(ca, cb);
-  L.push('', '## Concordância entre codificadores (Rodrigo vs. Ricardo)', '', `- Unidades: ${ca.length} · concordância **${f1(100 * po)} %** · kappa de Cohen ${f1(k, 2)}`);
-  L.push(`- Por categoria (Rodrigo): ${CATEGORIAS.map(c => `${c} ${ca.filter(x => x === c).length}`).join(' · ')}`);
+  L.push('', '## Concordância entre codificadores (Bruno vs. Tiago)', '', `- Unidades: ${ca.length} · concordância **${f1(100 * po)} %** · kappa de Cohen ${f1(k, 2)}`);
+  L.push(`- Por categoria (Bruno): ${CATEGORIAS.map(c => `${c} ${ca.filter(x => x === c).length}`).join(' · ')}`);
   const dif = a.map((l, i) => ca[i] !== cb[i] ? `- ${l[0]} «${l[3]}»: ${ca[i]} / ${cb[i]}` : null).filter(Boolean);
   if (dif.length) L.push('', '**Discordâncias (resolver a dois):**', ...dif);
 }

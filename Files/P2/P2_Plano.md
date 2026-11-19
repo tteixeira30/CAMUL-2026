@@ -101,7 +101,7 @@ Os nomes em inglês são os da coluna «Category» da Tabela2 (`P2_Tabelas.md`).
 | Outro (*Other*) | O que não cabe em nenhuma (se passar de 10 %, rever as categorias) | — |
 
 **Regras:**
-1. **Uma ideia = uma unidade.** Antes de codificar, o Rodrigo divide as respostas em ideias (uma resposta com duas ideias dá duas linhas) e os dois codificam **a mesma lista**, senão não se pode comparar.
+1. **Uma ideia = uma unidade.** Antes de codificar, o Bruno divide as respostas em ideias (uma resposta com duas ideias dá duas linhas) e os dois codificam **a mesma lista**, senão não se pode comparar.
 2. Cada unidade vai para **uma só** categoria, a principal.
 3. Respostas vazias ou «nada» não contam.
 4. **Caso difícil:** se fala do que a pessoa percebeu → compreensão do espaço; se fala da qualidade técnica → áudio e vídeo (ex.: «a narração explicava bem a casa» → compreensão do espaço; «a narração ouvia-se mal» → áudio e vídeo).
@@ -180,10 +180,10 @@ Cada parte é identificável e entra na apresentação.
 
 | Membro | Parte |
 |---|---|
-| Bruno Lopes | **Escreve a 3 Results** (17/11) · Coordenação · Figuras 1–6 e analytics da Udemy (D6) (passaram para o Bruno a 11/11) · formatação IEEE e montagem do .zip · ficha Matterport da L1 |
-| Tiago Teixeira | **Faz a apresentação (.pptx)** (17/11) · Questionário no Google Forms (montar, testar, enviar o link; itens do SUS, vídeo no YouTube; atribuído a 10/11) · Ficha Matterport da L2 · referências dos temas 4 e 5 · revisão das secções 1.1 e 1.2 |
-| Rodrigo Silva | **Escreve a 6 Future Work** (≈ 120 palavras) (17/11) · Ficha Matterport da L3 · codificador 1 da análise temática · referências do tema 3 · revisão da secção 2 |
-| Ricardo Ferreira | **Escreve a 4 Discussion** (≈ 350 palavras) (17/11) · Ficha Matterport da L4 · codificador 2 · referências do tema 6 · revisão da secção 3 |
+| Bruno Lopes | **Escreve a 3 Results** (17/11) · Divide as respostas abertas em unidades e é o codificador 1 (19/11) · Coordenação · Figuras 1–6 e analytics da Udemy (D6) (passaram para o Bruno a 11/11) · formatação IEEE e montagem do .zip · ficha Matterport da L1 |
+| Tiago Teixeira | **Faz a apresentação (.pptx)** (17/11) · Codificador 2 (19/11) · Questionário no Google Forms (montar, testar, enviar o link; itens do SUS, vídeo no YouTube; atribuído a 10/11) · Ficha Matterport da L2 · referências dos temas 4 e 5 · revisão das secções 1.1 e 1.2 |
+| Rodrigo Silva | **Escreve a 6 Future Work** (≈ 120 palavras) (17/11) · Ficha Matterport da L3 · referências do tema 3 · revisão da secção 2 |
+| Ricardo Ferreira | **Escreve a 4 Discussion** (≈ 350 palavras) (17/11) · Ficha Matterport da L4 · referências do tema 6 · revisão da secção 3 |
 | Evandro Carvalho | **Escreve a 5 Conclusion** (≈ 200 palavras, com as limitações) (17/11) · Ficha Matterport da L5 (porque ficou o plano B) · referências dos temas 1, 2 e 7 · revisão das secções 4–6 |
 | Todos | ≥ 5 respostas ao questionário cada · confirmar as suas referências (DOI) · a sua parte da apresentação (ver abaixo) |
 
@@ -215,8 +215,8 @@ Coincide com as entregas da plataforma da teórica (draft + Gantt e estrutura 11
 | seg 16/11 | Ficha da L4 recebida do Ricardo (`P2_FichaMatterport_L4.txt`) · **questionário: 8 respostas** (Bruno e Tiago) → mensagem ao grupo: o Rodrigo, o Ricardo e o Evandro trazem ≥ 5 cada até qui 19/11 | ◐ |
 | ter 17/11 | O grupo revê as secções 1 e 2 (cada um a sua parte, ver §9) · confirmar a Tabela I e o artigo regenerados com a ficha da L4 | ☐ |
 | **qua 18/11** | **Entrega intermédia até às 20:00:** `P2_Artigo_Grupo1.pdf` (secções 1 e 2) · lembrete do questionário a quem ainda não respondeu | ☐ |
-| qui 19/11 | ✅ Feito a 19/11: 20 respostas, CSV em `Dados/Respostas.csv`, `Dados/Resultados.md`, Figuras 5 e 6 (pontos do SUS de 2,5 em 2,5), `Dados/Codificacao_Modelo.csv` (27 respostas abertas). Plano original: **Fechar o questionário** (se à noite houver < 20 respostas, fica aberto até sex 20/11 às 12:00 e a análise passa para a tarde de sexta; nesse caso mudar «12 to 19 November» na 2.4 do artigo) · Sheets → Ficheiro → Transferir → CSV → `Dados/Respostas.csv` · `node Analise.js Dados/Respostas.csv` → `Dados/Resultados.md`, Figura6, Figura7 e `Dados/Codificacao_Modelo.csv` (o Rodrigo divide em unidades, copia para `Codificacao_Rodrigo.csv` e `Codificacao_Ricardo.csv`, cada um preenche a coluna «categoria» sozinho; correr o script outra vez dá a % de concordância e o kappa) | ☐ |
-| 19–20/11 | SUS, Wilcoxon, análise temática (2 codificadores) · Figuras 5–6 · secção 3 (Bruno). **Feito a 19/11, menos a codificação:** secção 3 escrita (RQ1, RQ2 com Fig. 5–6, RQ3 com a Tabela II), resumo com os resultados; PDF com 6 páginas e ≈ 0,8 página livre (2.ª coluna da pág. 5 e pág. 6) para as secções 4–6 (≈ 670 palavras). **Falta: Rodrigo e Ricardo codificam** (`Codificacao_Rodrigo.csv`, `Codificacao_Ricardo.csv`) → `node Analise.js Dados/Respostas.csv` → % e kappa no lugar do «[Agreement…]» da secção 3 | ◐ |
+| qui 19/11 | ✅ Feito a 19/11: 20 respostas, CSV em `Dados/Respostas.csv`, `Dados/Resultados.md`, Figuras 5 e 6 (pontos do SUS de 2,5 em 2,5), `Dados/Codificacao_Modelo.csv` (27 respostas abertas). Plano original: **Fechar o questionário** (se à noite houver < 20 respostas, fica aberto até sex 20/11 às 12:00 e a análise passa para a tarde de sexta; nesse caso mudar «12 to 19 November» na 2.4 do artigo) · Sheets → Ficheiro → Transferir → CSV → `Dados/Respostas.csv` · `node Analise.js Dados/Respostas.csv` → `Dados/Resultados.md`, Figura6, Figura7 e `Dados/Codificacao_Modelo.csv` (o Bruno divide em unidades, copia para `Codificacao_Bruno.csv` e `Codificacao_Tiago.csv`, cada um preenche a coluna «categoria» sozinho; correr o script outra vez dá a % de concordância e o kappa) | ☐ |
+| 19–20/11 | SUS, Wilcoxon, análise temática (2 codificadores) · Figuras 5–6 · secção 3 (Bruno). **Feito a 19/11, menos a codificação:** secção 3 escrita (RQ1, RQ2 com Fig. 5–6, RQ3 com a Tabela II), resumo com os resultados; PDF com 6 páginas e ≈ 0,8 página livre (2.ª coluna da pág. 5 e pág. 6) para as secções 4–6 (≈ 670 palavras). **Falta: Bruno e Tiago codificam** (decidido a 19/11, em vez do Rodrigo e do Ricardo; `Codificacao_Bruno.csv`, `Codificacao_Tiago.csv`) → `node Analise.js Dados/Respostas.csv` → % e kappa no lugar do «[Agreement…]» da secção 3 | ◐ |
 | sáb 21/11 | Secções 4 (Ricardo), 5 (Evandro) e 6 (Rodrigo), em inglês, no `P2_Artigo.md` ou no grupo · abstract · cortar até caber em 6 páginas | ☐ |
 | dom 22/11 | Revisão cruzada (cada um a sua secção) · confirmar as referências · apresentação (≈ 10 diapositivos, 2 min por pessoa) | ☐ |
 | seg 23/11 | Versão final: Word + PDF, pasta `Figuras/` (Figura1… e Tabela1…), .pptx · montar o .zip · ensaiar com o cronómetro | ☐ |
