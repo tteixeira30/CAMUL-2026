@@ -8,7 +8,7 @@ Estado (19/11): secções 1 e 2 entregues a 18/11; secção 3 (Results) escrita 
 «![TABLE](ficheiro)» insere a tabela já exportada (a imagem traz o «TABLE n»), sem legenda «Fig.» · «{wide}» no fim de uma figura ou tabela → ocupa as duas colunas (quebras de secção contínuas).
 
 A rever antes da versão final:
-- [19] Blattgerste: confirmar que o kit usa a média de 68 e as escalas de adjetivos/percentis antes de citar para a interpretação do SUS.
+- [19] Blattgerste: lido a 19/11 (PDF da ACM). Não fala em 68: diz que a média do SUS é ≈ 70 (Bangor et al.) e descreve as escalas de adjetivos, notas, quartis, aceitabilidade (> 70 aceitável, < 50 não aceitável) e a curva de percentis. O artigo passou de «68» para «cerca de 70» e para a escala de aceitabilidade.
 - TABLE I: ficha da L4 recebida a 16/11; regenerar a tabela e o artigo após alterações a `P2_Tabelas.md`.
 - L4: a ficha diz 8 tags, o `P1/L4/Guiao_L4.md` (secção 4) e o relatório do S8 dizem 7. A Tabela I segue a ficha (8): o Ricardo confirma no espaço Matterport e, se forem 7, corrige o guião ou o `P2_Tabelas.md` (→ `node Figuras/Tabelas.js 1` → `& .\Artigo.ps1`).
 - 17/11: resumo e introdução já não dizem que todas as visitas são casas capturadas pelo grupo (a L5 é do Discover); frase do «n/r» retirada (a Tabela I já não tem «n/r»); o código de cores próprio da L4 está na 2.3; saiu a frase das estimativas da L4 (estão na Tabela I).
@@ -100,7 +100,7 @@ The questionnaire was built in Google Forms, in European Portuguese, and was ope
 
 ## Data Analysis
 
-SUS scores were computed on the usual 0–100 scale and are reported as mean and standard deviation against published interpretation scales [19]. For each statement, the ratings of the video and of the interactive tour were compared with the Wilcoxon signed-rank test for paired samples, with the effect size r = |z|/√n; respondents who did not watch the whole video were left out, and with fewer than 20 valid answers only descriptive statistics are reported. For the search task, we report the share who found all three tags, by device. The answers on what was hardest and the test notes (D3) went through a thematic analysis with seven fixed categories: navigation, finding tags, understanding the space, performance and device, audio and video, assessment, and other. Two authors coded every unit of meaning independently; agreement is reported as a percentage and as Cohen’s kappa, with disagreements resolved by discussion. The answers on what helped, which mostly name a format, were counted by format. For RQ1, the lessons are compared in Table I, and the effort per iteration comes from D4.
+SUS scores were computed on the usual 0–100 scale, reported as mean and standard deviation, and read against the scales summarised in [19]: an average of about 70, with scores above 70 counted as acceptable and below 50 as not acceptable. For each statement, the ratings of the video and of the interactive tour were compared with the Wilcoxon signed-rank test for paired samples, with the effect size r = |z|/√n; respondents who did not watch the whole video were left out, and with fewer than 20 valid answers only descriptive statistics are reported. For the search task, we report the share who found all three tags, by device. The answers on what was hardest and the test notes (D3) went through a thematic analysis with seven fixed categories: navigation, finding tags, understanding the space, performance and device, audio and video, assessment, and other. Two authors coded every unit of meaning independently; agreement is reported as a percentage and as Cohen’s kappa, with disagreements resolved by discussion. The answers on what helped, which mostly name a format, were counted by format. For RQ1, the lessons are compared in Table I, and the effort per iteration comes from D4.
 
 # Results
 
@@ -114,9 +114,9 @@ Twenty people answered the questionnaire, 12 on a phone and 8 on a computer; 12 
 
 ![Ratings of the recorded walkthrough (Video) and of the interactive tour of the same space on four statements (N = 18 who watched the whole video; share of respondents, centred on the neutral answer; Mdn = median).](Figuras/Figura5.png)
 
-The interactive tour reached a mean SUS score of 77.3 (SD 13.9; median 80; range 47.5–100), and 15 of the 20 scores were above the reference average of 68 (Fig. 6). The mean was 79.1 on a computer and 76.0 on a phone.
+The interactive tour reached a mean SUS score of 77.3 (SD 13.9; median 80; range 47.5–100), above the average of about 70 summarised in [19]: 14 of the 20 scores were acceptable (above 70), 5 marginal (50–70) and 1 below 50 (Fig. 6). The mean was 79.1 on a computer and 76.0 on a phone.
 
-![SUS scores of the interactive tour, one dot per respondent (N = 20); the dashed line marks the reference average of 68.](Figuras/Figura6.png)
+![SUS scores of the interactive tour, one dot per respondent (N = 20); the dashed line marks the average of about 70 summarised in [19].](Figuras/Figura6.png)
 
 Fifteen respondents (75%) found the three tags: 7 of 8 on a computer and 8 of 12 on a phone. Eleven needed less than 2 minutes, 8 between 2 and 5, and one more than 5 minutes or stopped. To reach them, 16 walked through the home, 12 used the dollhouse view or the floor plan and 3 the search menu (more than one answer allowed).
 

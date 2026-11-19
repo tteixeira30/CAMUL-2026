@@ -80,7 +80,7 @@ Todos veem primeiro o vídeo e depois a visita interativa. A ordem fixa entra na
 
 ## 5. Análise (2.5)
 
-- **SUS:** pontuação 0–100 (fórmula de Brooke), média e desvio-padrão, comparada com a referência de 68.
+- **SUS:** pontuação 0–100 (fórmula de Brooke), média e desvio-padrão, comparada com a média de ≈ 70 e a escala de aceitabilidade (> 70 aceitável, 50–70 marginal, < 50 não aceitável), como em [19] (Blattgerste 2022, lido a 19/11: o artigo não fala em 68).
 - **Vídeo vs. interativa:** medianas das 4 afirmações; teste de **Wilcoxon** para amostras emparelhadas (`Analise.js`, feito a 11/11: aproximação normal com correção de empates e de continuidade; `node Analise.js --teste` verifica as contas e corre tudo com respostas inventadas). Com N < 20 fica só a estatística descritiva.
 - **Tarefa:** % de quem encontrou as 3 tags, por dispositivo.
 - **Abertas + notas Alfa/Beta (D3):** análise temática com categorias fixas: navegação · encontrar tags · compreensão do espaço · desempenho e dispositivo · áudio e vídeo · avaliação. **Dois codificadores independentes**, com a % de concordância e o kappa de Cohen (`Analise.js`).

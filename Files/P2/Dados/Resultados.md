@@ -13,7 +13,7 @@ Gerado por `Analise.js` a 19/11/2026. Não editar à mão: correr o script outra
 ## SUS (visita interativa)
 
 - Média **77,3** · DP 13,9 · mediana 80,0 · mín. 47,5 · máx. 100,0
-- ≥ 68 (referência): 15/20 (75 %)
+- > 70 (aceitável): 14/20 (70 %) · 50–70 (marginal): 5 · < 50 (não aceitável): 1
 - Telemóvel/tablet: média 76,0 (n = 12) · computador: média 79,1 (n = 8)
 
 ## Tarefa: encontrar as 3 tags

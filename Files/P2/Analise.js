@@ -13,6 +13,7 @@ const { execFileSync } = require('child_process');
 
 const EDGE = 'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe';
 const CATEGORIAS = ['Navegação', 'Encontrar tags', 'Compreensão do espaço', 'Desempenho e dispositivo', 'Áudio e vídeo', 'Avaliação', 'Outro'];
+const REF = 70;   // média do SUS ≈ 70 (Bangor et al., em [19] do artigo)
 const AFIRMACOES_EN = ['I understood the layout of the home', 'I understood where the risks and the kit are', 'It held my attention', 'The length was appropriate'];
 
 // ---------- estatística ----------
@@ -120,7 +121,8 @@ function relatorio(a, teste) {
   for (const [c, t] of [['B1', 'Idade'], ['B2', 'Cuidador'], ['B3', 'Visitas 3D antes'], ['B4', 'Aparelho']]) L.push(`- ${t}: ${conta(r, c)}`);
   if (r.length < 20) L.push('', `> ⚠ N = ${r.length} < 20: o plano manda ficar só na estatística descritiva (o Wilcoxon fica no relatório, mas não entra no artigo).`);
   L.push('', '## SUS (visita interativa)', '', `- Média **${f1(media(s))}** · DP ${f1(dp(s))} · mediana ${f1(mediana(s))} · mín. ${f1(Math.min(...s))} · máx. ${f1(Math.max(...s))}`);
-  L.push(`- ≥ 68 (referência): ${s.filter(x => x >= 68).length}/${s.length} (${f1(100 * s.filter(x => x >= 68).length / s.length, 0)} %)`);
+  // referência: média ≈ 70 e escala de aceitabilidade (> 70 aceitável, < 50 não aceitável), Bangor et al. citados em Blattgerste et al. 2022 [19]
+  L.push(`- > ${REF} (aceitável): ${s.filter(x => x > REF).length}/${s.length} (${f1(100 * s.filter(x => x > REF).length / s.length, 0)} %) · 50–${REF} (marginal): ${s.filter(x => x >= 50 && x <= REF).length} · < 50 (não aceitável): ${s.filter(x => x < 50).length}`);
   const sm = r.filter(x => x.movel).map(x => x.sus), sc = r.filter(x => !x.movel).map(x => x.sus);
   L.push(`- Telemóvel/tablet: média ${sm.length ? f1(media(sm)) : '—'} (n = ${sm.length}) · computador: média ${sc.length ? f1(media(sc)) : '—'} (n = ${sc.length})`);
   L.push('', '## Tarefa: encontrar as 3 tags', '', `- Encontraram as 3: todos ${enc(() => true)} · telemóvel/tablet ${enc(x => x.movel)} · computador ${enc(x => !x.movel)}`);
@@ -181,11 +183,11 @@ function figura7(s) {
   let svg = '';
   for (let v = 0; v <= 100; v += 10) svg += `<line x1="${X(v)}" y1="${base}" x2="${X(v)}" y2="${base + 5}" stroke="#5B6472"/><text x="${X(v)}" y="${base + 22}" class="t" text-anchor="middle">${v}</text>`;
   svg += `<line x1="${X0}" y1="${base}" x2="${X1}" y2="${base}" stroke="#5B6472"/>`;
-  svg += `<line x1="${X(68)}" y1="40" x2="${X(68)}" y2="${base}" stroke="#5B6472" stroke-dasharray="5 4"/>`;
+  svg += `<line x1="${X(REF)}" y1="40" x2="${X(REF)}" y2="${base}" stroke="#5B6472" stroke-dasharray="5 4"/>`;
   const m = media(s);
   svg += `<line x1="${X(m)}" y1="62" x2="${X(m)}" y2="${base}" stroke="#1E2A3A" stroke-width="2"/>`;
-  const dir = m >= 68;   // a média e a referência ficam em lados opostos, para os textos não se cruzarem
-  svg += `<text x="${X(68) + (dir ? -6 : 6)}" y="50" class="t m" text-anchor="${dir ? "end" : "start"}">reference average (68)</text>`;
+  const dir = m >= REF;   // a média e a referência ficam em lados opostos, para os textos não se cruzarem
+  svg += `<text x="${X(REF) + (dir ? -6 : 6)}" y="50" class="t m" text-anchor="${dir ? "end" : "start"}">reported average (about ${REF})</text>`;
   svg += `<text x="${X(m) + (dir ? 6 : -6)}" y="72" class="t" text-anchor="${dir ? "start" : "end"}">mean ${m.toFixed(1)}</text>`;
   const pilhas = {};
   [...s].sort((a, b) => a - b).forEach(v => {

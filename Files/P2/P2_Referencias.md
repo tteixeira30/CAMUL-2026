@@ -72,7 +72,7 @@ Nota de trabalho (10/11/2026). Plano: `P2_Plano.md` §8 (13–20 referências, 2
 - Visita virtual a um museu no telemóvel, com e sem óculos, avaliada com o SUS (40 participantes; 72,1 vs. 68,1, sem diferença); quem já tinha experiência de RV deu notas mais altas. → **1.2 / 4:** valores de SUS para comparar; a experiência anterior (pergunta B3 do questionário).
 
 **[15]** J. Blattgerste, J. Behrends, and T. Pfeiffer, "A web-based analysis toolkit for the System Usability Scale," in *Proc. 15th Int. Conf. PErvasive Technol. Related Assistive Environ. (PETRA)*, Jun. 2022, pp. 237–246, doi: 10.1145/3529190.3529216.
-- Ferramenta aberta que calcula o SUS e o interpreta com as escalas publicadas (notas, adjetivos, percentis). → **2.5 / 3:** como lemos a pontuação SUS da visita.
+- Ferramenta aberta que calcula o SUS e o interpreta com as escalas publicadas (adjetivos, notas, quartis, aceitabilidade, NPS, curva de percentis). Lido a 19/11: a média do SUS é «roughly 70» (Bangor et al.); > 70 «acceptable», < 50 «not acceptable». **Não fala em 68.** → **2.5 / 3:** como lemos a pontuação SUS da visita (média ≈ 70, escala de aceitabilidade).
 
 ### Tema 7 · Cuidadores de pessoas com demência: e-learning e crises
 
