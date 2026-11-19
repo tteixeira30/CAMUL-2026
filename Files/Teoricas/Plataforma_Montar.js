@@ -145,13 +145,16 @@ const LICOES = [
   ],
 },
 {
-  n: 4, titulo: "Necessidades e encaminhamento", momento: "Durante", autor: "Ricardo Ferreira", video: "8:35",
+  n: 4, titulo: "Necessidades e encaminhamento", momento: "Durante", autor: "Ricardo Ferreira", video: "8:35", guiao: true,
   resumo: "Numa casa que não é a nossa: segurança, necessidades básicas, sinais de alarme e quando pedir ajuda",
   aprende: "verificar a segurança e as necessidades básicas, explicar à família que vos acolhe como ajudar, reconhecer os sinais de alarme e pedir apoio, para a pessoa e para si.",
   aulas: [
-    ["Chegar a uma casa que não é a nossa", "0:48", "P1/L4/Videos/L4_Aula16_Gancho.mp4", "P1/L4/Videos/Legenda_Aula16_L4.vtt"],
-    ["Necessidades e encaminhamento", "6:42", "P1/L4/Videos/L4_Aula17_Conteudo.mp4", "P1/L4/Videos/Legenda_Aula17_L4.vtt"],
-    ["Síntese e ponte", "1:05", "P1/L4/Videos/L4_Aula18_Sintese.mp4", "P1/L4/Videos/Legenda_Aula18_L4.vtt"],
+    ["Chegar a uma casa que não é a nossa", "0:48", "P1/L4/Videos/L4_Aula16_Gancho.mp4", "", // sem legendas (decisão do grupo, 19/11); transcrição = texto do guião
+      "Esta é a D. Rosa. Vive com demência. Esta é a Ana, a filha, que cuida dela. Até agora, a casa delas era o ponto de referência: o sofá, a cozinha, a casa de banho, a porta.\n\nA crise danificou a casa ou deixou-a sem condições para ficar. Por isso, a D. Rosa e a Ana foram acolhidas temporariamente por familiares ou amigos. Chegam cansadas a uma casa que não conhecem. Há divisões novas, objetos diferentes e regras que ainda não sabem. A D. Rosa pergunta onde pode sentar-se e procura a saída."],
+    ["Necessidades e encaminhamento", "6:42", "P1/L4/Videos/L4_Aula17_Conteudo.mp4", "", // sem legendas (decisão do grupo, 19/11); transcrição = texto do guião
+      "Nesta lição vai trabalhar quatro decisões. Primeiro, tornar o espaço seguro. Depois, responder às necessidades básicas. A seguir, comunicar à família anfitriã como ajudar a pessoa. Por fim, reconhecer os sinais de alarme e pedir apoio — para a D. Rosa e para si. Não tem de resolver tudo sozinho. Tem de começar pela prioridade certa.\n\nAo chegar, não tente apresentar a casa toda de uma vez. Escolha um lugar de referência para a D. Rosa: uma cadeira, um sofá, uma mesa. Mostre-lhe a casa de banho, a água e o caminho até à pessoa que a vai acolher. Fale pouco e repita a mesma orientação. A nova localização deve tornar-se previsível antes de ser confortável.\n\nVerifique as necessidades básicas. A D. Rosa tem sede? Precisa da casa de banho? Está com frio, dor ou fome? Tem os óculos e o aparelho auditivo? A medicação está identificada e à hora habitual? Explique à família anfitriã como ajudar, sem expor mais informação do que é necessário. Ofereça uma coisa de cada vez. Não force a comer ou a beber e não altere a medicação por sua conta.\n\nUma casa conhecida para a família anfitriã pode ser perigosa para alguém que acabou de chegar. Verifique escadas, tapetes soltos, portas de vidro, fogão, varanda, animais e objetos pequenos ao alcance. Confirme também o caminho da saída e a iluminação durante a noite. Não precisa de mudar a casa toda: reduza os perigos do espaço onde a D. Rosa vai circular e peça autorização antes de mexer nos objetos.\n\nEsta é a nova localização da D. Rosa e da Ana: o meu apartamento, usado como casa de familiares ou amigos que as acolheram. Vamos percorrê-lo como se elas tivessem acabado de chegar. Primeiro, este é o lugar de referência. A D. Rosa pode sentar-se aqui e ver quem entra e sai, sem ficar junto à porta. Aqui está a água e, mais adiante, a casa de banho. O caminho deve ser simples, iluminado e livre de tapetes ou objetos onde possa tropeçar. Nesta divisão há objetos que a D. Rosa não conhece. Retiramos o que for perigoso e perguntamos à família anfitriã antes de reorganizar o espaço. A medicação fica identificada e só é administrada de acordo com as indicações habituais. A família anfitriã precisa de saber quem contacta se surgir uma dúvida. Esta é a saída. Mostramos o caminho, mas não deixamos a D. Rosa explorá-lo sozinha. Se houver uma queda, confusão súbita, dor ou dificuldade em respirar, a necessidade passa a ser encaminhada. E esta é a zona da Ana. Ela precisa de combinar com a família onde pode descansar, guardar os seus contactos e pedir substituição. Uma nova casa não tem de ficar igual à antiga. Tem de ficar segura, compreensível e suficientemente estável para os dois.\n\nAo chegar, a comunicação com a família anfitriã deve ser clara e curta: «A minha mãe, D. Rosa, tem demência. Fica mais confusa com ruído e pessoas desconhecidas. Acalma-se quando lhe falam devagar e quando tem a manta consigo.» Entregue a ficha da pessoa. Diga os medicamentos e horários, como ela comunica, o que a acalma, o que a perturba e quem deve ser contactado. A família anfitriã não conhece a D. Rosa como você. Esta informação ajuda a manter uma referência quando você precisa de se afastar.\n\nHá sinais que não se devem atribuir simplesmente à demência. Confusão muito mais intensa e repentina pode indicar um problema médico. Depois de uma queda, verifique se a pessoa está consciente e segura e informe a família anfitriã. Se houver perda de consciência, lesão grave, dificuldade em respirar ou perigo imediato, ligue 112. Se a recusa de comer ou beber continuar, se a pessoa ficar muito fraca ou se a situação não for urgente, peça orientação clínica, por exemplo através do SNS 24. O SNS 24 não substitui o 112. Não faça um diagnóstico: observe, comunique e encaminhe.\n\nAgora olhe para a Ana. Está a tremer, ainda não bebeu água e já não consegue pensar com clareza. Isto também é uma necessidade. Ela pode dizer à família anfitriã: «Preciso de cinco minutos, de água e de alguém que fique com a minha mãe.» Pedir ajuda não é abandonar a D. Rosa. É criar condições para continuar a cuidar. Use o plano de apoio da lição 2: quem pode substituir, quem tem uma chave, quem atende o telefone. Se surgir uma emergência, contacte os serviços de emergência; para outras necessidades, combine apoio com a família anfitriã ou procure orientação clínica.\n\nAntes de avançar, faça esta verificação: a pessoa está segura? As necessidades básicas estão respondidas? A família anfitriã sabe que existe demência e tem a ficha? Há algum sinal de alarme? E quem cuida já pediu apoio? Se responder a estas cinco perguntas, sabe o que fazer a seguir."],
+    ["Síntese e ponte", "1:05", "P1/L4/Videos/L4_Aula18_Sintese.mp4", "", // sem legendas (decisão do grupo, 19/11); transcrição = texto do guião
+      "Nesta lição, treinou cinco prioridades. Escolher uma referência e manter o caminho seguro. Responder à água, à alimentação, à casa de banho, à medicação e ao descanso. Comunicar à família anfitriã como ajudar. Reconhecer confusão súbita, queda e recusa persistente como sinais para pedir orientação. E lembrar-se de que o cuidador também precisa de água, descanso e substituição.\n\nNum incêndio, numa cheia, numa tempestade ou numa deslocação, a nova casa pode tornar-se uma referência temporária. É possível observar, adaptar e encaminhar. Use o cartão de bolso e pergunte à família anfitriã: qual é o lugar mais calmo? Qual é o caminho seguro? Quem deve ser contactado? Na próxima lição, vamos olhar para o depois da crise: retomar a rotina, vigiar mudanças e cuidar de ambos."],
   ],
   visita: { m: "", titulo: "Nova localização: a casa que as acolhe", aula: 2,
     tarefa: "A casa da D. Rosa ficou sem condições e as duas foram acolhidas por familiares. Percorra a casa como se tivessem acabado de chegar: encontre o lugar de referência, a água, a casa de banho, os 2 objetos perigosos, a saída e o quarto da Ana.",
@@ -188,14 +191,18 @@ const LICOES = [
   ],
 },
 {
-  n: 5, titulo: "Depois da crise", momento: "Depois", autor: "Evandro Carvalho", video: "8:04",
+  n: 5, titulo: "Depois da crise", momento: "Depois", autor: "Evandro Carvalho", video: "8:04", guiao: true,
   resumo: "Retomar a rotina aos poucos, vigiar mudanças e cuidar de quem cuida",
   aprende: "retomar a rotina aos poucos, vigiar as mudanças nas semanas seguintes e cuidar de si, sabendo onde pedir apoio.",
   aulas: [
-    ["Retomar, vigiar e apoiar", "1:56", "P1/L5/Videos/L5_Aula19_Pilares.mp4", "P1/L5/Videos/Legenda_Aula19_L5.vtt"],
-    ["De volta a casa da D. Rosa", "1:32", "P1/L5/Videos/L5_Aula20_Visita3D.mp4", "P1/L5/Videos/Legenda_Aula20_L5.vtt"],
-    ["O regresso e o reajuste", "2:36", "P1/L5/Videos/L5_Aula21_Regresso.mp4", "P1/L5/Videos/Legenda_Aula21_L5.vtt"],
-    ["Síntese e conclusão", "2:00", "P1/L5/Videos/L5_Aula22_Sintese.mp4", "P1/L5/Videos/Legenda_Aula22_L5.vtt"],
+    ["Retomar, vigiar e apoiar", "1:56", "P1/L5/Videos/L5_Aula19_Pilares.mp4", "", // sem legendas (decisão do grupo, 19/11); transcrição = texto do guião
+      "Depois da tempestade, o reajuste exige tempo. Esta é a D. Rosa e esta é a Ana. A maratona da crise terminou, mas o cansaço afeta todos os elementos. O regresso à normalidade precisa de ser guiado passo a passo, estruturando-se em quatro pilares: regresso, rotina, vigilância e apoio.\n\nO regresso à normalidade foca-se em quatro eixos essenciais para restabelecer o equilíbrio e a segurança de ambos."],
+    ["De volta a casa da D. Rosa", "1:32", "P1/L5/Videos/L5_Aula20_Visita3D.mp4", "", // sem legendas (decisão do grupo, 19/11); transcrição = texto do guião
+      "Este vídeo não tem narração: é a visita à casa da D. Rosa no Matterport, só com música baixa. As etiquetas aparecem escritas no ecrã."],
+    ["O regresso e o reajuste", "2:36", "P1/L5/Videos/L5_Aula21_Regresso.mp4", "", // sem legendas (decisão do grupo, 19/11); transcrição = texto do guião
+      "A relembrar a casa da D. Rosa. Os quadros familiares dizem-lhe que esta é a sua casa. Retomar o espaço e a rotina das refeições devolve a previsibilidade. Mas e quem cuida? A exaustão acumulada e o sofrimento prolongado exigem atenção redobrada e coragem para pedir ajuda.\n\nO regresso e o reajuste exigem seguir passos claros para assegurar a normalidade nas semanas seguintes. Observar mudanças de comportamento e reconhecer os seus próprios sinais de exaustão. Escutar, dando espaço para expressar emoções e medos sem julgamentos. Encaminhar, sabendo onde pedir apoio psicológico e social nos centros de saúde ou linhas de apoio.\n\nE a Ana? Também sente o choque: ansiedade, cansaço, irritação, dificuldade em pensar com clareza. São reações normais a uma situação que não é normal. Mas a Ana já vinha cansada. E numa crise perde, muitas vezes, a ajuda que tinha: o centro de dia, os vizinhos, a família. Nos planos de emergência, as pessoas com demência e quem cuida delas ficam muitas vezes esquecidas. Se a Ana não cuidar de si, não consegue cuidar da mãe.\n\nHá uma forma simples de ajudar nestes momentos: os primeiros socorros psicológicos. Não são terapia e não é preciso ser profissional. São três passos. Observar: ver se há perigo, do que a pessoa precisa e como está a reagir. E como está você. Escutar: aproximar-se com calma, ouvir sem pressa, ajudar a acalmar. Encaminhar: responder às necessidades básicas e saber a quem pedir ajuda. Neste curso, vai aplicar estes três passos à pessoa de quem cuida, e a si."],
+    ["Síntese e conclusão", "2:00", "P1/L5/Videos/L5_Aula22_Sintese.mp4", "", // sem legendas (decisão do grupo, 19/11); transcrição = texto do guião
+      "Em resumo: depois da crise, o reajuste exige tempo e paciência. O cansaço do cuidador prolonga-se e requer atenção. Lembre-se: Observar, Escutar e Encaminhar ajuda a recuperar o equilíbrio.\n\nChegamos ao fim do caminho do curso «Cuidar em Crise». Percorremos as cinco lições: da compreensão inicial à preparação, aos primeiros socorros durante a crise e, agora, ao pós-crise. Obrigado por cuidar."],
   ],
   visita: { m: "R1sZEUzLrz9", titulo: "Relembrar a casa", aula: 2, discover: true,
     tarefa: "Percorra a casa pela ordem do regresso: sala (quadros e sofá), cozinha, quarto e porta. Em cada divisão, pense no que ajuda a D. Rosa a voltar à rotina, e onde é que a Ana pode descansar.",
@@ -245,12 +252,16 @@ const existe = rel => fs.existsSync(path.join(RAIZ, rel));
 function copiar(rel, destino) {             // devolve o caminho publicado, ou "" se o ficheiro ainda não existe
   if (!rel) return "";
   const de = path.join(RAIZ, rel), para = path.join(SAI, destino);
-  if (!fs.existsSync(de)) { falta.push(rel); return ""; }
+  if (!fs.existsSync(de)) {                 // sem o original neste computador: serve a cópia já publicada, se existir
+    if (fs.existsSync(para)) return destino;
+    falta.push(rel); return "";
+  }
   fs.mkdirSync(path.dirname(para), { recursive: true });
   const a = fs.statSync(de), b = fs.existsSync(para) && fs.statSync(para);
   if (!b || b.size !== a.size || b.mtimeMs < a.mtimeMs) fs.copyFileSync(de, para);
   return destino;
 }
+const GUIAO = `<p class="nota"><i>Este vídeo não tem legendas. Este é o texto do guião: pode diferir um pouco do que se ouve.</i></p>`;
 function transcricao(rel) {                // texto das legendas, sem tempos, para quem não pode ouvir
   if (!rel || !existe(rel)) return "";
   return fs.readFileSync(path.join(RAIZ, rel), "utf8").replace(/\r/g, "").split("\n\n")
@@ -560,22 +571,22 @@ pagina("curso.html", "O curso · Cuidar em Crise", "As 5 lições do curso Cuida
 <div class="acoes"><span class="nota">${l.autor}</span><a class="btn2" href="licao-${l.n}.html">Abrir · ${l.video}</a></div></li>`).join("")}
 </ol></section>
 <section aria-labelledby="t-c"><h2 id="t-c">Como funciona cada lição</h2>
-<ol class="passos"><li><b>Vídeos</b><br>Com legendas e transcrição; quem fez a lição aparece num canto.</li><li><b>Visita 3D</b><br>Uma casa no Matterport, com etiquetas: azul para a pessoa, laranja para quem cuida.</li><li><b>Atividade</b><br>Um exercício prático, num cenário de crise.</li><li><b>Quiz</b><br>4 perguntas com a explicação de cada resposta.</li><li><b>Recursos</b><br>Fichas para descarregar e imprimir.</li></ol></section>
+<ol class="passos"><li><b>Vídeos</b><br>Com transcrição e, nas lições 1 a 3, legendas; quem fez a lição aparece num canto.</li><li><b>Visita 3D</b><br>Uma casa no Matterport, com etiquetas que mostram o que procurar. Na lição 4, a visita está no vídeo.</li><li><b>Atividade</b><br>Um exercício prático, num cenário de crise.</li><li><b>Quiz</b><br>4 perguntas com a explicação de cada resposta.</li><li><b>Recursos</b><br>Fichas para descarregar e imprimir.</li></ol></section>
 <section class="cartao" style="display:flex;flex-wrap:wrap;gap:16px;align-items:center;justify-content:space-between"><p>Prefere guardar o progresso? O mesmo curso está publicado na Udemy (grátis, com inscrição).</p><a class="btn2" href="${UDEMY}" target="_blank" rel="noopener">Abrir na Udemy ↗</a></section>`);
 
 // Lições
 for (const l of LICOES) {
   const pasta = "media/L" + l.n;
   const aulas = l.aulas.map(([t, d, mp4, vtt, texto], i) => ({ t, d, i,
-    mp4: copiar(mp4, `${pasta}/aula${i + 1}.mp4`), vtt: copiar(vtt, `${pasta}/aula${i + 1}.vtt`), trans: transcricao(vtt) || (texto ? `<p>${texto}</p>` : "") }));
+    mp4: copiar(mp4, `${pasta}/aula${i + 1}.mp4`), vtt: copiar(vtt, `${pasta}/aula${i + 1}.vtt`), trans: transcricao(vtt) || (texto ? (l.guiao && !texto.startsWith("Este vídeo não tem narração") ? GUIAO : "") + texto.split("\n\n").map(p => `<p>${esc(p)}</p>`).join("") : "") }));
   const rec = l.recursos.map(([nome, src]) => [nome, copiar(src, "recursos/" + path.basename(src))]).filter(r => r[1]);
   const ant = LICOES[l.n - 2], seg = LICOES[l.n];
   const v = l.visita;
   const visita = v.m
     ? `<div class="visita3d"><p style="font-size:20px;font-weight:700">${v.titulo}</p><p>A visita só carrega quando entrar (poupa dados móveis).</p><p><button type="button" class="cta" data-m="${v.m}" data-titulo="Visita 3D: ${v.titulo}">Entrar na visita 3D</button></p></div>
 <p class="nota" style="margin-top:8px"><a href="https://my.matterport.com/show/?m=${v.m}" target="_blank" rel="noopener">Abrir a visita noutro separador ↗</a> · Sem rede ou telemóvel antigo? <a href="#videos" data-ir-aula="${v.aula - 1}">Veja a visita no vídeo ${v.aula}</a>.${v.discover ? " Espaço público do Matterport Discover («La Tarasca», IInmobarrios): as etiquetas da lição estão no vídeo." : ""}</p>`
-    : `<div class="visita3d" style="aspect-ratio:auto;min-height:240px"><p style="font-size:20px;font-weight:700">${v.titulo}</p><p>A visita interativa está a ser publicada. Entretanto, veja-a no vídeo ${v.aula}.</p><p><a class="btn2" href="#videos" data-ir-aula="${v.aula - 1}">Ver no vídeo ${v.aula}</a></p></div>`;
-  if (!v.m) falta.push(`L${l.n}: link do Matterport`);
+    : `<div class="visita3d" style="aspect-ratio:auto;min-height:240px"><p style="font-size:20px;font-weight:700">${v.titulo}</p><p>Nesta lição, a visita à casa que as acolhe está no vídeo ${v.aula}: não há visita interativa.</p><p><a class="btn2" href="#videos" data-ir-aula="${v.aula - 1}">Ver no vídeo ${v.aula}</a></p></div>`;
+  // sem link: a visita está no vídeo (L4, decisão do grupo, 19/11)
   pagina(`licao-${l.n}.html`, `L${l.n} · ${l.titulo} · Cuidar em Crise`, `Lição ${l.n} do curso Cuidar em Crise: ${l.resumo}.`, "licao" + l.n, `
 <div class="licao-topo">
 <section id="videos" aria-labelledby="t-licao">

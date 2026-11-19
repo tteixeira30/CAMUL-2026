@@ -1,6 +1,6 @@
 # Plataforma: o que falta receber do grupo (18/11/2026)
 
-Nota de trabalho. O site está feito (`Plataforma_Montar.js` → pasta `Plataforma/`). Do grupo só falta receber **o link do Matterport da L4** (pedido a 18/11) e, se houver, as legendas da L4 e da L5. Os vídeos da L4 (3) e da L5 (4) chegaram a 18/11 e já estão no site, mas o `L4_Aula17_Conteudo.mp4` tem 505 MB: falta comprimi-lo para < 100 MB (ffmpeg do CapCut, como na L2): o `Plataforma.zip` foi enviado ao Tiago a 18/11 para ele o comprimir (aqui não há ffmpeg). Tudo o resto decide o Bruno.
+Nota de trabalho. O site está feito (`Plataforma_Montar.js` → pasta `Plataforma/`). **Fechado a 19/11: do grupo já não falta nada.** Os vídeos da L4 (3) e da L5 (4) chegaram a 18/11 e estão no site; decisão do grupo (19/11): a L4 não tem visita interativa (a visita está no vídeo 2) e a L4 e a L5 ficam sem legendas, com a transcrição tirada do texto dos guiões («pode diferir um pouco do que se ouve»). O `L4_Aula17_Conteudo.mp4` fica com 505 MB (o Netlify aceitou; o Tiago não o comprime). A tabela abaixo fica como histórico.
 
 ## Quando os ficheiros chegarem
 

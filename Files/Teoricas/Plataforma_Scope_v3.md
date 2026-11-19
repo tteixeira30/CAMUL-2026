@@ -208,8 +208,8 @@ Valor medido e nível de cada critério (como foi medido: coluna M da folha «QE
 
 **Problemas encontrados e correções** (para a 2.ª métrica):
 - Vídeos da L5 em falta (FL1, FM1, FM5): corrigido a 18/11, depois da medição.
-- Visita 3D da L4 por publicar (FL1, FM1, FM2, FM5) e visitas pouco funcionais no teste: rever com cada autor.
-- Legendas e transcrição em falta nos vídeos da L4 e da L5 e nos avatares (UA2, FM4).
+- Visita 3D da L4 por publicar (FL1, FM1, FM2, FM5) e visitas pouco funcionais no teste: rever com cada autor. Decisão do grupo (19/11): a L4 fica com a visita só no vídeo 2.
+- Legendas e transcrição em falta nos vídeos da L4 e da L5 e nos avatares (UA2, FM4). Decisão do grupo (19/11): a L4 e a L5 ficam sem legendas, com a transcrição tirada do texto dos guiões.
 - Menu com 42 px de altura e ligações no texto com menos de 44 px (EL2).
 - Títulos H3 do mesmo tamanho do texto e «Nesta lição» a 20 px (EC2).
 - Número da lição em âmbar sobre a areia, 4,28:1 (EL1, UA5).
