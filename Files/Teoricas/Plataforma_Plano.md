@@ -1,6 +1,6 @@
 # Plataforma multimédia na Web — plano das teóricas (Grupo 1)
 
-Nota de trabalho (05/11/2026, atualizada a 10/11: datas das 5 entregas do Moodle; v1 revista; Gantt da plataforma por fases; QEF da plataforma; a 18/11: o site feito e a passagem geral de coerência; a 19/11: site publicado, entrega final adiada para 02/12, testes Beta na aula de 25/11). Projeto da teórica: site que «aloja» o MOOC «Cuidar em Crise», com as regras de composição visual. Professora: Paula Escudeiro. Aulas teóricas à quarta.
+Nota de trabalho (05/11/2026, atualizada a 10/11: datas das 5 entregas do Moodle; v1 revista; Gantt da plataforma por fases; QEF da plataforma; a 18/11: o site feito e a passagem geral de coerência; a 19/11: site publicado, entrega final e testes Beta a 02/12, aula de 25/11 para desenvolvimento). Projeto da teórica: site que «aloja» o MOOC «Cuidar em Crise», com as regras de composição visual. Professora: Paula Escudeiro. Aulas teóricas à quarta.
 
 ## Entregas
 
@@ -14,12 +14,13 @@ O Scope document é **um só documento que cresce**: cada entrega do Moodle rece
 | 3 | Scope document · QEF | **qua 18/11, 23:55** (abriu a 10/11) | PDF v2 (v1 + secção QEF) + o `.xlsx` do QEF | v2 | ✅ Entregue a 18/11 (com o `.xlsx`; a 1.ª métrica `Plataforma_QEF_Metrica1_Grupo1.xlsx` também). **Feito a 16/11** (secção 7 da v2, a partir do `.xlsx`). Antes: `Plataforma_QEF_Grupo1.xlsx` feito a 10/11: 3 dimensões (Funcionalidade, Usabilidade, Estética), 10 fatores, 45 critérios (G/E), cada um com indicador numérico, 5 níveis, instrumento e esforço; folha «Notas» com a amostra (10 páginas + 404, desde 18/11 com «Porquê azul?»), o teste com utilizadores (4 tarefas, SUS) e o registo da validação; q = 1 − D/√3 como no exemplo (verificado: tudo a 100 → q = 1). Falta a secção QEF no `.docx`, **só depois de submeter a v1 a 11/11** (senão o `.docx` deixa de bater com o PDF v1). É uma **proposta** de cenário de qualidade para a nossa plataforma (Usabilidade, Funcionalidade, Estética: critérios e parâmetros); a professora valida-a e depois usa-a para avaliar o site. Base: `Exemplos/QEF_Final_MOOC_Portfolio 26-27.xlsx` (exemplo da professora), `ComposicaoVisual_QEF_Grupo1.xlsx` e `Exemplos/QEF_PlataformaMOOC G1 final.xlsx` |
 | 4 | Scope document · Storyboard | **qua 18/11, 23:55** | O mesmo PDF v2 (com a secção Storyboard: ecrãs-chave) | v2 | ✅ Entregue a 18/11. **Feito a 16/11** (secção 8 da v2): 8 ecrãs-chave (o 8.º, «Porquê azul?», a 18/11) em `Plataforma_Storyboard.html` → `Capturas/Plataforma_Storyboard_<n>.png` (Início, Curso, Lição: vídeo, Lição: visita 3D e atividade, Quiz, Sobre nós, Telemóvel, Porquê azul?), com notas numeradas e o percurso |
 | 5 | Scope document · Plano de marketing | **qua 18/11, 23:55** | O mesmo PDF v2 (com a secção Plano de marketing) | v2 | ✅ Entregue a 18/11. **Feito a 16/11** (secção 9 da v2; ⚠ objetivos a validar com a professora a 18/11, ver «Perguntar à professora»): projeto, recursos, meio envolvente, público e concorrência, objetivos, 7P, SWOT, ciclo de vida, ações, orçamento (≈ 10 €), calendário. Estrutura do `Aulas/CAMUL___Marketing V2.pdf` |
-| — | Testes Beta (aula) | **qua 25/11** | Nada a submeter: na aula o **Grupo 2 faz o Beta da nossa plataforma** e **nós fazemos o Beta da do Grupo 2** (com o cenário de qualidade deles). Os resultados não entram em nenhum documento (como já diz a secção 10 do Scope) | — | Ver «Aula de 25/11» abaixo |
+| — | Aula de desenvolvimento | **qua 25/11** | Nada a submeter: a aula serve para continuar o desenvolvimento da plataforma | — | Ver o plano abaixo |
+| — | Testes Beta (aula) | **qua 02/12** | Nada a submeter: na aula o **Grupo 2 faz o Beta da nossa plataforma** e **nós fazemos o Beta da do Grupo 2** (com o cenário de qualidade deles). Os resultados não entram em nenhum documento (como já diz a secção 10 do Scope) | — | Ver «Aula de 02/12» abaixo |
 | — | Produto final + Scope document final | **qua 02/12** (adiada a 19/11; era 25/11) | Site + Scope document final (v3: plano de testes, inquérito, resultados do Alfa) | v3 | Site feito a 18/11 e **publicado a 19/11: https://soft-licorice-ef7571.netlify.app/**. Falta o Matterport, as legendas e a transcrição da L4. Sem teste Gama |
 
-## Aula de qua 25/11: testes Beta (cruzados com o Grupo 2)
+## Aula de qua 02/12: testes Beta (cruzados com o Grupo 2)
 
-Decidido a 19/11: a entrega final passa para **qua 02/12**; a aula de 25/11 é só para os testes Beta, nos dois sentidos. Nada disto entra em documentos (a secção 10 do Scope já diz que os resultados do Beta não entram).
+Decidido a 19/11: a entrega final passa para **qua 02/12** e os testes Beta, nos dois sentidos, são na aula desse dia; a **aula de 25/11 é para continuar o desenvolvimento**. Nada disto entra em documentos (a secção 10 do Scope já diz que os resultados do Beta não entram).
 
 **O Grupo 2 testa a nossa plataforma** (o plano está na secção 10 do Scope v3):
 - Link: https://soft-licorice-ef7571.netlify.app/ (o teste começa na página inicial).
@@ -37,7 +38,7 @@ Decidido a 19/11: a entrega final passa para **qua 02/12**; a aula de 25/11 é s
 - **FR3 (HTTPS):** o Netlify serve tudo em HTTPS → a verificação que faltava passa (3/4 → 4/4).
 - **UR2 (LCP, Lighthouse 12, modo telemóvel, `licao-2.html`, Edge):** 3,16 · 2,96 · 2,81 s → média **2,97 s** (desempenho 0,85–0,90). Fica na fronteira dos níveis «2–2,9 s» (75) e «3–5,9 s» (50): no Alfa, local, eram 2,7 s.
 - Ainda não atualizado no `Plataforma_QEF_Atual_Grupo1.xlsx` (decidir o nível do UR2 e registar na folha «Notas»). Falta a UR4 (Chrome, Firefox, telemóvel).
-- Scope document (19/11, por Word COM): entrega final 02/12, Beta na aula de 25/11, link do site e estas medições. **O Gantt e o calendário do marketing ainda têm 25/11 como entrega final/lançamento:** mudar no Word antes de 02/12.
+- Scope document (19/11, por Word COM): entrega final e Beta a 02/12 (na aula), aula de 25/11 de desenvolvimento, link do site e estas medições. Gantt com a semana de 30/11 (vídeos e páginas das lições «Em curso» até 25/11; correções, publicação final e Scope v3 até 2/12; Beta a 2/12); entregáveis com 2/12; marketing adiado uma semana (lançamento a 2/12; vídeos curtos 2–22/12; emails 3–11/12; folhetos 8–22/12; medir 23–31/12).
 
 ## O site (18/11)
 
@@ -52,7 +53,7 @@ Decidido a 19/11: a entrega final passa para **qua 02/12**; a aula de 25/11 é s
 
 **v2 feita a 16/11 (16 páginas):** `Plataforma_Scope_v2.md` (texto das secções 7–9) → `Plataforma_Scope_v2.ps1` (insere-as uma vez antes de «Referências», atualiza a capa, o Gantt e os entregáveis, exporta o PDF). Falta o grupo rever e submeter na qua 18/11 (o mesmo PDF nas entregas 3, 4 e 5; o `.xlsx` do QEF na 3). A partir daqui edita-se o `.docx` no Word.
 
-**Resumo:** a 11/11 entrega-se a **v1** duas vezes (entregas 1 e 2). A 18/11 entrega-se a **v2** três vezes (entregas 3, 4 e 5: QEF + storyboard + marketing, todos no mesmo PDF; o `.xlsx` do QEF vai só na entrega 3). A 25/11 entrega-se a **v3** com o site.
+**Resumo:** a 11/11 entrega-se a **v1** duas vezes (entregas 1 e 2). A 18/11 entrega-se a **v2** três vezes (entregas 3, 4 e 5: QEF + storyboard + marketing, todos no mesmo PDF; o `.xlsx` do QEF vai só na entrega 3). A 02/12 (era 25/11) entrega-se a **v3** com o site, e há os testes Beta na aula.
 
 ## ❓ Perguntar à professora na aula de qua 18/11 (antes de submeter a v2, às 23:55)
 
@@ -108,9 +109,10 @@ Secções: título · problema · objetivo · plano · público-alvo · entregá
 | 12 → 18/11 | Plano de marketing (missão, recursos, ambiente, 7P, SWOT, ciclo de vida, ações, orçamento, calendário) |
 | Qua 18/11 | **Entregas 3, 4 e 5:** Scope document v2 (v1 + QEF + storyboard + marketing), o mesmo PDF nas três; o `.xlsx` do QEF na entrega 3 |
 | 16 → 19/11 | Construir o site (feito a 18/11 pelo Bruno; vídeos da L4 e da L5 recebidos a 18/11) · plano de testes · teste Alfa (18/11) · **publicado no Netlify a 19/11** |
-| 19 → 24/11 | O grupo revê a sua lição no site publicado (até sex 20/11) · Matterport, legendas e transcrição da L4 · preparar a aula de 25/11 |
-| **Qua 25/11** | **Testes Beta na aula:** o Grupo 2 testa a nossa plataforma e nós a deles |
-| 26/11 → **qua 02/12** | Corrigir o que o Beta mostrar · Scope document final (v3: Gantt com as datas novas) · **entrega final a 02/12** |
+| 19 → 24/11 | O grupo revê a sua lição no site publicado (até sex 20/11) · Matterport, legendas e transcrição da L4 |
+| **Qua 25/11** | **Aula de desenvolvimento:** continuar o site (L4, correções do QEF) |
+| 26/11 → 01/12 | Fechar as correções · Scope document final (v3) · preparar o Beta (folha de registo, SUS) |
+| **Qua 02/12** | **Entrega final + testes Beta na aula:** o Grupo 2 testa a nossa plataforma e nós a deles |
 
 Divisão (decidida a 09/11, mudada a 18/11): o trabalho é feito em grupo; o Bruno monta o site todo (18/11) e cada autor (L1 Bruno, L2 Tiago, L3 Rodrigo, L4 Ricardo, L5 Evandro) entrega os vídeos e o Matterport da sua lição e revê a sua página. O Gantt do Scope document tem as datas de início e de fim de cada tarefa, sem coluna de responsáveis.
 
@@ -122,7 +124,7 @@ Divisão (decidida a 09/11, mudada a 18/11): o trabalho é feito em grupo; o Bru
 4. **QEF:** proposta de cenário de qualidade para a nossa plataforma (critérios e parâmetros relevantes). Todos os cenários são analisados e validados e depois servem para avaliar a plataforma. Exemplo no Moodle: cenário de qualidade da plataforma do portfólio.
 5. **Testes:** Alfa = a própria equipa; Beta = a equipa adversária, no dia da apresentação da plataforma.
 
-Confirmado depois (09/11): o tema é o «Cuidar em Crise»; o avatar D-ID da composição visual serve; a entrega final é a **25/11**; o teste Gama ignora-se.
+Confirmado depois (09/11): o tema é o «Cuidar em Crise»; o avatar D-ID da composição visual serve; a entrega final era a 25/11 (a 19/11 passou para **02/12**, com os testes Beta na aula desse dia); o teste Gama ignora-se.
 
 ## Email à professora (enviado a 05/11, reenviado a 09/11)
 

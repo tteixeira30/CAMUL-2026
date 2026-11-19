@@ -99,12 +99,12 @@ Os testes medem a plataforma com o cenário de qualidade da secção 7. Cada tes
 | Teste | Alfa | Beta |
 |---|---|---|
 | Quem testa | Os 5 elementos do grupo | O Grupo 2 (equipa adversária) |
-| Quando | 18/11/2026 (1.ª métrica) | 25/11/2026, na aula (o Grupo 2 testa a nossa plataforma e nós a deles) |
+| Quando | 18/11/2026 (1.ª métrica) | 2/12/2026, na aula (o Grupo 2 testa a nossa plataforma e nós a deles) |
 | O quê | O site gerado a 18/11, num servidor local (ainda não publicado) | O site publicado no Netlify (soft-licorice-ef7571.netlify.app) |
 | Como | Medições com instrumentos (todos os critérios) + teste com utilizadores (5 critérios) + verificações à mão | Teste com utilizadores e inquérito, com as mesmas tarefas e perguntas do Alfa |
-| Resultado | 1.ª métrica (Plataforma_QEF_Metrica1_Grupo1.xlsx) e lista de correções | Registado no dia da apresentação; não entra neste documento |
+| Resultado | 1.ª métrica (Plataforma_QEF_Metrica1_Grupo1.xlsx) e lista de correções | Registado na aula de 2/12; não entra neste documento |
 
-Na mesma apresentação, o Grupo 1 faz o teste Beta da plataforma do Grupo 2, com o cenário de qualidade desse grupo.
+Na mesma aula (2/12), o Grupo 1 faz o teste Beta da plataforma do Grupo 2, com o cenário de qualidade desse grupo.
 
 **Medições com instrumentos:** as 10 páginas (Início, Curso, Lição 1 a 5, Porquê azul?, Sobre nós, Contactos) e a página 404, a 1280 px de largura salvo indicação. Ligações e ficheiros verificados automaticamente; acessibilidade com o axe-core (regras WCAG 2 A e AA); desempenho com o Lighthouse em modo telemóvel (3 medições); percurso só com o teclado; larguras de 360, 768, 1100 e 1440 px e zoom a 200 %; resolução e duração de cada vídeo; cada quiz respondido com uma opção errada e depois com a certa.
 
