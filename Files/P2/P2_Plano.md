@@ -191,13 +191,15 @@ Cada parte é identificável e entra na apresentação.
 
 Simula a apresentação do artigo numa conferência, com os diapositivos em inglês. A divisão do grupo fica **no fim**, por recomendação da professora (17/11).
 
+**Feita a 22/11 em `P2_Apresentacao_Grupo1.html`** (Tiago): 20 diapositivos 16:9 que abrem no browser, com as Figuras 1–6 do artigo. Os `data-t` somam exatamente 10:00 e seguem a tabela abaixo; `data-quem` é quem fala. Teclas: → / espaço / clique = seguinte · ← = anterior · **F** = ecrã inteiro · **T** = modo ensaio (quem fala, cronómetro e tempo-alvo) · **N** = notas do orador (o guião de cada diapositivo, só para quem apresenta). ⚠ O .zip pede a apresentação em `.ppt`/`.pptx`: falta exportar/refazer o `P2_Apresentacao_Grupo1.pptx` a partir desta.
+
 | Ordem | Parte | Quem | Tempo | Diapositivos |
 |---|---|---|---|---|
-| 1 | Contextualização | Tiago | 0:00–2:00 | Título · problema e curso (Fig. 1) · enquadramento · lacuna e RQ1–RQ3 |
-| 2 | Metodologia e materiais | Rodrigo | 2:00–4:30 | DBR em 8 iterações · fluxo de captura (Fig. 2–3) · Tabela I · integração sem embed (Fig. 4) · questionário |
-| 3 | Resultados e discussão | Ricardo | 4:30–7:30 | SUS (Fig. 6) · vídeo vs. interativa (Fig. 5) e tarefa das tags · testes Alfa/Beta (Tabela II) · discussão. Os dados só existem depois de 19/11: até lá prepara a discussão e os diapositivos com espaço para os gráficos |
-| 4 | Conclusão e trabalho futuro | Evandro | 7:30–9:00 | Contributos · limitações · trabalho futuro |
-| 5 | Divisão do grupo | Bruno | 9:00–10:00 | Quem fez o quê (a tabela acima); fica no ecrã durante as perguntas |
+| 1 | Contextualização | Tiago | 0:00–2:00 | **1** Título · **2** problema e curso · **3** estrutura do curso (Fig. 1) · **4** lacuna e RQ1–RQ3 |
+| 2 | Metodologia e materiais | Rodrigo | 2:00–4:30 | **5** DBR em 8 iterações e D1–D6 · **6** fluxo de captura (Fig. 2–3) · **7** Tabela I · **8** integração sem embed (Fig. 4) · **9** questionário |
+| 3 | Resultados e discussão | Ricardo | 4:30–7:30 | **10** RQ1 desenvolvimento · **11** vídeo vs. interativa (Fig. 5) · **12** SUS (Fig. 6) · **13** tarefa das tags e respostas abertas · **14** RQ3 testes (Tabela II) · **15** discussão |
+| 4 | Conclusão e trabalho futuro | Evandro | 7:30–9:00 | **16** conclusão · **17** limitações · **18** trabalho futuro |
+| 5 | Divisão do grupo | Bruno | 9:00–10:00 | **19** quem fez o quê · **20** fecho, fica no ecrã durante as perguntas |
 
 ## 10. Calendário
 
@@ -218,7 +220,7 @@ Coincide com as entregas da plataforma da teórica (draft + Gantt e estrutura 11
 | qui 19/11 | ✅ Feito a 19/11: 20 respostas, CSV em `Dados/Respostas.csv`, `Dados/Resultados.md`, Figuras 5 e 6 (pontos do SUS de 2,5 em 2,5), `Dados/Codificacao_Modelo.csv` (27 respostas abertas). Plano original: **Fechar o questionário** (se à noite houver < 20 respostas, fica aberto até sex 20/11 às 12:00 e a análise passa para a tarde de sexta; nesse caso mudar «12 to 19 November» na 2.4 do artigo) · Sheets → Ficheiro → Transferir → CSV → `Dados/Respostas.csv` · `node Analise.js Dados/Respostas.csv` → `Dados/Resultados.md`, Figura6, Figura7 (numeração antiga: hoje Figuras 5 e 6) e `Dados/Codificacao_Modelo.csv` (o Bruno divide em unidades, copia para `Codificacao_Bruno.csv` e `Codificacao_Tiago.csv`, cada um preenche a coluna «categoria» sozinho; correr o script outra vez dá a % de concordância e o kappa) | ☐ |
 | 19–20/11 | SUS, Wilcoxon, análise temática (2 codificadores) · Figuras 5–6 · secção 3 (Bruno). **Feito a 19/11, com a codificação:** secção 3 escrita (RQ1, RQ2 com Fig. 5–6, RQ3 com a Tabela II), resumo com os resultados; PDF com 6 páginas e ≈ 0,8 página livre (2.ª coluna da pág. 5 e pág. 6) para as secções 4–6 (≈ 670 palavras). **Falta: Bruno e Tiago codificam** (decidido a 19/11, em vez do Rodrigo e do Ricardo; `Codificacao_Bruno.csv`, `Codificacao_Tiago.csv`). **Passos 1 e 2 feitos a 19/11:** 22 unidades nos dois ficheiros: as 10 dificuldades (F3; a resposta longa R2 deu duas) e os 12 problemas dos testes da Tabela II (D3; o problema 5 deu dois). Ficaram de fora as respostas «nada»/«não achei nada difícil» (regra 3) e todo o F2 («o que ajudou»: diz só o formato, as categorias não servem): o F2 conta-se por formato na secção 3 (14 respostas: 9 visita interativa, 4 vídeo ou narração, 1 as duas). **Codificação feita a 19/11:** concordância 95,5 % (21/22), kappa 0,93; a única discordância (T9, «a ligação para a visita podia parecer obrigatória»: Avaliação/Outro) ficou **Avaliação**. Final: F3 = Navegação 5 · Áudio e vídeo 3 · Encontrar tags 1 · Desempenho e dispositivo 1; D3 = Áudio e vídeo 8 · Avaliação 2 · Encontrar tags 1 · Outro 1. Secção 3 e Tabela II atualizadas → `node Analise.js Dados/Respostas.csv` → % e kappa no lugar do «[Agreement…]» da secção 3 | ✅ |
 | sáb 21/11 | Secções 4 (Ricardo), 5 (Evandro) e 6 (Rodrigo), em inglês, no `P2_Artigo.md` ou no grupo · abstract · cortar até caber em 6 páginas. Feito a 21–22/11 (Conclusion do Evandro a 22/11); artigo regenerado a 22/11: 6 páginas | ✅ |
-| dom 22/11 | Revisão cruzada (cada um a sua secção) · confirmar as referências · apresentação (≈ 10 diapositivos, 2 min por pessoa) | ☐ |
+| dom 22/11 | Revisão cruzada (cada um a sua secção) · confirmar as referências · apresentação: **feita a 22/11** (`P2_Apresentacao_Grupo1.html`, 20 diapositivos, 10:00 certos, 2 min por pessoa) | ◐ |
 | seg 23/11 | Versão final: Word + PDF, pasta `Figuras/` (Figura1… e Tabela1…), .pptx · montar o .zip · ensaiar com o cronómetro | ☐ |
 | **ter 24/11** | **Entrega final no Moodle (até às 20:00) + apresentação na PL** | ☐ |
 
