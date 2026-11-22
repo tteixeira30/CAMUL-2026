@@ -140,7 +140,9 @@ Finding content remained a challenge even when tags were inside the space: five 
 
 # Conclusion
 
-[To be written after the results, including the limitations.]
+This exploratory case study described how five students captured Matterport spaces and brought them into a MOOC for dementia caregivers on a platform that does not accept embedded content. The workflow was feasible with free tools: a recorded walkthrough inside each lesson video and an optional link to the interactive tour, with no quiz depending on the link. Twenty users gave the interactive tour a mean SUS score of 77.3, 75% found three named tags, and none preferred the video alone, which suggests that the two formats complement each other. Testing led to design changes in every lesson, and the main constraints came from the plan and the devices rather than from the technology itself.
+
+The findings have limits. The sample was small, selected by convenience, and included few caregivers; no person with dementia took part. Only the space of L1 and L2 was evaluated, so L5, which used a public third-party space, was not. All participants saw the video first, so the order may have shaped the ratings. Capture and tagging times are the authors' estimates. Finally, the study measured perception, not learning, so it cannot show that either format improves it.
 
 # Future Work
 
