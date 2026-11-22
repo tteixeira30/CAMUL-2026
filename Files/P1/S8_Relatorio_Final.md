@@ -218,7 +218,7 @@ O cartão de bolso apoia a aplicação dos conteúdos; o quiz permite verificar 
 | **S5 (27/10)** · protótipo | Guião e storyboard, ilustrações, cartão de bolso, proposta de visita 3D e quiz; entrega do protótipo |
 | **S6 (03/11)** · versão integrada | Integração da lição na Udemy, com um pequeno atraso; no teste de 03/11 ainda faltavam a narração e as legendas |
 | **S7 (03/11)** · testes | Teste Alfa aos vídeos, ao quiz e às legendas; o quiz funcionou, mas faltavam a narração e as legendas |
-| **S8 (10/11)** · versão final | Estrutura final com 3 vídeos e 8:35 de vídeo na Udemy, cartão de bolso, quiz e visita Matterport no apartamento do Ricardo, com 7 tags |
+| **S8 (10/11)** · versão final | Estrutura final com 3 vídeos e 8:35 de vídeo na Udemy, cartão de bolso, quiz e visita Matterport no apartamento do Ricardo, com 8 tags |
 
 #### Decisões que mudaram e porquê
 
@@ -232,7 +232,7 @@ O cartão de bolso apoia a aplicação dos conteúdos; o quiz permite verificar 
 
 - **Vídeo:** 3 vídeos com a narração: gancho, conteúdo e síntese com a ponte para a L5.
 - **Ilustrações:** imagens da chegada, das necessidades e do pedido de ajuda, em estilo semelhante ao modelo visual comum.
-- **Visita 3D:** Matterport capturado no apartamento do Ricardo, com 7 tags; o espaço representa a casa de familiares ou amigos que acolhem temporariamente a D. Rosa e a Ana.
+- **Visita 3D:** Matterport capturado no apartamento do Ricardo, com 8 tags; o espaço representa a casa de familiares ou amigos que acolhem temporariamente a D. Rosa e a Ana.
 - **Recurso:** cartão de bolso para consultar as necessidades, os sinais de alarme e os contactos de ajuda.
 - **Fontes do conteúdo:** OMS (2011) *Psychological First Aid*; ADI (2022) *Advice for carers during times of crisis*; Alzheimer's Association, *In a Disaster*.
 - **Acessibilidade:** azul = pessoa, laranja = quem cuida; os vídeos da L4 ficaram sem legendas.
@@ -299,7 +299,7 @@ Componente para a pessoa (azul): voltar às referências e à rotina das refeiç
 
 ## 4. Matterport
 
-- Cada lição usa uma casa capturada pelo grupo com a app Matterport Capture, apresentada como a casa fictícia da D. Rosa e da Ana (L1 e L2: casa do Bruno, o mesmo espaço «Casa D. Rosa», cada lição com as suas tags; L3: sala do Rodrigo, representa a «Sala da D. Rosa», 11 tags; L4 usa o apartamento do Ricardo como casa de acolhimento temporário, com 7 tags). A L5 ficou com o plano B do S5: o espaço público do Discover «La Tarasca», em vídeo, com 5 etiquetas feitas no PowerPoint.
+- Cada lição usa uma casa capturada pelo grupo com a app Matterport Capture, apresentada como a casa fictícia da D. Rosa e da Ana (L1 e L2: casa do Bruno, o mesmo espaço «Casa D. Rosa», cada lição com as suas tags; L3: sala do Rodrigo, representa a «Sala da D. Rosa», 11 tags; L4 usa o apartamento do Ricardo como casa de acolhimento temporário, com 8 tags). A L5 ficou com o plano B do S5: o espaço público do Discover «La Tarasca», em vídeo, com 5 etiquetas feitas no PowerPoint.
 - **Tags:** azul = pessoa com demência, laranja = quem cuida; título com o prefixo da lição (ex.: «L1 · Sofá»); as crises aparecem nas tags (feedback do S3). A L4 usa cores por tipo de lugar (verde = referência e saída, vermelho = perigo).
 - **Na Udemy:** a Udemy não aceita iframes → vídeo gravado da visita dentro da aula + link «Visita 3D (opcional)» nos recursos; nenhum teste depende do link.
 - **Privacidade:** espaços «não listados»; casas preparadas antes da captura (sem fotografias de família, documentos, morada); ninguém nas divisões capturadas; nunca uma pessoa com demência real.

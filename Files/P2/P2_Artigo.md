@@ -4,13 +4,13 @@ Formato: um parágrafo por linha · «%» título · «@» autor (4 linhas separ
 «###» Heading 3 · «![legenda](ficheiro)» figura (a numeração «Fig. n.» é automática) · «[TABLE: título | texto]» tabela por fazer ·
 «# References» e depois uma referência por linha (a numeração [n] é automática: a ordem tem de ser a da 1.ª citação no texto).
 
-Estado (21/11): secções 1 e 2 entregues a 18/11; secção 3 (Results) escrita com as 20 respostas (`Dados/Resultados.md`) e a concordância dos dois codificadores; secção 4 (Discussion) escrita pelo Ricardo; secção 6 (Future Work) escrita pelo Rodrigo; falta a secção 5 (Evandro). A Tabela III saiu (os valores estão no texto e na Fig. 5), para caber em 6 páginas.
+Estado (22/11): secções 1 e 2 entregues a 18/11; secção 3 (Results) escrita com as 20 respostas (`Dados/Resultados.md`) e a concordância dos dois codificadores; secção 4 (Discussion) escrita pelo Ricardo; secção 5 (Conclusion) pelo Evandro; secção 6 (Future Work) pelo Rodrigo. Todas as secções escritas; artigo regenerado a 22/11. A Tabela III saiu (os valores estão no texto e na Fig. 5), para caber em 6 páginas.
 «![TABLE](ficheiro)» insere a tabela já exportada (a imagem traz o «TABLE n»), sem legenda «Fig.» · «{wide}» no fim de uma figura ou tabela → ocupa as duas colunas (quebras de secção contínuas).
 
 A rever antes da versão final:
 - [19] Blattgerste: lido a 19/11 (PDF da ACM). Não fala em 68: diz que a média do SUS é ≈ 70 (Bangor et al.) e descreve as escalas de adjetivos, notas, quartis, aceitabilidade (> 70 aceitável, < 50 não aceitável) e a curva de percentis. O artigo passou de «68» para «cerca de 70» e para a escala de aceitabilidade.
 - TABLE I: ficha da L4 recebida a 16/11; regenerar a tabela e o artigo após alterações a `P2_Tabelas.md`.
-- L4: a ficha diz 8 tags, o `P1/L4/Guiao_L4.md` (secção 4) e o relatório do S8 dizem 7. A Tabela I segue a ficha (8): o Ricardo confirma no espaço Matterport e, se forem 7, corrige o guião ou o `P2_Tabelas.md` (→ `node Figuras/Tabelas.js 1` → `& .\Artigo.ps1`).
+- L4: 8 tags (confirmado a 22/11). A Tabela I, o guião da L4 e o relatório do S8 dizem o mesmo.
 - 17/11: resumo e introdução já não dizem que todas as visitas são casas capturadas pelo grupo (a L5 é do Discover); frase do «n/r» retirada (a Tabela I já não tem «n/r»); o código de cores próprio da L4 está na 2.3; saiu a frase das estimativas da L4 (estão na Tabela I).
 - ⚠ Espaço: as referências contam para as 6 páginas (professora, 17/11). Corte de 17/11: saiu a figura da tag aberta, a aula na Udemy é a Fig. 4 numa coluna, secções 1–2 com ≈ 500 palavras a menos; os resultados começam no fim da 1.ª coluna da pág. 4. Ficam ≈ 1,75 páginas para as secções 3–6, Figuras 5–6 (numa coluna) e Tabelas II–III: Discussão ≈ 350 palavras.
 - Brooke 1996 saiu a 16/11 e o Martins 2015 (validação portuguesa do SUS) a 17/11: só referências de 2021–2026. 19 referências.

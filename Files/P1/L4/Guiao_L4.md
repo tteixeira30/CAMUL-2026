@@ -107,7 +107,7 @@ Ana. Não é preciso fingir que é a casa original nem um centro de emergência.
 
 ### Tags dentro do espaço
 
-A visita final tem **7 tags**:
+A visita final tem **8 tags** (confirmado a 22/11, como na ficha Matterport do P2). A tabela só tem 7: falta a 8.ª (o Ricardo acrescenta-a).
 
 | # | Local | Texto | Cor |
 |---:|---|---|---|
