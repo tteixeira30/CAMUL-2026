@@ -4,7 +4,7 @@ Formato: um parágrafo por linha · «%» título · «@» autor (4 linhas separ
 «###» Heading 3 · «![legenda](ficheiro)» figura (a numeração «Fig. n.» é automática) · «[TABLE: título | texto]» tabela por fazer ·
 «# References» e depois uma referência por linha (a numeração [n] é automática: a ordem tem de ser a da 1.ª citação no texto).
 
-Estado (19/11): secções 1 e 2 entregues a 18/11; secção 3 (Results) escrita a 19/11 com as 20 respostas (`Dados/Resultados.md`), falta a concordância dos dois codificadores; 4 (Ricardo), 5 (Evandro) e 6 (Rodrigo) até sáb 21/11. A Tabela III saiu (os valores estão no texto e na Fig. 5), para caber em 6 páginas.
+Estado (21/11): secções 1 e 2 entregues a 18/11; secção 3 (Results) escrita com as 20 respostas (`Dados/Resultados.md`) e a concordância dos dois codificadores; secção 4 (Discussion) escrita pelo Ricardo; secção 6 (Future Work) escrita pelo Rodrigo; falta a secção 5 (Evandro). A Tabela III saiu (os valores estão no texto e na Fig. 5), para caber em 6 páginas.
 «![TABLE](ficheiro)» insere a tabela já exportada (a imagem traz o «TABLE n»), sem legenda «Fig.» · «{wide}» no fim de uma figura ou tabela → ocupa as duas colunas (quebras de secção contínuas).
 
 A rever antes da versão final:
@@ -100,7 +100,7 @@ The questionnaire was built in Google Forms, in European Portuguese, and was ope
 
 ## Data Analysis
 
-SUS scores were computed on the usual 0–100 scale, reported as mean and standard deviation, and read against the scales summarised in [19]: an average of about 70, with scores above 70 counted as acceptable and below 50 as not acceptable. For each statement, the ratings of the video and of the interactive tour were compared with the Wilcoxon signed-rank test for paired samples, with the effect size r = |z|/√n; respondents who did not watch the whole video were left out, and with fewer than 20 valid answers only descriptive statistics are reported. For the search task, we report the share who found all three tags, by device. The answers on what was hardest and the test notes (D3) went through a thematic analysis with seven fixed categories: navigation, finding tags, understanding the space, performance and device, audio and video, assessment, and other. Two authors coded every unit of meaning independently; agreement is reported as a percentage and as Cohen’s kappa, with disagreements resolved by discussion. The answers on what helped, which mostly name a format, were counted by format. For RQ1, the lessons are compared in Table I, and the effort per iteration comes from D4.
+SUS scores were computed on the usual 0–100 scale, reported as mean and standard deviation, and read against the scales summarised in [19]: an average of about 70, with scores above 70 counted as acceptable and below 50 as not acceptable. For each statement, the ratings of the video and of the interactive tour were compared descriptively using medians and paired changes. Respondents who did not watch the whole video were left out; because fewer than 20 answers were valid for this comparison, only descriptive statistics are reported. For the search task, we report the share who found all three tags, by device. The answers on what was hardest and the test notes (D3) went through a thematic analysis with seven fixed categories: navigation, finding tags, understanding the space, performance and device, audio and video, assessment, and other. Two authors coded every unit of meaning independently; agreement is reported as a percentage and as Cohen’s kappa, with disagreements resolved by discussion. The answers on what helped, which mostly name a format, were counted by format. For RQ1, the lessons are compared in Table I, and the effort per iteration comes from D4.
 
 # Results
 
@@ -130,7 +130,13 @@ The alpha and beta tests raised 11 problems (Table II). Their 12 units were code
 
 # Discussion
 
-[To be written after the results.]
+The mean SUS score of 77.3 and the preference for the interactive tour or both formats are consistent with the positive usability and engagement reported for Matterport in nursing education [15]. Our score is higher than the 72.1 and 68.1 reported for the smartphone museum tour [17], but different settings, participants and devices prevent a direct comparison. Like the student-created laboratory captures in [16], this project shows that students can capture spaces for education. Here, the additional challenge was a platform without embedding.
+
+The two formats appear complementary: half of the respondents chose both, and some credited the video or narration with helping them understand the home. The walkthrough guides learners without requiring navigation; the interactive version lets them choose where to go. The interactive tour received a higher median rating for attention, but only five of the 18 participants who completed the video rated it higher; the other 13 gave both formats the same rating. Participants always saw the video first, so familiarity with the space may have influenced the later ratings. These perceptions do not establish that either format improves learning or that interactivity caused the difference. Greater spatial presence can also compete with learning for cognitive resources [12].
+
+The free workflow was feasible, but required planning around one active space per account and the inability to upload a correction to the L1 capture. A missing point at the corridor–kitchen door forced the team to use tags or the floor plan to reach the kitchen; L3’s two capture points left incomplete coverage. A practical lesson is to plan points at doorways and check all routes before committing to the uploaded space. Multiple accounts avoided a paid plan, but required coordination.
+
+Finding content remained a challenge even when tags were inside the space: five of 20 respondents did not find all three, and navigation accounted for five of the ten reported difficulties. Clear tag titles, an introduction to the floor plan and search menu, and a guided recording may help learners move between rooms. Keeping the interactive link optional and the quiz independent of it offers another route through the course without removing the opportunity to explore.
 
 # Conclusion
 
@@ -138,7 +144,7 @@ The alpha and beta tests raised 11 problems (Table II). Their 12 units were code
 
 # Future Work
 
-[To be written after the results.]
+Future work should address the limits of this exploratory study. First, the tours could carry the assessment: quizzes placed inside the Matterport space, at the tags, would link the questions to the places the learner has just seen. Second, the questionnaire used a small convenience sample with few caregivers, so the study should be repeated with real informal caregivers to show whether the usability scores hold for the intended audience. Third, the course could move to a platform with iframes, where the interactive tour is embedded in the lesson and compared with the recorded walkthrough. Fourth, since 12 of the 20 respondents used a phone, a version designed for mobile phones should reduce the navigation difficulties reported here. Finally, captions in all lessons and captures with more points or LiDAR devices should be tested.
 
 # References
 
