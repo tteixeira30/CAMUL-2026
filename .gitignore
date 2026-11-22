@@ -12,3 +12,5 @@ Files/Teoricas/Plataforma/recursos/
 Files/Teoricas/Plataforma/ComposicaoVisual_Foto.webp
 # Cópia do site para enviar ao grupo (950 MB, maior do que o limite do GitHub)
 Files/Teoricas/Plataforma.zip
+# Entrega do P2 (gerada pelo Files/P2/Montar_Zip.ps1)
+Files/P2/Entrega_P2/

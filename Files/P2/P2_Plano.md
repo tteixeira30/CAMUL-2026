@@ -189,7 +189,7 @@ Cada parte é identificável e entra na apresentação.
 
 ### Apresentação (ter 24/11, 10 min, decidida a 17/11)
 
-Simula a apresentação do artigo numa conferência, com os diapositivos em inglês. A divisão do grupo fica **no fim**, por recomendação da professora (17/11).
+Simula a apresentação do artigo numa conferência. **Diapositivos e apresentação em português europeu (decidido a 22/11)**; o artigo e as figuras ficam em inglês. A divisão do grupo fica **no fim**, por recomendação da professora (17/11).
 
 **Feita a 22/11 em `P2_Apresentacao_Grupo1.html`** (Tiago): 20 diapositivos 16:9 que abrem no browser, com as Figuras 1–6 do artigo. Os `data-t` somam exatamente 10:00 e seguem a tabela abaixo; `data-quem` é quem fala. Teclas: → / espaço / clique = seguinte · ← = anterior · **F** = ecrã inteiro · **T** = modo ensaio (quem fala, cronómetro e tempo-alvo) · **N** = notas do orador (o guião de cada diapositivo, só para quem apresenta). ⚠ O .zip pede a apresentação em `.ppt`/`.pptx`: falta exportar/refazer o `P2_Apresentacao_Grupo1.pptx` a partir desta.
 
@@ -247,4 +247,4 @@ Coincide com as entregas da plataforma da teórica (draft + Gantt e estrutura 11
 - [ ] O artigo tem imagens (Figuras 3–4), não só gráficos
 - [ ] Os números do artigo batem certo com o relatório do S8 (41 min, 22 aulas, tags)
 - [ ] Inglês revisto; os mesmos termos em todo o lado (*tour*, *tag*, *walkthrough*, *learner*)
-- [ ] .zip: .docx + .pdf + .pptx + pasta `Figuras/` com tudo
+- [ ] .zip: .docx + .pdf + .pptx + pasta `Figuras/` com tudo → `& .\Montar_Zip.ps1` (22/11: montado sem o .pptx, que ainda falta; volta-se a correr quando chegar)

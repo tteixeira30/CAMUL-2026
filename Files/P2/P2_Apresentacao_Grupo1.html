@@ -1,14 +1,14 @@
 <!doctype html>
-<html lang="en">
+<html lang="pt-PT">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Student-Captured Matterport Tours in a MOOC · Group 1</title>
+<title>Visitas Matterport num MOOC · Grupo 1</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap">
 <style>
-/* P2 — Apresentação do artigo (ter 24/11/2026, PL), 10 min, diapositivos em inglês.
+/* P2 — Apresentação do artigo (ter 24/11/2026, PL), 10 min, diapositivos em português europeu (traduzidos a 22/11; o artigo e as figuras ficam em inglês).
    Simula a apresentação numa conferência; a divisão do grupo fica no fim (professora, 17/11).
    Tempos (data-t) e quem fala (data-quem) = P2_Plano.md §9: Tiago 0:00–2:00 · Rodrigo 2:00–4:30 ·
    Ricardo 4:30–7:30 · Evandro 7:30–9:00 · Bruno 9:00–10:00. Somam 600 s.
@@ -78,8 +78,9 @@ h3 { font-size: 28px; line-height: 1.25; }
 .numeros { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--gap); }
 .numeros.quatro { grid-template-columns: repeat(4, 1fr); }
 .numeros .cartao { display: flex; flex-direction: column; gap: 8px; padding: 26px; }
-.numeros b { font-size: 68px; line-height: 1; color: var(--ambar); font-variant-numeric: tabular-nums; }
-.numeros b.az { color: var(--azul); }
+.numeros .cartao > b { font-size: 68px; line-height: 1; color: var(--ambar); font-variant-numeric: tabular-nums; }
+.numeros .cartao > b.az { color: var(--azul); }
+.numeros span b { color: var(--texto); }
 .numeros span { font-size: 24px; line-height: 1.3; }
 .numeros small { font-size: 18px; color: var(--cinza); margin-top: auto; }
 
@@ -176,291 +177,292 @@ td.num { font-variant-numeric: tabular-nums; }
   <!-- ===== 1 · Tiago · Contextualização (0:00–2:00) ===== -->
 
   <!-- 1 · Título -->
-  <section class="slide titulo" data-t="30" data-quem="Tiago" aria-label="Title">
-    <p class="eyebrow">CAMUL 2026/2027 · Group 1 · ISEP</p>
-    <h1>Student-Captured Matterport Tours in a Massive Open Online Course for Dementia Caregivers Facing Crises</h1>
+  <section class="slide titulo" data-t="30" data-quem="Tiago" aria-label="Título">
+    <p class="eyebrow">CAMUL 2026/2027 · Grupo 1 · ISEP</p>
+    <h1>Visitas Matterport captadas por estudantes num MOOC para cuidadores de pessoas com demência em crise</h1>
     <div class="barra" aria-hidden="true"></div>
-    <p class="autores">Bruno Lopes · <b>Tiago Teixeira</b> · Rodrigo Silva · Ricardo Ferreira · Evandro Carvalho</p>
+    <p class="autores">Bruno Lopes · Tiago Teixeira · Rodrigo Silva · Ricardo Ferreira · Evandro Carvalho</p>
     <p class="afil">Instituto Superior de Engenharia do Porto (ISEP), Porto, Portugal</p>
+    <p class="afil">Artigo (em inglês): <i>Student-Captured Matterport Tours in a Massive Open Online Course for Dementia Caregivers Facing Crises</i></p>
     <aside class="notas"><b>Tiago:</b> bom dia. Apresentar o título e o grupo em duas frases e passar logo ao problema — há 10 minutos para cinco pessoas.</aside>
   </section>
 
   <!-- 2 · O problema e o curso -->
-  <section class="slide" data-t="35" data-quem="Tiago" aria-label="Problem and course">
+  <section class="slide" data-t="35" data-quem="Tiago" aria-label="O problema e o curso">
     <div class="cabeca">
-      <p class="eyebrow">The problem</p>
-      <h2>A crisis breaks the routines a person with dementia relies on</h2>
+      <p class="eyebrow">O problema</p>
+      <h2>Uma crise quebra as rotinas de que a pessoa com demência depende</h2>
     </div>
     <div class="corpo">
       <ul class="numeros">
-        <li class="cartao"><b class="az">+</b><span>Caregivers of people with dementia reported more depression, anxiety and burden during the COVID-19 lockdowns [1]</span><small>Soysal et al., 2023</small></li>
-        <li class="cartao"><b class="az">−</b><span>Informal caregivers do not feel prepared for disasters: no training, no supplies, hard decisions [2]</span><small>Pickering et al., 2021</small></li>
-        <li class="cartao"><b>41 min</b><span>“Cuidar em Crise”: a free course in European Portuguese, 5 lessons, published on Udemy</span><small>Our P1 project, Nov. 2026</small></li>
+        <li class="cartao"><b class="az">+</b><span>Os cuidadores de pessoas com demência relataram mais depressão, ansiedade e sobrecarga nos confinamentos da COVID-19 [1]</span><small>Soysal et al., 2023</small></li>
+        <li class="cartao"><b class="az">−</b><span>Os cuidadores informais não se sentem preparados para catástrofes: sem formação, sem provisões, com decisões difíceis [2]</span><small>Pickering et al., 2021</small></li>
+        <li class="cartao"><b>41 min</b><span>«Cuidar em Crise»: um curso grátis em português europeu, 5 lições, publicado na Udemy</span><small>O nosso P1, nov. 2026</small></li>
       </ul>
-      <p class="lead" style="margin-top:30px">Five students, one lesson each, on the time line of a crisis: understand it, before, during, after.</p>
+      <p class="lead" style="margin-top:30px">Cinco estudantes, uma lição cada, pela linha do tempo de uma crise: compreender, antes, durante, depois.</p>
     </div>
     <aside class="notas"><b>Tiago:</b> duas frases sobre o problema (crise + cuidador sem preparação) e uma sobre o curso: grátis, em português, 5 lições, publicado na Udemy. Não entrar no conteúdo pedagógico.</aside>
   </section>
 
   <!-- 3 · Estrutura do curso (Fig. 1) -->
-  <section class="slide" data-t="25" data-quem="Tiago" aria-label="Course structure">
+  <section class="slide" data-t="25" data-quem="Tiago" aria-label="Estrutura do curso">
     <div class="cabeca" style="margin-bottom:18px">
-      <p class="eyebrow">The course · Fig. 1</p>
-      <h2>Every lesson has the same sequence — and a Matterport tour</h2>
+      <p class="eyebrow">O curso · Fig. 1</p>
+      <h2>Todas as lições têm a mesma sequência — e uma visita Matterport</h2>
     </div>
     <figure class="cheia">
-      <img src="Figuras/Figura1.png" alt="Structure of the course on Udemy: five sections in time order, the same sequence of lectures in each, and the lectures that include the Matterport tour.">
-      <figcaption>Fig. 1 · Five sections in time order; the 3D marks the lectures that include the tour. 5 sections, 22 lectures, 5 quizzes.</figcaption>
+      <img src="Figuras/Figura1.png" alt="Estrutura do curso na Udemy: cinco secções por ordem temporal, a mesma sequência de aulas em cada uma e as aulas com a visita Matterport.">
+      <figcaption>Fig. 1 · Cinco secções por ordem temporal; o 3D marca as aulas com a visita. 5 secções, 22 aulas, 5 quizzes.</figcaption>
     </figure>
     <aside class="notas"><b>Tiago:</b> apontar para o «3D» na figura: o Matterport era obrigatório em cada lição. É aqui que nasce o problema técnico do artigo.</aside>
   </section>
 
   <!-- 4 · Lacuna e perguntas de investigação -->
-  <section class="slide" data-t="30" data-quem="Tiago" aria-label="Gap and research questions">
+  <section class="slide" data-t="30" data-quem="Tiago" aria-label="Lacuna e questões de investigação">
     <div class="cabeca" style="margin-bottom:20px">
-      <p class="eyebrow">Related work · the gap</p>
-      <h2>Matterport is new in education — and Udemy has no iframes</h2>
+      <p class="eyebrow">Trabalhos relacionados · a lacuna</p>
+      <h2>O Matterport é recente na educação — e a Udemy não tem iframes</h2>
     </div>
     <div class="corpo">
     <ul class="lacunas">
-      <li>Spaces captured by <b>professionals</b>, not by the students who author the course [15], [16]</li>
-      <li>Closed platforms that <b>do not allow embedding</b></li>
-      <li>No comparison between a <b>recorded walkthrough</b> and the <b>interactive tour</b> of the same space</li>
+      <li>Espaços captados por <b>profissionais</b>, e não pelos estudantes que criam o curso [15], [16]</li>
+      <li>Plataformas fechadas que <b>não deixam incorporar</b> conteúdos</li>
+      <li>Nenhuma comparação entre o <b>vídeo gravado da visita</b> e a <b>visita interativa</b> do mesmo espaço</li>
     </ul>
     <ul class="rqs">
-      <li><b>RQ1 · development:</b> which workflow, costs and constraints when a student team captures its own spaces?</li>
-      <li><b>RQ2 · perception:</b> how usable and useful is the tour, and how does the walkthrough compare with the interactive tour?</li>
-      <li><b>RQ3 · iteration:</b> which problems did alpha and beta testing raise, and which design changes followed?</li>
+      <li><b>QI1 · desenvolvimento:</b> que fluxo de trabalho, custos e restrições quando uma equipa de estudantes capta os seus próprios espaços?</li>
+      <li><b>QI2 · perceção:</b> quão usável e útil é a visita, e como se compara o vídeo da visita com a visita interativa?</li>
+      <li><b>QI3 · iteração:</b> que problemas surgiram nos testes alfa e beta, e que mudanças de desenho se seguiram?</li>
     </ul>
     </div>
-    <aside class="notas"><b>Tiago:</b> três lacunas, três perguntas — ler só as palavras a negrito. Passar ao Rodrigo: «o Rodrigo explica como trabalhámos». Alvo: 2:00.</aside>
+    <aside class="notas"><b>Tiago:</b> três lacunas, três perguntas — ler só as palavras a negrito. QI = questão de investigação (RQ no artigo). Passar ao Rodrigo: «o Rodrigo explica como trabalhámos». Alvo: 2:00.</aside>
   </section>
 
   <!-- ===== 2 · Rodrigo · Metodologia e materiais (2:00–4:30) ===== -->
 
   <!-- 5 · Modelo de investigação -->
-  <section class="slide" data-t="30" data-quem="Rodrigo" aria-label="Research model">
+  <section class="slide" data-t="30" data-quem="Rodrigo" aria-label="Modelo de investigação">
     <div class="cabeca">
-      <p class="eyebrow">Method · research model</p>
-      <h2>Exploratory case study within design-based research [18]</h2>
+      <p class="eyebrow">Método · modelo de investigação</p>
+      <h2>Estudo de caso exploratório numa investigação baseada em design [18]</h2>
     </div>
     <div class="corpo">
       <ol class="iteracoes">
-        <li><b>1</b><span>Platforms</span></li>
-        <li><b>2</b><span>Topic &amp; planning</span></li>
-        <li><b>3</b><span>Lesson template</span></li>
-        <li><b>4</b><span>Scripts</span></li>
-        <li class="marco"><b>5</b><span>Prototype</span></li>
-        <li><b>6</b><span>Integrated course</span></li>
-        <li class="marco"><b>7</b><span>Alpha + beta tests</span></li>
-        <li class="marco"><b>8</b><span>Published</span></li>
+        <li><b>1</b><span>Plataformas</span></li>
+        <li><b>2</b><span>Tema e planeamento</span></li>
+        <li><b>3</b><span>Modelo das lições</span></li>
+        <li><b>4</b><span>Guiões</span></li>
+        <li class="marco"><b>5</b><span>Protótipo</span></li>
+        <li><b>6</b><span>Curso integrado</span></li>
+        <li class="marco"><b>7</b><span>Testes alfa + beta</span></li>
+        <li class="marco"><b>8</b><span>Publicado</span></li>
       </ol>
-      <p class="lead" style="margin-top:28px">Eight weekly iterations, 22 September to 10 November 2026, each ending with a delivery and teacher feedback.</p>
+      <p class="lead" style="margin-top:28px">Oito iterações semanais, de 22 de setembro a 10 de novembro de 2026, cada uma com uma entrega e o feedback da professora.</p>
       <ul class="marcas">
-        <li><span><b>D1</b> design records</span></li>
-        <li><span><b>D2</b> capture form per author</span></li>
-        <li><span><b>D3</b> alpha and beta test records</span></li>
+        <li><span><b>D1</b> registos de desenho</span></li>
+        <li><span><b>D2</b> ficha de captura de cada autor</span></li>
+        <li><span><b>D3</b> registos dos testes alfa e beta</span></li>
         <li><span><b>D4</b> 116 commits</span></li>
-        <li><span><b>D5</b> questionnaire</span></li>
-        <li><span><b>D6</b> Udemy analytics</span></li>
+        <li><span><b>D5</b> questionário</span></li>
+        <li><span><b>D6</b> analytics da Udemy</span></li>
       </ul>
     </div>
     <aside class="notas"><b>Rodrigo:</b> DBR = construir e revisitar em ciclos, num contexto real. Marcar as três iterações a cheio (protótipo, testes, publicação) e as seis fontes de dados D1–D6.</aside>
   </section>
 
   <!-- 6 · Fluxo de captura (Fig. 2 e 3) -->
-  <section class="slide" data-t="40" data-quem="Rodrigo" aria-label="Capture workflow">
+  <section class="slide" data-t="40" data-quem="Rodrigo" aria-label="Fluxo de captura">
     <div class="cabeca" style="margin-bottom:18px">
-      <p class="eyebrow">Materials · Fig. 2 and Fig. 3</p>
-      <h2>We captured our own homes with a smartphone</h2>
+      <p class="eyebrow">Materiais · Fig. 2 e Fig. 3</p>
+      <h2>Captámos as nossas próprias casas com o telemóvel</h2>
     </div>
     <div class="duas">
-      <figure><img src="Figuras/Figura2.png" alt="Workflow used to bring a student-captured Matterport space into a course on a platform that does not allow embedding."><figcaption>Fig. 2 · Capture → tags → recorded walkthrough → lecture.</figcaption></figure>
-      <figure><img src="Figuras/Figura3.png" alt="The Casa D. Rosa space in the dollhouse view of Matterport, with the tags of lessons L1 and L2."><figcaption>Fig. 3 · “Casa D. Rosa”, dollhouse view: <span class="p">blue</span> = person with dementia, <span class="c">orange</span> = caregiver.</figcaption></figure>
+      <figure><img src="Figuras/Figura2.png" alt="Fluxo de trabalho para levar um espaço Matterport captado por estudantes para um curso numa plataforma que não deixa incorporar conteúdos."><figcaption>Fig. 2 · Captura → tags → vídeo da visita → aula.</figcaption></figure>
+      <figure><img src="Figuras/Figura3.png" alt="O espaço Casa D. Rosa na vista dollhouse do Matterport, com as tags das lições L1 e L2."><figcaption>Fig. 3 · «Casa D. Rosa», vista dollhouse: <span class="p">azul</span> = pessoa com demência, <span class="c">laranja</span> = cuidador.</figcaption></figure>
     </div>
-    <p class="fonte-baixo">Matterport Capture app, free plan · no people, no photos, no documents, no address in view · spaces set as unlisted.</p>
+    <p class="fonte-baixo">App Matterport Capture, plano grátis · sem pessoas, fotografias, documentos nem morada à vista · espaços «não listados».</p>
     <aside class="notas"><b>Rodrigo:</b> dizer que as casas são nossas e que as tags ficam dentro do espaço, com o código de cores do curso. Referir o cuidado com a privacidade (sem pessoas nem documentos).</aside>
   </section>
 
   <!-- 7 · Tabela I -->
-  <section class="slide" data-t="35" data-quem="Rodrigo" aria-label="Table I">
+  <section class="slide" data-t="35" data-quem="Rodrigo" aria-label="Tabela I">
     <div class="cabeca" style="margin-bottom:16px">
-      <p class="eyebrow">Materials · Table I</p>
-      <h2>Five lessons, four captures, very different devices</h2>
+      <p class="eyebrow">Materiais · Tabela I</p>
+      <h2>Cinco lições, quatro capturas, telemóveis muito diferentes</h2>
     </div>
     <div class="corpo">
     <table>
-      <thead><tr><th>Lesson</th><th>Space</th><th>Device</th><th>Capture<br>points</th><th>Capture<br>time</th><th>Tags</th><th>Walk-<br>through</th><th>Main problem</th></tr></thead>
+      <thead><tr><th>Lição</th><th>Espaço</th><th>Dispositivo</th><th>Pontos de<br>captura</th><th>Tempo de<br>captura</th><th>Tags</th><th>Vídeo da<br>visita</th><th>Problema principal</th></tr></thead>
       <tbody>
-        <tr><th>L1</th><td>Home of a team member (5 rooms)</td><td>iPhone 17 Pro (LiDAR)</td><td class="num">17</td><td class="num">≈ 15 min</td><td class="num">9</td><td class="num">69 s</td><td>One capture point missing; the free plan does not allow re-uploading</td></tr>
-        <tr><th>L2</th><td>Same space as L1</td><td>—</td><td class="num">—</td><td class="num">—</td><td class="num">8</td><td class="num">1:40</td><td>Rooms reached through the 2D floor plan</td></tr>
-        <tr><th>L3</th><td>Living room of a team member</td><td>Redmi Note 11 Pro</td><td class="num">2</td><td class="num">≈ 10 min</td><td class="num">11</td><td class="num">1:36</td><td>Only 2 points: limited coverage; variable frame rate broke a clip</td></tr>
-        <tr><th>L4</th><td>Apartment, an unfamiliar setting</td><td>Samsung A33 5G</td><td class="num">8</td><td class="num">≈ 45 min</td><td class="num">8</td><td class="num">2:05</td><td>Its own colour code; narration setup</td></tr>
-        <tr><th>L5</th><td>Public Discover space (fallback)</td><td>Third party</td><td class="num">—</td><td class="num">—</td><td class="num">5*</td><td class="num">58 s</td><td>Public spaces cannot be edited: labels overlaid in PowerPoint</td></tr>
+        <tr><th>L1</th><td>Casa de um elemento do grupo (5 divisões)</td><td>iPhone 17 Pro (LiDAR)</td><td class="num">17</td><td class="num">≈ 15 min</td><td class="num">9</td><td class="num">69 s</td><td>Faltou um ponto de captura; o plano grátis não deixa voltar a carregar</td></tr>
+        <tr><th>L2</th><td>O mesmo espaço da L1</td><td>—</td><td class="num">—</td><td class="num">—</td><td class="num">8</td><td class="num">1:40</td><td>Divisões alcançadas pela planta 2D</td></tr>
+        <tr><th>L3</th><td>Sala de um elemento do grupo</td><td>Redmi Note 11 Pro</td><td class="num">2</td><td class="num">≈ 10 min</td><td class="num">11</td><td class="num">1:36</td><td>Só 2 pontos: cobertura limitada; a taxa de fotogramas variável estragou um clipe</td></tr>
+        <tr><th>L4</th><td>Apartamento, um espaço desconhecido</td><td>Samsung A33 5G</td><td class="num">8</td><td class="num">≈ 45 min</td><td class="num">8</td><td class="num">2:05</td><td>Código de cores próprio; montagem da narração</td></tr>
+        <tr><th>L5</th><td>Espaço público do Discover (plano B)</td><td>Terceiros</td><td class="num">—</td><td class="num">—</td><td class="num">5*</td><td class="num">58 s</td><td>Os espaços públicos não se editam: etiquetas sobrepostas no PowerPoint</td></tr>
       </tbody>
     </table>
-    <p class="fonte-baixo">Capture and tagging times are the authors’ estimates (D2). * labels over the video, not tags inside the space.</p>
+    <p class="fonte-baixo">Tempos de captura e de tags estimados pelos autores (D2). * etiquetas sobre o vídeo, não tags dentro do espaço.</p>
     </div>
     <aside class="notas"><b>Rodrigo:</b> não ler a tabela. Três ideias: (1) telemóvel com LiDAR dá 17 pontos, sem LiDAR dá 2; (2) tudo com ferramentas grátis; (3) a L5 ficou com o espaço público — é uma limitação que volta no fim.</aside>
   </section>
 
   <!-- 8 · Integração sem embed (Fig. 4) -->
-  <section class="slide" data-t="25" data-quem="Rodrigo" aria-label="Integration without embedding">
+  <section class="slide" data-t="25" data-quem="Rodrigo" aria-label="Integração sem incorporar">
     <div class="cabeca" style="margin-bottom:18px">
-      <p class="eyebrow">Materials · Fig. 4</p>
-      <h2>No iframes: the tour enters the course twice</h2>
+      <p class="eyebrow">Materiais · Fig. 4</p>
+      <h2>Sem iframes: a visita entra duas vezes no curso</h2>
     </div>
     <div class="duas larga-esq">
       <div>
         <ul class="pontos">
-          <li><b>In the video:</b> a screen recording of the walkthrough, tag by tag, each balloon open</li>
-          <li><b>In the resources:</b> a “3D tour (optional)” link</li>
-          <li><b>No quiz depends on the link</b> — a slow connection or an old phone is never a penalty</li>
+          <li><b>No vídeo:</b> a gravação do ecrã da visita, tag a tag, com cada balão aberto</li>
+          <li><b>Nos recursos:</b> um link «Visita 3D (opcional)»</li>
+          <li><b>Nenhum quiz depende do link</b> — uma ligação lenta ou um telemóvel antigo nunca penalizam</li>
         </ul>
-        <p class="fonte-baixo">Udemy requires ≥ 30 min of video for a free course and reviews its quality: submitted 7 Nov., published 9 Nov. 2026.</p>
+        <p class="fonte-baixo">A Udemy exige ≥ 30 min de vídeo num curso grátis e revê a qualidade: submetido a 7 nov., publicado a 9 nov. 2026.</p>
       </div>
-      <figure><img src="Figuras/Figura4.png" alt="A lecture of lesson L2 on Udemy, with the recorded walkthrough, an open tag and the author's webcam window."><figcaption>Fig. 4 · A lecture of L2 on Udemy.</figcaption></figure>
+      <figure><img src="Figuras/Figura4.png" alt="Uma aula da lição L2 na Udemy, com o vídeo da visita, uma tag aberta e a janela da câmara do autor."><figcaption>Fig. 4 · Uma aula da L2 na Udemy.</figcaption></figure>
     </div>
     <aside class="notas"><b>Rodrigo:</b> esta é a resposta à restrição da plataforma — a contribuição prática do artigo. Dois caminhos: vídeo guiado para todos, visita interativa para quem quiser.</aside>
   </section>
 
   <!-- 9 · Questionário -->
-  <section class="slide" data-t="20" data-quem="Rodrigo" aria-label="Questionnaire">
+  <section class="slide" data-t="20" data-quem="Rodrigo" aria-label="Questionário">
     <div class="cabeca">
-      <p class="eyebrow">Data collection · D5</p>
-      <h2>Same space, same users, two formats</h2>
+      <p class="eyebrow">Recolha de dados · D5</p>
+      <h2>O mesmo espaço, as mesmas pessoas, dois formatos</h2>
     </div>
     <div class="corpo">
       <ol class="fluxo">
-        <li><b>1 · Video</b>Narrated walkthrough of L2 (1:40), then 4 statements</li>
-        <li><b>2 · Tour</b>Interactive tour: find 3 named tags, up to 5 min</li>
-        <li><b>3 · Same 4 statements</b>+ SUS about the interactive tour</li>
-        <li><b>4 · Preference</b>+ two open questions and a profile block</li>
+        <li><b>1 · Vídeo</b>Vídeo narrado da visita da L2 (1:40), depois 4 afirmações</li>
+        <li><b>2 · Visita</b>Visita interativa: encontrar 3 tags indicadas, até 5 min</li>
+        <li><b>3 · As mesmas 4 afirmações</b>+ SUS sobre a visita interativa</li>
+        <li><b>4 · Preferência</b>+ duas perguntas abertas e um bloco de perfil</li>
       </ol>
-      <p class="lead" style="margin-top:30px">Google Forms, European Portuguese, anonymous, adults only, 12–19 November 2026 · convenience sample, minimum 20 answers · the authors did not answer.</p>
+      <p class="lead" style="margin-top:30px">Google Forms, em português europeu, anónimo, só adultos, 12–19 de novembro de 2026 · amostra de conveniência, mínimo de 20 respostas · os autores não responderam.</p>
     </div>
     <aside class="notas"><b>Rodrigo:</b> sublinhar que é emparelhado (as mesmas pessoas vêem os dois formatos) e que o vídeo vem sempre primeiro — limitação de ordem. Passar ao Ricardo. Alvo: 4:30.</aside>
   </section>
 
   <!-- ===== 3 · Ricardo · Resultados e discussão (4:30–7:30) ===== -->
 
-  <!-- 10 · RQ1 -->
-  <section class="slide" data-t="30" data-quem="Ricardo" aria-label="Results RQ1">
+  <!-- 10 · QI1 -->
+  <section class="slide" data-t="30" data-quem="Ricardo" aria-label="Resultados QI1">
     <div class="cabeca">
-      <p class="eyebrow">Results · RQ1 development</p>
-      <h2>Feasible with free tools — the limits came from the plan and the phones</h2>
+      <p class="eyebrow">Resultados · QI1 desenvolvimento</p>
+      <h2>Viável com ferramentas grátis — os limites vieram do plano e dos telemóveis</h2>
     </div>
     <div class="corpo">
       <ul class="numeros quatro">
-        <li class="cartao"><b>10–45</b><span>minutes to capture a space</span><small>authors’ estimates</small></li>
-        <li class="cartao"><b>5–30</b><span>minutes to add the tags</span><small>authors’ estimates</small></li>
-        <li class="cartao"><b class="az">0 €</b><span>free Matterport plan, PowerPoint, free Udemy course</span><small>whole workflow</small></li>
-        <li class="cartao"><b class="az">31</b><span>of 79 commits fell in the final iteration (21 in the prototype)</span><small>D4</small></li>
+        <li class="cartao"><b>10–45</b><span>minutos para captar um espaço</span><small>estimativas dos autores</small></li>
+        <li class="cartao"><b>5–30</b><span>minutos para pôr as tags</span><small>estimativas dos autores</small></li>
+        <li class="cartao"><b class="az">0 €</b><span>plano grátis do Matterport, PowerPoint, curso grátis na Udemy</span><small>todo o fluxo</small></li>
+        <li class="cartao"><b class="az">31</b><span>dos 79 commits foram na última iteração (21 no protótipo)</span><small>D4</small></li>
       </ul>
       <ul class="pontos" style="margin-top:28px">
-        <li>One active space per account → spaces spread over the authors’ accounts</li>
-        <li>No new upload to fix a missing capture point (L1) · fewer points and poorer coverage without LiDAR (L3, L4)</li>
+        <li>Um espaço ativo por conta → espaços repartidos pelas contas dos autores</li>
+        <li>Sem novo carregamento para corrigir um ponto em falta (L1) · menos pontos e pior cobertura sem LiDAR (L3, L4)</li>
       </ul>
     </div>
-    <aside class="notas"><b>Ricardo:</b> RQ1 em duas frases: é viável e é grátis, mas o plano gratuito e os telemóveis mandam no resultado. O pico de commits na última semana mostra o custo de regravar tudo depois do feedback.</aside>
+    <aside class="notas"><b>Ricardo:</b> QI1 em duas frases: é viável e é grátis, mas o plano gratuito e os telemóveis mandam no resultado. O pico de commits na última semana mostra o custo de regravar tudo depois do feedback.</aside>
   </section>
 
-  <!-- 11 · RQ2 · vídeo vs. visita interativa (Fig. 5) -->
-  <section class="slide" data-t="35" data-quem="Ricardo" aria-label="Results RQ2 video versus tour">
+  <!-- 11 · QI2 · vídeo vs. visita interativa (Fig. 5) -->
+  <section class="slide" data-t="35" data-quem="Ricardo" aria-label="Resultados QI2 vídeo e visita interativa">
     <div class="cabeca" style="margin-bottom:18px">
-      <p class="eyebrow">Results · RQ2 perception · Fig. 5</p>
-      <h2>The interactive tour was rated equal to or higher on all four statements</h2>
+      <p class="eyebrow">Resultados · QI2 perceção · Fig. 5</p>
+      <h2>A visita interativa teve avaliação igual ou superior nas quatro afirmações</h2>
     </div>
     <div class="duas larga-dir">
       <div>
         <ul class="pontos">
-          <li>N = 18 who watched the whole video (of 20 answers)</li>
-          <li>Clearest difference: <b>“it held my attention”</b> (Mdn 4 → 4.5); the 5 who changed it all rated the tour higher</li>
-          <li><b>No one preferred the video alone:</b> 10 chose the interactive tour, 10 chose both formats</li>
+          <li>N = 18 que viram o vídeo todo (de 20 respostas)</li>
+          <li>Diferença mais clara: <b>«Prendeu-me a atenção»</b> (Mdn 4 → 4,5); os 5 que mudaram deram todos mais à visita</li>
+          <li><b>Ninguém preferiu só o vídeo:</b> 10 escolheram a visita interativa, 10 os dois formatos</li>
         </ul>
-        <p class="fonte-baixo">Fewer than 20 valid paired answers → descriptive statistics only.</p>
+        <p class="fonte-baixo">Menos de 20 pares válidos → só estatística descritiva.</p>
       </div>
-      <figure><img src="Figuras/Figura5.png" alt="Ratings of the recorded walkthrough and of the interactive tour on four statements."><figcaption>Fig. 5 · Video vs. interactive tour, four statements (N = 18).</figcaption></figure>
+      <figure><img src="Figuras/Figura5.png" alt="Avaliações do vídeo da visita e da visita interativa em quatro afirmações."><figcaption>Fig. 5 · Vídeo vs. visita interativa, quatro afirmações (N = 18).</figcaption></figure>
     </div>
     <aside class="notas"><b>Ricardo:</b> ler só a diferença da atenção e a preferência. Não dizer «melhor para aprender»: medimos perceção, não aprendizagem.</aside>
   </section>
 
-  <!-- 12 · RQ2 · SUS (Fig. 6) -->
-  <section class="slide" data-t="35" data-quem="Ricardo" aria-label="Results SUS">
+  <!-- 12 · QI2 · SUS (Fig. 6) -->
+  <section class="slide" data-t="35" data-quem="Ricardo" aria-label="Resultados SUS">
     <div class="cabeca" style="margin-bottom:18px">
-      <p class="eyebrow">Results · RQ2 usability · Fig. 6</p>
-      <h2>Mean SUS score of 77.3 for the interactive tour</h2>
+      <p class="eyebrow">Resultados · QI2 usabilidade · Fig. 6</p>
+      <h2>SUS médio de 77,3 para a visita interativa</h2>
     </div>
     <div class="duas larga-dir">
       <div>
         <p class="destaque" style="display:block">
-          <span class="valor">77.3<small>SD 13.9 · median 80 · range 47.5–100 (N = 20)</small></span>
+          <span class="valor">77,3<small>DP 13,9 · mediana 80 · intervalo 47,5–100 (N = 20)</small></span>
         </p>
         <ul class="pontos" style="margin-top:24px">
-          <li><b>14 of 20</b> scores acceptable (&gt; 70), 5 marginal, 1 below 50</li>
-          <li>79.1 on a computer · 76.0 on a phone</li>
-          <li>Above the average of about 70 summarised in [19]</li>
+          <li><b>14 de 20</b> resultados aceitáveis (&gt; 70), 5 marginais, 1 abaixo de 50</li>
+          <li>79,1 no computador · 76,0 no telemóvel</li>
+          <li>Acima da média de ≈ 70 resumida em [19]</li>
         </ul>
       </div>
-      <figure><img src="Figuras/Figura6.png" alt="SUS scores of the interactive tour, one dot per respondent."><figcaption>Fig. 6 · One dot per respondent; the dashed line marks ≈ 70.</figcaption></figure>
+      <figure><img src="Figuras/Figura6.png" alt="Resultados do SUS da visita interativa, um ponto por pessoa."><figcaption>Fig. 6 · Um ponto por pessoa; a linha tracejada marca ≈ 70.</figcaption></figure>
     </div>
     <aside class="notas"><b>Ricardo:</b> 77,3 fica acima da média de ≈ 70 [19]. Dizer que a amostra é pequena e de conveniência antes que alguém pergunte.</aside>
   </section>
 
-  <!-- 13 · RQ2 · tarefa das tags e respostas abertas -->
-  <section class="slide" data-t="30" data-quem="Ricardo" aria-label="Results tag task">
+  <!-- 13 · QI2 · tarefa das tags e respostas abertas -->
+  <section class="slide" data-t="30" data-quem="Ricardo" aria-label="Resultados tarefa das tags">
     <div class="cabeca">
-      <p class="eyebrow">Results · RQ2 the task</p>
-      <h2>75% found the three named tags — navigation was the hard part</h2>
+      <p class="eyebrow">Resultados · QI2 a tarefa</p>
+      <h2>75 % encontraram as três tags — a navegação foi o mais difícil</h2>
     </div>
     <div class="corpo">
       <ul class="numeros">
-        <li class="cartao"><b>15/20</b><span>found all three tags: 7 of 8 on a computer, 8 of 12 on a phone</span><small>5 min limit</small></li>
-        <li class="cartao"><b class="az">11</b><span>needed less than 2 minutes; 8 between 2 and 5; 1 more than 5 or gave up</span><small>self-reported</small></li>
-        <li class="cartao"><b class="az">16 · 12 · 3</b><span>reached them by walking · dollhouse or floor plan · the search menu</span><small>more than one answer allowed</small></li>
+        <li class="cartao"><b>15/20</b><span>encontraram as três tags: 7 de 8 no computador, 8 de 12 no telemóvel</span><small>limite de 5 min</small></li>
+        <li class="cartao"><b class="az">11</b><span>precisaram de menos de 2 minutos; 8 entre 2 e 5; 1 mais de 5 ou desistiu</span><small>declarado pelos próprios</small></li>
+        <li class="cartao"><b class="az">16 · 12 · 3</b><span>chegaram lá a andar · pela dollhouse ou planta · pelo menu de pesquisa</span><small>mais do que uma resposta possível</small></li>
       </ul>
       <ul class="pontos" style="margin-top:26px">
-        <li>What helped to understand the home (14 answers): <b>9 the interactive tour</b>, 4 the video or its narration, 1 both</li>
-        <li>Difficulties: <b>navigation 5</b>, audio and video 3, finding tags 1, device 1 · 4 found nothing difficult</li>
-        <li>Two authors coded 22 units independently: <b>95.5% agreement, Cohen’s kappa 0.93</b></li>
+        <li>O que ajudou a perceber a casa (14 respostas): <b>9 a visita interativa</b>, 4 o vídeo ou a narração, 1 os dois</li>
+        <li>Dificuldades: <b>navegação 5</b>, áudio e vídeo 3, encontrar tags 1, dispositivo 1 · 4 não acharam nada difícil</li>
+        <li>Dois autores codificaram 22 unidades de forma independente: <b>95,5 % de concordância, kappa de Cohen 0,93</b></li>
       </ul>
     </div>
     <aside class="notas"><b>Ricardo:</b> a tarefa mostra que encontrar conteúdo dentro do espaço continua a ser o ponto fraco, sobretudo no telemóvel. Referir a codificação a dois como garantia de fiabilidade.</aside>
   </section>
 
-  <!-- 14 · RQ3 · testes -->
-  <section class="slide" data-t="25" data-quem="Ricardo" aria-label="Results RQ3 testing">
+  <!-- 14 · QI3 · testes -->
+  <section class="slide" data-t="25" data-quem="Ricardo" aria-label="Resultados QI3 testes">
     <div class="cabeca" style="margin-bottom:16px">
-      <p class="eyebrow">Results · RQ3 iteration · Table II</p>
-      <h2>11 problems in testing; the three severe ones changed every lesson</h2>
+      <p class="eyebrow">Resultados · QI3 iteração · Tabela II</p>
+      <h2>11 problemas nos testes; os três graves mudaram todas as lições</h2>
     </div>
     <div class="corpo">
     <table>
-      <thead><tr><th>Problem</th><th>Source</th><th>Severity</th><th>Design change</th></tr></thead>
+      <thead><tr><th>Problema</th><th>Origem</th><th>Gravidade</th><th>Mudança no desenho</th></tr></thead>
       <tbody>
-        <tr><td>A public space with no tags of our own; a tester found no tags</td><td>Beta, teacher</td><td class="alta">High</td><td>Each lesson captured its own space, with tags inside it</td></tr>
-        <tr><td>Only about 4–5 min of video per lesson</td><td>Beta, teacher</td><td class="alta">High</td><td>Lessons extended to ≈ 8 min of video (41 min in total)</td></tr>
-        <tr><td>No team member appears in the videos</td><td>Beta, teacher</td><td class="alta">High</td><td>Narration re-recorded with the webcam on, same corner</td></tr>
-        <tr><td>Walkthrough almost without narration · link could look mandatory</td><td>Alpha</td><td>Low</td><td>Explanation moved into the tags; labelled “3D tour (optional)”</td></tr>
+        <tr><td>Espaço público sem tags nossas; um testador não encontrou tags</td><td>Beta, professora</td><td class="alta">Alta</td><td>Cada lição captou o seu espaço, com tags lá dentro</td></tr>
+        <tr><td>Só ≈ 4–5 min de vídeo por lição</td><td>Beta, professora</td><td class="alta">Alta</td><td>Lições alargadas para ≈ 8 min de vídeo (41 min no total)</td></tr>
+        <tr><td>Nenhum elemento do grupo aparece nos vídeos</td><td>Beta, professora</td><td class="alta">Alta</td><td>Narração regravada com a câmara ligada, sempre no mesmo canto</td></tr>
+        <tr><td>Vídeo da visita quase sem narração · o link podia parecer obrigatório</td><td>Alfa</td><td>Baixa</td><td>A explicação passou para as tags; link «Visita 3D (opcional)»</td></tr>
       </tbody>
     </table>
-    <p class="fonte-baixo">12 coded units: audio and video 8, assessment 2, finding tags 1, other 1 · 9 problems solved in every lesson they affected, 2 in part (L5 kept the Discover space; L4 and L5 have no captions).</p>
+    <p class="fonte-baixo">12 unidades codificadas: áudio e vídeo 8, avaliação 2, encontrar tags 1, outro 1 · 9 problemas resolvidos em todas as lições afetadas, 2 em parte (a L5 manteve o espaço do Discover; a L4 e a L5 não têm legendas).</p>
     </div>
     <aside class="notas"><b>Ricardo:</b> mostrar que o teste mudou o desenho, não só corrigiu detalhes: três problemas graves tocaram as cinco lições na última semana. Depois, uma frase de discussão: os dois formatos são complementares. Passar ao Evandro. Alvo: 7:30.</aside>
   </section>
 
   <!-- 15 · Discussão (ainda do Ricardo: «Resultados e discussão», P2_Plano.md §9) -->
-  <section class="slide" data-t="25" data-quem="Ricardo" aria-label="Discussion">
+  <section class="slide" data-t="25" data-quem="Ricardo" aria-label="Discussão">
     <div class="cabeca">
-      <p class="eyebrow">Discussion</p>
-      <h2>The two formats complement each other</h2>
+      <p class="eyebrow">Discussão</p>
+      <h2>Os dois formatos completam-se</h2>
     </div>
     <div class="corpo">
       <ul class="pontos">
-        <li>Our 77.3 is consistent with the usability reported for Matterport in nursing education [15] and higher than the 72.1 / 68.1 of a smartphone museum tour [17] — different settings prevent a direct comparison</li>
-        <li>The walkthrough <b>guides</b> without navigation effort; the interactive tour adds <b>control</b> at the cost of that effort. Half the respondents chose both</li>
-        <li>Plan capture points at doorways and check every route <b>before</b> committing the upload — the free plan allows no correction</li>
-        <li>More spatial presence can also <b>compete</b> with learning for cognitive resources [12]</li>
+        <li>O nosso 77,3 está em linha com a usabilidade relatada para o Matterport no ensino de enfermagem [15] e acima dos 72,1 / 68,1 de uma visita a um museu no telemóvel [17] — os contextos são diferentes e não se comparam diretamente</li>
+        <li>O vídeo da visita <b>guia</b> sem esforço de navegação; a visita interativa dá <b>controlo</b> à custa desse esforço. Metade das pessoas escolheu os dois</li>
+        <li>Planear os pontos de captura junto às portas e verificar todos os percursos <b>antes</b> de carregar — o plano grátis não deixa corrigir</li>
+        <li>Mais presença espacial também pode <b>competir</b> com a aprendizagem pelos recursos cognitivos [12]</li>
       </ul>
     </div>
     <aside class="notas"><b>Ricardo:</b> quatro ideias, uma frase cada. A última é a honesta: perceção positiva não é prova de aprendizagem. Passar ao Evandro. Alvo: 7:30.</aside>
@@ -469,56 +471,56 @@ td.num { font-variant-numeric: tabular-nums; }
   <!-- ===== 4 · Evandro · Conclusão e trabalho futuro (7:30–9:00) ===== -->
 
   <!-- 16 · Conclusão -->
-  <section class="slide" data-t="35" data-quem="Evandro" aria-label="Conclusion">
+  <section class="slide" data-t="35" data-quem="Evandro" aria-label="Conclusão">
     <div class="cabeca">
-      <p class="eyebrow">Conclusion</p>
-      <h2>Students can bring their own 3D spaces into a closed platform</h2>
+      <p class="eyebrow">Conclusão</p>
+      <h2>Os estudantes conseguem levar os seus espaços 3D para uma plataforma fechada</h2>
     </div>
     <div class="corpo">
       <ul class="pontos">
-        <li>A <b>feasible workflow with free tools</b>: a recorded walkthrough inside each lesson video and an optional link to the interactive tour, with no quiz depending on the link</li>
-        <li><b>SUS 77.3</b> · <b>75%</b> found the three named tags · <b>nobody</b> preferred the video alone</li>
-        <li>Testing led to design changes in <b>every lesson</b>: own spaces with tags inside, ≈ 8 min of video, narration re-recorded with the webcam on</li>
-        <li>The main constraints came from the <b>plan and the devices</b>, not from the technology itself</li>
+        <li>Um <b>fluxo viável com ferramentas grátis</b>: o vídeo da visita dentro de cada aula e um link opcional para a visita interativa, sem nenhum quiz a depender do link</li>
+        <li><b>SUS 77,3</b> · <b>75 %</b> encontraram as três tags · <b>ninguém</b> preferiu só o vídeo</li>
+        <li>Os testes mudaram o desenho de <b>todas as lições</b>: espaços próprios com tags lá dentro, ≈ 8 min de vídeo, narração regravada com a câmara ligada</li>
+        <li>As principais restrições vieram do <b>plano e dos dispositivos</b>, não da tecnologia em si</li>
       </ul>
     </div>
-    <aside class="notas"><b>Evandro:</b> é o resumo do artigo em quatro frases. Dizer os três números de cor (77,3 · 75% · ninguém preferiu só o vídeo).</aside>
+    <aside class="notas"><b>Evandro:</b> é o resumo do artigo em quatro frases. Dizer os três números de cor (77,3 · 75 % · ninguém preferiu só o vídeo).</aside>
   </section>
 
   <!-- 17 · Limitações -->
-  <section class="slide" data-t="25" data-quem="Evandro" aria-label="Limitations">
+  <section class="slide" data-t="25" data-quem="Evandro" aria-label="Limitações">
     <div class="cabeca">
-      <p class="eyebrow">Limitations</p>
-      <h2>What this study does not show</h2>
+      <p class="eyebrow">Limitações</p>
+      <h2>O que este estudo não mostra</h2>
     </div>
     <div class="corpo">
       <ul class="pontos">
-        <li>Small convenience sample (N = 20), <b>few caregivers</b>; no person with dementia took part</li>
-        <li>Only the space of L1 and L2 was evaluated — L5, the public space, was not</li>
-        <li>Everyone saw the <b>video first</b>: the order may have shaped the ratings</li>
-        <li>Capture and tagging times are the authors’ estimates</li>
-        <li>We measured <b>perception, not learning</b></li>
+        <li>Amostra pequena e de conveniência (N = 20), <b>com poucos cuidadores</b>; nenhuma pessoa com demência participou</li>
+        <li>Só se avaliou o espaço da L1 e da L2 — o da L5, o espaço público, não</li>
+        <li>Todos viram o <b>vídeo primeiro</b>: a ordem pode ter influenciado as avaliações</li>
+        <li>Os tempos de captura e de tags são estimativas dos autores</li>
+        <li>Medimos a <b>perceção, não a aprendizagem</b></li>
       </ul>
     </div>
     <aside class="notas"><b>Evandro:</b> dizer as limitações de frente — é o que distingue um estudo exploratório honesto. Não pedir desculpa por elas.</aside>
   </section>
 
   <!-- 18 · Trabalho futuro -->
-  <section class="slide" data-t="30" data-quem="Evandro" aria-label="Future work">
+  <section class="slide" data-t="30" data-quem="Evandro" aria-label="Trabalho futuro">
     <div class="cabeca">
-      <p class="eyebrow">Future work</p>
-      <h2>Five next steps</h2>
+      <p class="eyebrow">Trabalho futuro</p>
+      <h2>Cinco próximos passos</h2>
     </div>
     <div class="corpo">
       <ul class="numeros">
-        <li class="cartao"><b class="az">1</b><span><b>Quizzes inside the tour</b>, at the tags: the question in the place the learner has just seen</span></li>
-        <li class="cartao"><b class="az">2</b><span>Repeat it with <b>real informal caregivers</b>, the intended audience</span></li>
-        <li class="cartao"><b class="az">3</b><span>A platform <b>with iframes</b>: embed the tour and compare it with the walkthrough</span></li>
+        <li class="cartao"><b class="az">1</b><span><b>Quizzes dentro da visita</b>, nas tags: a pergunta no sítio que a pessoa acabou de ver</span></li>
+        <li class="cartao"><b class="az">2</b><span>Repetir o estudo com <b>cuidadores informais reais</b>, o público do curso</span></li>
+        <li class="cartao"><b class="az">3</b><span>Uma plataforma <b>com iframes</b>: incorporar a visita e compará-la com o vídeo</span></li>
       </ul>
       <ul class="numeros" style="margin-top:22px">
-        <li class="cartao"><b class="az">4</b><span>A <b>mobile-first</b> version: 12 of 20 respondents used a phone</span></li>
-        <li class="cartao"><b class="az">5</b><span><b>Captions in all lessons</b> and captures with more points or LiDAR devices</span></li>
-        <li class="cartao" style="border-style:dashed;justify-content:center"><span class="nota">Paper, figures and tables: see the delivered .zip · <b>Group 1</b></span></li>
+        <li class="cartao"><b class="az">4</b><span>Uma versão <b>pensada para o telemóvel</b>: 12 das 20 pessoas usaram o telemóvel</span></li>
+        <li class="cartao"><b class="az">5</b><span><b>Legendas em todas as lições</b> e capturas com mais pontos ou com LiDAR</span></li>
+        <li class="cartao" style="border-style:dashed;justify-content:center"><span class="nota">Artigo, figuras e tabelas: no .zip entregue · <b>Grupo 1</b></span></li>
       </ul>
     </div>
     <aside class="notas"><b>Evandro:</b> os números 1 e 3 são os mais fortes para perguntas do júri. Passar ao Bruno. Alvo: 9:00.</aside>
@@ -527,49 +529,49 @@ td.num { font-variant-numeric: tabular-nums; }
   <!-- ===== 5 · Bruno · Divisão do grupo (9:00–10:00) ===== -->
 
   <!-- 19 · Quem fez o quê -->
-  <section class="slide" data-t="35" data-quem="Bruno" aria-label="Team contributions">
+  <section class="slide" data-t="35" data-quem="Bruno" aria-label="Divisão do grupo">
     <div class="cabeca" style="margin-bottom:16px">
-      <p class="eyebrow">Team · Group 1</p>
-      <h2>Who did what</h2>
+      <p class="eyebrow">Equipa · Grupo 1</p>
+      <h2>Quem fez o quê</h2>
     </div>
     <div class="corpo">
     <table class="equipa-tab">
-      <thead><tr><th>Member</th><th>Paper</th><th>Project and data</th></tr></thead>
+      <thead><tr><th>Elemento</th><th>Artigo</th><th>Projeto e dados</th></tr></thead>
       <tbody>
-        <tr><td>Bruno Lopes</td><td>Section 3 Results · IEEE formatting</td><td>Lesson L1 · figures and tables · Udemy analytics · coder 1 · coordination</td></tr>
-        <tr><td>Tiago Teixeira</td><td>Sections 1.1 and 1.2 review · this presentation</td><td>Lesson L2 · Google Forms questionnaire · coder 2 · capture form L2</td></tr>
-        <tr><td>Rodrigo Silva</td><td>Section 6 Future Work · Section 2 review</td><td>Lesson L3 · capture form L3 · references</td></tr>
-        <tr><td>Ricardo Ferreira</td><td>Section 4 Discussion · Section 3 review</td><td>Lesson L4 · capture form L4 · references</td></tr>
-        <tr><td>Evandro Carvalho</td><td>Section 5 Conclusion · Sections 4–6 review</td><td>Lesson L5 · capture form L5 · references</td></tr>
+        <tr><td>Bruno Lopes</td><td>Secção 3 Resultados · formatação IEEE</td><td>Lição L1 · figuras e tabelas · analytics da Udemy · codificador 1 · coordenação</td></tr>
+        <tr><td>Tiago Teixeira</td><td>Revisão das secções 1.1 e 1.2 · esta apresentação</td><td>Lição L2 · questionário no Google Forms · codificador 2 · ficha de captura da L2</td></tr>
+        <tr><td>Rodrigo Silva</td><td>Secção 6 Trabalho futuro · revisão da secção 2</td><td>Lição L3 · ficha de captura da L3 · referências</td></tr>
+        <tr><td>Ricardo Ferreira</td><td>Secção 4 Discussão · revisão da secção 3</td><td>Lição L4 · ficha de captura da L4 · referências</td></tr>
+        <tr><td>Evandro Carvalho</td><td>Secção 5 Conclusão · revisão das secções 4–6</td><td>Lição L5 · ficha de captura da L5 · referências</td></tr>
       </tbody>
     </table>
-    <p class="fonte-baixo">Sections 1 and 2 and the abstract were written jointly and reviewed by every author · each member also gathered questionnaire answers and confirmed the DOI of their references.</p>
+    <p class="fonte-baixo">As secções 1 e 2 e o resumo foram escritos em conjunto e revistos por todos · cada um também recolheu respostas ao questionário e confirmou o DOI das suas referências.</p>
     </div>
     <aside class="notas"><b>Bruno:</b> a professora pediu que a divisão ficasse no fim. Ler a coluna do artigo de cada um, sem repetir o projeto do P1.</aside>
   </section>
 
   <!-- 20 · Fecho (fica no ecrã durante as perguntas) -->
-  <section class="slide fecho" data-t="25" data-quem="Bruno" aria-label="Thank you">
-    <p class="eyebrow">Thank you</p>
-    <h2>Questions?</h2>
+  <section class="slide fecho" data-t="25" data-quem="Bruno" aria-label="Obrigado">
+    <p class="eyebrow">Obrigado</p>
+    <h2>Perguntas?</h2>
     <ul class="tres">
-      <li><b>RQ1</b> · A free workflow works; the plan and the phones set the limits</li>
-      <li><b>RQ2</b> · SUS 77.3 · 75% found the three tags · nobody preferred the video alone</li>
-      <li><b>RQ3</b> · Testing changed every lesson: own spaces, more video, webcam on</li>
+      <li><b>QI1</b> · Um fluxo grátis funciona; o plano e os telemóveis definem os limites</li>
+      <li><b>QI2</b> · SUS 77,3 · 75 % encontraram as três tags · ninguém preferiu só o vídeo</li>
+      <li><b>QI3</b> · Os testes mudaram todas as lições: espaços próprios, mais vídeo, câmara ligada</li>
     </ul>
-    <p class="lead">Student-Captured Matterport Tours in a MOOC for Dementia Caregivers Facing Crises</p>
-    <p class="contactos">Group 1 · Bruno Lopes · Tiago Teixeira · Rodrigo Silva · Ricardo Ferreira · Evandro Carvalho<br>
-      Instituto Superior de Engenharia do Porto (ISEP) · CAMUL 2026/2027 · <a href="https://www.udemy.com/course/socorros-psicologicos-cuidador-de-demencia-em-crise/" target="_blank" rel="noopener">the course on Udemy ↗</a></p>
+    <p class="lead">Visitas Matterport captadas por estudantes num MOOC para cuidadores de pessoas com demência em crise</p>
+    <p class="contactos">Grupo 1 · Bruno Lopes · Tiago Teixeira · Rodrigo Silva · Ricardo Ferreira · Evandro Carvalho<br>
+      Instituto Superior de Engenharia do Porto (ISEP) · CAMUL 2026/2027 · <a href="https://www.udemy.com/course/socorros-psicologicos-cuidador-de-demencia-em-crise/" target="_blank" rel="noopener">o curso na Udemy ↗</a></p>
     <aside class="notas"><b>Bruno:</b> deixar este diapositivo no ecrã durante as perguntas. Se perguntarem pela divisão do grupo, voltar atrás (←). Alvo: 10:00.</aside>
   </section>
 
   <footer class="rodape">
-    <p class="marca">Group 1 · ISEP · Student-captured Matterport tours in a MOOC</p>
+    <p class="marca">Grupo 1 · ISEP · Visitas Matterport captadas por estudantes num MOOC</p>
     <span class="ensaio" id="ensaio" aria-live="off"></span>
-    <button class="seta" id="anterior" type="button" aria-label="Previous (left arrow)">←</button>
+    <button class="seta" id="anterior" type="button" aria-label="Anterior (seta para a esquerda)">←</button>
     <p class="numero" id="numero" aria-live="polite"></p>
-    <button class="seta" id="seguinte" type="button" aria-label="Next (right arrow)">→</button>
-    <button class="seta ecra" id="ecra" type="button" aria-label="Full screen (F)">⛶ F</button>
+    <button class="seta" id="seguinte" type="button" aria-label="Seguinte (seta para a direita)">→</button>
+    <button class="seta ecra" id="ecra" type="button" aria-label="Ecrã inteiro (F)">⛶ F</button>
     <span class="progresso" aria-hidden="true"></span>
   </footer>
 </div>
