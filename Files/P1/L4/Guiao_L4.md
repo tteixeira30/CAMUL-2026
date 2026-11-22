@@ -107,17 +107,18 @@ Ana. Não é preciso fingir que é a casa original nem um centro de emergência.
 
 ### Tags dentro do espaço
 
-A visita final tem **8 tags** (confirmado a 22/11, como na ficha Matterport do P2). A tabela só tem 7: falta a 8.ª (o Ricardo acrescenta-a).
+A visita final tem **8 tags** (confirmado a 22/11, como na ficha Matterport do P2; a 8.ª, «Mais uns snacks», acrescentada a 22/11):
 
 | # | Local | Texto | Cor |
 |---:|---|---|---|
 | 1 | Sala | Lugar de referência para a D. Rosa. | verde escuro |
 | 2 | Cozinha | Água para a D. Rosa. | Laranja |
-| 3 | Cozinha | Objeto perigoso. Pode tropeçar. | Vermelho |
-| 4 | Entrada | Objeto perigoso. Pode tropeçar. | Vermelho |
-| 5 | Entrada | Saída. | Verde |
-| 6 | Casa de Banho | A casa de banho. | Azul claro |
-| 7 | Porta no Corredor | Quarto da Ana. | Rosa |
+| 3 | Cozinha | Mais uns snacks. | Laranja |
+| 4 | Cozinha | Objeto perigoso. Pode tropeçar. | Vermelho |
+| 5 | Entrada | Objeto perigoso. Pode tropeçar. | Vermelho |
+| 6 | Entrada | Saída. | Verde |
+| 7 | Casa de Banho | A casa de banho. | Azul claro |
+| 8 | Porta no Corredor | Quarto da Ana. | Rosa |
 
 ## 5. Teste 4 · Quiz
 
