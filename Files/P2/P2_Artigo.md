@@ -110,7 +110,7 @@ Capturing a space took between about 10 and 45 minutes and adding the tags betwe
 
 ## Perception (RQ2)
 
-Twenty people answered the questionnaire, 12 on a phone and 8 on a computer; 12 were 25 to 34 years old, 5 had been caregivers and 9 had never used a 3D tour. The 18 of them who watched the whole video rated the interactive tour equal to or higher than the walkthrough on all four statements (Fig. 5). Only “it held my attention” differed significantly (median 4 vs. 4.5; p = .048, r = .89), and only 5 respondents changed that rating; for the other statements, p ≥ .30. No respondent preferred the video alone: 10 chose the interactive tour and 10 both formats.
+Twenty people answered the questionnaire, 12 on a phone and 8 on a computer; 12 were 25 to 34 years old, 5 had been caregivers and 9 had never used a 3D tour. The 18 of them who watched the whole video rated the interactive tour equal to or higher than the walkthrough on all four statements (Fig. 5). The clearest difference was in “it held my attention” (median 4 vs. 4.5): the 5 respondents who changed that rating all rated the tour higher; on the other statements, 6 to 8 changed their rating, in both directions. No respondent preferred the video alone: 10 chose the interactive tour and 10 both formats.
 
 ![Ratings of the recorded walkthrough (Video) and of the interactive tour of the same space on four statements (N = 18 who watched the whole video; share of respondents, centred on the neutral answer; Mdn = median).](Figuras/Figura5.png)
 

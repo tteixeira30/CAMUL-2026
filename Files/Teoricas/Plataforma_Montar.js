@@ -156,7 +156,7 @@ const LICOES = [
     ["Síntese e ponte", "1:05", "P1/L4/Videos/L4_Aula18_Sintese.mp4", "", // sem legendas (decisão do grupo, 19/11); transcrição = texto do guião
       "Nesta lição, treinou cinco prioridades. Escolher uma referência e manter o caminho seguro. Responder à água, à alimentação, à casa de banho, à medicação e ao descanso. Comunicar à família anfitriã como ajudar. Reconhecer confusão súbita, queda e recusa persistente como sinais para pedir orientação. E lembrar-se de que o cuidador também precisa de água, descanso e substituição.\n\nNum incêndio, numa cheia, numa tempestade ou numa deslocação, a nova casa pode tornar-se uma referência temporária. É possível observar, adaptar e encaminhar. Use o cartão de bolso e pergunte à família anfitriã: qual é o lugar mais calmo? Qual é o caminho seguro? Quem deve ser contactado? Na próxima lição, vamos olhar para o depois da crise: retomar a rotina, vigiar mudanças e cuidar de ambos."],
   ],
-  visita: { m: "", titulo: "Nova localização: a casa que as acolhe", aula: 2,
+  visita: { m: "fAC4YSk7fwF", titulo: "Nova localização: a casa que as acolhe", aula: 2,
     tarefa: "A casa da D. Rosa ficou sem condições e as duas foram acolhidas por familiares. Percorra a casa como se tivessem acabado de chegar: encontre o lugar de referência, a água, a casa de banho, os 2 objetos perigosos, a saída e o quarto da Ana.",
     cores: [["verde-escuro", "lugar de referência"], ["laranja", "água"], ["vermelho", "perigo"], ["verde", "saída"], ["azul-claro", "casa de banho"], ["rosa", "quarto da Ana"]] },
   atividade: `<h2>Atividade · Antes de avançar, verifique</h2>
@@ -586,7 +586,7 @@ for (const l of LICOES) {
     ? `<div class="visita3d"><p style="font-size:20px;font-weight:700">${v.titulo}</p><p>A visita só carrega quando entrar (poupa dados móveis).</p><p><button type="button" class="cta" data-m="${v.m}" data-titulo="Visita 3D: ${v.titulo}">Entrar na visita 3D</button></p></div>
 <p class="nota" style="margin-top:8px"><a href="https://my.matterport.com/show/?m=${v.m}" target="_blank" rel="noopener">Abrir a visita noutro separador ↗</a> · Sem rede ou telemóvel antigo? <a href="#videos" data-ir-aula="${v.aula - 1}">Veja a visita no vídeo ${v.aula}</a>.${v.discover ? " Espaço público do Matterport Discover («La Tarasca», IInmobarrios): as etiquetas da lição estão no vídeo." : ""}</p>`
     : `<div class="visita3d" style="aspect-ratio:auto;min-height:240px"><p style="font-size:20px;font-weight:700">${v.titulo}</p><p>Nesta lição, a visita à casa que as acolhe está no vídeo ${v.aula}: não há visita interativa.</p><p><a class="btn2" href="#videos" data-ir-aula="${v.aula - 1}">Ver no vídeo ${v.aula}</a></p></div>`;
-  // sem link: a visita está no vídeo (L4, decisão do grupo, 19/11)
+  // sem link: a visita está só no vídeo (nenhuma lição desde 22/11, quando a L4 ganhou visita interativa)
   pagina(`licao-${l.n}.html`, `L${l.n} · ${l.titulo} · Cuidar em Crise`, `Lição ${l.n} do curso Cuidar em Crise: ${l.resumo}.`, "licao" + l.n, `
 <div class="licao-topo">
 <section id="videos" aria-labelledby="t-licao">
