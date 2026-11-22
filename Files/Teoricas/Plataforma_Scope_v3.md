@@ -214,6 +214,6 @@ Valor medido e nível de cada critério (como foi medido: coluna M da folha «QE
 - Títulos H3 do mesmo tamanho do texto e «Nesta lição» a 20 px (EC2).
 - Número da lição em âmbar sobre a areia, 4,28:1 (EL1, UA5).
 - Linhas de texto com mais de 75 caracteres (EU3) e 20 cores fora da paleta (EU2).
-- HTTPS (FR3), desempenho no site real (UR2) e Chrome, Firefox e telemóvel (UR4): medidos no site publicado a 19/11: HTTPS em todas as páginas (FR3 100); no telemóvel, a lição aparece ≈ 1 s depois de carregar na ligação (UR2 100; o Lighthouse em modo telemóvel, que simula uma rede e um processador mais lentos, dá 2,97 s); Chrome, Edge, Firefox e telemóvel sem erros (UR4 100). QEF atual: q = 0,89.
+- HTTPS (FR3), desempenho no site real (UR2) e Chrome, Firefox e telemóvel (UR4): medidos no site publicado a 19/11: HTTPS em todas as páginas (FR3 100); no telemóvel, a lição aparece ≈ 1 s depois de carregar na ligação (UR2 100; o Lighthouse em modo telemóvel, que simula uma rede e um processador mais lentos, dá 2,97 s); Chrome, Edge, Firefox e telemóvel sem erros (UR4 100). QEF atual: q = 0,89. Com a visita da L4 no site (22/11): q = 0,91 (FL1, FM1 e FM2 sobem).
 
 **Limitações:** os testadores são os 5 elementos do grupo, que conhecem o site e o curso (daí os tempos de 2 a 6 s); o site foi medido num servidor local, antes de ser publicado. O teste Beta, com o Grupo 2, mede a plataforma com pessoas que nunca a viram.
