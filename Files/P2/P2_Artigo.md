@@ -4,7 +4,7 @@ Formato: um parágrafo por linha · «%» título · «@» autor (4 linhas separ
 «###» Heading 3 · «![legenda](ficheiro)» figura (a numeração «Fig. n.» é automática) · «[TABLE: título | texto]» tabela por fazer ·
 «# References» e depois uma referência por linha (a numeração [n] é automática: a ordem tem de ser a da 1.ª citação no texto).
 
-Estado (22/11): secções 1 e 2 entregues a 18/11; secção 3 (Results) escrita com as 20 respostas (`Dados/Resultados.md`) e a concordância dos dois codificadores; secção 4 (Discussion) escrita pelo Ricardo; secção 5 (Conclusion) pelo Evandro; secção 6 (Future Work) pelo Rodrigo. Todas as secções escritas; artigo regenerado a 22/11. A Tabela III saiu (os valores estão no texto e na Fig. 5), para caber em 6 páginas.
+Estado (24/11): FECHADO — entregue no Moodle e apresentado a 24/11, depois de uma revisão de coerência no mesmo dia. Antes (22/11): secções 1 e 2 entregues a 18/11; secção 3 (Results) escrita com as 20 respostas (`Dados/Resultados.md`) e a concordância dos dois codificadores; secção 4 (Discussion) escrita pelo Ricardo; secção 5 (Conclusion) pelo Evandro; secção 6 (Future Work) pelo Rodrigo. Todas as secções escritas; artigo regenerado a 22/11. A Tabela III saiu (os valores estão no texto e na Fig. 5), para caber em 6 páginas.
 «![TABLE](ficheiro)» insere a tabela já exportada (a imagem traz o «TABLE n»), sem legenda «Fig.» · «{wide}» no fim de uma figura ou tabela → ocupa as duas colunas (quebras de secção contínuas).
 
 A rever antes da versão final:
